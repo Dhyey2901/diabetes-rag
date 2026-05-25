@@ -9,6 +9,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional, Tuple
 
 from flask import Flask, render_template_string, request, session, redirect, url_for, jsonify, Response
+from markupsafe import escape
 from src.qa import answer as qa_answer
 
 
@@ -300,7 +301,7 @@ BASE_TEMPLATE = """<!DOCTYPE html>
 # =========================
 def create_app():
     app = Flask(__name__)
-    app.secret_key = "supersecretkey"  # sessions
+    app.secret_key = os.environ.get("FLASK_SECRET_KEY") or os.urandom(24)
 
     # ------------------------
     # Chat route
@@ -362,14 +363,13 @@ def create_app():
                 }
                 metrics_store.add(rec)
 
-        # 🔹 rebuild full chat history for display
         content = ""
         for item in session.get("history", []):
-            content += f'<div class="chat-bubble user-msg">{item["q"]}</div>'
-            content += f'<div class="chat-bubble assistant-msg">{item["a"]}</div>'
+            content += f'<div class="chat-bubble user-msg">{escape(item["q"])}</div>'
+            content += f'<div class="chat-bubble assistant-msg">{escape(item["a"])}</div>'
             if item.get("sources"):
                 sources_html = "<ul>" + "".join(
-                    f"<li>{s.get('section','')} ({s.get('source_id','')}, chunk {s.get('chunk_idx','')})</li>"
+                    f"<li>{escape(s.get('section',''))} ({escape(s.get('source_id',''))}, chunk {escape(str(s.get('chunk_idx','')))})</li>"
                     for s in item["sources"]
                 ) + "</ul>"
                 content += f'<div class="chat-bubble assistant-msg"><b>📚 Sources:</b> {sources_html}</div>'
@@ -384,11 +384,11 @@ def create_app():
     def history():
         content = "<h4>🕒 Chat History</h4><div class='chat-container'>"
         for item in session.get("history", []):
-            content += f'<div class="chat-bubble user-msg">{item["q"]}</div>'
-            content += f'<div class="chat-bubble assistant-msg">{item["a"]}</div>'
+            content += f'<div class="chat-bubble user-msg">{escape(item["q"])}</div>'
+            content += f'<div class="chat-bubble assistant-msg">{escape(item["a"])}</div>'
             if item.get("sources"):
                 sources_html = "<ul>" + "".join(
-                    f"<li>{s.get('section','')} ({s.get('source_id','')}, chunk {s.get('chunk_idx','')})</li>"
+                    f"<li>{escape(s.get('section',''))} ({escape(s.get('source_id',''))}, chunk {escape(str(s.get('chunk_idx','')))})</li>"
                     for s in item["sources"]
                 ) + "</ul>"
                 content += f'<div class="chat-bubble assistant-msg"><b>📚 Sources:</b> {sources_html}</div>'

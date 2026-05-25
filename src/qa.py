@@ -150,7 +150,8 @@ class QAResult:
 
 def answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> QAResult:
     retriever = HybridRetriever(use_reranker=False)
-    passages_all, conf = retriever.search(query, k=max(10, top_k*2)), 0.8
+    passages_all = retriever.search(query, k=max(10, top_k*2))
+    conf = passages_all.confidence
 
     passages = [{
         "text": p.text, "source_id": p.source_id, "section": p.section, "chunk_idx": p.chunk_idx

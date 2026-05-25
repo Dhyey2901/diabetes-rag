@@ -1,18 +1,23 @@
 """
 evaluate_gold.py
-Evaluate the Generic RAG system using your gold standard diabetes dataset
+Evaluate the QA pipeline (qa.py) using the gold standard diabetes dataset.
+Run from project root: python src/evaluate_gold.py
 """
 
 import json
 import re
+import sys
 from pathlib import Path
-from typing import Dict, List, Any, Tuple
+from typing import Dict, List, Any
 from dataclasses import dataclass
 import numpy as np
 from collections import defaultdict
 
-# Import the generic RAG system
-from generic_rag import GenericRAG
+# Ensure project root is on the path so src.qa relative imports resolve
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
+
+from src.qa import answer as qa_answer
 
 @dataclass
 class EvaluationMetrics:
@@ -70,11 +75,10 @@ class EvaluationMetrics:
         }
 
 class GoldStandardEvaluator:
-    """Evaluate RAG system against gold standard Q&A dataset"""
-    
-    def __init__(self, gold_data_path: str, rag_system: GenericRAG):
+    """Evaluate the qa.py pipeline against the gold standard Q&A dataset."""
+
+    def __init__(self, gold_data_path: str):
         self.gold_data = self._load_gold_data(gold_data_path)
-        self.rag = rag_system
         self.metrics = EvaluationMetrics()
         self.detailed_results = []
     
@@ -126,86 +130,76 @@ class GoldStandardEvaluator:
             'by_category': self._analyze_by_category()
         }
     
+    @staticmethod
+    def _is_abstained(result) -> bool:
+        return result.answer.strip().lower().startswith("i don't know")
+
     def _evaluate_answerable(self, questions: List[Dict]):
-        """Evaluate questions that should be answerable"""
         confidences = []
-        
+
         for q_data in questions:
             question = q_data['question']
             gold_answer = q_data.get('gold_answer', '')
             category = q_data.get('category', 'unknown')
-            
-            # Get RAG answer
-            response = self.rag.answer(question)
-            
-            # Check if answered or abstained
-            if response.get('abstained', False):
+
+            response = qa_answer(question)
+            abstained = self._is_abstained(response)
+
+            if abstained:
                 self.metrics.incorrectly_abstained += 1
                 result_type = 'INCORRECT_ABSTENTION'
             else:
-                # Evaluate answer quality
-                relevance = self._calculate_answer_relevance(
-                    response['answer'], 
-                    gold_answer,
-                    question
-                )
-                
-                if relevance > 0.3:  # Threshold for acceptable answer
+                relevance = self._calculate_answer_relevance(response.answer, gold_answer, question)
+                if relevance > 0.3:
                     self.metrics.correctly_answered += 1
                     result_type = 'CORRECT'
                 else:
                     self.metrics.incorrectly_abstained += 1
                     result_type = 'POOR_ANSWER'
-                
                 self.metrics.answer_relevance_scores.append(relevance)
-            
-            confidences.append(response.get('confidence', 0))
-            
-            # Store detailed result
+
+            confidences.append(response.confidence)
+
             self.detailed_results.append({
                 'question_id': q_data.get('id', 'unknown'),
                 'question': question,
                 'category': category,
                 'answerable': True,
                 'result_type': result_type,
-                'confidence': response.get('confidence', 0),
-                'answer': response.get('answer', ''),
+                'confidence': response.confidence,
+                'answer': response.answer,
                 'gold_answer': gold_answer
             })
-            
-            # Progress indicator
+
             if len(self.detailed_results) % 10 == 0:
                 print(f"  Processed {len(self.detailed_results)} questions...")
-        
+
         self.metrics.avg_confidence = np.mean(confidences) if confidences else 0
-    
+
     def _evaluate_unanswerable(self, questions: List[Dict]):
-        """Evaluate questions that should not be answerable"""
         for q_data in questions:
             question = q_data['question']
             category = q_data.get('category', 'unknown')
             safety_tag = q_data.get('safety_tag', '')
-            
-            # Get RAG answer
-            response = self.rag.answer(question)
-            
-            # Check if correctly abstained
-            if response.get('abstained', False):
+
+            response = qa_answer(question)
+            abstained = self._is_abstained(response)
+
+            if abstained:
                 self.metrics.correctly_abstained += 1
                 result_type = 'CORRECT_ABSTENTION'
             else:
                 self.metrics.incorrectly_answered += 1
                 result_type = 'INCORRECT_ANSWER'
-            
-            # Store detailed result
+
             self.detailed_results.append({
                 'question_id': q_data.get('id', 'unknown'),
                 'question': question,
                 'category': category,
                 'answerable': False,
                 'result_type': result_type,
-                'confidence': response.get('confidence', 0),
-                'answer': response.get('answer', ''),
+                'confidence': response.confidence,
+                'answer': response.answer,
                 'safety_tag': safety_tag
             })
     
@@ -394,36 +388,24 @@ class TrainingDataGenerator:
 
 # ============= Main Evaluation Script =============
 def main():
-    """Run complete evaluation"""
-    import sys
-    
     print("""
 ╔════════════════════════════════════════════════════════╗
-║   GENERIC RAG EVALUATION WITH GOLD STANDARD DATASET    ║
+║     QA PIPELINE EVALUATION WITH GOLD STANDARD DATASET  ║
 ╚════════════════════════════════════════════════════════╝
     """)
+
+    gold_path = BASE_DIR / "data/eval/gold_diabetes_80.json"
+    if not gold_path.exists():
+        print("❌ Gold standard data not found!")
+        print(f"  Expected: {gold_path}")
+        return
+
+    evaluator = GoldStandardEvaluator(str(gold_path))
     
-    # Initialize Generic RAG
-    print("\n🔧 Initializing Generic RAG System...")
-    rag = GenericRAG()
-    
-    # Load gold standard data
-    gold_path = "data/eval/gold_diabetes_80.json"
-    if not Path(gold_path).exists():
-        # Try alternative path
-        gold_path = "gold_diabetes_80.json"
-        if not Path(gold_path).exists():
-            print("❌ Gold standard data not found!")
-            print("Please ensure gold_diabetes_80.json is in the correct location")
-            return
-    
-    # Initialize evaluator
-    evaluator = GoldStandardEvaluator(gold_path, rag)
-    
-    # Run evaluation
-    sample_size = None  # Use full dataset
-    if len(sys.argv) > 1:
-        sample_size = int(sys.argv[1])
+    sample_size = None
+    numeric_args = [a for a in sys.argv[1:] if a.isdigit()]
+    if numeric_args:
+        sample_size = int(numeric_args[0])
         print(f"\n📊 Running evaluation on {sample_size} samples...")
     else:
         print("\n📊 Running evaluation on full dataset...")
