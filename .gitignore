@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+
+# Index binaries (large, rebuild with build pipeline)
+index/annoy_cosine.idx
+index/embeddings.npy
+index/bm25.pkl
+
+# Raw PDF (large, not redistributable)
+data/raw/
+
+# Flask sessions & runtime metrics
+flask_session/
+/tmp/rag_metrics.jsonl
+
+# macOS
+.DS_Store
