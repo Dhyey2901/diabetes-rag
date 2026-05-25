@@ -32,13 +32,9 @@ def chunk_text(text: str, target_words=500, overlap_words=100) -> List[str]:
     return chunks
 
 def guess_section_title(md_path: Path) -> str:
-    # Try from first markdown heading; fallback to filename
-    txt = md_path.read_text(encoding="utf-8", errors="ignore")
-    m = re.search(r"^\s{0,3}#{1,3}\s+(.+)$", txt, flags=re.MULTILINE)
-    if m:
-        return m.group(1).strip()
-    # Fallback: filename prettified
-    return md_path.stem.replace("_", " ")
+    # Derive clean title from filename: strip "ADA2025_NN_" prefix
+    clean = re.sub(r"^ADA2025_\d+_", "", md_path.stem)
+    return clean.replace("_", " ")
 
 def build_chunks():
     files = sorted(DATA_DIR.glob("ADA2025_*.md"))

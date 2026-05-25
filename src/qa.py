@@ -51,14 +51,11 @@ def _ollama_chat(model: str, messages: List[Dict[str, str]]) -> str:
                     continue
 
                 if "message" in data and "content" in data["message"]:
-                    chunk = data["message"]["content"]
-                    print(chunk, end="", flush=True)  # live stream to console
-                    collected.append(chunk)
+                    collected.append(data["message"]["content"])
 
                 if data.get("done", False):
                     break
 
-            print()  # newline after stream finishes
             return "".join(collected).strip()
     except Exception as e:
         return f"[Error calling Ollama API: {e}]"

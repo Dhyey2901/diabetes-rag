@@ -206,6 +206,39 @@ metrics_store = MetricsStore()
 
 
 # =========================
+# Chat render helper
+# =========================
+def _confidence_badge(conf: Optional[float]) -> str:
+    if conf is None:
+        return ""
+    cls = "conf-high" if conf >= 0.6 else ("conf-mid" if conf >= 0.35 else "conf-low")
+    return f'<span class="confidence-badge {cls}">conf {conf:.2f}</span><br>'
+
+
+def _render_history(history: List[Dict[str, Any]]) -> str:
+    content = ""
+    for item in history:
+        content += f'<div class="chat-bubble user-msg">{escape(item["q"])}</div>'
+        conf = item.get("confidence")
+        abstained = item.get("abstained", False)
+        bubble_cls = "assistant-abstained" if abstained else "assistant-msg"
+        badge = _confidence_badge(conf)
+        content += f'<div class="chat-bubble {bubble_cls}">{badge}{escape(item["a"])}</div>'
+        sources = item.get("sources") or []
+        if sources and not abstained:
+            seen: set = set()
+            items_html = ""
+            for s in sources:
+                section = s.get("section", "")
+                if section and section not in seen:
+                    seen.add(section)
+                    items_html += f"<li>{escape(section)}</li>"
+            if items_html:
+                content += f'<div class="sources-block">📚 <b>Sources:</b><ul>{items_html}</ul></div>'
+    return content
+
+
+# =========================
 # Global Base Template (visible to all routes)
 # =========================
 BASE_TEMPLATE = """<!DOCTYPE html>
@@ -236,6 +269,13 @@ BASE_TEMPLATE = """<!DOCTYPE html>
     .chat-bubble { max-width:75%; padding:10px 14px; border-radius:12px; line-height:1.5; word-wrap:break-word; }
     .user-msg { align-self:flex-end; background: linear-gradient(135deg, #3b82f6, var(--accent-3)); color:#fff; border-top-right-radius:0; }
     .assistant-msg { align-self:flex-start; background: linear-gradient(135deg, var(--accent-1), var(--accent-2)); color:#fff; border-top-left-radius:0; }
+    .assistant-abstained { align-self:flex-start; background:#2a2a3a; border:1px solid #4b5563; color:#9ca3af; border-top-left-radius:0; }
+    .confidence-badge { display:inline-block; font-size:11px; font-weight:600; padding:2px 7px; border-radius:10px; margin-bottom:6px; }
+    .conf-high { background:#064e3b; color:#6ee7b7; }
+    .conf-mid  { background:#78350f; color:#fcd34d; }
+    .conf-low  { background:#450a0a; color:#fca5a5; }
+    .sources-block { align-self:flex-start; font-size:12px; color:#cbd5e1; padding:6px 12px; max-width:75%; }
+    .sources-block ul { margin:4px 0 0; padding-left:16px; }
     .input-box { padding:12px; border-top:1px solid var(--line); background:var(--bg-2); display:flex; }
     .input-wrapper { position:relative; flex:1; }
     textarea { width:100%; border-radius:10px; padding:12px 45px 12px 12px; background:#2d2d3a; border:none; color:var(--text); font-size:15px; resize:none; height:55px; }
@@ -331,7 +371,15 @@ def create_app():
                 latency_ms = round((time.perf_counter() - t0) * 1000.0, 1)
 
                 # save turn
-                session["history"].append({"q": question, "a": answer, "sources": sources})
+                abstained = answer.strip().lower().startswith("i don't know")
+                session["history"].append({
+                    "q": question,
+                    "a": answer,
+                    "sources": sources,
+                    "confidence": round(confidence, 2) if confidence is not None else None,
+                    "latency_ms": latency_ms,
+                    "abstained": abstained,
+                })
                 session.modified = True
 
                 # classify question category (unchanged logic)
@@ -363,17 +411,7 @@ def create_app():
                 }
                 metrics_store.add(rec)
 
-        content = ""
-        for item in session.get("history", []):
-            content += f'<div class="chat-bubble user-msg">{escape(item["q"])}</div>'
-            content += f'<div class="chat-bubble assistant-msg">{escape(item["a"])}</div>'
-            if item.get("sources"):
-                sources_html = "<ul>" + "".join(
-                    f"<li>{escape(s.get('section',''))} ({escape(s.get('source_id',''))}, chunk {escape(str(s.get('chunk_idx','')))})</li>"
-                    for s in item["sources"]
-                ) + "</ul>"
-                content += f'<div class="chat-bubble assistant-msg"><b>📚 Sources:</b> {sources_html}</div>'
-
+        content = _render_history(session.get("history", []))
         return render_template_string(BASE_TEMPLATE, content=content, show_input=True)
 
 
@@ -382,17 +420,8 @@ def create_app():
     # ------------------------
     @app.route("/history")
     def history():
-        content = "<h4>🕒 Chat History</h4><div class='chat-container'>"
-        for item in session.get("history", []):
-            content += f'<div class="chat-bubble user-msg">{escape(item["q"])}</div>'
-            content += f'<div class="chat-bubble assistant-msg">{escape(item["a"])}</div>'
-            if item.get("sources"):
-                sources_html = "<ul>" + "".join(
-                    f"<li>{escape(s.get('section',''))} ({escape(s.get('source_id',''))}, chunk {escape(str(s.get('chunk_idx','')))})</li>"
-                    for s in item["sources"]
-                ) + "</ul>"
-                content += f'<div class="chat-bubble assistant-msg"><b>📚 Sources:</b> {sources_html}</div>'
-        content += "</div>"
+        content = "<h4 style='padding:8px 0;color:var(--blue)'>🕒 Chat History</h4>"
+        content += _render_history(session.get("history", []))
         return render_template_string(BASE_TEMPLATE, content=content, show_input=False)
 
     # ------------------------

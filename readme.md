@@ -1,206 +1,184 @@
-# Diabetes Clinical Q&A (RAG) — ADA 2025
+# Diabetes Clinical Q&A — ADA 2025 RAG System
 
-Evidence-based Q&A grounded in ADA Standards of Care in Diabetes (2025) using a hybrid retriever (BM25 + embeddings + fusion). The system answers from your local guideline corpus and abstains if the evidence isn’t present—no web access, no hallucinations by design.
+An evidence-grounded retrieval-augmented generation (RAG) system for querying the [ADA Standards of Care in Diabetes 2025](https://diabetesjournals.org/care/issue/48/Supplement_1). Built end-to-end with a hybrid BM25 + dense retriever, local LLM generation via Ollama, and a Flask web UI with a live metrics dashboard.
 
-✨ What’s in this repo
+> **Design principle:** the system abstains rather than hallucinates. If the evidence is not clearly present in the loaded corpus, it says so.
 
-Runtime (for the demo):
+---
 
-src/run_generic_rag.py — CLI entrypoint (test suite, single Q&A, evaluation)
+## Architecture
 
-src/generic_rag.py — end-to-end RAG pipeline (uses built indexes)
+```text
+PDF ──► ingest.py ──► data/clean/*.md   (19 ADA chapters, one file each)
+                           │
+                       chunk.py ──► index/chunks.jsonl   (500-word overlapping chunks)
+                           │
+             ┌─────────────┴──────────────┐
+          bm25.py                   embed_index.py
+        (BM25Okapi)          (MiniLM-L6-v2 · numpy cosine)
+             │                           │
+             └─────────┬─────────────────┘
+                   retrieve.py
+            Weighted fusion + RRF + MMR
+                       │
+                     qa.py
+         Context reducer ──► Ollama LLM
+                       │
+               QAResult (answer + citations + confidence)
+                       │
+               web_ui.py  /  CLI
+```
 
-src/retrieve.py — hybrid retrieval (BM25 + dense + fusion)
+**Key design decisions:**
 
-src/evaluate_gold.py — evaluation on your gold set
+| Decision | Why |
+| --- | --- |
+| Numpy matmul instead of Annoy | Annoy segfaults on Python 3.14 / Apple Silicon; numpy L2-normalised dot product is identical and portable |
+| Two-pass retrieval | BM25 for exact term coverage + dense for semantic; weighted fusion + RRF surfaces both |
+| MMR diversification | Prevents returning near-duplicate chunks from the same page |
+| Abstention threshold | Confidence below 0.35 or lexical support overlap below 0.08 → safe refusal |
+| Section pinning | Regex detects A1C / diet / kidney intents → boosts matching chapter scores |
 
-Build pipeline (only if you rebuild the index):
+---
 
-src/ingest.py — extract ADA PDF → Markdown sections
+## Tech Stack
 
-src/chunk.py — split Markdown into overlapping chunks
+| Layer | Library / Tool |
+| --- | --- |
+| PDF extraction | PyMuPDF (`fitz`) |
+| Sparse retrieval | `rank-bm25` (BM25Okapi) |
+| Dense retrieval | `sentence-transformers` · `all-MiniLM-L6-v2` |
+| Vector math | `numpy` (cosine search via matmul) |
+| Generation | Ollama HTTP API (default: `gemma:2b`) |
+| Web UI | Flask + Bootstrap 5 + Chart.js |
+| Security | `markupsafe.escape()` on all user/LLM output |
 
-src/bm25.py — build BM25 index
+---
 
-src/embed_index.py — build embeddings + Annoy index
+## Quick Start
 
-(Optional)
+### Prerequisites
 
-src/presets.py — common questions for a UI/testing
+- Python 3.10+
+- [Ollama](https://ollama.com/download) running locally (`brew install ollama && ollama pull gemma:2b`)
 
-📁 Expected layout
-diabetes-rag/
-  data/
-    raw/                       # (optional) ADA PDF here
-    clean/                     # Markdown sections (one per ADA chapter)
-    eval/
-      gold_diabetes_80.json    # gold evaluation set (if provided)
-  index/
-    chunks.jsonl
-    meta.jsonl
-    bm25.pkl
-    bm25_meta.jsonl
-    embeddings.npy
-    annoy_cosine.idx
-  src/
-    __init__.py
-    run_generic_rag.py
-    generic_rag.py
-    retrieve.py
-    evaluate_gold.py
-    ingest.py
-    chunk.py
-    bm25.py
-    embed_index.py
-    presets.py
-
-
-If index/ already exists with those files, you can run the system immediately—no rebuild needed.
-
-🧰 Prerequisites
-
-Python 3.10–3.12
-
-(Optional) Ollama if you plan to generate natural-language answers locally
-
-Install: https://ollama.com/download
-
-Pull a model (default used in code): ollama pull llama3.1
-
-Create & activate a virtual env
-# Windows (PowerShell)
-py -3.11 -m venv .venv
-. .venv/Scripts/Activate.ps1
-
-# macOS / Linux
-python3 -m venv .venv
-source .venv/bin/activate
-
-Install Python deps
-
-If you have requirements.txt:
-
+```bash
+# 1. Clone and install
+git clone https://github.com/Dhyey2901/diabetes-rag.git
+cd diabetes-rag
 pip install -r requirements.txt
 
+# 2. Copy env template
+cp .env.example .env   # edit if needed
 
-Minimal set (works for this repo):
+# 3. Run (indexes already committed)
+python src/run_generic_rag.py --test           # 5-question smoke test
+python src/run_generic_rag.py "A1C target for adults with type 2 diabetes"
+python src/run_generic_rag.py --web            # web UI at http://localhost:5000
+```
 
-pip install numpy tqdm regex annoy rank-bm25 sentence-transformers
-# Optional for local generation:
-pip install ollama
-# If torch is missing on CPU:
-pip install --index-url https://download.pytorch.org/whl/cpu torch
+### Rebuild indexes from scratch (optional)
 
-🚀 Quick start (no rebuilding)
+Only needed if you swap the PDF or edit the Markdown.
 
-From the repo root:
+```bash
+python src/ingest.py        # PDF → data/clean/*.md  (19 chapters)
+python src/chunk.py         # chunks.jsonl
+python src/bm25.py          # BM25 index
+python src/embed_index.py   # embeddings.npy
+```
 
-1) Mini test suite
-python src/run_generic_rag.py --test
+---
 
-2) Ask a single question
-python src/run_generic_rag.py "Which conditions can make A1C results unreliable?"
+## Project Structure
 
-3) Evaluate on your gold set
+```text
+diabetes-rag/
+├── data/
+│   ├── raw/                     # ADA PDF (not committed; add your own)
+│   ├── clean/                   # Extracted Markdown (one file per ADA chapter)
+│   └── eval/
+│       └── gold_diabetes_80.json
+├── index/
+│   ├── chunks.jsonl             # All chunks with metadata
+│   ├── bm25.pkl                 # Serialised BM25 index
+│   ├── bm25_meta.jsonl
+│   ├── embeddings.npy           # L2-normalised MiniLM embeddings
+│   └── meta.jsonl
+├── results/
+│   └── evaluation_results.json
+├── src/
+│   ├── ingest.py                # PDF extraction (PyMuPDF)
+│   ├── chunk.py                 # Sliding-window chunker
+│   ├── bm25.py                  # BM25 index builder
+│   ├── embed_index.py           # Dense embedding builder
+│   ├── retrieve.py              # Hybrid retriever (BM25 + dense + fusion + MMR)
+│   ├── qa.py                    # Full QA pipeline (retrieval → LLM → QAResult)
+│   ├── evaluate_gold.py         # 80-question gold-set evaluator
+│   ├── web_ui.py                # Flask app + metrics dashboard
+│   └── run_generic_rag.py       # CLI entrypoint
+├── .env.example
+├── requirements.txt
+└── readme.md
+```
+
+---
+
+## Evaluation
+
+Run the 80-question gold set (answerable + unanswerable split):
+
+```bash
 python src/run_generic_rag.py --evaluate
+```
 
+Results are saved to `results/evaluation_results.json`. Key metrics reported:
 
-By design, if a specific answer is not clearly present in your corpus, the system abstains rather than inventing one.
+| Metric | Description |
+| --- | --- |
+| Answer accuracy | Correct answers on answerable questions |
+| Abstention on unanswerable | System correctly refuses when evidence is absent |
+| False abstention rate | Answerable questions incorrectly refused |
+| Mean confidence | Average retrieval confidence across answered questions |
 
-🛠️ (Optional) Rebuild the corpus & indexes
+---
 
-Only needed if you’ve changed the PDF or added/edited Markdown.
+## Demo Questions
 
-Extract ADA PDF → Markdown
+```text
+"What is the A1C target for most non-pregnant adults with type 2 diabetes?"
+"How often should A1C be checked in a stable patient meeting treatment goals?"
+"What is the recommended blood pressure target for adults with diabetes?"
+"What annual screening is recommended for diabetic kidney disease?"
+"Which physical activity recommendations are supported for people with diabetes?"
+"Should people taking SGLT2 inhibitors avoid ketogenic diets?"
+```
 
-Put the PDF at data/raw/standards-of-care-2025.pdf (or adjust the path in ingest.py)
+---
 
-python src/ingest.py
+## Environment Variables
 
+See `.env.example` for all options. Key ones:
 
-Expect ~15–17 .md files in data/clean/.
+| Variable | Default | Description |
+| --- | --- | --- |
+| `OLLAMA_MODEL` | `gemma:2b` | Ollama model for generation |
+| `GEN_TOPK` | `4` | Chunks passed to LLM context |
+| `CONF_ABSTAIN` | `0.35` | Confidence threshold below which the system abstains |
+| `SUPPORT_THRESHOLD` | `0.08` | Lexical overlap below which the answer is discarded |
+| `FLASK_SECRET_KEY` | random | Flask session signing key |
 
-Chunk the Markdown
+---
 
-python src/chunk.py
+## Limitations & Future Work
 
+- **Table extraction**: ADA numeric targets often appear in tables; PyMuPDF extracts these as plain text which may lose row/column structure. A table-aware extractor (e.g. `camelot`) would improve coverage.
+- **Reranker**: A cross-encoder reranker (e.g. `ms-marco-MiniLM`) between retrieval and generation would improve precision without requiring a larger LLM.
+- **Streaming UI**: The Flask UI currently waits for the full LLM response; streaming via SSE would improve perceived latency.
+- **Multi-turn context**: Session history is stored but not fed back into retrieval; conversational follow-ups lose prior context.
 
-Build BM25
+---
 
-python src/bm25.py
+## Data Use
 
-
-Build embeddings + Annoy
-
-python src/embed_index.py
-
-
-Now re-run the quick start commands.
-
-💬 Good demo questions (work well with the current corpus)
-
-Monitoring & A1C
-
-“When should A1C be checked more frequently than usual in diabetes?”
-
-“Which conditions can make A1C results unreliable?”
-
-“Are NGSP-certified A1C assays recommended for routine testing?”
-
-Therapy & safety
-
-“Should people taking SGLT2 inhibitors avoid ketogenic diets?”
-
-“What patient education reduces ketoacidosis risk with SGLT2 inhibitors?”
-
-Screening & general care
-
-“What annual labs are recommended to monitor diabetic kidney disease?”
-
-“How often should feet be examined in people with diabetes?”
-
-Lifestyle & activity
-
-“Which eating patterns align with cardiometabolic health in diabetes?”
-
-“What physical activity is recommended for people with diabetes?”
-
-⚙️ Environment variables (optional)
-# change top-k passages for generation (if enabled)
-export GEN_TOPK=6          # (Windows PowerShell: setx GEN_TOPK 6)
-
-# pick an Ollama model
-export OLLAMA_MODEL=llama3.1
-
-# retrieval confidence below which we abstain
-export CONF_ABSTAIN=0.35
-
-🧪 What to show in your slides
-
-Architecture: Ingest → Chunk → Hybrid Retrieval → (optional) Local Generator → Answer+citations/abstain
-
-Demo: 3–5 CLI screenshots with answers and cited source lines
-
-Metrics: Output from --evaluate (accuracy, abstain rate)
-
-Safety: Emphasize abstention over hallucination
-
-Future work: table-aware extraction, section pinning for numeric targets, optional reranker
-
-❓ Troubleshooting
-
-ModuleNotFoundError: retrieve
-Run from the repo root; ensure src/__init__.py exists (even if empty).
-
-Torch/TorchVision mismatch warnings
-For CPU-only usage, it’s fine to remove torchvision:
-
-pip uninstall torchvision -y
-
-
-Frequent abstains on numeric targets
-Those targets may live in tables/figures that didn’t extract. Check the corresponding Markdown in data/clean/, then re-run: chunk.py → bm25.py → embed_index.py.
-
-📄 License / data use
-
-This project uses the ADA Standards of Care for educational purposes. Follow ADA’s terms for any redistribution or derivative use of the guideline text.
+This project uses the ADA Standards of Care 2025 for educational and research purposes. For any redistribution or derivative use of the guideline text, follow [ADA's terms](https://diabetesjournals.org).
