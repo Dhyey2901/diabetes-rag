@@ -21,5 +21,10 @@ data/raw/
 flask_session/
 /tmp/rag_metrics.jsonl
 
+# Unused legacy dirs
+templates/
+app/
+
 # macOS
 .DS_Store
+*.txt

@@ -8,8 +8,8 @@ User-ready QA pipeline (Ollama version with HTTP API + Streaming):
 """
 
 from __future__ import annotations
-import os, re, json, requests
-from typing import List, Dict, Any
+import os, re, json, time, requests
+from typing import List, Dict, Any, Generator
 from dataclasses import dataclass
 from dotenv import load_dotenv
 
@@ -169,6 +169,78 @@ def answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> QAResul
     mapped = [{"n": n, "source_id": pack[n-1]["source_id"], "section": pack[n-1]["section"], "chunk_idx": pack[n-1]["chunk_idx"]} for n in nums]
 
     return QAResult(query, raw.strip(), mapped, round(conf,2), round(overlap,3), model)
+
+# ---------- Streaming public API ----------
+def stream_answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> Generator:
+    """
+    Generator yielding SSE-style dicts:
+      {"token": str}           — one per LLM output token
+      {"done": True, ...meta}  — final result with answer/confidence/sources/abstained/latency_ms
+    """
+    t0 = time.perf_counter()
+
+    def _done(answer: str, sources: list, abstained: bool) -> dict:
+        return {
+            "done": True, "answer": answer,
+            "confidence": round(conf, 2), "sources": sources,
+            "abstained": abstained,
+            "latency_ms": round((time.perf_counter() - t0) * 1000, 1),
+        }
+
+    retriever = HybridRetriever(use_reranker=False)
+    passages_all = retriever.search(query, k=max(10, top_k * 2))
+    conf = passages_all.confidence
+    passages = [{
+        "text": p.text, "source_id": p.source_id,
+        "section": p.section, "chunk_idx": p.chunk_idx
+    } for p in passages_all.passages]
+
+    if conf < CONF_ABSTAIN or not passages:
+        yield _done("I don't know based on the loaded ADA 2025 guidelines.", [], True)
+        return
+
+    pack = _reduce_context(passages, query, keep=top_k)
+    msgs = _build_prompt(query, pack)
+    collected: List[str] = []
+
+    try:
+        with requests.post(
+            "http://localhost:11434/api/chat",
+            json={"model": model, "messages": msgs,
+                  "options": {"temperature": 0.2, "num_predict": 300}},
+            stream=True, timeout=120,
+        ) as r:
+            r.raise_for_status()
+            for line in r.iter_lines():
+                if not line:
+                    continue
+                try:
+                    data = json.loads(line.decode("utf-8"))
+                except Exception:
+                    continue
+                if "message" in data and "content" in data["message"]:
+                    token = data["message"]["content"]
+                    if token:
+                        collected.append(token)
+                        yield {"token": token}
+                if data.get("done", False):
+                    break
+    except Exception as e:
+        yield _done(f"[Error calling Ollama: {e}]", [], False)
+        return
+
+    raw = "".join(collected).strip()
+    overlap = _lexical_support(raw, [p["text"] for p in pack])
+    if overlap < SUPPORT_THRESHOLD or not raw.strip():
+        yield _done("I don't know based on the loaded ADA 2025 guidelines.", [], True)
+        return
+
+    nums = sorted({int(x) for x in re.findall(r"\[(\d{1,2})\]", raw) if 1 <= int(x) <= len(pack)})
+    sources = [{"n": n, "source_id": pack[n-1]["source_id"],
+                "section": pack[n-1]["section"], "chunk_idx": pack[n-1]["chunk_idx"]}
+               for n in nums]
+    yield _done(raw, sources, False)
+
 
 # ---------- CLI ----------
 if __name__ == "__main__":

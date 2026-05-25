@@ -8,9 +8,9 @@ from collections import deque, defaultdict, Counter
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional, Tuple
 
-from flask import Flask, render_template_string, request, session, redirect, url_for, jsonify, Response
+from flask import Flask, render_template_string, request, session, redirect, url_for, jsonify, Response, stream_with_context
 from markupsafe import escape
-from src.qa import answer as qa_answer
+from src.qa import answer as qa_answer, stream_answer as qa_stream
 
 
 # =========================
@@ -575,37 +575,132 @@ function addTyping(){
   return row;
 }
 
-// send question via AJAX
+// ── DOM helpers ──
+function makeUserRow(q, ts){
+  const row = document.createElement('div');
+  row.className = 'msg-row user';
+  row.innerHTML = `<div class="avatar avatar-user">U</div><div class="msg-body"><div class="bubble bubble-user"></div><div class="msg-meta"><span class="ts" data-ts="${ts}"></span></div></div>`;
+  row.querySelector('.bubble-user').textContent = q;
+  refreshTs();
+  return row;
+}
+
+function makeBotShell(){
+  const row = document.createElement('div');
+  row.className = 'msg-row';
+  const av = document.createElement('div'); av.className='avatar avatar-bot'; av.textContent='⚕';
+  const body = document.createElement('div'); body.className='msg-body';
+  const bubble = document.createElement('div'); bubble.className='bubble bubble-bot';
+  body.appendChild(bubble); row.appendChild(av); row.appendChild(body);
+  return {row, bubble, body};
+}
+
+function finalizeBotRow(body, bubble, meta, answer, ts){
+  const abstained = meta.abstained ?? false;
+  const conf = meta.confidence;
+  const latency_ms = meta.latency_ms;
+  const sources = meta.sources || [];
+
+  if(abstained){ bubble.className='bubble bubble-abstained'; bubble.textContent='⚠️ '+answer; }
+  else if(answer !== bubble.textContent){ bubble.textContent = answer; }
+
+  const metaRow = document.createElement('div'); metaRow.className='msg-meta';
+  if(conf != null){
+    const cls = conf>=0.6?'conf-high':conf>=0.35?'conf-mid':'conf-low';
+    const b = document.createElement('span'); b.className=`conf-badge ${cls}`; b.textContent=`conf ${conf.toFixed(2)}`; metaRow.appendChild(b);
+  }
+  if(latency_ms){ const l=document.createElement('span'); l.className='latency-tag'; l.textContent=`${(latency_ms/1000).toFixed(1)}s`; metaRow.appendChild(l); }
+  const cp = document.createElement('button'); cp.className='copy-btn'; cp.textContent='Copy'; cp.onclick=()=>copyText(cp,answer); metaRow.appendChild(cp);
+  const tsEl = document.createElement('span'); tsEl.className='ts'; tsEl.dataset.ts=ts; metaRow.appendChild(tsEl);
+  body.appendChild(metaRow);
+
+  if(sources.length && !abstained){
+    const seen=new Set();
+    const pills=sources.map(s=>s.section||'').filter(s=>{ if(!s||seen.has(s))return false; seen.add(s); return true; });
+    if(pills.length){
+      const wrap=document.createElement('div'); wrap.className='sources-row';
+      const tog=document.createElement('button'); tog.className='sources-toggle'; tog.textContent=`📚 ${pills.length} source${pills.length>1?'s':''}`;
+      const pd=document.createElement('div'); pd.className='source-pills'; pd.hidden=true;
+      tog.onclick=()=>{ pd.hidden=!pd.hidden; };
+      pills.forEach(p=>{ const el=document.createElement('span'); el.className='source-pill'; el.textContent=p; pd.appendChild(el); });
+      wrap.appendChild(tog); wrap.appendChild(pd); body.appendChild(wrap);
+    }
+  }
+  refreshTs();
+}
+
+// ── Streaming send ──
 async function sendQuestion(q){
-  if(!q || !q.trim()) return;
+  if(!q?.trim()) return;
   const ta = document.getElementById('inputTa');
   const btn = document.getElementById('sendBtn');
   if(ta){ ta.value=''; ta.style.height='auto'; }
-  if(btn) btn.disabled = true;
-
-  const welcome = document.getElementById('welcome-screen');
-  if(welcome) welcome.remove();
+  if(btn) btn.disabled=true;
+  document.getElementById('welcome-screen')?.remove();
 
   const ts = new Date().toISOString();
+  chatbox.appendChild(makeUserRow(q, ts));
+  chatbox.scrollTop = chatbox.scrollHeight;
   const typing = addTyping();
 
+  let botBubble=null, botBody=null, botRow=null;
+  let streamedText='', finalMeta=null;
+
   try {
-    const res = await fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
-    const data = await res.json();
-    typing.remove();
-    const [ur, br] = buildTurn(q, data.answer, data.sources, data.confidence, data.abstained, data.latency_ms, ts);
-    chatbox.appendChild(ur);
-    chatbox.appendChild(br);
-  } catch(e) {
-    typing.remove();
-    const [ur, br] = buildTurn(q, '⚠️ Server error — please try again.', [], null, false, null, ts);
-    chatbox.appendChild(ur);
-    chatbox.appendChild(br);
-  } finally {
-    if(btn) btn.disabled = false;
-    if(ta) ta.focus();
-    chatbox.scrollTop = chatbox.scrollHeight;
+    const res = await fetch('/stream',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
+    if(!res.ok) throw new Error(res.status);
+    const reader = res.body.getReader();
+    const dec = new TextDecoder();
+    let buf='';
+    while(true){
+      const {done,value} = await reader.read();
+      if(done) break;
+      buf += dec.decode(value,{stream:true});
+      const lines = buf.split('\n'); buf=lines.pop()??'';
+      for(const line of lines){
+        if(!line.startsWith('data:')) continue;
+        let evt; try{ evt=JSON.parse(line.slice(5).trim()); }catch{ continue; }
+        if(evt.done){
+          finalMeta=evt;
+        } else if(evt.token){
+          if(!botBubble){
+            typing.remove();
+            ({row:botRow,bubble:botBubble,body:botBody}=makeBotShell());
+            chatbox.appendChild(botRow);
+          }
+          streamedText+=evt.token;
+          botBubble.textContent=streamedText;
+          chatbox.scrollTop=chatbox.scrollHeight;
+        }
+      }
+    }
+  } catch(e){
+    // fallback to /ask (non-streaming)
+    try{
+      const r=await fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})});
+      finalMeta=await r.json();
+    }catch{}
   }
+
+  if(!botBubble){
+    typing.remove();
+    ({row:botRow,bubble:botBubble,body:botBody}=makeBotShell());
+    chatbox.appendChild(botRow);
+  }
+
+  const answer = finalMeta?.answer ?? streamedText ?? '⚠️ No response received.';
+  if(finalMeta){
+    finalizeBotRow(botBody, botBubble, finalMeta, answer, ts);
+    // persist to session without re-running QA
+    fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({question:q,prefilled:finalMeta})}).catch(()=>{});
+  } else {
+    botBubble.textContent=answer;
+  }
+
+  if(btn) btn.disabled=false;
+  if(ta) ta.focus();
+  chatbox.scrollTop=chatbox.scrollHeight;
 }
 
 // wire input
@@ -653,24 +748,55 @@ def create_app():
         content = _render_history(session.get("history", []))
         return render_template_string(BASE_TEMPLATE, content=content, show_input=True)
 
-    # ── AJAX ask endpoint ──
+    # ── Streaming endpoint ──
+    @app.post("/stream")
+    def stream_endpoint():
+        body = request.get_json(force=True, silent=True) or {}
+        q = (body.get("question") or "").strip()
+        if not q:
+            return jsonify({"error": "empty"}), 400
+
+        @stream_with_context
+        def generate():
+            for item in qa_stream(q):
+                yield f"data: {json.dumps(item)}\n\n"
+
+        return Response(generate(), mimetype="text/event-stream",
+                        headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
+
+    # ── AJAX ask endpoint (also accepts prefilled from streaming client) ──
     @app.post("/ask")
     def ask():
         body = request.get_json(force=True, silent=True) or {}
         q = (body.get("question") or "").strip()
         if not q:
             return jsonify({"error": "empty question"}), 400
+
+        prefilled = body.get("prefilled")
+        if prefilled:
+            # Result already computed by /stream — just persist to session
+            turn = {
+                "q": q,
+                "a": prefilled.get("answer", ""),
+                "sources": [s for s in (prefilled.get("sources") or []) if isinstance(s, dict)],
+                "confidence": prefilled.get("confidence"),
+                "latency_ms": prefilled.get("latency_ms"),
+                "abstained": prefilled.get("abstained", False),
+                "ts": datetime.now(timezone.utc).isoformat(),
+                "category": _classify_category(q.lower()),
+                "correct": None, "token_cost": None, "error": False,
+            }
+        else:
+            turn = _run_qa(q)
+
         if "history" not in session:
             session["history"] = []
-        turn = _run_qa(q)
         session["history"].append({k: turn[k] for k in ["q", "a", "sources", "confidence", "latency_ms", "abstained", "ts"]})
         session.modified = True
         _record_metrics(turn)
         return jsonify({
-            "answer": turn["a"],
-            "sources": turn["sources"],
-            "confidence": turn["confidence"],
-            "abstained": turn["abstained"],
+            "answer": turn["a"], "sources": turn["sources"],
+            "confidence": turn["confidence"], "abstained": turn["abstained"],
             "latency_ms": turn["latency_ms"],
         })
 
