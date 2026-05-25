@@ -132,14 +132,21 @@ Run the 80-question gold set (answerable + unanswerable split):
 python src/run_generic_rag.py --evaluate
 ```
 
-Results are saved to `results/evaluation_results.json`. Key metrics reported:
+Results are saved to `results/evaluation_results.json`.
 
-| Metric | Description |
+### Results (fixed pipeline, gemma:2b, 80 questions)
+
+| Metric | Score |
 | --- | --- |
-| Answer accuracy | Correct answers on answerable questions |
-| Abstention on unanswerable | System correctly refuses when evidence is absent |
-| False abstention rate | Answerable questions incorrectly refused |
-| Mean confidence | Average retrieval confidence across answered questions |
+| Overall accuracy | 61.9% |
+| Answerable accuracy | **86.7%** |
+| Avg retrieval confidence | 0.66 |
+| Avg answer relevance | 0.50 |
+| False abstention rate | 13.3% |
+
+**Strong categories:** cardiovascular risk, care coordination, education/safety, lifestyle, monitoring, psychosocial, technology, weight management (all 100%).
+
+**Limitation — unanswerable abstention (0%):** questions like *"what dose of sulfonylurea is safe for an 86-year-old with CKD?"* contain enough diabetes-adjacent terminology that the retriever finds relevant passages and returns high confidence (≥ 0.35), bypassing the abstention threshold. The LLM then generates a plausible-sounding but technically non-answerable response. Fixing this requires either a query intent classifier upstream of retrieval, or a stricter cross-encoder reranker that can distinguish "topic present in corpus" from "specific question answerable from corpus".
 
 ---
 
