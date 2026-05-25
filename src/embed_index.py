@@ -6,9 +6,10 @@ from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 from annoy import AnnoyIndex
 
-CHUNKS_JSONL = Path("index/chunks.jsonl")
-IDX_DIR = Path("index")
+BASE_DIR = Path(__file__).resolve().parent.parent
+IDX_DIR = BASE_DIR / "index"
 IDX_DIR.mkdir(parents=True, exist_ok=True)
+CHUNKS_JSONL = IDX_DIR / "chunks.jsonl"
 
 EMB_MODEL = "sentence-transformers/all-MiniLM-L6-v2"   # fast & good
 EMB_NPY = IDX_DIR / "embeddings.npy"

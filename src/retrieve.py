@@ -246,9 +246,12 @@ class HybridRetriever:
 
         passages.sort(key=lambda p:p.score, reverse=True)
 
-        # Confidence = normalized top score
-        scores = [p.score for p in passages]
-        conf = float((max(scores)-min(scores))/(max(scores)+1e-6)) if scores else 0.0
+        # Confidence = top raw dense cosine similarity.
+        # Dense sims are absolute (1.0=identical, 0=orthogonal) so they give a
+        # meaningful threshold for CONF_ABSTAIN, unlike the old spread formula
+        # which collapsed to ~0 whenever all retrieved passages scored similarly.
+        top_dense_sim = max((s for _, s in dense_hits), default=0.0)
+        conf = float(max(0.0, min(1.0, top_dense_sim)))
 
         sources = [f"{p.source_id} (section: {p.section})" for p in passages]
 

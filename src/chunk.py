@@ -4,8 +4,9 @@ from pathlib import Path
 from typing import List, Dict
 from tqdm import tqdm
 
-DATA_DIR = Path("data/clean")
-OUT_JSONL = Path("index/chunks.jsonl")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data/clean"
+OUT_JSONL = BASE_DIR / "index/chunks.jsonl"
 OUT_JSONL.parent.mkdir(parents=True, exist_ok=True)
 
 # Simple word tokenizer

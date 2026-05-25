@@ -1,16 +1,16 @@
 """
 ingest.py
 Extract ADA Standards of Care 2025 PDF into clean Markdown files (one per section).
+Run from any directory: python src/ingest.py
 """
 
 import fitz
 from pathlib import Path
 import re
 
-
-# Paths
-RAW_PDF = Path("data/raw/standards-of-care-2025.pdf")
-OUT_DIR = Path("data/clean/")
+BASE_DIR = Path(__file__).resolve().parent.parent
+RAW_PDF = BASE_DIR / "data/raw/standards-of-care-2025.pdf"
+OUT_DIR = BASE_DIR / "data/clean"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Define the expected section titles (from the TOC)
@@ -47,27 +47,40 @@ def extract_sections(pdf_path: Path, section_titles: list[str]):
     doc = fitz.open(pdf_path)
     full_text = "\n".join([page.get_text("text") for page in doc])
 
+    # Find ALL occurrences of every section title (TOC + actual chapter headings)
+    all_occurrences: dict[str, list[int]] = {}
+    for title in section_titles:
+        matches = list(re.finditer(re.escape(title), full_text, re.IGNORECASE))
+        all_occurrences[title] = [m.start() for m in matches]
+        if not matches:
+            print(f"⚠️ Could not find: {title}")
+
     sections = {}
     for i, title in enumerate(section_titles):
-        # Escape special regex chars
-        title_pattern = re.escape(title)
-        # Find start
-        start_match = re.search(title_pattern, full_text, re.IGNORECASE)
-        if not start_match:
-            print(f"⚠️ Could not find: {title}")
+        starts = all_occurrences.get(title, [])
+        if not starts:
             continue
-        start_idx = start_match.start()
 
-        # End = start of next section (or end of doc)
-        if i + 1 < len(section_titles):
-            next_title = section_titles[i + 1]
-            next_match = re.search(re.escape(next_title), full_text, re.IGNORECASE)
-            end_idx = next_match.start() if next_match else len(full_text)
-        else:
-            end_idx = len(full_text)
+        # Collect all start positions of every subsequent section title
+        all_next_starts = []
+        for j in range(i + 1, len(section_titles)):
+            all_next_starts.extend(all_occurrences.get(section_titles[j], []))
 
-        section_text = full_text[start_idx:end_idx]
-        sections[title] = clean_text(section_text)
+        # For each occurrence of this title, compute the span to the nearest
+        # subsequent title occurrence. The TOC entry will produce a tiny span;
+        # the actual chapter heading will produce the full chapter body.
+        # We keep the longest span.
+        best_text = ""
+        for s in starts:
+            valid_ends = sorted(p for p in all_next_starts if p > s)
+            end = valid_ends[0] if valid_ends else len(full_text)
+            span = full_text[s:end]
+            if len(span) > len(best_text):
+                best_text = span
+
+        if best_text:
+            sections[title] = clean_text(best_text)
+            print(f"  ✓ {title}: {len(best_text.split()):,} words")
 
     return sections
 

@@ -4,9 +4,10 @@ from pathlib import Path
 from tqdm import tqdm
 from rank_bm25 import BM25Okapi
 
-CHUNKS_JSONL = Path("index/chunks.jsonl")
-IDX_DIR = Path("index")
+BASE_DIR = Path(__file__).resolve().parent.parent
+IDX_DIR = BASE_DIR / "index"
 IDX_DIR.mkdir(parents=True, exist_ok=True)
+CHUNKS_JSONL = IDX_DIR / "chunks.jsonl"
 
 
 BM25_PKL = IDX_DIR / "bm25.pkl"
