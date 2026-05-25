@@ -22,7 +22,6 @@ from pathlib import Path
 from typing import List, Dict, Optional
 
 import numpy as np
-from annoy import AnnoyIndex
 from rank_bm25 import BM25Okapi
 from sentence_transformers import SentenceTransformer, util as st_util
 
@@ -126,14 +125,11 @@ class RetrievalResult:
 # ---------------- Retriever ----------------
 class HybridRetriever:
     def __init__(self, emb_model: str = EMB_MODEL, use_reranker: bool = False):
-        for p in (ANNOY_PATH, EMB_NPY, META_JSONL, BM25_PKL, BM25_META_JSONL):
+        for p in (EMB_NPY, META_JSONL, BM25_PKL, BM25_META_JSONL):
             _check_file(p)
-        logger.info("Loading embeddings & Annoy index...")
+        logger.info("Loading embeddings...")
         self.meta_dense = [json.loads(l) for l in open(META_JSONL, encoding="utf-8")]
-        self.embs = np.load(EMB_NPY)
-        self.dim = self.embs.shape[1]
-        self.ann = AnnoyIndex(self.dim, metric="angular")
-        self.ann.load(str(ANNOY_PATH))
+        self.embs = np.load(EMB_NPY)          # shape (N, dim), L2-normalised
         self.embedder = SentenceTransformer(emb_model)
 
         logger.info("Loading BM25 index...")
@@ -152,9 +148,11 @@ class HybridRetriever:
     # ----- Core searches -----
     def _dense_search(self, query: str, topn: int = CAND_DENSE):
         qv = self.embedder.encode([query], normalize_embeddings=True)[0]
-        idxs, dists = self.ann.get_nns_by_vector(qv, topn, include_distances=True)
-        sims = [1 - (d**2)/2 for d in dists]
-        return list(zip(idxs, sims))
+        # Embeddings are L2-normalised so dot product == cosine similarity.
+        # Brute-force matmul is faster than Annoy for corpora this size (~2k chunks).
+        sims = (self.embs @ qv).tolist()
+        ranked = sorted(enumerate(sims), key=lambda x: x[1], reverse=True)[:topn]
+        return [(idx, sim) for idx, sim in ranked]
 
     def _bm25_search(self, query: str, topn: int = CAND_BM25):
         scores = self.bm25_obj.get_scores(tok(query))

@@ -10,8 +10,7 @@ from pathlib import Path
 # Path Fixes
 # ------------------------------
 BASE_DIR = Path(__file__).resolve().parent.parent
-SRC_DIR = Path(__file__).resolve().parent
-sys.path.insert(0, str(SRC_DIR))
+sys.path.insert(0, str(BASE_DIR))
 
 # ------------------------------
 # CLI functions

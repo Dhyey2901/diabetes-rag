@@ -47,10 +47,18 @@ def extract_sections(pdf_path: Path, section_titles: list[str]):
     doc = fitz.open(pdf_path)
     full_text = "\n".join([page.get_text("text") for page in doc])
 
-    # Find ALL occurrences of every section title (TOC + actual chapter headings)
+    # Normalise horizontal whitespace in the extracted text so multi-space
+    # gaps from PDF column layout don't break title matching.
+    full_text = re.sub(r'[^\S\n]+', ' ', full_text)
+
+    # Find ALL occurrences of every section title (TOC + actual chapter headings).
+    # Build patterns that tolerate any whitespace between words so titles like
+    # "Facilitating Positive Health Behaviors and Well-being  to Improve…" match.
     all_occurrences: dict[str, list[int]] = {}
     for title in section_titles:
-        matches = list(re.finditer(re.escape(title), full_text, re.IGNORECASE))
+        words = title.split()
+        pattern = r'\s+'.join(re.escape(w) for w in words)
+        matches = list(re.finditer(pattern, full_text, re.IGNORECASE))
         all_occurrences[title] = [m.start() for m in matches]
         if not matches:
             print(f"⚠️ Could not find: {title}")
