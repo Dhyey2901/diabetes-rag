@@ -41,12 +41,12 @@ def _check_file(path: Path) -> Path:
     logging.getLogger("hybrid-retriever").info(f"✅ Found: {path}")
     return path
 
-EMB_MODEL = os.getenv("EMB_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
-ANNOY_PATH = _check_file(INDEX_DIR / "annoy_cosine.idx")
-EMB_NPY = _check_file(INDEX_DIR / "embeddings.npy")
-META_JSONL = _check_file(INDEX_DIR / "meta.jsonl")
-BM25_PKL = _check_file(INDEX_DIR / "bm25.pkl")
-BM25_META_JSONL = _check_file(INDEX_DIR / "bm25_meta.jsonl")
+EMB_MODEL       = os.getenv("EMB_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
+ANNOY_PATH      = INDEX_DIR / "annoy_cosine.idx"
+EMB_NPY         = INDEX_DIR / "embeddings.npy"
+META_JSONL      = INDEX_DIR / "meta.jsonl"
+BM25_PKL        = INDEX_DIR / "bm25.pkl"
+BM25_META_JSONL = INDEX_DIR / "bm25_meta.jsonl"
 
 CAND_DENSE = 80
 CAND_BM25  = 80
@@ -126,6 +126,8 @@ class RetrievalResult:
 # ---------------- Retriever ----------------
 class HybridRetriever:
     def __init__(self, emb_model: str = EMB_MODEL, use_reranker: bool = False):
+        for p in (ANNOY_PATH, EMB_NPY, META_JSONL, BM25_PKL, BM25_META_JSONL):
+            _check_file(p)
         logger.info("Loading embeddings & Annoy index...")
         self.meta_dense = [json.loads(l) for l in open(META_JSONL, encoding="utf-8")]
         self.embs = np.load(EMB_NPY)

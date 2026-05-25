@@ -52,6 +52,9 @@ def main():
         elif sys.argv[1] == '--web':
             from src.web_ui import run_web_ui
             run_web_ui()
+        elif sys.argv[1] == '--evaluate':
+            from src.evaluate_gold import main as run_eval
+            run_eval()
         else:
             q = " ".join(sys.argv[1:])
             answer_single_question(q)
