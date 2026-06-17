@@ -60,7 +60,7 @@ PDF ──► ingest.py ──► data/clean/*.md   (19 ADA chapters, one file e
 ### Prerequisites
 
 - Python 3.10+
-- [Ollama](https://ollama.com/download) running locally (`brew install ollama && ollama pull gemma:2b`)
+- A [Groq API key](https://console.groq.com) (free) **or** [Ollama](https://ollama.com/download) running locally
 
 ```bash
 # 1. Clone and install
@@ -169,7 +169,9 @@ See `.env.example` for all options. Key ones:
 
 | Variable | Default | Description |
 | --- | --- | --- |
-| `OLLAMA_MODEL` | `gemma:2b` | Ollama model for generation |
+| `GROQ_API_KEY` | — | Groq API key (free at console.groq.com). If set, Groq is used instead of Ollama |
+| `GROQ_MODEL` | `llama-3.1-8b-instant` | Groq model for generation |
+| `OLLAMA_MODEL` | `gemma:2b` | Ollama model (used when `GROQ_API_KEY` is not set) |
 | `GEN_TOPK` | `4` | Chunks passed to LLM context |
 | `CONF_ABSTAIN` | `0.35` | Confidence threshold below which the system abstains |
 | `SUPPORT_THRESHOLD` | `0.08` | Lexical overlap below which the answer is discarded |
@@ -181,7 +183,6 @@ See `.env.example` for all options. Key ones:
 
 - **Table extraction**: ADA numeric targets often appear in tables; PyMuPDF extracts these as plain text which may lose row/column structure. A table-aware extractor (e.g. `camelot`) would improve coverage.
 - **Reranker**: A cross-encoder reranker (e.g. `ms-marco-MiniLM`) between retrieval and generation would improve precision without requiring a larger LLM.
-- **Streaming UI**: The Flask UI currently waits for the full LLM response; streaming via SSE would improve perceived latency.
 - **Multi-turn context**: Session history is stored but not fed back into retrieval; conversational follow-ups lose prior context.
 
 ---

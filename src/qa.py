@@ -1,10 +1,10 @@
 # src/qa.py
 """
-User-ready QA pipeline (Ollama version with HTTP API + Streaming):
+QA pipeline: hybrid retrieval → LLM generation (Groq cloud or Ollama local).
 - Two-pass retrieval with auto-detected section pinning
 - Smart context reducer
 - Strict, citation-first prompt with clean abstention
-- Streaming output (fixed JSON parsing)
+- Token-by-token streaming
 """
 
 from __future__ import annotations
@@ -18,27 +18,40 @@ from .retrieve import HybridRetriever
 # ---------- Config ----------
 load_dotenv()
 
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "mistral")  # default to mistral (fast + lightweight)
-TOP_K = int(os.getenv("GEN_TOPK", "4"))
-CONF_ABSTAIN = float(os.getenv("CONF_ABSTAIN", "0.35"))
-SUPPORT_THRESHOLD = float(os.getenv("SUPPORT_THRESHOLD", "0.08"))
+GROQ_API_KEY  = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL    = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+OLLAMA_MODEL  = os.getenv("OLLAMA_MODEL", "mistral")
+USE_GROQ      = bool(GROQ_API_KEY)
+
+TOP_K              = int(os.getenv("GEN_TOPK", "4"))
+CONF_ABSTAIN       = float(os.getenv("CONF_ABSTAIN", "0.35"))
+SUPPORT_THRESHOLD  = float(os.getenv("SUPPORT_THRESHOLD", "0.08"))
 
 # intents
 RX_A1C    = re.compile(r"\b(a1c|hb?a1c|glycemic\s+(goal|target))\b", re.I)
 RX_DIET   = re.compile(r"\b(diet|nutrition|eat|foods?|snack|drink|beverage|soda|juice|alcohol)\b", re.I)
 RX_KIDNEY = re.compile(r"\b(ckd|kidney|egfr|uacr|albumin)\b", re.I)
 
-# ---------- Ollama wrapper with streaming ----------
-def _ollama_chat(model: str, messages: List[Dict[str, str]]) -> str:
+# ---------- LLM backends ----------
+def _groq_chat(messages: List[Dict[str, str]]) -> str:
+    from groq import Groq
+    client = Groq(api_key=GROQ_API_KEY)
+    completion = client.chat.completions.create(
+        model=GROQ_MODEL,
+        messages=messages,
+        temperature=0.2,
+        max_tokens=300,
+    )
+    return completion.choices[0].message.content.strip()
+
+
+def _ollama_chat(messages: List[Dict[str, str]]) -> str:
     try:
         with requests.post(
             "http://localhost:11434/api/chat",
-            json={
-                "model": model,
-                "messages": messages,
-                "options": {"temperature": 0.2, "num_predict": 300}
-            },
-            stream=True
+            json={"model": OLLAMA_MODEL, "messages": messages,
+                  "options": {"temperature": 0.2, "num_predict": 300}},
+            stream=True, timeout=120,
         ) as r:
             r.raise_for_status()
             collected = []
@@ -49,16 +62,17 @@ def _ollama_chat(model: str, messages: List[Dict[str, str]]) -> str:
                     data = json.loads(line.decode("utf-8"))
                 except Exception:
                     continue
-
                 if "message" in data and "content" in data["message"]:
                     collected.append(data["message"]["content"])
-
                 if data.get("done", False):
                     break
-
             return "".join(collected).strip()
     except Exception as e:
         return f"[Error calling Ollama API: {e}]"
+
+
+def _chat(messages: List[Dict[str, str]]) -> str:
+    return _groq_chat(messages) if USE_GROQ else _ollama_chat(messages)
 
 # ---------- Lexical + context helpers ----------
 def _lexical_support(answer: str, passages: List[str]) -> float:
@@ -145,7 +159,7 @@ class QAResult:
     support_overlap: float
     used_model: str
 
-def answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> QAResult:
+def answer(query: str, top_k: int = TOP_K, model: str = "") -> QAResult:
     retriever = HybridRetriever(use_reranker=False)
     passages_all = retriever.search(query, k=max(10, top_k*2))
     conf = passages_all.confidence
@@ -154,24 +168,26 @@ def answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> QAResul
         "text": p.text, "source_id": p.source_id, "section": p.section, "chunk_idx": p.chunk_idx
     } for p in passages_all.passages]
 
+    used_model = GROQ_MODEL if USE_GROQ else OLLAMA_MODEL
+
     if conf < CONF_ABSTAIN or not passages:
-        return QAResult(query, "I don’t know based on the loaded ADA 2025 guidelines.", [], round(conf,2), 0.0, model)
+        return QAResult(query, "I don’t know based on the loaded ADA 2025 guidelines.", [], round(conf,2), 0.0, used_model)
 
     pack = _reduce_context(passages, query, keep=top_k)
     msgs = _build_prompt(query, pack)
-    raw = _ollama_chat(model, msgs)
+    raw = _chat(msgs)
 
     overlap = _lexical_support(raw, [p["text"] for p in pack])
     if overlap < SUPPORT_THRESHOLD or not raw.strip():
-        return QAResult(query, "I don’t know based on the loaded ADA 2025 guidelines.", [], round(conf,2), round(overlap,3), model)
+        return QAResult(query, "I don’t know based on the loaded ADA 2025 guidelines.", [], round(conf,2), round(overlap,3), used_model)
 
     nums = sorted({int(x) for x in re.findall(r"\[(\d{1,2})\]", raw) if 1 <= int(x) <= len(pack)})
     mapped = [{"n": n, "source_id": pack[n-1]["source_id"], "section": pack[n-1]["section"], "chunk_idx": pack[n-1]["chunk_idx"]} for n in nums]
 
-    return QAResult(query, raw.strip(), mapped, round(conf,2), round(overlap,3), model)
+    return QAResult(query, raw.strip(), mapped, round(conf,2), round(overlap,3), used_model)
 
 # ---------- Streaming public API ----------
-def stream_answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> Generator:
+def stream_answer(query: str, top_k: int = TOP_K, model: str = "") -> Generator:
     """
     Generator yielding SSE-style dicts:
       {"token": str}           — one per LLM output token
@@ -204,29 +220,42 @@ def stream_answer(query: str, top_k: int = TOP_K, model: str = OLLAMA_MODEL) -> 
     collected: List[str] = []
 
     try:
-        with requests.post(
-            "http://localhost:11434/api/chat",
-            json={"model": model, "messages": msgs,
-                  "options": {"temperature": 0.2, "num_predict": 300}},
-            stream=True, timeout=120,
-        ) as r:
-            r.raise_for_status()
-            for line in r.iter_lines():
-                if not line:
-                    continue
-                try:
-                    data = json.loads(line.decode("utf-8"))
-                except Exception:
-                    continue
-                if "message" in data and "content" in data["message"]:
-                    token = data["message"]["content"]
-                    if token:
-                        collected.append(token)
-                        yield {"token": token}
-                if data.get("done", False):
-                    break
+        if USE_GROQ:
+            from groq import Groq
+            client = Groq(api_key=GROQ_API_KEY)
+            stream = client.chat.completions.create(
+                model=GROQ_MODEL, messages=msgs,
+                temperature=0.2, max_tokens=300, stream=True,
+            )
+            for chunk in stream:
+                token = chunk.choices[0].delta.content or ""
+                if token:
+                    collected.append(token)
+                    yield {"token": token}
+        else:
+            with requests.post(
+                "http://localhost:11434/api/chat",
+                json={"model": OLLAMA_MODEL, "messages": msgs,
+                      "options": {"temperature": 0.2, "num_predict": 300}},
+                stream=True, timeout=120,
+            ) as r:
+                r.raise_for_status()
+                for line in r.iter_lines():
+                    if not line:
+                        continue
+                    try:
+                        data = json.loads(line.decode("utf-8"))
+                    except Exception:
+                        continue
+                    if "message" in data and "content" in data["message"]:
+                        token = data["message"]["content"]
+                        if token:
+                            collected.append(token)
+                            yield {"token": token}
+                    if data.get("done", False):
+                        break
     except Exception as e:
-        yield _done(f"[Error calling Ollama: {e}]", [], False)
+        yield _done(f"[Error: {e}]", [], False)
         return
 
     raw = "".join(collected).strip()
