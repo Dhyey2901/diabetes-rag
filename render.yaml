@@ -1,16 +1,16 @@
 services:
   - type: web
     name: diabetes-rag
-    env: python
+    runtime: python
     region: oregon
     plan: free
     buildCommand: pip install -r requirements.txt && python src/bm25.py && python src/embed_index.py
     startCommand: gunicorn "src.web_ui:create_app()" --bind 0.0.0.0:$PORT --workers 1 --timeout 120
     envVars:
-      - key: GROQ_API_KEY
+      - key: OPENROUTER_API_KEY
         sync: false
-      - key: GROQ_MODEL
-        value: llama-3.1-8b-instant
+      - key: OPENROUTER_MODEL
+        value: meta-llama/llama-3.1-8b-instruct:free
       - key: FLASK_SECRET_KEY
         generateValue: true
       - key: GEN_TOPK

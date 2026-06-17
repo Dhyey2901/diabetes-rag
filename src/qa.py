@@ -1,6 +1,6 @@
 # src/qa.py
 """
-QA pipeline: hybrid retrieval → LLM generation (Groq cloud or Ollama local).
+QA pipeline: hybrid retrieval → LLM generation (OpenRouter cloud or Ollama local).
 - Two-pass retrieval with auto-detected section pinning
 - Smart context reducer
 - Strict, citation-first prompt with clean abstention
@@ -18,14 +18,17 @@ from .retrieve import HybridRetriever
 # ---------- Config ----------
 load_dotenv()
 
-GROQ_API_KEY  = os.getenv("GROQ_API_KEY", "")
-GROQ_MODEL    = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
-OLLAMA_MODEL  = os.getenv("OLLAMA_MODEL", "mistral")
-USE_GROQ      = bool(GROQ_API_KEY)
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+OPENROUTER_MODEL   = os.getenv("OPENROUTER_MODEL", "meta-llama/llama-3.1-8b-instruct:free")
+OLLAMA_MODEL       = os.getenv("OLLAMA_MODEL", "mistral")
+USE_CLOUD          = bool(OPENROUTER_API_KEY)
 
 TOP_K              = int(os.getenv("GEN_TOPK", "4"))
 CONF_ABSTAIN       = float(os.getenv("CONF_ABSTAIN", "0.35"))
 SUPPORT_THRESHOLD  = float(os.getenv("SUPPORT_THRESHOLD", "0.08"))
+
+_OPENROUTER_BASE = "https://openrouter.ai/api/v1"
+_REFERER         = "https://github.com/Dhyey2901/diabetes-rag"
 
 # intents
 RX_A1C    = re.compile(r"\b(a1c|hb?a1c|glycemic\s+(goal|target))\b", re.I)
@@ -33,16 +36,20 @@ RX_DIET   = re.compile(r"\b(diet|nutrition|eat|foods?|snack|drink|beverage|soda|
 RX_KIDNEY = re.compile(r"\b(ckd|kidney|egfr|uacr|albumin)\b", re.I)
 
 # ---------- LLM backends ----------
-def _groq_chat(messages: List[Dict[str, str]]) -> str:
-    from groq import Groq
-    client = Groq(api_key=GROQ_API_KEY)
+def _cloud_chat(messages: List[Dict[str, str]]) -> str:
+    from openai import OpenAI
+    client = OpenAI(
+        api_key=OPENROUTER_API_KEY,
+        base_url=_OPENROUTER_BASE,
+        default_headers={"HTTP-Referer": _REFERER},
+    )
     completion = client.chat.completions.create(
-        model=GROQ_MODEL,
+        model=OPENROUTER_MODEL,
         messages=messages,
         temperature=0.2,
         max_tokens=300,
     )
-    return completion.choices[0].message.content.strip()
+    return (completion.choices[0].message.content or "").strip()
 
 
 def _ollama_chat(messages: List[Dict[str, str]]) -> str:
@@ -72,7 +79,7 @@ def _ollama_chat(messages: List[Dict[str, str]]) -> str:
 
 
 def _chat(messages: List[Dict[str, str]]) -> str:
-    return _groq_chat(messages) if USE_GROQ else _ollama_chat(messages)
+    return _cloud_chat(messages) if USE_CLOUD else _ollama_chat(messages)
 
 # ---------- Lexical + context helpers ----------
 def _lexical_support(answer: str, passages: List[str]) -> float:
@@ -168,7 +175,7 @@ def answer(query: str, top_k: int = TOP_K, model: str = "") -> QAResult:
         "text": p.text, "source_id": p.source_id, "section": p.section, "chunk_idx": p.chunk_idx
     } for p in passages_all.passages]
 
-    used_model = GROQ_MODEL if USE_GROQ else OLLAMA_MODEL
+    used_model = OPENROUTER_MODEL if USE_CLOUD else OLLAMA_MODEL
 
     if conf < CONF_ABSTAIN or not passages:
         return QAResult(query, "I don’t know based on the loaded ADA 2025 guidelines.", [], round(conf,2), 0.0, used_model)
@@ -220,11 +227,15 @@ def stream_answer(query: str, top_k: int = TOP_K, model: str = "") -> Generator:
     collected: List[str] = []
 
     try:
-        if USE_GROQ:
-            from groq import Groq
-            client = Groq(api_key=GROQ_API_KEY)
+        if USE_CLOUD:
+            from openai import OpenAI
+            client = OpenAI(
+                api_key=OPENROUTER_API_KEY,
+                base_url=_OPENROUTER_BASE,
+                default_headers={"HTTP-Referer": _REFERER},
+            )
             stream = client.chat.completions.create(
-                model=GROQ_MODEL, messages=msgs,
+                model=OPENROUTER_MODEL, messages=msgs,
                 temperature=0.2, max_tokens=300, stream=True,
             )
             for chunk in stream:

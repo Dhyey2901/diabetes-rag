@@ -169,9 +169,9 @@ See `.env.example` for all options. Key ones:
 
 | Variable | Default | Description |
 | --- | --- | --- |
-| `GROQ_API_KEY` | — | Groq API key (free at console.groq.com). If set, Groq is used instead of Ollama |
-| `GROQ_MODEL` | `llama-3.1-8b-instant` | Groq model for generation |
-| `OLLAMA_MODEL` | `gemma:2b` | Ollama model (used when `GROQ_API_KEY` is not set) |
+| `OPENROUTER_API_KEY` | — | OpenRouter API key (free at openrouter.ai). If set, cloud LLM is used instead of Ollama |
+| `OPENROUTER_MODEL` | `meta-llama/llama-3.1-8b-instruct:free` | OpenRouter model for generation |
+| `OLLAMA_MODEL` | `gemma:2b` | Ollama model (used when `OPENROUTER_API_KEY` is not set) |
 | `GEN_TOPK` | `4` | Chunks passed to LLM context |
 | `CONF_ABSTAIN` | `0.35` | Confidence threshold below which the system abstains |
 | `SUPPORT_THRESHOLD` | `0.08` | Lexical overlap below which the answer is discarded |
