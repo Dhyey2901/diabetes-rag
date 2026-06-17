@@ -2,15 +2,15 @@
 import json
 import numpy as np
 from pathlib import Path
-from sentence_transformers import SentenceTransformer
+from fastembed import TextEmbedding
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-IDX_DIR = BASE_DIR / "index"
+BASE_DIR   = Path(__file__).resolve().parent.parent
+IDX_DIR    = BASE_DIR / "index"
 IDX_DIR.mkdir(parents=True, exist_ok=True)
 CHUNKS_JSONL = IDX_DIR / "chunks.jsonl"
 
-EMB_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-EMB_NPY   = IDX_DIR / "embeddings.npy"
+EMB_MODEL  = "sentence-transformers/all-MiniLM-L6-v2"
+EMB_NPY    = IDX_DIR / "embeddings.npy"
 META_JSONL = IDX_DIR / "meta.jsonl"
 
 def load_chunks():
@@ -22,9 +22,10 @@ def load_chunks():
     return chunks
 
 def build_embeddings(texts):
-    model = SentenceTransformer(EMB_MODEL, trust_remote_code=True)
-    embs = model.encode(texts, normalize_embeddings=True, show_progress_bar=True)
-    return np.asarray(embs, dtype=np.float32)
+    model = TextEmbedding(EMB_MODEL)
+    # fastembed yields L2-normalised vectors (same as sentence-transformers normalize_embeddings=True)
+    embs = np.array(list(model.embed(texts)), dtype=np.float32)
+    return embs
 
 def main():
     chunks = load_chunks()

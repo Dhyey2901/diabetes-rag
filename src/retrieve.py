@@ -23,12 +23,7 @@ from typing import List, Dict, Optional
 
 import numpy as np
 from rank_bm25 import BM25Okapi
-from sentence_transformers import SentenceTransformer, util as st_util
-
-try:
-    from sentence_transformers import CrossEncoder
-except ImportError:
-    CrossEncoder = None
+from fastembed import TextEmbedding
 
 # ---------------- Config ----------------
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -130,7 +125,7 @@ class HybridRetriever:
         logger.info("Loading embeddings...")
         self.meta_dense = [json.loads(l) for l in open(META_JSONL, encoding="utf-8")]
         self.embs = np.load(EMB_NPY)          # shape (N, dim), L2-normalised
-        self.embedder = SentenceTransformer(emb_model)
+        self.embedder = TextEmbedding(emb_model)
 
         logger.info("Loading BM25 index...")
         with open(BM25_PKL, "rb") as f:
@@ -138,16 +133,10 @@ class HybridRetriever:
         self.meta_bm25 = [json.loads(l) for l in open(BM25_META_JSONL, encoding="utf-8")]
 
         self.reranker = None
-        if use_reranker and CrossEncoder:
-            try:
-                logger.info("Loading CrossEncoder reranker...")
-                self.reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
-            except Exception as e:
-                logger.warning(f"Reranker load failed: {e}")
 
     # ----- Core searches -----
     def _dense_search(self, query: str, topn: int = CAND_DENSE):
-        qv = self.embedder.encode([query], normalize_embeddings=True)[0]
+        qv = np.array(list(self.embedder.embed([query]))[0])
         # Embeddings are L2-normalised so dot product == cosine similarity.
         # Brute-force matmul is faster than Annoy for corpora this size (~2k chunks).
         sims = (self.embs @ qv).tolist()
@@ -197,7 +186,7 @@ class HybridRetriever:
                 selected.append(remaining.pop(best))
                 continue
             S=X[np.array([i for i in selected])]
-            sim_to_S = st_util.cos_sim(X[remaining], S).cpu().numpy().max(axis=1)
+            sim_to_S = (X[remaining] @ S.T).max(axis=1)
             mmr_scores = MMR_LAMBDA*rel[remaining] - (1-MMR_LAMBDA)*sim_to_S
             best=int(np.argmax(mmr_scores))
             selected.append(remaining.pop(best))
@@ -220,7 +209,7 @@ class HybridRetriever:
 
         # Diversification
         if diversify:
-            qv = self.embedder.encode([query_exp], normalize_embeddings=True)[0]
+            qv = np.array(list(self.embedder.embed([query_exp]))[0])
             cand_ids = self._mmr(cand_ids, qv, k)
 
         passages=[]
