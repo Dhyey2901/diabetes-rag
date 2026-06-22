@@ -10,7 +10,7 @@ services:
       - key: OPENROUTER_API_KEY
         sync: false
       - key: OPENROUTER_MODEL
-        value: meta-llama/llama-3.1-8b-instruct:free
+        value: mistralai/mistral-7b-instruct:free
       - key: FLASK_SECRET_KEY
         generateValue: true
       - key: GEN_TOPK
