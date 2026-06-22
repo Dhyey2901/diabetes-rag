@@ -10,7 +10,7 @@ services:
       - key: OPENROUTER_API_KEY
         sync: false
       - key: OPENROUTER_MODEL
-        value: mistralai/mistral-7b-instruct:free
+        value: google/gemma-3-27b-it:free
       - key: FLASK_SECRET_KEY
         generateValue: true
       - key: GEN_TOPK
