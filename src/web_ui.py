@@ -254,7 +254,7 @@ def _render_history(history: List[Dict[str, Any]]) -> str:
 </div>"""
 
         # bot bubble
-        bubble_cls = "bubble-abstained" if abstained else "bubble-bot"
+        bubble_cls = "bubble-abstained" if abstained else "bubble-bot js-md"
         conf_badge = _conf_badge_html(conf)
         lat_html = f'<span class="latency-tag">{round(latency_ms / 1000, 1)}s</span>' if latency_ms else ""
         prefix = "⚠️ " if abstained else ""
@@ -303,6 +303,7 @@ BASE_TEMPLATE = r"""<!DOCTYPE html>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
 :root{
   --bg:#0d0d14;--bg2:#13131e;--bg3:#1a1a28;--border:#252535;
@@ -422,9 +423,30 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--t
 .kpi-value{font-size:26px;font-weight:700;color:var(--text)}
 .muted{color:var(--muted);font-size:12px}
 canvas{background:transparent;border-radius:8px}
+
+/* markdown inside bot bubbles */
+.bubble-bot p{margin:.3em 0}
+.bubble-bot p:first-child{margin-top:0}
+.bubble-bot p:last-child{margin-bottom:0}
+.bubble-bot ul,.bubble-bot ol{padding-left:1.4em;margin:.3em 0}
+.bubble-bot li{margin:.15em 0}
+.bubble-bot strong{color:#e2e8f0;font-weight:600}
+.bubble-bot code{background:rgba(255,255,255,.08);border-radius:4px;padding:1px 5px;font-size:12.5px;font-family:monospace}
+.bubble-bot h1,.bubble-bot h2,.bubble-bot h3{font-size:14px;font-weight:700;margin:.5em 0 .2em}
+.bubble-bot a{color:var(--blue)}
+
+/* mobile responsive sidebar */
+@media(max-width:768px){
+  .sidebar{position:fixed;z-index:100;height:100vh;left:0;top:0;width:230px!important;min-width:230px!important;padding:16px 10px!important;transform:translateX(-100%);transition:transform .25s cubic-bezier(.4,0,.2,1)}
+  .sidebar:not(.collapsed){transform:translateX(0)}
+  .mobile-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:99}
+  .mobile-overlay.active{display:block}
+}
 </style>
 </head>
 <body>
+
+<div class="mobile-overlay" id="mobileOverlay" onclick="toggleSidebar()"></div>
 
 <div class="sidebar" id="sidebar">
   <div class="sidebar-logo">
@@ -471,14 +493,22 @@ canvas{background:transparent;border-radius:8px}
         <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
       </button>
     </div>
-    <div class="input-hint">Ctrl + Enter to send</div>
+    <div class="input-hint">Enter to send · Shift+Enter for new line</div>
   </div>
   {% endif %}
 </div>
 
 <script>
 // sidebar
-function toggleSidebar(){ document.getElementById('sidebar').classList.toggle('collapsed'); }
+marked.use({gfm:true,breaks:true});
+function renderMd(text){ try{ return marked.parse(text||''); }catch{ return text||''; } }
+
+function toggleSidebar(){
+  const s=document.getElementById('sidebar');
+  s.classList.toggle('collapsed');
+  const ov=document.getElementById('mobileOverlay');
+  if(ov) ov.classList.toggle('active',!s.classList.contains('collapsed'));
+}
 
 // active nav
 (function(){
@@ -602,7 +632,7 @@ function finalizeBotRow(body, bubble, meta, answer, ts){
   const sources = meta.sources || [];
 
   if(abstained){ bubble.className='bubble bubble-abstained'; bubble.textContent='⚠️ '+answer; }
-  else if(answer !== bubble.textContent){ bubble.textContent = answer; }
+  else{ bubble.innerHTML = renderMd(answer); }
 
   const metaRow = document.createElement('div'); metaRow.className='msg-meta';
   if(conf != null){
@@ -709,13 +739,18 @@ const sendBtn = document.getElementById('sendBtn');
 if(ta){
   ta.addEventListener('input', ()=>{ ta.style.height='auto'; ta.style.height=Math.min(ta.scrollHeight,130)+'px'; });
   ta.addEventListener('keydown', e=>{
-    if(e.key==='Enter'&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); sendQuestion(ta.value.trim()); }
+    if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); sendQuestion(ta.value.trim()); }
   });
 }
 if(sendBtn){ sendBtn.addEventListener('click', ()=>{ if(ta) sendQuestion(ta.value.trim()); }); }
 
 // wire welcome pills
 document.querySelectorAll('.welcome-pill').forEach(p=>{ p.addEventListener('click',()=>sendQuestion(p.textContent.trim())); });
+
+// render markdown in server-rendered bot bubbles (history page)
+document.querySelectorAll('.bubble-bot.js-md').forEach(el=>{
+  if(!el.dataset.rendered){ el.innerHTML=renderMd(el.textContent); el.dataset.rendered='1'; }
+});
 
 // scroll to bottom
 if(chatbox) chatbox.scrollTop = chatbox.scrollHeight;
