@@ -19,7 +19,7 @@ from .retrieve import HybridRetriever
 load_dotenv()
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
-OPENROUTER_MODEL   = os.getenv("OPENROUTER_MODEL", "google/gemma-3-27b-it:free")
+OPENROUTER_MODEL   = os.getenv("OPENROUTER_MODEL", "google/gemma-4-26b-a4b-it:free")
 OLLAMA_MODEL       = os.getenv("OLLAMA_MODEL", "mistral")
 USE_CLOUD          = bool(OPENROUTER_API_KEY)
 
@@ -37,19 +37,25 @@ RX_KIDNEY = re.compile(r"\b(ckd|kidney|egfr|uacr|albumin)\b", re.I)
 
 # ---------- LLM backends ----------
 def _cloud_chat(messages: List[Dict[str, str]]) -> str:
-    from openai import OpenAI
+    from openai import OpenAI, RateLimitError
     client = OpenAI(
         api_key=OPENROUTER_API_KEY,
         base_url=_OPENROUTER_BASE,
         default_headers={"HTTP-Referer": _REFERER},
     )
-    completion = client.chat.completions.create(
-        model=OPENROUTER_MODEL,
-        messages=messages,
-        temperature=0.2,
-        max_tokens=300,
-    )
-    return (completion.choices[0].message.content or "").strip()
+    for attempt in range(4):
+        try:
+            completion = client.chat.completions.create(
+                model=OPENROUTER_MODEL,
+                messages=messages,
+                temperature=0.2,
+                max_tokens=300,
+            )
+            return (completion.choices[0].message.content or "").strip()
+        except RateLimitError:
+            if attempt == 3:
+                raise
+            time.sleep(2 ** attempt * 5)  # 5s, 10s, 20s
 
 
 def _ollama_chat(messages: List[Dict[str, str]]) -> str:
