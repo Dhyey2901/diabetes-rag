@@ -1,57 +1,118 @@
-# Diabetes Clinical Q&A — ADA 2025 RAG System
+# Diabetes RAG — ADA 2025 Clinical Q&A
 
-An evidence-grounded retrieval-augmented generation (RAG) system for querying the [ADA Standards of Care in Diabetes 2025](https://diabetesjournals.org/care/issue/48/Supplement_1). Built end-to-end with a hybrid BM25 + dense retriever, local LLM generation via Ollama, and a Flask web UI with a live metrics dashboard.
+A production-deployed **retrieval-augmented generation (RAG)** system for querying the [ADA Standards of Care in Diabetes 2025](https://diabetesjournals.org/care/issue/48/Supplement_1). Answers are grounded in guidelines, source-cited, and the system **abstains rather than hallucinates** when evidence is insufficient.
 
-> **Design principle:** the system abstains rather than hallucinates. If the evidence is not clearly present in the loaded corpus, it says so.
+**Live demo → [diabetes-rag.onrender.com](https://diabetes-rag.onrender.com)**
+
+![Diabetes RAG UI](https://raw.githubusercontent.com/Dhyey2901/diabetes-rag/main/docs/screenshot.png)
+
+---
+
+## What it does
+
+- Accepts clinical questions about diabetes management
+- Retrieves the most relevant chunks from 19 ADA 2025 guideline chapters using hybrid search
+- Streams the answer token-by-token with bracketed citations
+- Shows a confidence badge (green / amber / red) on every response
+- Refuses to answer when retrieval confidence is below threshold (abstention-first design)
+- Tracks usage and answer quality in a built-in analytics dashboard
 
 ---
 
 ## Architecture
 
 ```text
-PDF ──► ingest.py ──► data/clean/*.md   (19 ADA chapters, one file each)
-                           │
-                       chunk.py ──► index/chunks.jsonl   (500-word overlapping chunks)
-                           │
-             ┌─────────────┴──────────────┐
-          bm25.py                   embed_index.py
-        (BM25Okapi)          (MiniLM-L6-v2 · numpy cosine)
-             │                           │
-             └─────────┬─────────────────┘
-                   retrieve.py
-            Weighted fusion + RRF + MMR
-                       │
-                     qa.py
-         Context reducer ──► Ollama LLM
-                       │
-               QAResult (answer + citations + confidence)
-                       │
-               web_ui.py  /  CLI
+PDF (358 pages)
+    │
+    ▼
+ingest.py  ──  TOC-based page extraction (PyMuPDF)
+    │
+    ▼
+data/clean/  ──  19 Markdown files, one per ADA chapter
+    │
+    ▼
+chunk.py  ──  sliding-window chunker  →  index/chunks.jsonl  (912 chunks)
+    │
+    ├──────────────────────────────────────┐
+    ▼                                      ▼
+bm25.py                            embed_index.py
+BM25Okapi sparse index             fastembed MiniLM-L6-v2
+(term overlap)                     (semantic embeddings, ONNX)
+    │                                      │
+    └────────────────┬─────────────────────┘
+                     ▼
+               retrieve.py
+       Weighted BM25 + dense fusion
+       Reciprocal Rank Fusion (RRF)
+       MMR diversification
+       Section pinning (A1C / diet / kidney intents)
+                     │
+                     ▼
+                   qa.py
+       Context reducer (top-k re-scoring)
+       OpenRouter LLM (cloud) / Ollama (local fallback)
+       Lexical support check  →  abstain if overlap < 0.08
+                     │
+                     ▼
+               web_ui.py
+       Flask · SSE streaming · Confidence badge
+       Citation pills · Analytics dashboard
 ```
-
-**Key design decisions:**
-
-| Decision | Why |
-| --- | --- |
-| Numpy matmul instead of Annoy | Annoy segfaults on Python 3.14 / Apple Silicon; numpy L2-normalised dot product is identical and portable |
-| Two-pass retrieval | BM25 for exact term coverage + dense for semantic; weighted fusion + RRF surfaces both |
-| MMR diversification | Prevents returning near-duplicate chunks from the same page |
-| Abstention threshold | Confidence below 0.35 or lexical support overlap below 0.08 → safe refusal |
-| Section pinning | Regex detects A1C / diet / kidney intents → boosts matching chapter scores |
 
 ---
 
 ## Tech Stack
 
-| Layer | Library / Tool |
+| Layer | Tool |
 | --- | --- |
-| PDF extraction | PyMuPDF (`fitz`) |
+| PDF extraction | PyMuPDF (`fitz`) — TOC page-based section splitting |
 | Sparse retrieval | `rank-bm25` (BM25Okapi) |
-| Dense retrieval | `sentence-transformers` · `all-MiniLM-L6-v2` |
-| Vector math | `numpy` (cosine search via matmul) |
-| Generation | Ollama HTTP API (default: `gemma:2b`) |
-| Web UI | Flask + Bootstrap 5 + Chart.js |
-| Security | `markupsafe.escape()` on all user/LLM output |
+| Dense retrieval | `fastembed` · `all-MiniLM-L6-v2` (ONNX, ~80 MB RAM) |
+| Vector math | `numpy` — L2-normalised matmul cosine search |
+| Hybrid fusion | Weighted score + Reciprocal Rank Fusion |
+| Generation | OpenRouter API (cloud) · Ollama (local fallback) |
+| Web framework | Flask 3 + gunicorn |
+| Frontend | Bootstrap 5 · Chart.js · `marked.js` (markdown rendering) |
+| Deployment | Render (free tier, auto-deploy from GitHub) |
+
+---
+
+## Key Design Decisions
+
+| Decision | Rationale |
+| --- | --- |
+| fastembed over sentence-transformers | ONNX runtime uses ~80 MB vs ~450 MB (PyTorch) — fits Render's 512 MB free tier |
+| TOC page-based ingestion | Text-matching section detection mis-assigns content when titles appear in cross-references; PDF bookmarks give exact page boundaries |
+| Abstention-first | Confidence < 0.35 or lexical support < 0.08 → refuse rather than hallucinate |
+| Two-pass retrieval | BM25 for exact term recall + dense for semantic; RRF normalises rank lists before fusion |
+| MMR diversification | Prevents returning near-duplicate chunks from the same page |
+| Section pinning | Regex detects A1C / diet / kidney intents → boosts relevant chapter scores before fusion |
+| SSE streaming | Token-by-token delivery over `/stream` endpoint; falls back to `/ask` if SSE fails |
+
+---
+
+## Evaluation
+
+84-question gold set with answerable/unanswerable split (`data/eval/gold_diabetes_80.json`):
+
+| Metric | Score |
+| --- | --- |
+| Answerable accuracy | **86.7%** |
+| Correct abstention rate | 58.3% |
+| Overall accuracy | 76.2% |
+| Avg retrieval confidence | 0.66 |
+| Avg answer relevance | 0.50 |
+
+**Strong categories:** cardiovascular risk, care coordination, education, lifestyle, monitoring, technology, weight management.
+
+**Known limitation — abstention on out-of-scope queries:** Questions containing diabetes-adjacent terminology (e.g., drug dosing questions) trigger high retrieval confidence even when the specific answer isn't in the guidelines. Fixing this requires a query intent classifier or stricter cross-encoder reranker upstream of generation.
+
+Run it yourself:
+
+```bash
+python src/evaluate_gold.py        # full 84 questions
+python src/evaluate_gold.py 20     # quick 20-question sample
+```
 
 ---
 
@@ -60,7 +121,7 @@ PDF ──► ingest.py ──► data/clean/*.md   (19 ADA chapters, one file e
 ### Prerequisites
 
 - Python 3.10+
-- A [Groq API key](https://console.groq.com) (free) **or** [Ollama](https://ollama.com/download) running locally
+- An [OpenRouter API key](https://openrouter.ai) (free) **or** [Ollama](https://ollama.com) running locally
 
 ```bash
 # 1. Clone and install
@@ -68,25 +129,40 @@ git clone https://github.com/Dhyey2901/diabetes-rag.git
 cd diabetes-rag
 pip install -r requirements.txt
 
-# 2. Copy env template
-cp .env.example .env   # edit if needed
+# 2. Configure
+cp .env.example .env
+# edit .env: set OPENROUTER_API_KEY
 
 # 3. Run (indexes already committed)
-python src/run_generic_rag.py --test           # 5-question smoke test
-python src/run_generic_rag.py "A1C target for adults with type 2 diabetes"
-python src/run_generic_rag.py --web            # web UI at http://localhost:5000
+python -m flask --app "src.web_ui:create_app()" run
+# or
+gunicorn "src.web_ui:create_app()" --bind 0.0.0.0:5000 --workers 1
 ```
 
-### Rebuild indexes from scratch (optional)
+### Rebuild indexes from scratch
 
-Only needed if you swap the PDF or edit the Markdown.
+Only needed if you change the source PDF or chunking parameters:
 
 ```bash
-python src/ingest.py        # PDF → data/clean/*.md  (19 chapters)
-python src/chunk.py         # chunks.jsonl
-python src/bm25.py          # BM25 index
-python src/embed_index.py   # embeddings.npy
+python src/ingest.py        # PDF → data/clean/*.md  (19 chapters, TOC-based)
+python src/chunk.py         # sliding-window chunks  →  index/chunks.jsonl
+python src/bm25.py          # BM25 sparse index
+python src/embed_index.py   # fastembed dense index  →  embeddings.npy
 ```
+
+---
+
+## Environment Variables
+
+| Variable | Default | Description |
+| --- | --- | --- |
+| `OPENROUTER_API_KEY` | — | Required for cloud LLM. Get one free at openrouter.ai |
+| `OPENROUTER_MODEL` | `google/gemma-3-27b-it:free` | OpenRouter model slug |
+| `OLLAMA_MODEL` | `gemma:2b` | Local fallback model (when no API key is set) |
+| `GEN_TOPK` | `4` | Chunks passed to the LLM as context |
+| `CONF_ABSTAIN` | `0.35` | Retrieval confidence below which the system abstains |
+| `SUPPORT_THRESHOLD` | `0.08` | Lexical overlap below which the LLM answer is discarded |
+| `FLASK_SECRET_KEY` | random | Flask session signing key |
 
 ---
 
@@ -95,98 +171,39 @@ python src/embed_index.py   # embeddings.npy
 ```text
 diabetes-rag/
 ├── data/
-│   ├── raw/                     # ADA PDF (not committed; add your own)
-│   ├── clean/                   # Extracted Markdown (one file per ADA chapter)
-│   └── eval/
-│       └── gold_diabetes_80.json
+│   ├── raw/                      # Source PDF (not committed)
+│   ├── clean/                    # 19 Markdown chapter files
+│   └── eval/gold_diabetes_80.json
 ├── index/
-│   ├── chunks.jsonl             # All chunks with metadata
-│   ├── bm25.pkl                 # Serialised BM25 index
-│   ├── bm25_meta.jsonl
-│   ├── embeddings.npy           # L2-normalised MiniLM embeddings
+│   ├── chunks.jsonl              # 912 chunks with section metadata
+│   ├── bm25.pkl                  # Serialised BM25 index
+│   ├── embeddings.npy            # L2-normalised MiniLM embeddings (912 × 384)
 │   └── meta.jsonl
-├── results/
-│   └── evaluation_results.json
 ├── src/
-│   ├── ingest.py                # PDF extraction (PyMuPDF)
-│   ├── chunk.py                 # Sliding-window chunker
-│   ├── bm25.py                  # BM25 index builder
-│   ├── embed_index.py           # Dense embedding builder
-│   ├── retrieve.py              # Hybrid retriever (BM25 + dense + fusion + MMR)
-│   ├── qa.py                    # Full QA pipeline (retrieval → LLM → QAResult)
-│   ├── evaluate_gold.py         # 80-question gold-set evaluator
-│   ├── web_ui.py                # Flask app + metrics dashboard
-│   └── run_generic_rag.py       # CLI entrypoint
+│   ├── ingest.py                 # PDF → Markdown (TOC page-based)
+│   ├── chunk.py                  # Sliding-window chunker
+│   ├── bm25.py                   # BM25 index builder
+│   ├── embed_index.py            # fastembed dense index builder
+│   ├── retrieve.py               # Hybrid retriever (BM25 + dense + RRF + MMR)
+│   ├── qa.py                     # QA pipeline (retrieval → LLM → QAResult)
+│   ├── evaluate_gold.py          # Gold-set evaluator
+│   └── web_ui.py                 # Flask app + streaming + metrics dashboard
 ├── .env.example
-├── requirements.txt
-└── readme.md
+├── render.yaml                   # Render deployment config
+├── Procfile
+└── requirements.txt
 ```
-
----
-
-## Evaluation
-
-Run the 80-question gold set (answerable + unanswerable split):
-
-```bash
-python src/run_generic_rag.py --evaluate
-```
-
-Results are saved to `results/evaluation_results.json`.
-
-### Results (fixed pipeline, gemma:2b, 80 questions)
-
-| Metric | Score |
-| --- | --- |
-| Overall accuracy | 61.9% |
-| Answerable accuracy | **86.7%** |
-| Avg retrieval confidence | 0.66 |
-| Avg answer relevance | 0.50 |
-| False abstention rate | 13.3% |
-
-**Strong categories:** cardiovascular risk, care coordination, education/safety, lifestyle, monitoring, psychosocial, technology, weight management (all 100%).
-
-**Limitation — unanswerable abstention (0%):** questions like *"what dose of sulfonylurea is safe for an 86-year-old with CKD?"* contain enough diabetes-adjacent terminology that the retriever finds relevant passages and returns high confidence (≥ 0.35), bypassing the abstention threshold. The LLM then generates a plausible-sounding but technically non-answerable response. Fixing this requires either a query intent classifier upstream of retrieval, or a stricter cross-encoder reranker that can distinguish "topic present in corpus" from "specific question answerable from corpus".
-
----
-
-## Demo Questions
-
-```text
-"What is the A1C target for most non-pregnant adults with type 2 diabetes?"
-"How often should A1C be checked in a stable patient meeting treatment goals?"
-"What is the recommended blood pressure target for adults with diabetes?"
-"What annual screening is recommended for diabetic kidney disease?"
-"Which physical activity recommendations are supported for people with diabetes?"
-"Should people taking SGLT2 inhibitors avoid ketogenic diets?"
-```
-
----
-
-## Environment Variables
-
-See `.env.example` for all options. Key ones:
-
-| Variable | Default | Description |
-| --- | --- | --- |
-| `OPENROUTER_API_KEY` | — | OpenRouter API key (free at openrouter.ai). If set, cloud LLM is used instead of Ollama |
-| `OPENROUTER_MODEL` | `meta-llama/llama-3.1-8b-instruct:free` | OpenRouter model for generation |
-| `OLLAMA_MODEL` | `gemma:2b` | Ollama model (used when `OPENROUTER_API_KEY` is not set) |
-| `GEN_TOPK` | `4` | Chunks passed to LLM context |
-| `CONF_ABSTAIN` | `0.35` | Confidence threshold below which the system abstains |
-| `SUPPORT_THRESHOLD` | `0.08` | Lexical overlap below which the answer is discarded |
-| `FLASK_SECRET_KEY` | random | Flask session signing key |
 
 ---
 
 ## Limitations & Future Work
 
-- **Table extraction**: ADA numeric targets often appear in tables; PyMuPDF extracts these as plain text which may lose row/column structure. A table-aware extractor (e.g. `camelot`) would improve coverage.
-- **Reranker**: A cross-encoder reranker (e.g. `ms-marco-MiniLM`) between retrieval and generation would improve precision without requiring a larger LLM.
-- **Multi-turn context**: Session history is stored but not fed back into retrieval; conversational follow-ups lose prior context.
+- **Table extraction**: ADA numeric targets appear in tables; PyMuPDF extracts these as plain text, losing row/column structure. A table-aware extractor (e.g. `camelot`) would improve coverage.
+- **Cross-encoder reranker**: A `ms-marco-MiniLM` reranker between retrieval and generation would improve precision, especially for out-of-scope abstention.
+- **Multi-turn context**: Session history is stored but not fed into retrieval — conversational follow-ups lose prior context.
 
 ---
 
 ## Data Use
 
-This project uses the ADA Standards of Care 2025 for educational and research purposes. For any redistribution or derivative use of the guideline text, follow [ADA's terms](https://diabetesjournals.org).
+This project uses the ADA Standards of Care 2025 for educational and research purposes only. For redistribution or derivative use of guideline text, follow [ADA's terms](https://diabetesjournals.org).

@@ -1,2134 +1,7 @@
-children and adolescents. Pediatr
-Diabetes 2022;23:1212–1228
-128. Cystic Fibrosis Foundation. Patient Registry
-2022 Annual Data Report. Bethesda, MD, Cystic
-Fibrosis Foundation, 2022. Accessed 5 August
-2024. Available from https://www.cff.org/media/
-31216/download
-129. Gilmour JA. Response to the letter to the
-editor from Dr. Boudreau et al, “Validation of a
-stepwise approach using glycated hemoglobin
-levels to reduce the number of required oral
-glucose tolerance tests to screen for cystic
-ﬁbrosis-related diabetes in adults.” Can J Diabetes
-2019;43:163
-130. Gilmour JA, Sykes J, Etchells E, Tullis E.
-Cystic ﬁbrosis-related diabetes screening in
-adults: a gap analysis and evaluation of accuracy
-of glycated hemoglobin levels. Can J Diabetes
-2019;43:13–18
-131. Darukhanavala A, Van Dessel F, Ho J,
-Hansen M, Kremer T, Alfego D. Use of hemo-
-globin A1c to identify dysglycemia in cystic
-ﬁbrosis. PLoS One 2021;16:e0250036
-132. Franck Thompson E, Watson D, Benoit CM,
-Landvik S, McNamara J. The association of
-pediatric cystic ﬁbrosis-related diabetes screening
-on clinical outcomes by center: a CF patient
-registry study. J Cyst Fibros 2020;19:316–320
-133. Olesen HV, Drevinek P, Gulmans VA, et al.;
-ECFSPR Steering Group. Cystic ﬁbrosis related
-diabetes in Europe: prevalence, risk factors and
-outcome. J Cyst Fibros 2020;19:321–327
-134. Mainguy C, Bellon G, Delaup V, et al.
-Sensitivity and speciﬁcity of different methods
-for cystic ﬁbrosis-related diabetes screening: is
-the oral glucose tolerance test still the standard?
-J Pediatr Endocrinol Metab 2017;30:27–35
-135. Moran A, Pekow P, Grover P, et al.; Cystic
-Fibrosis Related Diabetes Therapy Study Group.
-Insulin therapy to improve BMI in cystic ﬁbrosis-
-related diabetes without fasting hyperglycemia:
-results of the cystic ﬁbrosis related diabetes
-therapy trial. Diabetes Care 2009;32:1783–1788
-136.
-Moran A, Brunzell C, Cohen RC, et al.;
-CFRD
-Guidelines
-Committee.
-Clinical
-care
-guidelines for cystic ﬁbrosis-related diabetes: a
-position statement of the American Diabetes
-Association and a clinical practice guideline of
-the Cystic Fibrosis Foundation, endorsed by the
-Pediatric Endocrine Society. Diabetes Care 2010;
-33:2697–2708
-137. Shivaswamy V, Boerner B, Larsen J. Post-
-transplant diabetes mellitus: causes, treatment,
-and impact on outcomes. Endocr Rev 2016;37:
-37–61
-138. Sharif A, Hecking M, de Vries APJ, et al.
-Proceedings from an international consensus
-meeting on posttransplantation diabetes mellitus:
-recommendations and future directions. Am J
-Transplant 2014;14:1992–2000
-139. Hecking M, Werzowa J, Haidinger M,
-et al.; European-New-Onset Diabetes After
-Trans-plantation Working Group. Novel views
-on new-onset diabetes after transplantation:
-development, prevention and treatment. Nephrol
-Dial Transplant 2013;28:550–566
-140. Montero N, Oliveras L, Soler MJ, Cruzado
-JM. Management of post-transplant diabetes
-mellitus: an opportunity for novel therapeutics.
-Clin Kidney J 2022;15:5–13
-141. Ramirez SC, Maaske J, Kim Y, et al. The
-association between glycemic control and clinical
-outcomes after kidney transplantation. Endocr
-Pract 2014;20:894–900
-142. Thomas MC, Moran J, Mathew TH, Russ GR,
-Rao MM. Early peri-operative hyperglycaemia
-and renal allograft rejection in patients without
-diabetes. BMC Nephrol 2000;1:1
-143. Chakkera HA, Weil EJ, Castro J, et al.
-Hyperglycemia during the immediate period
-after kidney transplantation. Clin J Am Soc
-Nephrol 2009;4:853–859
-144. Wallia A, Illuri V, Molitch ME. Diabetes care
-after transplant: deﬁnitions, risk factors, and
-clinical management. Med Clin North Am 2016;
-100:535–550
-145. Kim HD, Chang J-Y, Chung BH, et al. Effect
-of everolimus with low-dose tacrolimus on
-development of new-onset diabetes after trans-
-plantation and allograft function in kidney trans-
-plantation: a multicenter, open-label, randomized
-trial. Ann Transplant 2021;26:e927984
-146. Cheng C-Y, Chen C-H, Wu M-F, et al. Risk
-factors in and long-term survival of patients with
-post-transplantation diabetes mellitus: a retro-
-spective cohort study. Int J Environ Res Public
-Health 2020;17:4581
-diabetesjournals.org/care
-Diagnosis and Classification of Diabetes
-S47
-©AmericanDiabetesAssociation
-147. Gulsoy Kirnap N, Bozkus Y, Haberal M.
-Analysis of risk factors for posttransplant diabetes
-mellitus after kidney transplantation: single-center
-experience. Exp Clin Transplant 2020;18:36–40
-148. Sharif A, Moore RH, Baboolal K. The use of
-oral glucose tolerance tests to risk stratify for
-new-onset diabetes after transplantation: an
-underdiagnosed phenomenon. Transplantation
-2006;82:1667–1672
-149. Galindo RJ, Fried M, Breen T, Tamler R.
-Hyperglycemia management in patients with
-posttransplantation diabetes. Endocr Pract 2016;22:
-454–465
-150. Jenssen T, Hartmann A. Emerging treatments
-for post-transplantation diabetes mellitus. Nat Rev
-Nephrol 2015;11:465–477
-151. Thomas MC, Mathew TH, Russ GR, Rao
-MM, Moran J. Early peri-operative glycaemic
-control and allograft rejection in patients with
-diabetes mellitus: a pilot study. Transplantation
-2001;72:1321–1324
-152. Greeley SAW, Polak M, Njølstad PR, et al.
-ISPAD Clinical Practice Consensus Guidelines
-2022: the diagnosis and management of mono-
-genic diabetes in children and adolescents.
-Pediatr Diabetes 2022;23:1188–1211
-153. Carmody D, Støy J, Greeley S, Bell G,
-Philipson L. Chapter 2. A clinical guide to
-monogenic diabetes. In Genetic Diagnosis of
-Endocrine Disorders. 2nd ed. Weiss RE, Refetoff
-S, Eds. Philadelphia, PA, Elsevier, 2016, pp. 21–30
-154. De Franco E, Flanagan SE, Houghton JAL,
-et al. The effect of early, comprehensive genomic
-testing on clinical care in neonatal diabetes: an
-international cohort study. Lancet 2015;386:
-957–963
-155. Sanyoura M, Letourneau L, Knight Johnson
-AE, et al. GCK-MODY in the US Monogenic
-Diabetes Registry: description of 27 unpublished
-variants. Diabetes Res Clin Pract 2019;151:
-231–236
-156. Carmody D, Naylor RN, Bell CD, et al. GCK-
-MODY in the US National Monogenic Diabetes
-Registry: frequently misdiagnosed and unnecessarily
-treated. Acta Diabetol 2016;53:703–708
-157. Timsit J, Saint-Martin C, Dubois-Laforgue D,
-Bellanne-Chantelot C. Searching for maturity-
-onset diabetes of the young (MODY): when and
-what for? Can J Diabetes 2016;40:455–461
-158. Awa WL, Schober E, Wiegand S, et al.
-Reclassiﬁcation of diabetes type in pediatric
-patients initially classiﬁed as type 2 diabetes
-mellitus: 15 years follow-up using routine data
-from the German/Austrian DPV database. Dia-
-betes Res Clin Pract 2011;94:463–467
-159. Shields
-BM,
-Hicks
-S,
-Shepherd
-MH,
-Colclough K, Hattersley AT, Ellard S. Maturity-
-onset diabetes of the young (MODY): how many
-cases are we missing? Diabetologia 2010;53:
-2504–2508
-160. Pihoker C, Gilliam LK, Ellard S, et al.;
-SEARCH for Diabetes in Youth Study Group.
-Prevalence, characteristics and clinical diagnosis
-of maturity onset diabetes of the young due to
-mutations in HNF1A, HNF4A, and glucokinase:
-results from the SEARCH for Diabetes in Youth. J
-Clin Endocrinol Metab 2013;98:4055–4062
-161.
-Draznin B, Philipson LH, McGill JB. Atypical
-diabetes: pathophysiology, clinical presentations,
-and treatment options. Arlington, VA, American
-Diabetes Association Arlington, 2018
-162. Exeter Diabetes. MODY Probability Calculator.
-Accessed 5 August 2024. Available from https://
-www.diabetesgenes.org/exeter-diabetes-app/
-ModyCalculator
-163. Huvinen E, Koivusalo SB, Meinil€a J, et al.
-Effects of a lifestyle intervention during pregnancy
-and ﬁrst postpartum year: ﬁndings from the
-RADIEL study. J Clin Endocrinol Metab 2018;103:
-1669–1677
-164. Feig DS, Hwee J, Shah BR, Booth GL,
-Bierman AS, Lipscombe LL. Trends in incidence of
-diabetes in pregnancy and serious perinatal
-outcomes: a large, population-based study in
-Ontario, Canada, 1996-2010. Diabetes Care 2014;
-37:1590–1596
-165. Peng TY, Ehrlich SF, Crites Y, et al. Trends
-and racial and ethnic disparities in the prevalence
-of pregestational type 1 and type 2 diabetes in
-Northern California: 1996-2014. Am J Obstet
-Gynecol 2017;216:177.e171–177.e178
-166. Jovanovic L, Liang Y, Weng W, Hamilton M,
-Chen L, Wintfeld N. Trends in the incidence of
-diabetes, its clinical sequelae, and associated
-costs in pregnancy. Diabetes Metab Res Rev
-2015;31:707–716
-167. Poltavskiy E, Kim DJ, Bang H. Comparison
-of screening scores for diabetes and prediabetes.
-Diabetes Res Clin Pract 2016;118:146–153
-168. Mission JF, Catov J, Deihl TE, Feghali M,
-Scifres C. Early pregnancy diabetes screening and
-diagnosis: prevalence, rates of abnormal test
-results, and associated factors. Obstet Gynecol
-2017;130:1136–1142
-169. Cho NH, Shaw JE, Karuranga S, et al. IDF
-Diabetes Atlas: global estimates of diabetes
-prevalence for 2017 and projections for 2045.
-Diabetes Res Clin Pract 2018;138:271–281
-170. Britton LE, Hussey JM, Crandell JL, Berry DC,
-Brooks JL, Bryant AG. Racial/ethnic disparities in
-diabetes diagnosis and glycemic control among
-women of reproductive age. J Womens Health
-(Larchmt) 2018;27:1271–1277
-171. Robbins C, Boulet SL, Morgan I, et al.
-Disparities in preconception health indicators—
-Behavioral Risk Factor Surveillance System, 2013-
-2015, and Pregnancy Risk Assessment Monitoring
-System, 2013-2014. MMWR Surveill Summ 2018;
-67:1–16
-172. Yuen L, Wong VW, Simmons D. Ethnic
-disparities in gestational diabetes. Curr Diab Rep
-2018;18:68
-173. Wahabi HA, Fayed A, Esmaeil S, et al.
-Systematic review and meta-analysis of the
-effectiveness of pre-pregnancy care for women
-with
-diabetes for
-improving
-maternal
-and
-perinatal outcomes. PLoS One 2020;15:e0237571
-174. Zhu W-W, Yang H-X, Wei Y-M, et al.
-Evaluation of the value of fasting plasma glucose
-in the ﬁrst prenatal visit to diagnose gestational
-diabetes mellitus in China. Diabetes Care 2013;36:
-586–590
-175. Ma~ne L, Flores-Le Roux JA, Gomez N, et al.
-Association of ﬁrst-trimester HbA1c levels with
-adverse pregnancy outcomes in different ethnic
-groups. Diabetes Res Clin Pract 2019;150:202–210
-176. Kattini R, Hummelen R, Kelly L. Early
-gestational diabetes mellitus screening with
-glycated hemoglobin: a systematic review. J
-Obstet Gynaecol Can 2020;42:1379–1384
-177. Chen L, Pocobelli G, Yu O, et al. Early
-pregnancy hemoglobin A1C and pregnancy out-
-comes: a population-based study. Am J Perinatol
-2019;36:1045–1053
-178. Osmundson SS, Zhao BS, Kunz L, et al. First
-trimester hemoglobin A1c prediction of gestational
-diabetes. Am J Perinatol 2016;33:977–982
-179. McIntyre HD, Sacks DA, Barbour LA, et al.
-Issues with the diagnosis and classiﬁcation of
-hyperglycemia in early pregnancy. Diabetes Care
-2016;39:53–54
-180. Simmons D, Immanuel J, Hague WM, et al.;
-TOBOGM Research Group.Treatment of gestational
-diabetes mellitus diagnosed early in pregnancy. N
-Engl J Med 2023;388:2132–2144
-181. Cavagnolli G, Pimentel AL, Freitas PAC,
-Gross JL, Camargo JL. Factors affecting A1C in
-non-diabetic
-individuals:
-review
-and
-meta-
-analysis. Clin Chim Acta 2015;445:107–114
-182. Buchanan TA, Xiang A, Kjos SL, Watanabe
-R. What is gestational diabetes? Diabetes Care
-2007;30(Suppl 2):S105–S111
-183. Noctor E, Crowe C, Carmody LA, et al.;
-ATLANTIC-DIP Investigators. Abnormal glucose
-tolerance post-gestational diabetes mellitus as
-deﬁned by the International Association of
-Diabetes and Pregnancy Study Groups criteria.
-Eur J Endocrinol 2016;175:287–297
-184. Kim C, Newton KM, Knopp RH. Gestational
-diabetes and the incidence of type 2 diabetes: a
-systematic review. Diabetes Care 2002;25:1862–
-1868
-185. Liu Z, Zhang Q, Liu L, Liu W. Risk factors
-associated with early postpartum glucose intolerance
-in women with a history of gestational diabetes
-mellitus: a systematic review and meta-analysis.
-Endocrine 2023;82:498–512
-186. Ratner RE, Christophi CA, Metzger BE, et al.;
-Diabetes Prevention Program Research Group.
-Prevention of diabetes in women with a history of
-gestational diabetes: effects of metformin and
-lifestyle interventions. J Clin Endocrinol Metab
-2008;93:4774–4779
-187. Aroda VR, Christophi CA, Edelstein SL,
-et al.; Diabetes Prevention Program Research
-Group. The effect of lifestyle intervention and
-metformin on preventing or delaying diabetes
-among women with and without gestational
-diabetes: the Diabetes Prevention Program out-
-comes study 10-year follow-up. J Clin Endocrinol
-Metab 2015;100:1646–1653
-188. Vounzoulaki E, Khunti K, Abner SC, Tan BK,
-Davies MJ, Gillies CL. Progression to type 2
-diabetes in women with a known history of
-gestational diabetes: systematic review and
-meta-analysis. BMJ 2020;369:m1361
-189. Metzger BE, Lowe LP, Dyer AR, et al.; HAPO
-Study Cooperative Research Group. Hyper-glycemia
-and adverse pregnancy outcomes. N Engl J Med
-2008;358:1991–2002
-190. O’Sullivan JB, Mahan CM. Criteria for the
-oral glucose tolerance test in pregnancy. Diabetes
-1964;13:278–285
-191. Sacks DA, Hadden DR, Maresh M, et al.;
-HAPO Study Cooperative Research Group.
-Frequency of gestational diabetes mellitus
-at collaborating centers based on IADPSG consensus
-panel-recommended criteria: the Hyperglycemia
-and Adverse Pregnancy Outcome (HAPO) study.
-Diabetes Care 2012;35:526–528
-192. Brown FM, Wyckoff J. Application of one-
-step IADPSG versus two-step diagnostic criteria
-for gestational diabetes in the real world: impact
-S48
-Diagnosis and Classification of Diabetes
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-on health services, clinical care, and outcomes.
-Curr Diab Rep 2017;17:85
-193. Lowe WL, Scholtens DM, Lowe LP, et al.;
-HAPO Follow-up Study Cooperative Research
-Group. Association of gestational diabetes with
-maternal disorders of glucose metabolism and
-childhood adiposity. JAMA 2018;320:1005–1016
-194. Landon MB, Spong CY, Thom E, et al.;
-Eunice Kennedy Shriver National Institute of Child
-Health and Human Development Maternal-Fetal
-Medicine Units Network. A multicenter, rando-
-mized trial of treatment for mild gestational
-diabetes. N Engl J Med 2009;361:1339–1348
-195. Crowther CA, Hiller JE, Moss JR, McPhee
-AJ, Jeffries WS, Robinson JS, Australian Carbo-
-hydrate Intolerance Study in Pregnant Women
-(ACHOIS) Trial Group. Effect of treatment of
-gestational diabetes mellitus on pregnancy
-outcomes. N Engl J Med 2005;352:2477–2486
-196. Hillier TA, Pedula KL, Ogasawara KK, et al. A
-pragmatic, randomized clinical trial of gestational
-diabetes screening. N Engl J Med 2021;384:895–904
-197. Coustan DR, Dyer AR, Metzger BE. One-
-step or 2-step testing for gestational diabetes:
-which is better? Am J Obstet Gynecol 2021;225:
-634–644
-198. Lowe WL, Scholtens DM, Kuang A, et al.;
-HAPO Follow-up Study Cooperative Research
-Group. Hyperglycemia and Adverse Pregnancy
-Outcome Follow-up Study (HAPO FUS): maternal
-gestational diabetes mellitus and childhood
-glucose metabolism. Diabetes Care 2019;42:
-372–380
-199. Scholtens DM, Kuang A, Lowe LP, et al.;
-HAPO Follow-Up Study Cooperative Research
-Group. Hyperglycemia and Adverse Pregnancy
-Outcome Follow-up Study (HAPO FUS): maternal
-glycemia and childhood glucose metabolism.
-Diabetes Care 2019;42:381–392
-200. Josefson JL, Scholtens DM, Kuang A, et al.;
-HAPO Follow-up Study Cooperative Research
-Group. Newborn adiposity and cord blood
-C-peptide as mediators of the maternal metabolic
-environment and childhood adiposity. Diabetes Care
-2021;44:1194–1202
-201. Landon MB, Rice MM, Varner MW, et al.;
-Eunice Kennedy Shriver National Institute of
-Child Health and Human Development Maternal-
-Fetal Medicine Units (MFMU) Network. Mild
-gestational diabetes mellitus and long-term child
-health. Diabetes Care 2015;38:445–452
-202. Tam WH, Ma RCW, Ozaki R, et al. In utero
-exposure to maternal hyperglycemia increases
-childhood
-cardiometabolic
-risk in
-offspring.
-Diabetes Care 2017;40:679–686
-203. Vandorsten JP, Dodson WC, Espeland MA,
-et al. NIH consensus development conference:
-diagnosing gestational diabetes mellitus. NIH
-Consens State Sci Statements 2013;29:1–31
-204. Committee on Practice Bulletins—Obstetrics.
-ACOG Practice Bulletin No. 190: Gestational Diabetes
-Mellitus. Obstet Gynecol 2018;131:e49–e64
-205. Pillay J, Donovan L, Guitard S, et al.
-Screening for gestational diabetes mellitus: a
-systematic review to update the 2014 U.S.
-Preventive Services Task Force Recommendation.
-In US Preventative Services Task Force Evidence
-Syntheses, formerly Systematic Evidence Reviews.
-Rockville, MD, Agency for Healthcare Research
-and Quality, 2021. Available from https://www
-.ncbi.nlm.nih.gov/books/NBK573100/
-206. Khalafallah A, Phuah E, Al-Barazan AM,
-et al. Glycosylated haemoglobin for screening
-and diagnosis of gestational diabetes mellitus.
-BMJ Open 2016;6:e011059
-207. Farrar D, Simmonds M, Bryant M, et al.
-Treatments for gestational diabetes: a systematic
-review and meta-analysis. BMJ Open 2017;7:
-e015557
-208. Carpenter MW, Coustan DR. Criteria for
-screening tests for gestational diabetes. Am J
-Obstet Gynecol 1982;144:768–773
-209. National Diabetes Data Group. Classiﬁ-
-cation and diagnosis of diabetes mellitus and
-other categories of glucose intolerance. Diabetes
-1979;28:1039–1057
-210. Harper LM, Mele L, Landon MB, et al.; Eunice
-Kennedy Shriver National Institute of Child Health
-and Human Development (NICHD) Maternal-Fetal
-Medicine Units (MFMU) Network. Carpenter-
-Coustan compared with national diabetes data
-group criteria for diagnosing gestational diabetes.
-Obstet Gynecol 2016;127:893–898
-211. Mo X, Gai Tobe R, Takahashi Y, et al.
-Economic evaluations of gestational diabetes
-mellitus screening: a systematic review. J Epidemiol
-2021;31:220–230
-212. Wei Y, Yang H, Zhu W, et al. International
-Association of Diabetes and Pregnancy Study
-Group criteria is suitable for gestational diabetes
-mellitus diagnosis: further evidence from China.
-Chin Med J (Engl) 2014;127:3553–3556
-213. Feldman
-RK,
-Tieu
-RS,
-Yasumura
-L.
-Gestational diabetes screening: the International
-Association of the Diabetes and Pregnancy Study
-Groups compared with Carpenter-Coustan screening.
-Obstet Gynecol 2016;127:10–17
-214. Saccone G, Khalifeh A, Al-Kouatly HB,
-Sendek K, Berghella V. Screening for gestational
-diabetes mellitus: one step versus two step
-approach. A meta-analysis of randomized trials. J
-Matern Fetal Neonatal Med 2020;33:1616–1624
-215. Ethridge JK, Catalano PM, Waters TP.
-Perinatal outcomes associated with the diagnosis
-of gestational diabetes made by the International
-Association of the Diabetes and Pregnancy Study
-Groups criteria. Obstet Gynecol 2014;124:571–
-578
-216. Mayo K, Melamed N, Vandenberghe H,
-Berger H. The impact of adoption of the
-international association of diabetes in pregnancy
-study group criteria for the screening and diagnosis
-of gestational diabetes. Am J Obstet Gynecol
-2015;212:224.e1–224.e9
-217. Selvin
-E.
-Hemoglobin
-A1c—using
-epi-
-demiology to guide medical practice: Kelly West
-Award Lecture 2020. Diabetes Care 2021;44:
-2197–2204
-diabetesjournals.org/care
-Diagnosis and Classification of Diabetes
-S49
-©AmericanDiabetesAssociation
-3. Prevention or Delay of
-Diabetes and Associated
-Comorbidities: Standards of Care
-in Diabetes—2025
-Diabetes Care 2025;48(Suppl. 1):S50–S58 | https://doi.org/10.2337/dc25-S003
-American Diabetes Association
-Professional Practice Committee*
-The American Diabetes Association (ADA) “Standards of Care in Diabetes” in-
-cludes the ADA’s current clinical practice recommendations and is intended to
-provide the components of diabetes care, general treatment goals and guide-
-lines, and tools to evaluate quality of care. Members of the ADA Professional
-Practice Committee, an interprofessional expert committee, are responsible for
-updating the Standards of Care annually, or more frequently as warranted. For a
-detailed description of ADA standards, statements, and reports, as well as the
-evidence-grading system for ADA’s clinical practice recommendations and a full
-list of Professional Practice Committee members, please refer to Introduction
-and Methodology. Readers who wish to comment on the Standards of Care are
-invited to do so at professional.diabetes.org/SOC.
-For guidelines related to screening for increased risk for type 1 diabetes, prediabe-
-tes and type 2 diabetes, and other forms of diabetes, please refer to Section 2,
-“Diagnosis and Classiﬁcation of Diabetes.” For guidelines related to screening, diag-
-nosis, and management of type 2 diabetes in youth, please refer to Section 14
-“Children and Adolescents.”
-Recommendations
-3.1 In people with prediabetes, monitor for the development of type 2 diabetes
-at least annually; modify frequency of testing based on individual risk assess-
-ment. E
-3.2 In people with presymptomatic type 1 diabetes, monitor for disease pro-
-gression using A1C approximately every 6 months and 75-g oral glucose toler-
-ance test (i.e., fasting and 2-h plasma glucose) annually; modify frequency of
-monitoring based on individual risk assessment based on age, number and
-type of autoantibodies, and glycemic metrics. E
-Screening for prediabetes and type 2 diabetes risk through an assessment of risk
-factors (Table 2.5) or with an assessment tool, such as the American Diabetes As-
-sociation risk test, which can be used by either a layperson or a health care profes-
-sional (Fig. 2.2), is recommended to guide whether to perform a diagnostic test for
-prediabetes (Table 2.2) and type 2 diabetes (Table 2.1) (see Section 2, “Diagnosis
-and Classiﬁcation of Diabetes”). Testing high-risk adults for prediabetes is war-
-ranted because the laboratory assessment is safe and reasonable in cost. In addi-
-tion, substantial time exists before the development of type 2 diabetes and its
-*A complete list of members of the American
-Diabetes Association Professional Practice Committee
-can be found at https://doi.org/10.2337/dc25-SINT.
-Duality of interest information for each author is
-available at https://doi.org/10.2337/dc25-SDIS.
-Suggested citation: American Diabetes Association
-Professional Practice Committee. 3. Prevention or
-delay of diabetes and associated comorbidities:
-Standards of Care in Diabetes—2025. Diabetes
-Care 2025;48(Suppl. 1):S50–S58
-© 2024 by the American Diabetes Association.
-Readers may use this article as long as the
-work is properly cited, the use is educational
-and not for proﬁt, and the work is not altered.
-More information is available at https://www
-.diabetesjournals.org/journals/pages/license.
-3. PREVENTION OR DELAY OF DIABETES
-S50
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-complications during which one can inter-
-vene. Once identiﬁed, several effective
-therapeutic approaches exist that can de-
-lay type 2 diabetes in those with prediabe-
-tes with an A1C 5.7–6.4% (39–47 mmol/
-mol), impaired glucose tolerance (IGT) on
-75-g oral glucose tolerance test (OGTT), or
-impaired fasting glucose (IFG). The util-
-ity of screening with A1C for prediabe-
-tes and diabetes may be limited in the
-presence of certain hemoglobinopa-
-thies and conditions that affect red
-blood cell turnover (Table 2.3). See Sec-
-tion 2, “Diagnosis and Classiﬁcation of
-Diabetes,” and Section 6, “Glycemic Goals
-and Hypoglycemia,” for additional details
-on the appropriate use and limitations of
-A1C testing.
-Three distinct stages of type 1 diabetes
-have been deﬁned, with symptomatic
-type 1 diabetes being stage 3 (Table 2.4).
-In individuals at risk for developing
-clinical type 1 diabetes, younger age
-of seroconversion (particularly under age
-3 years), the total number of diabetes-
-related autoantibodies (1), and the de-
-velopment of autoantibodies against islet
-antigen 2 (IA-2) have been associated
-with a more rapid progression to clinical
-type 1 diabetes. While continuous glu-
-cose monitoring can predict progression
-to overt diabetes in children with autoan-
-tibodies (2), OGTT-based metrics appear
-to be better at predicting progression
-compared with continuous glucose moni-
-toring (3). The decision to perform an
-OGTT may depend on such factors as eli-
-gibility and interest for stage-speciﬁc treat-
-ments, participation in clinical research,
-availability, and the burden of testing. A
-consensus guidance provides expert rec-
-ommendations on what should be moni-
-tored and how often in people with
-presymptomatic type 1 diabetes (4).
-LIFESTYLE BEHAVIOR CHANGE
-FOR TYPE 2 DIABETES
-PREVENTION
-Recommendations
-3.3 Refer adults with overweight or
-obesity at high risk of type 2 diabe-
-tes, as seen in the Diabetes Preven-
-tion Program (DPP), to an intensive
-lifestyle behavior change program to
-achieve and maintain a weight reduc-
-tion of at least 7% of initial body
-weight through healthy reduced-calorie
-diet and $150 min/week of moder-
-ate-intensity physical activity. A
-3.4 Prescribe an eating pattern known
-to be effective in preventing type 2 dia-
-betes to individuals with prediabetes.
-A variety of eating patterns, such as
-Mediterranean style, intermittent fast-
-ing, and low carbohydrate, have shown
-beneﬁt. B
-3.5 Given the cost-effectiveness of life-
-style behavior modiﬁcation programs
-for diabetes prevention, such diabetes
-prevention programs should be offered
-to adults at high riskof type 2 diabetes. A
-Diabetes prevention programs should
-be covered by third-party payors, and
-inconsistencies in access should be ad-
-dressed. E
-3.6 Based on individual preference,
-certiﬁed technology-assisted diabetes
-prevention programs may be effective
-in preventing type 2 diabetes and
-should be considered. B
-The Diabetes Prevention Program
-Several major randomized controlled tri-
-als, including the Diabetes Prevention
-Program (DPP) trial (5), the Finnish Diabe-
-tes Prevention Study (DPS) (6), and the
-Da Qing Diabetes Prevention Study (Da
-Qing study) (7), demonstrate that life-
-style/behavioral intervention with an in-
-dividualized reduced-calorie meal plan is
-highly effective in preventing or delaying
-type 2 diabetes and improving other car-
-diometabolic risk factors (such as blood
-pressure, lipids, and inﬂammation) (8).
-The strongest evidence for diabetes pre-
-vention in the U.S. comes from the DPP
-trial (5). The DPP demonstrated that in-
-tensive lifestyle intervention could reduce
-the risk of incident type 2 diabetes by
-58% over 3 years. Follow-up of three
-large trials of lifestyle intervention for dia-
-betes prevention showed sustained re-
-duction in the risk of progression to type 2
-diabetes: 39% reduction at 30 years in the
-Da Qing study (9), 43% reduction at 7 years
-in the Finnish DPS (6), and 34% reduction
-at 10 years (10) and 27% reduction at 15
-years (11) in the U.S. Diabetes Prevention
-Program Outcomes Study (DPPOS).
-The DPP lifestyle intervention was a
-goal-based intervention. All participants
-were given the same weight loss and
-physical activity goals, but individualiza-
-tion was permitted to achieve the goals
-(12). The two major goals of the DPP in-
-tensive lifestyle intervention were to
-achieve and maintain a minimum of 7%
-weight loss and to partake in 150 min of
-moderate-intensity physical activity per
-week, such as brisk walking. Although
-weight loss was the most important factor
-in reducing the risk of incident diabetes,
-achieving the behavioral goal of at least
-150 min of physical activity per week,
-even without achieving the weight loss
-goal, reduced the incidence of type 2 dia-
-betes by 44% (13).
-The 7% weight loss goal was selected
-because it was feasible to achieve and
-maintain and likely to lessen the risk of de-
-veloping diabetes (as well as improve
-other cardiometabolic risk factors). Partici-
-pants were encouraged to achieve the
-$7% weight loss during the ﬁrst 6 months
-of the intervention. Further analysis sug-
-gests higher beneﬁt for prevention of dia-
-betes with at least 7–10% weight loss with
-lifestyle interventions (13). The recom-
-mended pace of weight loss was 1–2
-lb/week. Calorie goals were calculated
-by estimating the daily calories needed
-to maintain the participant’s initial weight
-and subtracting 500–1,000 calories/day
-(depending on initial body weight). The
-initial focus of the nutrition intervention
-was on reducing total fat rather than cal-
-ories. After several weeks, the concepts
-of calorie balance and the need to restrict
-calories and fat were introduced (12).
-The goal for physical activity was selected
-to approximate at least 700 kcal/week ex-
-penditure from physical activity. For ease
-of translation, this goal was described as
-at least 150 min of moderate-intensity
-physical activity per week, similar in in-
-tensity to brisk walking. Participants were
-encouraged to distribute their activity
-throughout the week with a minimum
-frequency of three times per week and
-at least 10 min per session. A maximum
-of 75 min of strength training could be
-applied toward the total 150 min/week
-physical activity goal (12).
-To implement the weight loss and phys-
-ical activity goals, the DPP used an individ-
-ual model of treatment rather than a
-group-based approach. This choice was
-based on a desire to intervene before par-
-ticipants had the possibility of developing
-diabetes or losing interest in the program.
-The individual approach also allowed for
-the tailoring of interventions to reﬂect the
-diversity of the population (12).
-The DPP intervention was administered
-as a structured core curriculum followed
-by a ﬂexible maintenance program of
-individual
-counseling,
-group
-sessions,
-diabetesjournals.org/care
-Prevention or Delay of Diabetes
-S51
-©AmericanDiabetesAssociation
-motivational
-campaigns,
-and
-restart
-opportunities. The 16-session core cur-
-riculum was completed within the ﬁrst
-24 weeks of the program. It included ses-
-sions on lowering calories, increasing
-physical activity, self-monitoring, main-
-taining healthy lifestyle behaviors (such
-as how to choose healthy food options
-when eating out), and guidance on manag-
-ing psychological, social, and motivational
-challenges (12).
-While the DPP interventions were suc-
-cessful in preventing or delaying the onset
-of type 2 diabetes, long-term effects on
-clinically meaningful events (microvascu-
-lar and macrovascular disease) have not
-been established (14). However, there is
-potential beneﬁt without the risk of harm
-with these interventions.
-Nutrition
-Nutrition counseling for weight loss in the
-DPP lifestyle intervention arm included a
-reduction of total fat and calories (5,12,13).
-However, evidence suggests that there is
-not an ideal percentage of calories from
-carbohydrate, protein, and fat for all peo-
-ple to prevent diabetes; therefore, macro-
-nutrient distribution should be based on
-an individualized assessment of current
-eating patterns, preferences, and meta-
-bolic goals (15). Based on other trials, a va-
-riety of eating patterns (15,16) may also be
-appropriate for individuals with prediabe-
-tes (15), including Mediterranean-style and
-low-carbohydrate eating plans (17–19). Ob-
-servational studies have also shown that
-vegetarian, plant-based (may include some
-animal products), and Dietary Approaches
-to Stop Hypertension (DASH) eating pat-
-terns are associated with a lower risk of
-developing type 2 diabetes (20–23). Ev-
-idence suggests that the overall quality
-of food consumed (as measured by the
-Healthy Eating Index, Alternative Healthy
-Eating Index, and DASH score), with an
-emphasis on whole grains, legumes,
-nuts, fruits, and vegetables and minimal
-reﬁned and processed foods, is also asso-
-ciated with a lower risk of type 2 diabetes
-(22,24,25). As is the case for those with
-diabetes, individualized medical nutrition
-therapy
-(see
-Section
-5,
-“Facilitating
-Positive Health Behaviors and Well-being
-to Improve Health Outcomes,” for more
-detailed information) is effective in low-
-ering A1C in individuals diagnosed with
-prediabetes (26).
-Physical Activity
-Moderate-intensity physical activity, such
-as brisk walking for 150 min/week, has
-shown beneﬁcial effects in those with pre-
-diabetes (5). Similarly, moderate-intensity
-physical activity has been shown to im-
-prove insulin sensitivity and reduce ab-
-dominal fat in children and young adults
-(27,28). Health care professionals are en-
-couraged to promote a DPP-style pro-
-gram to all individuals who have been
-identiﬁed to be at an increased risk of
-type 2 diabetes. In addition to aerobic ac-
-tivity, a physical activity plan designed to
-prevent diabetes may include resistance
-training (12,29). Breaking up prolonged
-sedentary time may also be encouraged,
-as it lowers postprandial glucose levels
-(30). The effects of physical activity ap-
-pear to extend to the prevention of ges-
-tational diabetes mellitus (GDM) (31).
-Sleep Characteristics Associated With
-Increased Risk of Type 2 Diabetes
-Sleep occupies approximately one-third
-of the day for most people and modu-
-lates a variety of metabolic, endocrine,
-and cardiovascular processes (32). The
-latest ADA-EASD consensus report on
-management of hyperglycemia highlights
-sleep as a central component in the
-management of prediabetes and type 2
-diabetes, placing it, for the ﬁrst time, on
-the same level as other lifestyle behav-
-iors (e.g., physical activity and nutrition)
-(33). Sleep can be characterized using
-three key constructs: quantity, quality,
-and timing (i.e., chronotype). There is
-now established evidence for a U-shaped
-association between sleep duration and
-type 2 diabetes incidence, with the nadir
-typically occurring at 7 h per day, with
-short (typically deﬁned as <6 h) and
-long (typically deﬁned as >9 h) sleep du-
-ration having up to a 50% increase in the
-risk of type 2 diabetes, including progres-
-sion from prediabetes (33). Sleep quality
-has recently been deﬁned as “an individ-
-ual’s self-satisfaction with all aspects of
-the sleep experience” (34,35). Poor sleep
-quality was associated with a 40–84% in-
-creased risk of developing type 2 diabe-
-tes in a meta-analysis (36). Chronotype
-preference has been linked with many
-chronic diseases, including type 2 diabe-
-tes. For example, for those with a prefer-
-ence for evenings (i.e., going to bed late
-and getting up late), there was a 2.5-fold
-higher odds ratio for type 2 diabetes
-than for those with a preference for
-mornings (i.e., going to bed early and
-getting up early), independent of sleep
-duration and sleep sufﬁciency (37).
-Delivery and Dissemination of
-Lifestyle Behavior Change for
-Diabetes Prevention
-Because the intensive lifestyle interven-
-tion in the DPP was effective in prevent-
-ing type 2 diabetes among those at high
-risk for the disease and lifestyle behavior
-change programs for diabetes prevention
-were shown to be cost-effective, broader
-efforts to disseminate scalable lifestyle
-behavior change programs for diabetes
-prevention with coverage by third-party
-payors ensued (38–42). Group delivery of
-DPP content in community or primary
-care settings has demonstrated the po-
-tential to reduce overall program costs
-while still producing weight loss and dia-
-betes risk reduction (43,44).
-The Centers for Disease Control and Pre-
-vention (CDC) developed the National Dia-
-betes Prevention Program (National DPP), a
-resource designed to bring such evidence-
-based lifestyle change programs for pre-
-venting type 2 diabetes to communities
-(cdc.gov/diabetes-prevention). This online
-resource includes locations of CDC-recog-
-nized diabetes prevention lifestyle change
-programs (cdc.gov/diabetes/prevention/
-ﬁnd-a-program.html). To be eligible for
-this program, individuals must have a
-BMI in the overweight range and be at
-risk for diabetes based on laboratory test-
-ing, a previous diagnosis of GDM, or a
-positive risk test (cdc.gov/prediabetes/
-risktest/). During the ﬁrst 4 years of im-
-plementation of the CDC’s National DPP,
-36% achieved the 5% weight loss goal
-(45).The CDC has also developed the Dia-
-betes Prevention Impact Tool Kit (nccd.
-cdc.gov/toolkit/diabetesimpact) to help
-organizations assess the economics of
-providing or covering the National DPP
-(46). To expand preventive services using
-a cost-effective model, the Centers for
-Medicare & Medicaid Services expanded
-Medicare reimbursement coverage for
-the National DPP to organizations recog-
-nized by the CDC that become Medicare
-suppliers for this service (innovation.cms.
-gov/innovation-models/medicare-diabetes-
-prevention-program). The locations of
-Medicare DPPs are available online at
-innovation.cms.gov/innovation-models/
-medicare-diabetes-prevention-program/
-mdpp-map. To qualify for Medicare
-coverage, individuals must have BMI
-S52
-Prevention or Delay of Diabetes
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
->25 kg/m2 (or BMI >23 kg/m2 if self-
-identiﬁed as Asian) and glycemic testing
-consistent with prediabetes in the last
-year. Medicaid DPP is also expanding
-on a state-by-state basis.
-While CDC-recognized behavioral
-counseling programs, including Medi-
-care DPP services, have met minimum
-quality standards and are reimbursed
-by many payors, lower retention rates
-have been reported for younger adults
-and racial and ethnic minoritized popu-
-lations (47). Therefore, other programs
-and modalities of behavioral counsel-
-ing for diabetes prevention may also
-be appropriate and efﬁcacious based
-on individual preferences and availabil-
-ity. The use of community health work-
-ers to support DPP-like interventions
-has been shown to be effective and
-cost-effective (48,49) (see Section 1,
-“Improving Care and Promoting Health
-in Populations,” for more information).
-The use of community health workers
-may facilitate the adoption of behavior
-changes for diabetes prevention while
-bridging barriers related to social deter-
-minants of health. However, coverage
-by third-party payors remains limited.
-Counseling by a registered dietitian/
-nutritionist (RDN) has been shown to
-help individuals with prediabetes improve
-eating habits, increase physical activity, and
-achieve 7–10% weight loss (15,50–52). In-
-dividualized medical nutrition therapy (see
-Section 5, “Facilitating Positive Health
-Behaviors and Well-being to Improve
-Health Outcomes,” for more detailed
-information) is also effective in improv-
-ing glycemia in individuals diagnosed
-with prediabetes (26,50). Furthermore,
-trials involving medical nutrition ther-
-apy for adults with prediabetes found
-signiﬁcant reductions in weight, waist
-circumference, and glycemia (23,26).
-Individuals with prediabetes can beneﬁt
-from referral to an RDN for individualized
-medical nutrition therapy upon diagnosis
-and at regular intervals throughout their
-treatment plan (51,53). Other health care
-professionals, such as pharmacists and dia-
-betes care and education specialists, may
-also be considered for diabetes prevention
-efforts (53,54).
-Technology-assisted programs may ef-
-fectively deliver a DPP-like intervention
-(55–58). A digital diabetes prevention
-program improved cardiovascular risk at
-4 months but not at 12 months (59).
-Such technology-assisted programs may
-deliver content through smartphones,
-web-based applications, and telehealth
-and may be an acceptable and efﬁca-
-cious option to bridge barriers, particu-
-larly for individuals with low income
-and/or in rural locations; however, not
-all technology-assisted programs are ef-
-fective (55,60–62). The CDC Diabetes
-Prevention Recognition Program (DPRP)
-(cdc.gov/diabetes/prevention/requirements-
-recognition.htm) certiﬁes technology-
-assisted modalities as effective vehicles
-for DPP-based interventions; such pro-
-grams must use an approved curricu-
-lum, include interaction with a coach,
-and attain the DPP outcomes of partici-
-pation, physical activity reporting, and
-weight loss. Health care professionals
-should consider referring adults with pre-
-diabetes to certiﬁed technology-assisted
-programs.
-PHARMACOLOGIC INTERVENTIONS
-TO DELAY TYPE 2 DIABETES
-Recommendations
-3.7 Metformin for the prevention of
-type 2 diabetes should be considered
-in adults at high risk of type 2 diabetes,
-as typiﬁed by the DPP, especially those
-aged 25–59 years with BMI $35 kg/m2,
-higher fasting plasma glucose (e.g.,
-$110 mg/dL [$6 mmol/L]), and higher
-A1C (e.g., $6.0% [$42 mmol/mol]),
-and in individuals with prior gestational
-diabetes mellitus. A
-3.8 Long-term use of metformin may
-be associated with vitamin B12 deﬁ-
-ciency; consider periodic assessment
-of vitamin B12 level in metformin-
-treated individuals, especially in those
-with anemia or peripheral neuropa-
-thy. B
-Because weight loss through behavior
-changes in nutrition and physical activity
-may not be sufﬁcient on their own and
-can be difﬁcult to maintain long term (10),
-some people at high risk of type 2 diabe-
-tes may beneﬁt from additional support
-and pharmacotherapeutic options. Vari-
-ous pharmacologic agents used to treat di-
-abetes have been evaluated for diabetes
-prevention. Metformin, a-glucosidase in-
-hibitors, incretin receptor agonists (e.g.,
-liraglutide and semaglutide), thiazolidine-
-diones, and insulin have been shown to
-lower the incidence of diabetes in speciﬁc
-populations (63–68), whereas diabetes
-prevention was not seen with nateglinide
-(69).
-In the DPP, weight loss was an impor-
-tant factor in reducing the risk of pro-
-gression, with every kilogram of weight
-loss conferring a 16% reduction in risk
-of progression over 3.2 years (13). In in-
-dividuals with previous history of GDM,
-the risk of type 2 diabetes increased by
-18% for every 1 unit BMI above the pre-
-conception baseline (70). Several medi-
-cations evaluated for weight loss (e.g.,
-orlistat, phentermine and topiramate,
-liraglutide, semaglutide, and tirzepatide)
-have been shown to decrease the inci-
-dence of type 2 diabetes in those with
-prediabetes (68,71–73).
-Studies of other pharmacologic agents
-have shown some efﬁcacy in diabetes
-prevention with valsartan or testoster-
-one (74,75) but no efﬁcacy in preventing
-diabetes with ramipril or anti-inﬂamma-
-tory drugs (75–78). Vitamin D therapy
-has recently been advocated by the U.S.
-Endocrine Society to prevent progression
-of high-risk prediabetes to type 2 diabetes
-in adults (79). Three randomized con-
-trolled trials have been designed and con-
-ducted to test whether vitamin D therapy
-in combination with lifestyle modiﬁcation
-reduces the risk of developing diabetes in
-adults with high-risk prediabetes (i.e., IGT
-or meeting two or three ADA prediabetes
-glycemic criteria [fasting glucose, A1C, 2-h
-glucose after a 75-g OGTT]): the Tromsø
-study in Norway, with 511 participants;
-the Vitamin D and Type 2 Diabetes (D2d)
-study in the U.S., with 2,423 participants;
-and the Diabetes Prevention with Active
-Vitamin D (DPVD) study in Japan, with
-1,256 participants (80–82). Although vita-
-min D therapy modestly reduced the risk
-of developing diabetes compared with the
-placebo to a nearly identical degree in all
-three trials, none of the results of the indi-
-vidual studies were statistically signiﬁcant
-(reportedly due to insufﬁcient power).
-Subsequently, several meta-analyses re-
-lated to these (and other smaller) studies
-have suggested a modest potential beneﬁt
-in speciﬁc populations (83,84). However,
-there are several concerns and uncertain-
-ties regarding recommending widespread
-vitamin D therapy for adults with high-
-risk prediabetes. 1) The recommended
-vitamin D dose is unclear. The included
-trials used varying dosages of vitamin D
-that were higher than the recommended
-daily allowance for this population (i.e.,
-600 IU/day for those aged 18–70 years
-diabetesjournals.org/care
-Prevention or Delay of Diabetes
-S53
-©AmericanDiabetesAssociation
-and 800 IU for those older than 70 years).
-Due to this variability, it is not possible to
-recommend a speciﬁc vitamin D dosage
-for diabetes prevention. 2) The beneﬁt-to-
-risk ratio of vitamin D therapy for high-risk
-prediabetes remains uncertain. Although
-there was no evidence of safety concerns
-with vitamin D therapy in study partici-
-pants with prediabetes, the numbers of
-adults included in these studies are small
-compared with the potentially many mil-
-lions of adults with prediabetes in the U.S.
-and globally who may have risk of adverse
-events if treated with unspeciﬁed doses
-of vitamin D without monitoring blood
-25-hydroxy vitamin D levels. In light of
-these and other issues, further research
-is warranted to better deﬁne the popu-
-lation characteristics and determine the
-dose and clinical pathway of vitamin D
-therapy for diabetes prevention.
-No pharmacologic agent has been ap-
-proved by the U.S. Food and Drug Admin-
-istration for prevention of type 2 diabetes.
-The risk versus beneﬁt of each medication
-in support of person-centered goals must
-be weighed in addition to cost and burden
-of administration. Additionally, pharmaco-
-logic interventions must be long-term
-because of the waning of effect after
-stopping the medication.
-Metformin
-Metformin has the most safety data as
-a pharmacologic therapy for diabetes
-prevention (85). Metformin was overall
-less effective than lifestyle modiﬁcation
-in the DPP, though group differences at-
-tenuated over time in the DPPOS (11),
-and metformin may be cost-saving over a
-10-year period (40). In the DPP, metformin
-was as effective as lifestyle modiﬁcation in
-participants with BMI $35 kg/m2 and in
-younger participants aged 25–44 years
-(5). In individuals with a history of GDM in
-the DPP, metformin and intensive lifestyle
-modiﬁcation led to an equivalent 50% re-
-duction in diabetes risk (86). Both inter-
-ventions remained highly effective during
-a 10-year follow-up period (87). By the
-time of the 15-year follow-up (DPPOS), ex-
-ploratory analyses demonstrated that par-
-ticipants with a higher baseline fasting
-glucose ($110 mg/dL [$6 mmol/L] vs.
-95–109 mg/dL [5.3–5.9 mmol/L]), those with
-a higher A1C (6.0–6.4% [42–46 mmol/mol]
-vs. <6.0% [<42 mmol/mol]), and individ-
-uals with a history of GDM (vs. individuals
-without a history of GDM) experienced
-higher risk reductions with metformin,
-identifying subgroups of participants that
-may beneﬁt the most from metformin
-(88). In the Indian Diabetes Prevention
-Program (IDPP-1), metformin and lifestyle
-intervention reduced diabetes risk simi-
-larly at 30 months; however, the lifestyle
-intervention in IDPP-1 was less intensive
-than that in the DPP (89). Based on ﬁnd-
-ings from the DPP, metformin should be
-recommended as an option for high-risk
-individuals (e.g., younger individuals, those
-with history of GDM, or those with BMI
-$35 kg/m2).
-Decreased vitamin B12 levels are a
-known consequence of long-term treat-
-ment with metformin (90). Periodic as-
-sessment of vitamin B12 level in those
-taking metformin chronically should be
-considered to check for possible deﬁ-
-ciency, especially in those receiving a
-higher dose (e.g. $1,500 mg/day) (91)
-or longer treatment duration and in
-those with existing risk factors. Vitamin
-B12 serum levels should be tested if de-
-ﬁciency is suspected, such as in people
-with anemia or peripheral neuropathy
-(90,92) (see Section 9, “Pharmacologic
-Approaches to Glycemic Treatment,” for
-more details). The effect of metformin
-on vitamin B12 increases with time (93),
-with a higher risk for vitamin B12 deﬁ-
-ciency (<200 pg/mL [<150 pmol/L]) noted
-at 4–5 years of treatment. A person who
-has been taking metformin for more than
-4 years or is at risk for vitamin B12 deﬁ-
-ciency for other reasons (e.g., vegan die-
-tary pattern, previous gastric/small bowel
-surgery) should be monitored for vitamin
-B12 deﬁciency annually (94).
-PREVENTION OF VASCULAR
-DISEASE AND MORTALITY
-Recommendations
-3.9 Prediabetes is associated with
-heightened cardiovascular risk; there-
-fore, screening for and treatment of
-modiﬁable risk factors for cardiovascu-
-lar disease are suggested. B
-3.10 Statin therapy may increase the
-risk of type 2 diabetes in people at
-high risk of developing type 2 diabe-
-tes. In such individuals, glucose status
-should be monitored regularly and di-
-abetes prevention approaches rein-
-forced. It is not recommended that
-statins be avoided or discontinued for
-this adverse effect. B
-3.11 In people with a history of stroke
-and evidence of insulin resistance and
-prediabetes, pioglitazone may be con-
-sidered to lower the risk of stroke or
-myocardial infarction. However, this
-beneﬁt needs to be balanced with the
-increased risk of weight gain, edema,
-and fractures. A Lower doses may mit-
-igate the risk of adverse effects but
-may be less effective. C
-People with prediabetes often have other
-cardiovascular risk factors, including hy-
-pertension and dyslipidemia (95), and are
-at increased risk for cardiovascular disease
-(96,97). Evaluation for tobacco use and re-
-ferral for tobacco cessation should be part
-of routine care for those at risk for diabe-
-tes. Of note, the years immediately follow-
-ing smoking cessation may represent a
-time of increased risk for diabetes (98,99),
-and individuals should be monitored
-for diabetes development and receive
-evidence-based lifestyle behavior change
-for diabetes prevention as described in
-this section. See Section 5, “Facilitating
-Positive Health Behaviors and Well-being
-to Improve Health Outcomes,” for more
-detailed information. The lifestyle inter-
-ventions for weight loss in study popula-
-tions at risk for type 2 diabetes have
-shown a reduction in cardiovascular risk
-factors and the need for medications used
-to treat these cardiovascular risk factors
-(100,101). The lifestyle intervention in the
-Da Qing study was associated with lower-
-ing cardiovascular disease and mortality
-at 23 and 30 years of observational
-follow-up (7,9). Treatment goals and ther-
-apies for hypertension and dyslipidemia in
-the primary and secondary prevention of
-cardiovascular disease for people with
-prediabetes should be based on their level
-of cardiovascular risk. Increased vigilance
-is warranted to identify and treat these
-and other cardiovascular disease risk fac-
-tors (102). Statin use increases risk of dia-
-betes (103–105). In the DPP, statin use was
-associated with greater diabetes risk irre-
-spective of the treatment group (pooled
-hazard ratio [HR] [95% CI] for incident dia-
-betes 1.36 [1.17–1.58]) (104). In trials of
-primary and secondary prevention of
-cardiovascular disease, cardiovascular
-and mortality beneﬁts of statin therapy
-exceed the risk of diabetes (106,107),
-suggesting a highly favorable beneﬁt-to-
-harm balance with statin therapy. Hence,
-discontinuation of statins due to concerns
-S54
-Prevention or Delay of Diabetes
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-of diabetes risk is not recommended in this
-population.
-Cardiovascular outcome trials in people
-without diabetes also inform risk reduc-
-tion potential in people without diabetes
-at increased cardiometabolic risk (see
-Section 10, “Cardiovascular Disease and
-Risk Management,” for more details).
-The IRIS (Insulin Resistance Intervention
-after Stroke) trial of people with a recent
-(<6 months) stroke or transient ischemic
-attack, without diabetes but with insulin
-resistance (as deﬁned by a HOMA of in-
-sulin resistance index of $3.0), evaluated
-pioglitazone (goal dose of 45 mg daily)
-compared with placebo. At 4.8 years, the
-risk of stroke or myocardial infarction, as
-well as the risk of diabetes, was lower in
-the pioglitazone group than in the pla-
-cebo group; weight gain, edema, and
-fractures were higher in the pioglitazone
-treatment group (108–110). Lower doses
-may mitigate the adverse effects but may
-also be less effective (111).
-PERSON-CENTERED CARE GOALS
-Recommendations
-3.12 In adults with overweight or
-obesity at high risk of type 2 diabetes,
-care goals should include weight loss
-and maintenance, minimizing the pro-
-gression of hyperglycemia, and atten-
-tion to cardiovascular risk. B
-3.13 Pharmacotherapy (e.g., for weight
-management, minimizing the progres-
-sion of hyperglycemia, and cardiovas-
-cular risk reduction) should be con-
-sidered to support person-centered
-care goals. B
-3.14 More intensive preventive ap-
-proaches should be considered in indi-
-viduals who are at particularly high risk
-of progression to diabetes, including
-individuals with BMI $35 kg/m2,
-those at higher glucose levels (e.g.,
-fasting plasma glucose 110–125 mg/dL
-[6.1–6.9 mmol/L], 2-h postchallenge glu-
-cose 173–199 mg/dL [9.6–11.0 mmol/L],
-and A1C $6.0% [$42 mmol/mol]),
-and individuals with a history of gesta-
-tional diabetes mellitus. A
-Individualized risk-to-beneﬁt ratio should
-be considered in screening, intervention,
-and monitoring to lower the risk of type 2
-diabetes and associated comorbidities.
-Multiple factors, including age, BMI, and
-other comorbidities, may inﬂuence the
-risk of progression to diabetes and life-
-time risk of complications (112,113). Pre-
-diabetes is associated with increased
-cardiovascular
-disease
-and
-mortality
-(97), which emphasizes the importance
-of attending to cardiovascular risk in this
-population. However, the new diagnosis
-of prediabetes in older adults (aged
->70 years) is less relevant for progres-
-sion to diabetes, because regression to
-normoglycemia or death was more fre-
-quent than progression to diabetes in
-the Atherosclerosis Risk in Communities
-(ARIC) study (113).
-In the DPP, which enrolled high-risk indi-
-viduals with IGT, elevated fasting glucose,
-and elevated BMI, the crude incidence of
-diabetes within the placebo group was
-11 cases per 100 person-years, with a cu-
-mulative 3-year incidence of diabetes of
-29% (5). Characteristics of individuals in
-the DPP/DPPOS who were at particularly
-high risk of progression to diabetes (crude
-incidence of diabetes 14–22 cases per
-100 person-years) included BMI $35 kg/m2,
-higher glucose levels (e.g., fasting plasma
-glucose 110–125 mg/dL [6.0–6.9 mmol/L],
-2-h postchallenge glucose 173–199 mg/dL
-[9.6–11.0 mmol/L], A1C $6.0% [$42
-mmol/mol]), or a history of GDM (5,86,87).
-In contrast, in the community-based ARIC
-study, observational follow-up of adults
-with mean age 75 years with laboratory
-evidence of prediabetes (based on A1C
-5.7–6.4% [39–47 mmol/mol] and/or fasting
-glucose 100–125 mg/dL [5.6–6.9 mmol/L]),
-but not meeting speciﬁc BMI criteria, found
-lower progression to diabetes over 6 years:
-9% of those with A1C-deﬁned prediabetes
-and 8% of those with IFG (113).
-Thus, it is important to individualize the
-risk-to-beneﬁt ratio of intervention and
-consider person-centered goals. Risk mod-
-els have generally found a higher beneﬁt
-of the intervention in those at highest risk
-(13). Diabetes prevention trials and obser-
-vational studies highlight key principles
-that may guide person-centered goals. In
-the DPP, which enrolled a high-risk popu-
-lation meeting criteria for overweight or
-obesity, weight loss was an important me-
-diator of diabetes prevention or delay,
-with greater metabolic beneﬁt seen with
-greater weight loss (13,114). In the DPP/
-DPPOS, progression to diabetes, duration
-of diabetes, and mean level of glycemia
-were important determinants of the de-
-velopment of microvascular complications
-(11). Achieving normal glucose regulation,
-even once, during the DPP was associated
-with a lower risk of diabetes and lower
-risk of microvascular complications irre-
-spective of the treatment arm (115). Ob-
-servational follow-up of the Da Qing study
-also showed that regression from IGT to
-normal glucose tolerance or remaining
-with IGT rather than progressing to type 2
-diabetes at the end of the 6-year interven-
-tion trial resulted in signiﬁcantly lower risk
-of cardiovascular disease and microvascu-
-lar disease over 30 years (116).
-Pharmacotherapy for weight manage-
-ment and cardiovascular risk reduction
-(see Section 10, “Cardiovascular Disease
-and Risk Management,” for more details)
-can be considered to support individual-
-ized person-centered goals, with more in-
-tensive preventive approaches considered
-in individuals at high risk of progression.
-PREVENTION OR DELAY OF
-SYMPTOMATIC TYPE 1 DIABETES
-Lifestyle and Type 1 Diabetes
-Progression
-Observational studies suggest that in
-those with islet autoantibodies, factors
-that may increase b-cell demand, includ-
-ing less physical activity (117), higher gly-
-cemic index (118), and total sugar intake
-(119), are associated with progression to
-clinical diabetes. Similar associations have
-not been seen in the development of auto-
-antibodies. In The Environmental Determi-
-nants of Diabetes in the Young (TEDDY)
-longitudinal study, daily minutes spent
-in moderate to vigorous physical activity
-were associated with a reduced risk of pro-
-gression to type 1 diabetes in children
-5–15 years of age with multiple islet auto-
-antibodies (HR 0.92 [95% CI 0.86–0.99] per
-10-min increase; P = 0.021) (117). In the Di-
-abetes Autoimmunity Study in the Young
-(DAISY), in children with islet autoantibod-
-ies, progression to type 1 diabetes was as-
-sociated with higher glycemic index (HR
-2.20 [95% CI 1.17–4.15]) and total sugar
-intake (HR 1.75 [95% CI 1.07–2.85])
-(118,119). In nonobese diabetic mice, an
-animal model for the development of type 1
-diabetes, sustained high-glucose drinking
-signiﬁcantly aggravated islet inﬂamma-
-tion and accelerated the onset of type 1
-diabetes (120). Lifestyle interventions fo-
-cusing on such factors in those with
-diabetesjournals.org/care
-Prevention or Delay of Diabetes
-S55
-©AmericanDiabetesAssociation
-stage 1 or stage 2 type 1 diabetes have
-not yet been reported.
-Pharmacologic Interventions to
-Delay Symptomatic Type 1 Diabetes
-Recommendation
-3.15 Teplizumab-mzwv infusion to de-
-lay the onset of symptomatic type 1 di-
-abetes (stage 3) should be discussed
-with selected individuals aged $8 years
-with stage 2 type 1 diabetes.Treatment
-should be in a setting with appropri-
-ately trained personnel. B
-Teplizumab, a CD3-directed humanized
-monoclonal antibody engineered to have
-decreased Fc receptor binding, has been
-approved to delay the onset of stage 3
-type 1 diabetes in people 8 years of age
-and older with stage 2 type 1 diabetes
-based in part on the results of a single
-trial in relatives of people with type 1 di-
-abetes (121). In this study, 44 individuals
-were randomized to a 14-day course of te-
-plizumab and 32 to placebo. The median
-time to stage 3 type 1 diabetes diagnosis
-was 48.4 months in the teplizumab group
-and 24.4 months in the placebo group.
-Type 1 diabetes was diagnosed in 19 (43%)
-participants who received teplizumab
-and 23 (72%) participants who received
-placebo (HR 0.41 [95% CI 0.22–0.78]). In
-prespeciﬁed analyses, the presence of
-HLA-DR4, absence of HLA-DR3, and ab-
-sence of anti-zinc transporter 8 antibody
-predicted response to teplizumab (HR
-0.20 [95% CI 09.0.45], 0.18 [0.07–0.45],
-and 0.07 [0.02–0.26], respectively). The
-most common adverse reactions were
-transient lymphopenia (73%) followed
-by rash (36%).
-Numerous clinical studies are being
-conducted to test methods for prevent-
-ing or delaying the onset of stage 3
-type 1 diabetes in those with evidence
-of autoimmunity without symptoms or
-for delaying loss of insulin secretory ca-
-pacity after onset of stage 3, some with
-promising results (see ClinicalTrials.gov
-and TrialNet.org).
-References
-1. Ziegler AG, Rewers M, Simell O, et al.
-Seroconversion to multiple islet autoantibodies
-and risk of progression to diabetes in children.
-JAMA 2013;309:2473–2479
-2. Steck AK, Dong F, Taki I, et al. Continuous
-glucose monitoring predicts progression to diabetes
-in autoantibody positive children. J Clin Endocrinol
-Metab 2019;104:3337–3344
-3. Ylescupidez A, Speake C, Pietropaolo SL, et al.
-OGTT metrics surpass continuous glucose moni-
-toring data for T1D prediction in multiple-
-autoantibody-positive individuals. J Clin Endocrinol
-Metab 2023;109:57–67
-4. Phillip M, Achenbach P, Addala A, et al.
-Consensus guidance for monitoring individuals
-with islet autoantibody–positive pre-stage 3 type 1
-diabetes. Diabetes Care 2024;47:1276–1298
-5. Knowler WC, Barrett-Connor E, Fowler SE,
-et al. Reduction in the incidence of type 2
-diabetes with lifestyle intervention or metformin.
-N Engl J Med 2002;346:393–403
-6. Lindstr€om J, Ilanne-Parikka P, Peltonen M,
-et al. Sustained reduction in the incidence of type 2
-diabetes by lifestyle intervention: follow-up of the
-Finnish Diabetes Prevention Study. Lancet 2006;
-368:1673–1679
-7. Li G, Zhang P, Wang J, et al. Cardiovascular
-mortality, all-cause mortality, and diabetes in-
-cidence after lifestyle intervention for people with
-impaired glucose tolerance in the Da Qing Diabetes
-Prevention Study: a 23-year follow-up study. Lancet
-Diabetes Endocrinol 2014;2:474–480
-8. Nathan DM, Bennett PH, Crandall JP, et al.
-Does diabetes prevention translate into reduced
-long-term vascular complications of diabetes?
-Diabetologia 2019;62:1319–1328
-9. Gong Q, Zhang P,Wang J, et al. Morbidity and
-mortality after lifestyle intervention for people
-with impaired glucose tolerance: 30-year results
-of the Da Qing Diabetes Prevention Outcome
-Study.
-Lancet
-Diabetes
-Endocrinol
-2019;7:
-452–461
-10. Knowler WC, Fowler SE, Hamman RF, et al.
-10-year follow-up of diabetes incidence and
-weight loss in the Diabetes Prevention Program
-Outcomes Study. Lancet 2009;374:1677–1686
-11. Diabetes Prevention Program Research Group.
-Long-term effects of lifestyle intervention or met-
-formin on diabetes development and micro-
-vascular complications over 15-year follow-up: the
-Diabetes Prevention Program Outcomes Study.
-Lancet Diabetes Endocrinol 2015;3:866–875
-12. Diabetes Prevention Program (DPP) Research
-Group. The Diabetes Prevention Program (DPP):
-description of lifestyle intervention. Diabetes Care
-2002;25:2165–2171
-13. Hamman RF, Wing RR, Edelstein SL, et al.
-Effect of weight loss with lifestyle intervention on
-risk of diabetes. Diabetes Care 2006;29:2102–2107
-14. Goldberg RB, Orchard TJ, Crandall JP, et al.
-Effects of long-term metformin and lifestyle
-interventions on cardiovascular events in the
-Diabetes Prevention Program and its outcome
-study. Circulation 2022;145:1632–1641
-15. Evert AB, Dennison M, Gardner CD, et al.
-Nutrition therapy for adults with diabetes or
-prediabetes: a consensus report. Diabetes Care
-2019;42:731–754
-16. U.S. Department of Agriculture and U.S.
-Department of Health and Human Services.
-Dietary Guidelines for Americans, 2020–2025.
-9th Ed. Accessed 7 August 2024. Available from
-https://www.dietaryguidelines.gov/resources/
-2020-2025-dietary-guidelines-online-materials
-17. Salas-Salvado J, Guasch-Ferre M, Lee CH,
-Estruch R, Clish CB, Ros E. Protective effects of
-the Mediterranean diet on type 2 diabetes and
-metabolic syndrome. J Nutr 2015;146:920s–927s
-18. Estruch R, Ros E, Salas-Salvado J, et al.
-Primary prevention of cardiovascular disease
-with a Mediterranean diet supplemented with
-extra-virgin olive oil or nuts. N Engl J Med
-2018;378:e34
-19. Stentz FB, Brewer A, Wan J, et al. Remission
-of pre-diabetes to normal glucose tolerance in
-obese adults with high protein versus high
-carbohydrate diet: randomized control trial. BMJ
-Open Diabetes Res Care 2016;4:e000258
-20. Jardine MA, Kahleova H, Levin SM, Ali Z,
-Trapp CB, Barnard ND. Perspective: plant-based
-eating pattern for type 2 diabetes prevention and
-treatment: efﬁcacy, mechanisms, and practical
-considerations. Adv Nutr 2021;12:2045–2055
-21. Lee Y, Park K. Adherence to a vegetarian diet
-and diabetes risk: a systematic review and meta-
-analysis of observational studies. Nutrients 2017;
-9:603
-22. Qian F, Liu G, Hu FB, Bhupathiraju SN, Sun Q.
-Association between plant-based dietary patterns
-and risk of type 2 diabetes: a systematic review
-and meta-analysis. JAMA Intern Med 2019;179:
-1335–1344
-23. Esposito
-K,
-Chiodini
-P,
-Maiorino
-MI,
-Bellastella G, Panagiotakos D, Giugliano D. Which
-diet for prevention of type 2 diabetes? A meta-
-analysis of prospective studies. Endocrine 2014;
-47:107–116
-24. Yau JW, Thor SM, Ramadas A. Nutritional
-strategies in prediabetes: a scoping review of
-recent evidence. Nutrients 2020;12:2990
-25. Ley SH, Hamdy O, Mohan V, Hu FB.
-Prevention and management of type 2 diabetes:
-dietary components and nutritional strategies.
-Lancet 2014;383:1999–2007
-26. Parker AR, Byham-Gray L, Denmark R,
-Winkle PJ.The effect of medical nutrition therapy
-by a registered dietitian nutritionist in patients
-with prediabetes participating in a randomized
-controlled clinical research trial. J Acad Nutr Diet
-2014;114:1739–1748
-27. Fedewa MV, Gist NH, Evans EM, Dishman
-RK. Exercise and insulin resistance in youth: a
-meta-analysis. Pediatrics 2014;133:e163–e174
-28. Davis CL, Pollock NK,Waller JL, et al. Exercise
-dose and diabetes risk in overweight and obese
-children: a randomized controlled trial. JAMA
-2012;308:1103–1112
-29. Dai X, Zhai L, Chen Q, et al. Two-year-
-supervised resistance training prevented dia-
-betes incidence in people with prediabetes: a
-randomised control trial. Diabetes Metab Res
-Rev 2019;35:e3143
-30. Thorp AA, Kingwell BA, Sethi P, Hammond L,
-Owen N, Dunstan DW. Alternating bouts of sitting
-and standing attenuate postprandial glucose res-
-ponses. Med Sci Sports Exerc 2014;46:2053–2061
-31. Russo LM, Nobles C, Ertel KA, Chasan-Taber
-L,Whitcomb BW. Physical activity interventions in
-pregnancy and risk of gestational diabetes
-mellitus: a systematic review and meta-analysis.
-Obstet Gynecol 2015;125:576–582
-32. Henson J, Covenant A, Hall AP, et al. Waking
-up to the importance of sleep in type 2 diabetes
-management: a narrative review. Diabetes Care
-2024;47:331–343
-33. Davies MJ, Aroda VR, Collins BS, et al.
-Management of hyperglycemia in type 2 diabetes,
-2022. A consensus report by the American
-Diabetes Association (ADA) and the European
-S56
-Prevention or Delay of Diabetes
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Association for the Study of Diabetes (EASD).
-Diabetes Care 2022;45:2753–2786
-34. Mostafa SA, Mena SC, Antza C, Balanos G,
-Nirantharakumar K, Tahrani AA. Sleep behaviours
-and associated habits and the progression of pre-
-diabetes to type 2 diabetes mellitus in adults: a
-systematic review and meta-analysis. Diab Vasc
-Dis Res 2022;19:14791641221088824
-35. Nelson KL, Davis JE, Corbett CF. Sleep
-quality: an evolutionary concept analysis. Nurs
-Forum 2022;57:144–151
-36. Anothaisintawee T, Reutrakul S, Van Cauter
-E, Thakkinstian A. Sleep disturbances compared
-to traditional risk factors for diabetes de-
-velopment: systematic review and meta-analysis.
-Sleep Med Rev 2016;30:11–24
-37. Merikanto I, Lahti T, Puolijoki H, et al.
-Associations of chronotype and sleep with
-cardiovascular diseases and type 2 diabetes.
-Chronobiol Int 2013;30:470–477
-38. Herman WH, Hoerger TJ, Brandle M, et al.
-The cost-effectiveness of lifestyle modiﬁcation or
-metformin in preventing type 2 diabetes in adults
-with impaired glucose tolerance. Ann Intern Med
-2005;142:323–332
-39. Chen F, Su W, Becker SH, et al. Clinical and
-economic impact of a digital, remotely-delivered
-intensive behavioral counseling program on Medi-
-care
-beneﬁciaries
-at
-risk
-for
-diabetes
-and
-cardiovasculardisease. PLoS One 2016;11:e0163627
-40. Diabetes
-Prevention
-Program
-Research
-Group. The 10-year cost-effectiveness of lifestyle
-intervention or metformin for diabetes pre-
-vention: an intent-to-treat analysis of the DPP/
-DPPOS. Diabetes Care 2012;35:723–730
-41. Alva ML, Hoerger TJ, Jeyaraman R, Amico P,
-Rojas-Smith L. Impact of the YMCA of the USA
-Diabetes
-Prevention
-Program
-on
-Medicare
-spending and utilization. Health Aff (Millwood)
-2017;36:417–424
-42. Zhou X, Siegel KR, Ng BP, et al. Cost-
-effectiveness of diabetes prevention interventions
-targeting high-risk individuals and whole po-
-pulations: a systematic review. Diabetes Care
-2020;43:1593–1616
-43. Balk EM, Earley A, Raman G, Avendano EA,
-Pittas AG, Remington PL. Combined diet and
-physical activity promotion programs to prevent
-type 2 diabetes among persons at increased risk:
-a systematic review for the Community Pre-
-ventive Services Task Force. Ann Intern Med
-2015;163:437–451
-44. Ackermann RT, Kang R, Cooper AJ, et al.
-Effect on health care expenditures during nation-
-wide implementation of the Diabetes Prevention
-Program as a health insurance beneﬁt. Diabetes
-Care 2019;42:1776–1783
-45. Ely EK, Gruss SM, Luman ET, et al. A national
-effort to prevent type 2 diabetes: participant-level
-evaluation of CDC’s National Diabetes Prevention
-Program. Diabetes Care 2017;40:1331–1341
-46. Lanza A, Soler R, Smith B, Hoerger T,
-Neuwahl S, Zhang P. The Diabetes Prevention
-Impact Tool Kit: an online tool kit to assess the
-cost-effectiveness of preventing type 2 diabetes.
-J Public Health Manag Pract 2019;25:E1–E5
-47. Cannon MJ, Masalovich S, Ng BP, et al.
-Retention among participants in the National
-Diabetes Prevention Program lifestyle change
-program, 2012–2017. Diabetes Care 2020;43:
-2042–2049
-48. The Community Guide. Diabetes Prevention:
-Interventions Engaging Community Health Workers,
-2016. Accessed 7 August 2024. Available from
-https://www.thecommunityguide.org/ﬁndings/
-diabetes-prevention-interventions-engaging-
-community-health-workers
-49. Zare H, Delgado P, Spencer M, et al. Using
-community health workers to address barriers to
-participation and retention in Diabetes Prevention
-Program: a concept paper. J Prim Care Community
-Health 2022;13:21501319221134563
-50. Raynor HA, Davidson PG, Burns H, et al.
-Medical
-nutrition therapy
-and
-weight loss
-questions for the Evidence Analysis Library
-prevention of type 2 diabetes project: systematic
-reviews. J Acad Nutr Diet 2017;117:1578–1611
-51. Lau KHK. Nutrition therapy for adults with
-diabetes or prediabetes. ADCES Pract 2022;10:
-34–38
-52. Briggs Early K, Stanley K. Position of the
-Academy of Nutrition and Dietetics: the role of
-medical nutrition therapy and registered dietitian
-nutritionists in the prevention and treatment of
-prediabetes and type 2 diabetes. J Acad Nutr Diet
-2018;118:343–353
-53. Powers MA, Bardsley JK, Cypress M, et al.
-Diabetes self-management education and support
-in adults with type 2 diabetes: a consensus report
-of the American Diabetes Association, the Asso-
-ciation of Diabetes Care & Education Specialists,
-the Academy of Nutrition and Dietetics,the American
-Academy of Family Physicians, the American
-Academy of PAs, the American Association of
-Nurse Practitioners, and the American Pharmacists
-Association. Diabetes Care 2020;43:1636–1649
-54. Hudspeth BD. Power of prevention: the
-pharmacist’s role in prediabetes management.
-Diabetes Spectr 2018;31:320–323
-55. Grock S, Ku JH, Kim J, Moin T. A review of
-technology-assisted interventions for diabetes
-prevention. Curr Diab Rep 2017;17:107
-56. Bian RR, Piatt GA, Sen A, et al. The effect of
-technology-mediated diabetes prevention inter-
-ventions on weight: a meta-analysis. J Med
-Internet Res 2017;19:e76
-57. Moin T, Damschroder LJ, AuYoung M, et al.
-Results from a trial of an online Diabetes
-Prevention Program intervention. Am J Prev Med
-2018;55:583–591
-58. Michaelides A, Major J, Pienkosz E, Jr., Wood
-M, Kim Y, Toro-Ramos T. Usefulness of a novel
-mobile Diabetes Prevention Program delivery
-platform
-with
-human
-coaching:
-65-week
-observational follow-up. JMIR Mhealth Uhealth
-2018;6:e93
-59. Michaud TL, Almeida FA, Porter GC, et al.
-Effects of a digital diabetes prevention program
-on cardiovascular risk among individuals with
-prediabetes. Prim Care Diabetes 2023;17:148–154
-60. Kim SE, Castro Sweet CM, Cho E, Tsai J,
-Cousineau MR. Evaluation of a digital diabetes
-prevention program adapted for low-income
-patients, 2016-2018. Prev Chronic Dis 2019;16:
-E155
-61. Vadheim LM, Patch K, Brokaw SM, et al.
-Telehealth delivery of the diabetes prevention
-program to rural communities.Transl Behav Med
-2017;7:286–291
-62. Fischer HH, Durfee MJ, Raghunath SG, Ritchie
-ND. Short message service text message support
-for weight loss in patients with prediabetes:
-pragmatic trial. JMIR Diabetes 2019;4:e12985
-63. Gerstein HC, Bosch J, Dagenais GR, et al.
-Basal insulin and cardiovascular and other
-outcomes in dysglycemia. N Engl J Med 2012;
-367:319–328
-64. DeFronzo RA,Tripathy D, Schwenke DC, et al.
-Pioglitazone for diabetes prevention in impaired
-glucose tolerance. N Engl J Med 2011;364:
-1104–1115
-65. Gerstein HC, Yusuf S, Bosch J, et al. Effect of
-rosiglitazone on the frequency of diabetes in
-patients with impaired glucose tolerance or
-impaired fasting glucose: a randomised con-
-trolled trial. Lancet 2006;368:1096–1105
-66. le Roux CW, Astrup A, Fujioka K, et al. 3 years
-of liraglutide versus placebo for type 2 diabetes risk
-reduction and weight management in individuals
-with prediabetes: a randomised, double-blind trial.
-Lancet 2017;389:1399–1409
-67. Chiasson JL, Josse RG, Gomis R, Hanefeld M,
-Karasik A, Laakso M. Acarbose for prevention of
-type 2 diabetes mellitus: the STOP-NIDDM ran-
-domised trial. Lancet 2002;359:2072–2077
-68. Wilding JPH, Batterham RL, Calanna S, et al.
-Once-weekly semaglutide in adults with overweight
-or obesity. N Engl J Med 2021;384:989–1002
-69. Holman RR, Haffner SM, McMurray JJ, et al.
-Effect of nateglinide on the incidence of diabetes
-and cardiovascular events. N Engl J Med 2010;
-362:1463–1476
-70. Dennison RA, Chen ES, Green ME, et al. The
-absolute and relative risk of type 2 diabetes after
-gestational diabetes: a systematic review and
-meta-analysis of 129 studies. Diabetes Res Clin
-Pract 2021;171:108625
-71. Torgerson JS, Hauptman J, Boldrin MN,
-Sj€ostr€om L. XENical in the prevention of Diabetes
-in Obese Subjects (XENDOS) study: a randomized
-study of orlistat as an adjunct to lifestyle changes
-for the prevention of type 2 diabetes in obese
-patients. Diabetes Care 2004;27:155–161
-72. Garvey WT, Ryan DH, Henry R, et al.
-Prevention of type 2 diabetes in subjects with
-prediabetes and metabolic syndrome treated
-with phentermine and topiramate extended
-release. Diabetes Care 2014;37:912–921
-73. Jastreboff AM, Aronne LJ, Ahmad NN, et al.
-Tirzepatide once weekly for the treatment of
-obesity. N Engl J Med 2022;387:205–216
-74. Wittert G, Bracken K, Robledo KP, et al.
-Testosterone treatment to prevent or revert type 2
-diabetes in men enrolled in a lifestyle programme
-(T4DM): a randomised, double-blind, placebo-
-controlled, 2-year, phase 3b trial. Lancet Diabetes
-Endocrinol 2021;9:32–45
-75. McMurray JJ, Holman RR, Haffner SM, et al.
-Effect of valsartan on the incidence of diabetes
-and cardiovascular events. N Engl J Med 2010;
-362:1477–1490
-76. Bosch J, Yusuf S, Gerstein HC, et al. Effect of
-ramipril on the incidence of diabetes. N Engl J
-Med 2006;355:1551–1562
-77. Ray KK, Colhoun HM, Szarek M, et al. Effects
-of alirocumab on cardiovascular and metabolic
-outcomes after acute coronary syndrome in
-patients with or without diabetes: a prespeciﬁed
-analysis of the ODYSSEY OUTCOMES randomised
-controlled trial. Lancet Diabetes Endocrinol 2019;
-7:618–628
-78. Everett BM, Donath MY, Pradhan AD, et al.
-Anti-inﬂammatory therapy with canakinumab for
-the prevention and management of diabetes. J
-Am Coll Cardiol 2018;71:2392–2401
-diabetesjournals.org/care
-Prevention or Delay of Diabetes
-S57
-©AmericanDiabetesAssociation
-79. Demay MB, Pittas AG, Bikle DD, et al.
-Vitamin D for the prevention of disease: an
-Endocrine Society clinical practice guideline. J
-Clin Endocrinol Metab 2024;109:1907–1947
-80. Jorde R, Sollid ST, Svartberg J, et al.Vitamin D
-20,000 IU per week for ﬁve years does not
-prevent progression from prediabetes to diabetes.
-J Clin Endocrinol Metab 2016;101:1647–1655
-81. Pittas AG, Dawson-Hughes B, Sheehan P,
-et al. Vitamin D supplementation and prevention
-of type 2 diabetes. N Engl J Med 2019;381:
-520–530
-82. Kawahara T, Suzuki G, Mizuno S, et al. Effect
-of active vitamin D treatment on development of
-type 2 diabetes: DPVD randomised controlled trial
-in Japanese population. BMJ 2022;377:e066222
-83. Pittas AG, Kawahara T, Jorde R, et al.Vitamin
-D and risk for type 2 diabetes in people with
-prediabetes: a systematic review and meta-
-analysis of individual participant data from 3
-randomized clinical trials. Ann Intern Med 2023;
-176:355–363
-84. Shah VP, Nayfeh T, Alsawaf Y, et al. A
-systematic review supporting the Endocrine
-Society clinical practice guidelines on vitamin D. J
-Clin Endocrinol Metab 2024;109:1961–1974
-85. Diabetes Prevention Program Research Group.
-Long-term safety, tolerability, and weight loss
-associated with metformin in the Diabetes
-Prevention Program Outcomes Study. Diabetes
-Care 2012;35:731–737
-86. Ratner RE, Christophi CA, Metzger BE, et al.
-Prevention of diabetes in women with a history
-of gestational diabetes: effects of metformin and
-lifestyle interventions. J Clin Endocrinol Metab
-2008;93:4774–4779
-87. Aroda VR, Christophi CA, Edelstein SL, et al.
-The effect of lifestyle intervention and metformin
-on preventing or delaying diabetes among women
-with and without gestational diabetes: the
-Diabetes Prevention Program outcomes study
-10-year follow-up. J Clin Endocrinol Metab
-2015;100:1646–1653
-88. Diabetes Prevention Program Research Group.
-Long-term effects of metformin on diabetes pre-
-vention: identiﬁcation of subgroups that beneﬁted
-most in the Diabetes Prevention Program and
-Diabetes Prevention Program Outcomes Study.
-Diabetes Care 2019;42:601–608
-89. Ramachandran A, Snehalatha C, Mary S,
-Mukesh B, Bhaskar AD, Vijay V. The Indian
-Diabetes Prevention Programme shows that
-lifestyle modiﬁcation and metformin prevent
-type 2 diabetes in Asian Indian subjects with
-impaired glucose tolerance (IDPP-1). Diabetologia
-2006;49:289–297
-90. Aroda VR, Edelstein SL, Goldberg RB, et al.
-Long-term metformin use and vitamin B12
-deﬁciency in the Diabetes Prevention Program
-Outcomes Study. J Clin Endocrinol Metab 2016;
-101:1754–1761
-91. Kim J, Ahn CW, Fang S, Lee HS, Park JS.
-Association
-between
-metformin
-dose
-and
-vitamin B12 deﬁciency in patients with type 2
-diabetes. Medicine (Baltimore) 2019;98:e17918
-92. Grifﬁn SJ, Bethel MA, Holman RR, et al.
-Metformin in non-diabetic hyperglycaemia: the
-GLINT feasibility RCT. Health Technol Assess
-2018;22:1–64
-93. de Jager J, Kooy A, Lehert P, et al. Long term
-treatment with metformin in patients with type 2
-diabetes and risk of vitamin B-12 deﬁciency:
-randomised placebo controlled trial. BMJ 2010;
-340:c2181
-94. Kidney Disease: Improving Global Outcomes
-(KDIGO) Diabetes Work Group. KDIGO 2022 clinical
-practice guideline for diabetes management in
-chronic kidney disease. Kidney Int 2022;102:
-S1–S127
-95. Ali MK, Bullard KM, Saydah S, Imperatore G,
-Gregg EW. Cardiovascular and renal burdens of
-prediabetes in the USA: analysis of data from
-serial cross-sectional surveys, 1988-2014. Lancet
-Diabetes Endocrinol 2018;6:392–403
-96. Pan Y, Chen W, Wang Y. Prediabetes and
-outcome of ischemic stroke or transient ischemic
-attack: a systematic review and meta-analysis. J
-Stroke Cerebrovasc Dis 2019;28:683–692
-97. Huang Y, Cai X, Mai W, Li M, Hu Y.
-Association between prediabetes and risk of
-cardiovascular disease and all cause mortality:
-systematic review and meta-analysis. BMJ 2016;
-355:i5953
-98. Yeh HC, Duncan BB, Schmidt MI, Wang NY,
-Brancati FL. Smoking, smoking cessation, and risk
-for type 2 diabetes mellitus: a cohort study. Ann
-Intern Med 2010;152:10–17
-99. Hu Y, Zong G, Liu G, et al. Smoking cessation,
-weight change, type 2 diabetes, and mortality. N
-Engl J Med 2018;379:623–632
-100. Orchard TJ, Temprosa M, Barrett-Connor E,
-et al. Long-term effects of the Diabetes Prevention
-Program interventions on cardiovascular risk
-factors: a report from the DPP Outcomes Study.
-Diabet Med 2013;30:46–55
-101. Salas-Salvado J, Dıaz-Lopez A, Ruiz-Canela
-M, et al. Effect of a lifestyle intervention program
-with energy-restricted mediterranean diet and
-exercise on weight loss and cardiovascular risk
-factors: one-year results of the PREDIMED-Plus
-Trial. Diabetes Care 2019;42:777–788
-102. Arnett DK, Blumenthal RS, Albert MA, et al.
-2019
-ACC/AHA
-guideline
-on
-the
-primary
-prevention of cardiovascular disease: a report of
-the American College of Cardiology/American
-Heart Association Task Force on Clinical Practice
-Guidelines. Circulation 2019;140:e596–e646
-103. Thakker D, Nair S, Pagada A, Jamdade V,
-Malik A. Statin use and the risk of developing
-diabetes:
-a
-network
-meta-analysis.
-Pharma-
-coepidemiol Drug Saf 2016;25:1131–1149
-104. Crandall JP, Mather K, Rajpathak SN, et al.
-Statin use and risk of developing diabetes: results
-from the Diabetes Prevention Program. BMJ
-Open Diabetes Res Care 2017;5:e000438
-105. Mansi IA, Chansard M, Lingvay I, Zhang S,
-Halm EA, Alvarez CA. Association of statin
-therapy initiation with diabetes progression: a
-retrospective matched-cohort study. JAMA Intern
-Med 2021;181:1562–1574
-106. Ridker PM, Pradhan A, MacFadyen JG,
-Libby P, Glynn RJ. Cardiovascular beneﬁts and
-diabetes risks of statin therapy in primary
-prevention: an analysis from the JUPITER trial.
-Lancet 2012;380:565–571
-107. Cai T, Abel L, Langford O, et al. Associations
-between statins and adverse events in primary
-prevention of cardiovascular disease: systematic
-review
-with
-pairwise,
-network,
-and
-dose-
-response meta-analyses. BMJ 2021;374:n1537
-108. Kernan WN, Viscoli CM, Furie KL, et al.
-Pioglitazone after ischemic stroke or transient
-ischemic attack. N Engl J Med 2016;374:1321–1331
-109. Inzucchi SE, Viscoli CM, Young LH, et al.
-Pioglitazone prevents diabetes in patients with
-insulin resistance and cerebrovascular disease.
-Diabetes Care 2016;39:1684–1692
-110. Spence JD, Viscoli CM, Inzucchi SE, et al.
-Pioglitazone therapy in patients with stroke and
-prediabetes: a post hoc analysis of the IRIS
-randomized clinical trial. JAMA Neurol 2019;76:
-526–535
-111. Spence JD, Viscoli C, Kernan WN, et al.
-Efﬁcacy of lower doses of pioglitazone after
-stroke or transient ischaemic attack in patients
-with insulin resistance. Diabetes Obes Metab
-2022;24:1150–1158
-112. Nadeau KJ, Anderson BJ, Berg EG, et al.
-Youth-onset type 2 diabetes consensus report:
-current status, challenges, and priorities. Diabetes
-Care 2016;39:1635–1642
-113. Rooney MR, Rawlings AM, Pankow JS, et al.
-Risk of progression to diabetes among older
-adults with prediabetes. JAMA Intern Med 2021;
-181:511–519
-114. Lachin JM, Christophi CA, Edelstein SL,
-et al. Factors associated with diabetes onset
-during metformin versus placebo therapy in the
-Diabetes Prevention Program. Diabetes 2007;56:
-1153–1159
-115. Perreault L, Pan Q, Schroeder EB, et al.
-Regression from prediabetes to normal glucose
-regulation and prevalence of microvascular
-disease in the Diabetes Prevention Program
-Outcomes Study (DPPOS). Diabetes Care 2019;
-42:1809–1815
-116. Chen Y, Zhang P, Wang J, et al. Associations
-of progression to diabetes and regression to
-normal glucose tolerance with development of
-cardiovascular and microvascular disease among
-people
-with
-impaired
-glucose
-tolerance:
-a
-secondary analysis of the 30 year Da Qing
-Diabetes Prevention Outcome Study. Diabetologia
-2021;64:1279–1287
-117. Liu X, Johnson SB, Lynch KF, et al. Physical
-activity and the development of islet auto-
-immunity and type 1 diabetes in 5- to 15-year-old
-children followed in the TEDDY study. Diabetes
-Care 2023;46:1409–1416
-118. Lamb MM, Yin X, Barriga K, et al. Dietary
-glycemic index, development of islet auto-
-immunity, and subsequent progression to type 1
-diabetes in young children. J Clin Endocrinol
-Metab 2008;93:3936–3942
-119. Lamb MM, Frederiksen B, Seifert JA, Kroehl
-M, Rewers M, Norris JM. Sugar intake is
-associated with progression from islet auto-
-immunity to type 1 diabetes: the Diabetes
-Autoimmunity Study in the Young. Diabetologia
-2015;58:2027–2034
-120. Li X, Wang L, Meng G, et al. Sustained high
-glucose intake accelerates type 1 diabetes in
-NOD mice. Front Endocrinol (Lausanne) 2022;13:
-1037822
-121. Herold KC, Bundy BN, Long SA, et al. An anti-
-CD3 antibody, teplizumab, in relatives at risk for
-type 1 diabetes. N Engl J Med 2019;381:603–613
-S58
-Prevention or Delay of Diabetes
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-4. Comprehensive Medical
-Evaluation and Assessment of
-Comorbidities: Standards of Care
-in Diabetes—2025
-Diabetes Care 2025;48(Suppl. 1):S59–S85 | https://doi.org/10.2337/dc25-S004
+14. Children and Adolescents:
+Standards of Care in
+Diabetes—2025
+Diabetes Care 2025;48(Suppl. 1):S283–S305 | https://doi.org/10.2337/dc25-S014
 American Diabetes Association
 Professional Practice Committee*
 The American Diabetes Association (ADA) “Standards of Care in Diabetes” includes
@@ -2142,13348 +15,4222 @@ ADA’s clinical practice recommendations and a full list of Professional Practi
 mittee members, please refer to Introduction and Methodology. Readers who wish
 to comment on the Standards of Care are invited to do so at professional.diabetes
 .org/SOC.
-PERSON-CENTERED COLLABORATIVE CARE
-Recommendations
-4.1 A communication style that uses person-centered, culturally sensitive, and
-strength-based language and active listening; elicits individual preferences and
-beliefs; and assesses literacy, numeracy, and potential barriers to care should be
-used to optimize health outcomes and health-related quality of life. B
-4.2 People with diabetes can beneﬁt from a coordinated interprofessional
-team that may include but is not limited to diabetes care and education spe-
-cialists, primary care and subspecialty clinicians, nurses, registered dietitian
-nutritionists, exercise specialists, pharmacists, dentists, podiatrists, and behav-
-ioral health professionals. C
-A successful medical evaluation depends on beneﬁcial interactions and care coor-
-dination between the person with diabetes and the care team (1). The Chronic
-Care Model (2–4) (see Section 1, “Improving Care and Promoting Health in
-Populations”) is a person-centered approach to care that requires a close working
-relationship between the person with diabetes and clinicians involved in treat-
-ment planning. People with diabetes should receive health care from a coordi-
-nated interprofessional team that may include but is not limited to diabetes care
-and education specialists, primary care and subspecialty clinicians, nurses, regis-
-tered dietitian nutritionists, exercise specialists, pharmacists, dentists, podiatrists,
-behavioral health professionals, and community partners such as community
-health workers and community paramedics. Individuals with diabetes and their
-care partners must assume an active role in their care. Based on the preferences
-and values of the person with diabetes, elicited by the care team, the person with
-diabetes, their family or support group, and the health care team together formu-
-late the management plan, which includes lifestyle management (see Section 5,
+The management of diabetes in children and adolescents (individuals <18 years of
+age) cannot simply be derived from care routinely provided to adults with diabetes.
+The epidemiology, pathophysiology, developmental considerations, and response to
+therapy in pediatric diabetes are often different from those of adult diabetes. There
+are also differences in recommended care for children and adolescents with type 1
+diabetes, type 2 diabetes, and other forms of diabetes. This section is divided into
+two major parts: the ﬁrst part addresses care for children and adolescents with type 1
+diabetes, and the second part addresses care for children and adolescents with type 2
+diabetes. Monogenic diabetes (neonatal diabetes and maturity-onset diabetes of the
+young) and cystic ﬁbrosis-related diabetes, which are often present in youth, are dis-
+cussed in Section 2, “Diagnosis and Classiﬁcation of Diabetes.” Table 14.1A and Table
+14.1B provide an overview of the recommendations for screening and treatment of
+complications and related conditions in pediatric type 1 diabetes and type 2 diabetes,
+respectively. In addition to comprehensive diabetes care, youth with diabetes should
+receive age-appropriate and developmentally appropriate pediatric care, including im-
+munizations as recommended by the Centers for Disease Control and Prevention (CDC)
+(1). To ensure continuity of care as a person with diabetes becomes an adult, guidance
+is provided at the end of this section on the transition from pediatric to adult diabetes
+care.
+Due to the nature of pediatric clinical research, the recommendations for children
+and adolescents with diabetes are less likely to be based on clinical trial evidence.
+However, expert opinion and a review of available and relevant experimental data
+are summarized in the American Diabetes Association (ADA) position statements
+“Type 1 Diabetes in Children and Adolescents” (2) and “Evaluation and Management
+of Youth-Onset Type 2 Diabetes” (3). Finally, other sections in the Standards of Care
+may have recommendations that apply to youth with diabetes and are referenced in
+the narrative of this section.
 *A complete list of members of the American
 Diabetes Association Professional Practice Committee
 can be found at https://doi.org/10.2337/dc25-SINT.
 Duality of interest information for each author is
 available at https://doi.org/10.2337/dc25-SDIS.
 Suggested citation: American Diabetes Association
-Professional Practice Committee. 4. Comprehensive
-medical evaluation and assessment of com-
-orbidities: Standards of Care in Diabetes—2025.
-Diabetes Care 2025;48(Suppl. 1):S59–S85
-The BONE HEALTH subsection has received endorsement
-from the American Society for Bone and Mineral
-Research.
+Professional Practice Committee. 14. Children and
+adolescents: Standards of Care in Diabetes—2025.
+Diabetes Care 2025;48(Suppl. 1):S283–S305
 © 2024 by the American Diabetes Association.
 Readers may use this article as long as the
 work is properly cited, the use is educational
 and not for proﬁt, and the work is not altered.
 More information is available at https://www
 .diabetesjournals.org/journals/pages/license.
-4. MEDICAL EVALUATION AND COMORBIDITIES
+14. CHILDREN AND ADOLESCENTS
 Diabetes Care Volume 48, Supplement 1, January 2025
-S59
+S283
 ©AmericanDiabetesAssociation
-“Facilitating Positive Health Behaviors
-and
-Well-being to
-Improve
-Health
-Outcomes”) and pharmacotherapy, as
-appropriate.
-The goals of treatment for diabetes
-are to prevent or delay complications
-and optimize quality of life (Fig. 4.1).
-Treatment goals and plans should be co-
-created by the care team and people
-with diabetes based on their individual
-preferences, values, and goals. This indi-
-vidualized management plan should take
-into account the person’s age, cognitive
-abilities, school/work schedule and condi-
-tions, health beliefs, support systems, eating
-patterns, physical activity, social situation, ﬁ-
-nancial concerns, cultural factors, literacy
-and numeracy (mathematical literacy), dia-
-betes history (duration, complications, and
-current use of medications), comorbidities,
-disabilities, health priorities, other medical
-conditions, preferences for care, access to
-health care services, and life expectancy.
-People living with diabetes should be en-
-gaged in conversation about these aspects
-of their lives and diabetes management,
-with routine reassessment as necessary
-given their changing circumstances across
-the life span. Various strategies and techni-
-ques should be used to support the person’s
-self-management efforts, including pro-
-viding education on problem-solving and
-coping skills for all aspects of diabetes
-management.
-Communication by health care professio-
-nals with people with diabetes and their
-families should acknowledge that multiple
-factors impact glycemic management but
-also emphasize that collaboratively devel-
-oped treatment plans and a healthy lifestyle
-can signiﬁcantly improve disease outcomes
-and well-being (5–10). Thus, the goal of
-communication between health care pro-
-fessionals and people with diabetes is to es-
-tablish a collaborative relationship and to
-assess and address self-management bar-
-riers without blaming people with diabetes
-for “noncompliance” or “nonadherence”
-when the outcomes of self-management
-are not optimal (11). The familiar terms
-noncompliance and nonadherence denote
-a passive, obedient role for a person with
-diabetes in “following doctor’s orders,”
-which is at odds with the active role peo-
-ple with diabetes take in the day-to-day
-decision-making, planning, monitoring,
-evaluation, and problem-solving involved
-in diabetes self-management. Using a
-nonjudgmental approach that normal-
-izes periodic lapses in management may
-help minimize the person’s resistance to
-reporting problems with self-management.
-Empathizing and using active listening tech-
-niques, such as open-ended questions, re-
-ﬂective statements, and summarizing what
-the person said, can help facilitate commu-
-nication. Perceptions of people with diabe-
-tes about their own ability, or self-efﬁcacy,
-to self-manage diabetes constitute one
-important psychosocial factor related to
-improved diabetes self-management and
-treatment outcomes in diabetes (12–14)
-and should be a goal of ongoing assess-
-ment, education, and treatment planning.
-Language has a strong impact on per-
-ceptions and behavior. Empowering lan-
-guage can help to inform and motivate,
-while
-shame
-and
-judgement can
-be
-GOALS
-OF CARE
-• Prevent complications
-• Optimize quality of life
-• Review management plan
-• Mutually agree on changes
-• Ensure agreed modification of therapy is implemented in
-a timely fashion to avoid therapeutic inertia
-• Undertake decision cycle regularly (at least once or twice
-a year)
-• Operate in an integrated system of care
-• Ensure access to DSMES
-• Involve an educated and informed person
-(and the individual’s family or caregiver)
-• Explore personal preferences
-• Language matters (include person-first,
-strengths-based, empowering language)
-• Include motivational interviewing, goal
-setting, and shared decision-making
-• Emotional well-being
-• Lifestyle and health behaviors
-• Tolerability of medications
-• Biofeedback including BGM and CGM,
-weight, step count, A1C, BP, and lipids
-• Specify SMART goals:
- -
-Specific
- -
-Measurable
- -
-Achievable
- -
-Realistic
- -
-Time limited
-• The individual’s priorities
-• Current lifestyle and health behaviors
-• Comorbidities (i.e., CVD, CKD, and HF)
-• Clinical characteristics (i.e., age, A1C, and weight)
-• Issues such as motivation, depression, and cognition
-• Social determinants of health
-• Individualized glycemic and weight goals
-• Impact on weight, hypoglycemia, and cardiovascular
-and kidney protection
-• Underlying physiological factors
-• Side effect profiles of medications
-• Complexity of treatment plan (i.e., frequency, and
-mode of administration)
-• Treatment choice to optimize medication use and
-reduce treatment discontinuation
-• Access, cost, availability of medication, and lifestyle
-choices
-Decision Cycle for Person-Centered Glycemic
-Management in Type 2 Diabetes
-• Ensure there is regular review;
-more frequent contact initially is
-often desirable for DSMES
-Figure 4.1—Decision cycle for person-centered glycemic management in type 2 diabetes. BGM, blood glucose monitoring; BP, blood pressure;
-CGM, continuous glucose monitoring; CKD, chronic kidney disease; CVD, cardiovascular disease; DSMES, diabetes self-management education and
-support; HF, heart failure. Adapted from Davies et al. (324).
-S60
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-discouraging.The American Diabetes Associ-
-ation (ADA) and the Association of Diabetes
-Care & Education Specialists (ADCES) (for-
-merly called the American Association of Di-
-abetes Educators) joint consensus report,
-“The Use of Language in Diabetes Care and
-Education,” provides the authors’ expert
-opinion regarding the use of language by
-health care professionals when speaking or
-writing about diabetes for people with di-
-abetes or for professional audiences (15).
-Although further research is needed to
-address the impact of language on diabe-
-tes outcomes, the report includes ﬁve
-key consensus recommendations for lan-
-guage use:
-• Use language that is neutral, non-
-judgmental, and based on facts, ac-
-tions, physiology, or biology.
-• Use language free from stigma.
-• Use language that is strength based,
-respectful, and inclusive and that
-imparts hope.
-• Use language that fosters collabora-
-tion between people with diabetes
-and health care professionals.
-• Use language that is person cen-
-tered (e.g., “person with diabetes” is
-preferred over “diabetic”).
-COMPREHENSIVE MEDICAL
-EVALUATION
-Recommendations
-4.3 A complete medical evaluation
-should be performed at the initial visit
-and follow-up, as appropriate, to:
-• Conﬁrm the diagnosis and classify
-diabetes. A
-• Assess glycemic status and previ-
-ous treatment. A
-• Evaluate for diabetes complications,
-potential comorbid conditions, and
-overall health status. A
-• Identify care partners and sup-
-port system. E
-• Assess social determinants of health
-and structural barriers to optimal
-health and health care. A
-• Review risk factor management
-in the person with diabetes. A
-• Begin engagement with the person
-with diabetes in the formulation of
-a care management plan including
-initial goals of care. A
-• Develop a plan for continuing
-care. A
-4.4 Ongoing management should be
-guided by the assessment of overall
-health and functional status, diabetes
-complications, cardiovascular risk, hy-
-poglycemia risk, and shared decision-
-making to set therapeutic goals. B
-The comprehensive medical evaluation
-includes the initial and follow-up evalua-
-tions, which comprise assessment of
-complications, psychosocial assessment,
-management of comorbid conditions, over-
-all health, functional and cognitive status,
-and engagement of the person with diabe-
-tes throughout the process. While a com-
-prehensive list is provided in Table 4.1, in
-clinical practice the health care professional
-may need to prioritize the components of
-the medical evaluation given the available
-resources and time. Engaging other mem-
-bers of the health care team can also sup-
-port comprehensive diabetes care.The goal
-of these recommendations is to provide
-the health care team information so it can
-optimally support people with diabetes and
-their care partners. In addition to the
-medical history, physical examination, and
-laboratory tests, health care professionals
-should assess diabetes self-management
-behaviors, nutrition, social determinants
-of health, and psychosocial health (see
-Section 5, “Facilitating Positive Health
-Behaviors and Well-being to Improve
-Health Outcomes”) and give guidance on
-routine immunizations.The assessment of
-sleep pattern and duration should also be
-considered, as this may affect glycemic
-management. Interval follow-up visits
-should occur at least every 3–6 months in-
-dividualized to the person and then at
-least annually.
-Lifestyle management and behavioral
-health care are cornerstones of diabetes
-management. People with diabetes should
-be referred for diabetes self-management
-education and support, medical nutrition
-therapy, and assessment of behavioral
-health concerns as appropriate. People
-with diabetes should receive recom-
-mended preventive care services (e.g., im-
-munizations and age- and sex-appropriate
-cancer screening); smoking cessation
-counseling; and ophthalmological, den-
-tal, podiatric, and other referrals, as
-needed.
-The assessment of risk of acute and
-chronic diabetes complications and treat-
-ment planning are key components of ini-
-tial and follow-up visits (Table 4.2). The
-risk of atherosclerotic cardiovascular dis-
-ease and heart failure (see Section 10,
-“Cardiovascular
-Disease
-and
-Risk
-Management”), chronic kidney disease
-(CKD) staging (see Section 11, “Chronic
-Kidney Disease and Risk Management”),
-presence of retinopathy and neuropathy
-(see Section 12, “Retinopathy, Neuro-
-pathy, and Foot Care”), and risk of treat-
-ment-associated hypoglycemia should be
-used to individualize goals for glycemia (see
-Section 6, “Glycemic Goals and Hypo-
-glycemia”), blood pressure, and lipids and
-to select speciﬁc glucose-lowering medica-
-tion(s) (see Section 9, “Pharmacologic
-Approaches to Glycemic Treatment”),
-antihypertension medications, and lipid-
-lowering treatment intensity.
-Additional referrals should be arranged
-as necessary (Table 4.2). Clinicians should
-ensure that people with diabetes are ap-
-propriately screened for complications,
-comorbidities, and treatment burden. Dis-
-cussing and implementing an approach to
-glycemic management with the person is
-a part, not the sole goal, of the clinical
-encounter.
-IMMUNIZATIONS
-Recommendation
-4.5 Provide routinely recommended
-vaccinations for children and adults
-with diabetes as indicated by age
-(see Table 4.3). A
-Children and adults with diabetes should
-receive vaccinations according to age-
-appropriate recommendations (16,17).
-The Centers for Disease Control and Pre-
-vention (CDC) provides vaccination sched-
-ules speciﬁcally for children, adolescents,
-and adults with diabetes (cdc.gov/
-vaccines/). The CDC Advisory Committee
-on Immunization Practices (ACIP) makes
-recommendations based on its own review
-and rating of the evidence, provided in
-Table 4.3 for selected vaccinations. The
-ACIP evidence review has evolved over
-time with the adoption of Grading of Rec-
-ommendations Assessment, Development,
-and Evaluation (GRADE) in 2010 and then
-the Evidence to Decision or Evidence to
-Recommendation frameworks in 2020 (18).
-Here, we discuss the particular importance
-of speciﬁc vaccines.
-COVID-19
-People with underlying medical condi-
-tions, including diabetes, are more likely
-to become severely ill with coronavirus
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S61
-©AmericanDiabetesAssociation
-disease 2019 (COVID-19). COVID-19 vac-
-cination using an appropriate number
-of doses of updated vaccines is recom-
-mended for everyone aged 6 months
-and older in the U.S. (18).
-Hepatitis B
-Compared with the general population,
-people with type 1 or type 2 diabetes
-have higher rates of hepatitis. Because of
-the higher likelihood of transmission of
-the disease, hepatitis B vaccine is recom-
-mended for adults with diabetes aged
-<60 years. For adults aged $60 years,
-hepatitis B vaccine may be administered
-at the discretion of the treating clinician
-based on the person’s likelihood of ac-
-quiring hepatitis B infection (19).
-Influenza
-Inﬂuenza is a common, preventable infec-
-tious disease associated with high mortality
-and morbidity in vulnerable populations,
-including youth, older adults, and people
-with chronic diseases. Inﬂuenza vaccination
-in people with diabetes has been found to
-signiﬁcantly reduce inﬂuenza and diabetes-
-related hospital admissions (20). In people
-with diabetes, the inﬂuenza vaccine has
-been associated with lower risk of all-cause
-mortality, cardiovascular mortality, and car-
-diovascular events (21). Given the beneﬁts
-of the annual inﬂuenza vaccination, it is rec-
-ommended for all individuals $6 months
-of age who do not have a contraindication.
-The live attenuated inﬂuenza vaccine, which
-is delivered by nasal spray, is an option for
-people who are 2–49 years of age and are
-not pregnant, but people with chronic con-
-ditions such as diabetes are cautioned
-against taking the live attenuated inﬂuenza
-vaccine and are instead recommended to
-receive the inactive or recombinant inﬂu-
-enza vaccination. As of the 2024–2025 sea-
-son, all inﬂuenza vaccines offered in the
-U.S. are trivalent (22).
-Pneumococcal Pneumonia
-Like inﬂuenza, pneumococcal pneumonia
-is a common, preventable disease. People
-with diabetes are at increased risk for
-pneumococcal infection and have been re-
-ported to have a high risk of hospitalization
-and death, with a mortality rate as high as
-50% (23). All people with diabetes should
-receive one of the CDC-recommended
-pneumococcal vaccines (24). See details in
-Table 4.3.
-Table 4.1—Components of the comprehensive diabetes medical evaluation at
-initial, follow-up, and annual visits
-Visit
-Initial
-Every follow-up
-Annual
-Past medical and family history
-Diabetes history
- Characteristics at onset (e.g., age and
-symptoms and/or signs)
-
- Review of previous treatment plans and
-response
-
- Assess frequency, cause, and severity of
-past hospitalizations
-
-Family history
- Family history of diabetes in a ﬁrst-
-degree relative
-
- Family history of autoimmune disorders
-
-Personal history of complications and
-common comorbidities
- Common comorbidities (e.g., obesity,
-OSA, and MASLD)
-
-
- High blood pressure or abnormal lipids
-
-
- Macrovascular and microvascular
-complications
-
-
- Hypoglycemia: awareness, frequency,
-causes, and timing of episodes
-
-
-
- Presence of hemoglobinopathies or
-anemias
-
-
- Last dental visit
-
-
- Last dilated eye exam
-
-
- Visits to specialists
-
- Disability assessment and use of
-assistive devices (e.g., physical,
-cognitive, vision and auditory, history of
-fractures, and podiatry)
-
-
-
- Personal history of autoimmune disease
-
-Surgical and procedure history
- Surgeries (e.g., metabolic surgery and
-transplantation)
-
-
-
-Interval history
- Changes in medical or family history
-since last visit
-
-
-Behavioral factors
- Eating patterns and weight history
-
-
-
- Assess familiarity with carbohydrate
-counting (e.g., type 1 diabetes or type 2
-diabetes treated with MDI)
-
-
- Physical activity and sleep behaviors;
-screen for OSA
-
-
-
- Tobacco, alcohol, and substance use
-
-
-Medications and vaccinations
- Current medication plan
-
-
-
- Medication-taking behavior, including
-rationing of medications and/or medical
-equipment
-
-
-
- Medication intolerance or side effects
-
-
-
- Complementary and alternative medicine
-use
-
-
-
- Vaccination history and needs
-
-
-Technology use
- Assess use of health apps, online
-education, patient portals, etc.
-
-
-
- Glucose monitoring (meter/CGM): results
-and data use
-
-
-
-Continued on p. S63
-S62
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Respiratory Syncytial Virus
-Respiratory syncytial virus (RSV) is a cause
-of respiratory illness in some individuals,
-including older adults. People with chronic
-conditions such as diabetes have a higher
-risk of severe illness. The U.S. Food and
-Drug Administration (FDA) approved the
-ﬁrst vaccines for prevention of RSV-associ-
-ated lower respiratory tract disease in
-adults aged $60 years. On 26 June 2024,
-ACIP voted to recommend that all adults
-aged $75 years and adults aged 60–74
-years who are at increased risk for severe
-RSV should receive a single dose of RSV
-vaccine (25).
-ASSESSMENT OF COMORBIDITIES
-Besides assessing diabetes-related compli-
-cations, clinicians and people with diabetes
-need to be aware of common comorbid-
-ities that affect people with diabetes and
-that may complicate management (26–28).
-Diabetes comorbidities are conditions that
-affect people with diabetes more often
-than age-matched people without diabe-
-tes. This section discusses many of the
-common comorbidities observed in people
-with diabetes but is not necessarily inclu-
-sive of all the conditions that have been
-reported.
-Autoimmune Diseases
-Recommendations
-4.6 Screen people with type 1 diabe-
-tes for autoimmune thyroid disease
-soon after diagnosis and thereafter
-at repeated intervals if clinically indi-
-cated. B
-4.7 Adults with type 1 diabetes should
-be screened for celiac disease in the
-presence of gastrointestinal symptoms,
-signs, laboratory manifestations, or clin-
-ical suspicion suggestive of celiac dis-
-ease. B
-People with type 1 diabetes are at in-
-creased risk for other autoimmune dis-
-eases, with thyroid disease, celiac disease,
-and pernicious anemia (vitamin B12 deﬁ-
-ciency) being among the most common
-(29). Other autoimmune conditions asso-
-ciated with type 1 diabetes include auto-
-immune liver disease, primary adrenal
-insufﬁciency (Addison disease), vitiligo,
-collagen vascular diseases, and myasthe-
-nia gravis (30–33). Type 1 diabetes may
-also occur with other autoimmune dis-
-eases in the context of speciﬁc genetic
-Table 4.1—Continued
-Visit
-Initial
-Every follow-up
-Annual
- Review insulin pump settings and use and
-connected pen and glucose data
-
-
-
-Social life assessment
-Social network
- Identify existing social supports
-
-
- Identify surrogate decision maker and
-advanced care plan
-
-
- Identify social determinants of health
-(e.g., food security, housing stability and
-homelessness, transportation access,
-ﬁnancial security, and community safety)
-
-
- Assess daily routine and environment,
-including school or work schedules and
-ability to engage in diabetes self-
-management
-
-
-
-Physical examination
- Height, weight, and BMI; growth and
-pubertal development in children and
-adolescents
-
-
-
- Blood pressure determination
-
-
-
- Orthostatic blood pressure measures
-(when indicated)
-
-
- Fundoscopic examination (refer to eye
-specialist)
-
-
- Thyroid palpation
-
-
- Skin examination (e.g., acanthosis
-nigricans, insulin injection or insertion
-sites, and lipodystrophy)
-
-
-
- Comprehensive foot examination
-
-
- Visual inspection (e.g., skin integrity,
-callous formation, foot deformity or ulcer,
-and toenails)*
-
-
-
- Check pedal pulses and screen for PAD
-with ABI testing if a PAD diagnosis would
-change management
-
-
- Determination of temperature, vibration or
-pinprick sensation, and 10-g monoﬁlament
-exam
-
-
- Screen for depression, anxiety, diabetes
-distress, fear of hypoglycemia, and
-disordered eating
-
-
- Assessment for cognitive performance if
-indicated†
-
-
- Assessment for functional performance if
-indicated†
-
-
- Consider assessment for bone health (e.g.,
-loss of height and kyphosis)
-
-
-Laboratory evaluation
- A1C, if the results are not available within
-the past 3 months
-
-
-
- Lipid proﬁle, including total, LDL, and HDL
-cholesterol and triglycerides‡
-
-^
- Liver function tests (i.e., FIB-4)‡
-
-
- Spot urinary albumin-to-creatinine ratio
-
-
- Serum creatinine and estimated glomerular
-ﬁltration rate§
-
-
- Thyroid-stimulating hormone in people
-with type 1 diabetes‡
-
-
- Celiac disease in people with type 1
-diabetesjj
-
-Continued on p. S64
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S63
-©AmericanDiabetesAssociation
-disorders such as polyglandular autoim-
-mune syndromes (34). Given the high
-prevalence, nonspeciﬁc symptoms, and in-
-sidious onset of primary hypothyroidism,
-routine screening for thyroid dysfunction
-is recommended for all people with type 1
-diabetes.
-Screening
-for
-celiac
-disease
-should be considered in adults with dia-
-betes with suggestive symptoms (e.g.,
-diarrhea, malabsorption, and abdominal
-pain) or signs (e.g., osteoporosis, vitamin
-deﬁciencies, and iron deﬁciency anemia)
-(35,36). Measurement of vitamin B12 lev-
-els should be considered for people with
-type 1 diabetes and peripheral neuropa-
-thy or unexplained anemia.
-Bone Health
-Recommendations
-4.8 Assess fracture risk in older adults
-with diabetes as a part of routine care
-in diabetes clinical practice, according
-to risk factors and comorbidities. A
-4.9 Monitor bone mineral density us-
-ing dual-energy X-ray absorptiometry
-in older adults with diabetes (aged
-$65 years) and younger individuals
-with diabetes and multiple risk factors
-every 2–3 years (Table 4.4). A
-4.10 Consider the potential adverse
-impact on skeletal health when se-
-lecting pharmacological options to
-lower glucose levels in people with
-diabetes. Avoiding medications with
-a known association with higher
-fracture risk (e.g., thiazolidinediones
-and sulfonylureas) is recommended,
-particularly for those at elevated
-risk for fractures. B
-4.11 To reduce the risk of falls and
-fractures, glycemic management goals
-should be individualized for people
-with diabetes at a higher risk of fracture.
-C Prioritize use of glucose-lowering
-medications that are associated with
-low risk for hypoglycemia to avoid
-falls. B
-4.12 Advise people with diabetes
-on their intake of calcium (1,000–
-1,200 mg/day) and vitamin D to en-
-sure it meets the recommended
-daily allowance for those at risk for
-fracture, either through their diet or
-supplemental means. B
-4.13 Antiresorptive medications and
-osteoanabolic agents should be recom-
-mended for older adults with diabetes
-who are at higher risk of fracture, in-
-cluding those with low bone mineral
-density with a T-score #2.0, history
-of fragility fracture, or elevated Frac-
-ture Risk Assessment Tool score ($3%
-for hip fracture or $20% for major os-
-teoporotic fracture). B
-Determination of fracture risk traditionally
-has relied on measurements of bone min-
-eral density (BMD) and the World Health
-Organization–deﬁned T-score of #–2.5 SD.
-However, it is now established that the
-consideration of other risk factors im-
-proves the categorization of fracture risk
-(Table 4.4). There are factors beyond
-BMD that contribute to bone strength in
-people with diabetes.
-A low-trauma hip/pelvis, vertebral, or
-forearm fracture in people aged $65 years
-is diagnostic for osteoporosis independent
-of BMD and is one of the strongest risk
-factors for subsequent fractures, especially
-in the ﬁrst 1–2 years after a fracture
-(37,38). Osteoporotic hip fractures are as-
-sociated with signiﬁcant morbidity, mortal-
-ity, and societal costs (39). It is estimated
-that 20% of individuals do not survive to 1
-year after hip fracture, while 60% do not
-regain their prior functionality, living with
-permanent disability (40).
-Hip fractures in people with diabetes
-are associated with higher risk of mor-
-tality (28% in women and 57% in men),
-longer recovery, and delayed healing
-(41) compared with individuals without
-diabetes.
-Epidemiology and Risk Factors
-Age-speciﬁc fracture risk is signiﬁcantly
-increased in people with type 1 or type 2
-diabetes in both sexes, with a 34% in-
-crease in fracture risk compared with
-those without diabetes (42).
-Type 1 Diabetes. Fracture risk in people
-with type 1 diabetes is increased by 4.35
-times for hip fractures, 1.83 times for up-
-per limb fractures, and 1.97 times for an-
-kle fractures (43). Fractures occur even
-at young ages, 10–15 years earlier than
-they do in people without diabetes, and
-are less frequent at the vertebral level.
-Type 1 diabetes is often associated with
-low bone mass, although BMD underes-
-timates the high risk of fracture observed
-in young individuals (43). Risk of fracture is
-increased in people with type 1 diabetes
-withmicrovascularcomplicationsorneurop-
-athy (41). Moreover, average A1C >7.9%
-(risk ratio [RR] 3.57 [CI 1.08–11.78]), dura-
-tion of diabetes >26 years (RR 7.6 [CI
-1.67–34.6]), and family history of fractures
-(RR 2.64 [CI 1.15–6.09]) have been inde-
-pendently associated with high risk of non-
-vertebral fractures (44).
-Type 2 Diabetes. In people with type 2 di-
-abetes, even with normal or higher BMD,
-hip fracture risk is increased by 1.79
-times, and risk throughout life is 40–70%
-Table 4.1—Continued
-Visit
-Initial
-Every follow-up
-Annual
- Vitamin B12 if taking metformin for >5
-years
-
-
- CBC with platelets
-
-
- Serum potassium levels in people with
-diabetes on ACE inhibitors, ARBs, or
-diuretics§
-
-
- Calcium, vitamin D, and phosphorous for
-appropriate people with diabetes
-
-
-ABI, ankle brachial index; ARBs, angiotensin receptor blockers; CBC, complete blood count;
-CGM, continuous glucose monitor; FIB-4: ﬁbrosis-4 index; MASLD, metabolic-associated stea-
-totic liver disease; MDI, multiple daily injections; OSA, obstructive sleep apnea; PAD, periph-
-eral arterial disease. *Should be performed at every visit in people with diabetes with
-sensory loss, previous foot ulcers, or amputations. †At 65 years of age or older. ‡May also
-need to be checked after initiation or dose changes of medications that affect these labora-
-tory values (i.e., diabetes medications, blood pressure medications, cholesterol medications,
-or thyroid medications). ^In people without dyslipidemia and not on cholesterol-lowering
-therapy, testing may be less frequent. §May be needed more frequently in people with dia-
-betes with known chronic kidney disease or with changes in medications that affect kidney
-function and serum potassium (see Table 11.2). jjIn people with presence of gastrointestinal
-symptoms, signs, laboratory manifestations, or clinical suspicion suggestive of celiac disease.
-S64
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-higher than in it is in individuals without
-diabetes (42,45–47). According to a meta-
-analysis that included 15 studies, people
-with type 2 diabetes had a 35% higher in-
-cidence of vertebral fractures, causing in-
-creased risk of mortality (HR 2.11 [95% CI
-1.72–2.59]) (48). Fracture risk is also in-
-creased in the upper limbs and ankle.
-However, bone loss is accelerated, and
-low BMD remains an independent risk
-factor for fractures (49,50).
-Glycemic management signiﬁcantly im-
-pacts fracture risk in people with diabetes.
-A meta-analysis revealed an 8% increased
-fracture risk per 1% rise in A1C level (RR
-1.08 [95% CI 1.03–1.14]) (51). Poor glyce-
-mic management (A1C >9%) over 2 years
-in individuals with type 2 diabetes corre-
-lated with a 29% heightened fracture risk
-(52). Notably, this risk was higher among
-White individuals than in other racial
-groups. Hypoglycemia also escalated the
-risk of fractures at the hip and other
-skeletal sites (RR 1.52 [95% CI 1.23–1.88])
-(51). A Japanese study echoed these ﬁnd-
-ings, showing a fracture risk increase (haz-
-ard ratio [HR] 2.24 [95% CI 1.56–3.21])
-with severe hypoglycemia episodes (53).
-Longer disease duration further ele-
-vates fracture risk (54); data indicate indi-
-viduals who have had type 2 diabetes for
->10 years face signiﬁcantly higher frac-
-ture risks, which are largely attributed to
-ensuing microvascular and macrovascular
-damage affecting the skeleton. Additionally,
-high fracture risk is seen in people with
-cardiovascular disease (CVD), nephropathy,
-retinopathy, neuropathy, poor physical
-function, and frequent falls (55–57).
-Certain glucose-lowering medications
-also factor into fracture risk. Studies have
-reported increased fracture incidences in
-women using thiazolidinediones (TZD),
-with the risk doubling with 1–2 years of
-TZD use compared with placebo or other
-glucose-lowering medications (HR 2.23
-[95% CI 1.65–3.01]) (58,59). According to
-the Action to Control Cardiovascular Risk
-in Diabetes (ACCORD) study, reduced risk
-is noted in women who had discontinued
-TZD use for 1–2 years (HR 0.57 [95% CI
-0.35–0.92]) or >2 years (HR 0.42 [95% CI
-0.24–0.74]) compared with current users
-(60). Furthermore, individuals with type 2
-diabetes on insulin (RR 1.49 [95% CI
-1.29–1.73]) or sulfonylurea (RR 1.30
-[95% CI 1.18–1.43]) treatment exhibit a
-heightened fracture risk (61).
-Screening
-Most evidence on screening in individuals
-at risk for fracture is available from peo-
-ple with type 2 diabetes; fracture risk
-prediction using BMD in type 1 diabetes
-has not been extensively studied. Health
-care professionals should assess fracture
-history and risk factors in people with di-
-abetes and recommend measurement of
-BMD if appropriate according to the indi-
-vidual’s age and sex.
-Type 2 Diabetes. People with type 2 diabe-
-tes have 5–10% higher BMD than people
-without diabetes, although they present
-with lower bone strength, impaired bone
-microarchitecture, and accelerated bone
-loss (49,62–64). A T-score adjustment of
-0.5 has been proposed to improve frac-
-ture prediction by dual-energy X-ray ab-
-sorptiometry (DXA). For example, a T-score
-#–2.0 should be interpreted as equivalent
-to –2.5 in a person without diabetes (50).
-Notably, the Fracture Risk Assessment Tool
-(FRAX), although useful, does not factor in
-type 2 diabetes; an inclusion of the condi-
-tion is estimated to mirror the effect of ei-
-ther a 10-year age increase or a 0.5 SD
-reduction in BMD T-score (65). Fracture
-risk was higher in large observational stud-
-ies in participants with diabetes compared
-with those without diabetes for a given
-T-score and age or for a given FRAX score
-(50). One method to potentially improve
-fracture risk prediction for people with
-type 2 diabetes involves using the FRAX
-“rheumatoid arthritis” input as a proxy for
-diabetes risk (66,67). Additionally, perfor-
-mance of FRAX can be improved by using
-1) trabecular bone score adjustment, 2)
-lowering femoral neck T-score input by
-0.5 SD, or 3) increasing the age by 10
-years (66). Growing evidence suggests
-that fracture risk prediction is enhanced
-by use of trabecular bone score (65,66),
-although such studies are not available for
-Table 4.2—Essential components for assessment, planning, and referral
-Assessing risk of diabetes complications
- ASCVD and heart failure history
- ASCVD risk factors and 10-year ASCVD risk assessment
- Staging of chronic kidney disease (see Table 11.2)
- Hypoglycemia risk (see Section 6, “Glycemic Targets and Hypoglycemia Prevention”)
- Assessment for retinopathy
- Assessment for neuropathy
- Assessment for MASLD and MASH
-Goal setting
- Set A1C, blood glucose, and time in range goals
- Set lipid goal
- If hypertension is present, establish blood pressure goal
- Weight management and physical activity goals
- Diabetes self-management goals
-Therapeutic treatment plans
- Lifestyle management (e.g., registered dietitian nutritionist)
- Pharmacologic therapy: glucose lowering
- Pharmacologic therapy: cardiovascular and kidney disease risk factors
- Weight management with pharmacotherapy or metabolic surgery, as appropriate
- Use of glucose monitoring and insulin delivery devices
- Referral to diabetes education and medical specialists (as needed)
-Referrals for initial care management
- Eye care professional for annual dilated eye exam
- Family planning for individuals of childbearing potential
- Registered dietitian nutritionist for medical nutrition therapy
- Diabetes self-management education and support
- Dentist for comprehensive dental and periodontal examination
- Behavioral health professional, if indicated
- Audiology, if indicated
- Social worker and community resources, if indicated
- Rehabilitation medicine or another relevant health care professional for physical and
-cognitive disability evaluation, if indicated
- Other appropriate health care professionals
-Assessment and treatment planning are essential components of initial and all follow-up vis-
-its. ASCVD, atherosclerotic cardiovascular disease; MASH, metabolic dysfunction–associated
-steatohepatitis; MASLD, metabolic dysfunction–associated steatotic liver disease.
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S65
-©AmericanDiabetesAssociation
-Table 4.3—Highly recommended immunizations for adults with diabetes (from the Advisory Committee on Immunization
-Practices and Centers for Disease Control and Prevention)
-Vaccine
-Recommended ages
-Schedule
-GRADE evidence type*
-References
-COVID-19
-All people 6 months of age and
-older
-Current initial vaccination
-and boosters
-Centers for Disease Control and
-Prevention, Interim Clinical
-Considerations for Use of COVID-19
-Vaccines in the United States (318)
-Hepatitis B
-Adults with diabetes aged
-<60 years; for adults aged
-$60 years, hepatitis B vaccine
-may be administered at the
-discretion of the treating
-clinician based on the person’s
-likelihood of acquiring
-hepatitis B infection
-Weng et al., Universal Hepatitis B
-Vaccination in Adults Aged 19–59
-Years: Updated Recommendations
-of the Advisory Committee on
-Immunization Practices—United
-States, 2022 (19)
-Inﬂuenza
-All people with diabetes advised
-to receive a trivalent inﬂuenza
-vaccine and not to receive live
-attenuated inﬂuenza vaccine
-Annual
-Centers for Disease Control and
-Prevention, Prevention and Control
-of Seasonal Inﬂuenza with Vaccines:
-Recommendations of the Advisory
-Committee on Immunization
-Practices—United States, 2024–25
-Inﬂuenza Season (22)
-Pneumonia (PPSV23
-[Pneumovax])
-19–64 years of age, vaccinate
-with Pneumovax
-One dose is recommended for those who
-previously received PCV13; if PCV15
-was used, follow with PPSV23 $1 year
-later; PPSV23 is not indicated after
-PCV20; adults who received only
-PPSV23 may receive PCV15 or PCV20
-$1 year after their last dose
-2
-Centers for Disease Control and
-Prevention, Updated
-Recommendations for Prevention of
-Invasive Pneumococcal Disease
-Among Adults Using the 23-Valent
-Pneumococcal Polysaccharide
-Vaccine (PPSV23) (24,319)
-$65 years of age
-One dose is recommended for those
-who previously received PCV13; if
-PCV15 was used, follow with PPSV23
-$1 year later; PPSV23 is not
-indicated after PCV20; adults who
-received only PPSV23 may receive
-PCV15 or PCV20 $1 year after their
-last dose
-2
-Falkenhorst et al., Effectiveness of the
-23-Valent Pneumococcal
-Polysaccharide Vaccine (PPV23)
-Against Pneumococcal Disease in
-the Elderly: Systematic Review and
-Meta-analysis (24,320)
-PCV20 or PCV15
-Adults 19–64 years of age with
-an immunocompromising
-condition (e.g., chronic renal
-failure), cochlear implant, or
-cerebrospinal ﬂuid leak
-One dose of PCV15 or PCV20 is
-recommended by the Centers for
-Disease Control and Prevention
-Kobayashi et al., Use of 15-Valent
-Pneumococcal Conjugate Vaccine
-and 20-Valent Pneumococcal
-Conjugate Vaccine Among U.S.
-Adults: Updated Recommendations
-of the Advisory Committee on
-Immunization Practices—United
-States, 2022 (24, 321)
-Adults 19–64 years of age,
-immunocompetent
-For those who have never received any
-pneumococcal vaccine, the Centers
-for Disease Control and Prevention
-recommends one dose of PCV15 or
-PCV20
-$65 years of age,
-immunocompetent, have
-shared decision-making
-discussion with health care
-professionals
-One dose of PCV15 or PCV20; PCSV23
-may be given $8 weeks after PCV15;
-PPSV23 is not indicated after PCV20
-RSV
-Older adults $60 years of age
-with diabetes appear to be a
-risk group
-Adults aged $75 years and those aged
-$60 years and at high risk may
-receive a single dose of an RSV
-vaccine
-Centers for Disease Control and
-Prevention, CDC Recommends RSV
-Vaccine for Older Adults (25)
-Tetanus, diphtheria,
-pertussis (Tdap)
-All adults; pregnant individuals
-should have an extra dose
-Booster every 10 years
-2 for effectiveness,
-3 for safety
-Havers et al., Use of Tetanus Toxoid,
-Reduced Diphtheria Toxoid, and
-Acellular Pertussis Vaccines:
-Updated Recommendations of the
-Advisory Committee on
-Immunization Practices—United
-States, 2019 (322)
-Continued on p. S67
-S66
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-individuals with type 1 diabetes and are
-based on data from the U.S. or Canada.
-In people with type 2 diabetes, BMD
-should be monitored by DXA scan in
-older adults (aged $65 years) in the
-absence of other comorbidities and in
-younger individuals (>50 years of age)
-with bone or diabetes-related risk factors,
-such as insulin use or diabetes duration
->10 years (Table 4.4). Reassessment is
-recommended every 2–3 years (65),
-depending on the screening evaluation
-and the presence of additional risk fac-
-tors, although the evidence on how fre-
-quently DXA should be repeated is less
-robust. According to the European Asso-
-ciation for the Study of Obesity (EASO),
-DXA should be performed every 2 years
-in subjects undergoing bariatric-metabolic
-surgery.
-DXA-assisted vertebral fracture assess-
-ment is a convenient and low-cost method
-to assess vertebral fractures, although tradi-
-tional lateral thoracic/lumbar spine X-ray is
-still considered the gold standard (68). MRI
-or computed tomography imaging studies
-performed for other purposes should be
-analyzed for presence of vertebral frac-
-tures as well as chest X-rays in hospital-
-ized individuals. Bone turnover markers
-are commonly used in clinical practice to
-monitor bone formation and bone re-
-sorption, although they are suppressed
-in people with diabetes and have not
-been shown to predict fracture risk (69).
-Type 1 Diabetes. Because hip fracture
-risk in type 1 diabetes starts to increase
-after the age of 50, clinicians may consider
-assessing BMD after the 5th decade of
-life (43). In people with type 1 diabetes,
-BMD underestimates fracture risk, but
-studies do not address the extent of un-
-derestimation of fracture risk.
-According to the International Society
-for Pediatric and Adolescent Diabetes
-(ISPAD), regular assessment of bone health
-using bone densitometry in youth with
-type 1 diabetes is still controversial and not
-recommended, but it may be considered in
-association with celiac disease (70).
-Management
-Appropriate glycemic management and
-minimizing hypoglycemic episodes are cru-
-cial for bone health in people with diabe-
-tes. Individuals with prolonged disease,
-microvascular and macrovascular complica-
-tions, or frequent hypoglycemic episodes
-face higher fracture risks and fall risks due
-to factors like poor vision, neuropathy, sar-
-copenia, and impaired gait. Health care
-professionals should advocate moderate
-physical activity to enhance muscle health,
-gait coordination, and balance as part of
-fracture preventive strategies (56,57,71).
-Aerobic and weight-bearing exercise
-should be recommended to counteract
-the potential negative effect of weight
-loss on bone; speciﬁc guidelines have
-been published for older adults with
-type 2 diabetes (72).
-Osteoporosis and fracture prevention
-are ﬁrst based on measures applied to
-the general population. All people with
-diabetes should receive an adequate daily
-intake of proteins, calcium, and vitamin D,
-stop smoking, and have regular physical
-activity (73–75).
-Intake of calcium should reﬂect the
-age-speciﬁc recommendations for the
-general population and should be ob-
-tained through diet and/or oral supple-
-ments (76).
-The optimal level of 25-hydroxyvita-
-min D is a matter of controversy (77),
-although serum levels 20–30 ng/mL are
-generally thought to be sufﬁcient (78).
-The safe upper limit is also a matter of
-debate, and there is substantial disagree-
-ment over whether to treat to a speciﬁed
-serum level. In the U.S., the recommended
-daily allowance of vitamin D is 600 IU for
-people aged 51–70 years and 800 IU for
-people aged >70 years (78). In clinical
-practice, this dose of supplement may not
-be sufﬁcient to reach recommended se-
-rum levels of vitamin D, particularly in
-those at risk for vitamin D deﬁciency, and
-therefore supplementation should be
-individualized.
-Fractures are important determinants
-of frailty, a predisability condition that
-should be mitigated with individualized
-Table 4.3—Continued
-Vaccine
-Recommended ages
-Schedule
-GRADE evidence type*
-References
-Zoster
-$50 years of age
-Two-dose Shingrix, even if previously
-vaccinated
-1
-Dooling et al., Recommendations of
-the Advisory Committee on
-Immunization Practices for Use of
-Herpes Zoster Vaccines (323)
-For a comprehensive list of vaccines, refer to the Centers for Disease Control and Prevention web site at cdc.gov/vaccines/. Advisory Commit-
-tee on Immunization Practices recommendations can be found at cdc.gov/vaccines/acip/recommendations. GRADE, Grading of Recommenda-
-tions Assessment, Development, and Evaluation; PCV13, 13-valent pneumococcal conjugate vaccine; PCV15, 15-valent pneumococcal
-conjugate vaccine; PCV 20, 20-valent pneumococcal conjugate vaccine; PPSV23, 23-valent pneumococcal polysaccharide vaccine. *Evidence
-type: 1, randomized controlled trials (RCTs) or overwhelming evidence from observational studies; 2, RCTs with important limitations or excep-
-tionally strong evidence from observational studies; 3, observational studies or RCTs with notable limitations; 4, clinical experience and obser-
-vations, observational studies with important limitations, or RCTs with several major limitations.
-Table 4.4—Diagnostic assessment
-Individuals who should receive BMD testing
-People aged $65 years
-Postmenopausal women and men aged $50 years with history of adult-age fracture or
-with diabetes–speciﬁc risk factors:
- Frequent hypoglycemic events
- Diabetes duration >10 years
- Diabetes medications: insulin, thiazolidinediones, sulfonylureas
- A1C >8%
- Peripheral or autonomic neuropathy, retinopathy, nephropathy
- Frequent falls
- Glucocorticoid use
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S67
-©AmericanDiabetesAssociation
-interventions to prevent falls, maintain
-mobility, and delay disability (72). In many
-circumstances, conservative management
-(calcium, vitamin D, and lifestyle meas-
-ures) are not enough to reduce fracture
-risk. When pharmacological treatment is
-needed, treatment initiation strategies are
-the same as those used for the general
-population. Antiosteoporosis medications
-reduce bone resorption (bisphosphonates,
-selective estrogen receptor modulators,
-and denosumab), stimulate bone forma-
-tion (teriparatide and abaloparatide), or
-have dual actions by stimulating bone
-formation and reducing bone resorption
-(romosozumab). These agents improve
-bone density and reduce the risk of ver-
-tebral and nonvertebral fractures. Al-
-though there are no studies speciﬁcally
-designed for people with diabetes, data on
-antiresorptive and osteoanabolic agents
-suggest efﬁcacy in type 2 diabetes is similar
-to that for individuals without diabetes
-(79–81). Using individual participant data
-from randomized trials, antiresorptive ther-
-apies show similar effects in people with
-and without type 2 diabetes for vertebral,
-hip, and nonvertebral fractures (79). No
-similar studies of efﬁcacy of antiosteoporo-
-sis treatment in people with type 1 diabe-
-tes have been published.
-Primary Prevention of Fragility Fractures
-in People With Diabetes. In the general
-population, a T-score #–2.5 is the thresh-
-old to consider pharmacological treatment
-for osteoporosis. In type 2 diabetes, since
-T-score underestimates fracture risk (as
-discussed above), a T-score #–2.0 may be
-more appropriate for considering initiation
-of a ﬁrst-line drug, including bisphospho-
-nates (alendronate, risedronate, and zole-
-dronic acid) or denosumab.
-Denosumab is preferred in individuals
-with estimated glomerular ﬁltration rate
-<30–35 mL/min/1.73 m2, although the
-FDA has recently issued a boxed warning
-for increased risk of severe hypocalcemia
-in individuals with advanced chronic kid-
-ney disease. Self-management abilities of
-the person with diabetes should be con-
-sidered in medication selection, recom-
-mending strict medication-taking behavior,
-as there can be rebound bone loss causing
-multiple vertebral fractures with missed
-doses of denosumab or delays in care.
-Bisphosphonate therapy (oral or intrave-
-nous) may be more appropriate in individ-
-uals with poor medication-taking behavior
-or gaps in access to medical care.
-There are some additional considera-
-tions related to medication selection in
-people with diabetes. Data from a phase 3
-trial, Future Revascularization Evaluation
-in Patients With Diabetes Mellitus: Opti-
-mal Management of Multivessel Disease
-(FREEDOM), and its 10-year extension
-have shown that people with diabetes
-treated with denosumab experienced pos-
-itive effects on fasting glucose (82) and sig-
-niﬁcant improvements in BMD and lower
-vertebral fracture risk (67). However, ac-
-cording to a post hoc subgroup analysis, a
-higher risk of nonvertebral fractures was
-observed in people with diabetes treated
-with denosumab (67). Romosozumab re-
-ceived FDA approval with a box warning
-because it may increase risk of myocardial
-infarction, stroke, or cardiovascular death
-and should not be prescribed in women
-who experienced a myocardial infarction
-or a stroke within the past year (83,84).
-Secondary Prevention of Fragility Frac-
-tures. The risk of subsequent fracture in
-individuals with hip or vertebral fracture
-is high, especially in the ﬁrst 1–2 years
-after a fracture. Antiosteoporosis treat-
-ment reduces the risk of fracture in older
-individuals with prior hip or vertebral
-fracture.
-As in the general population, people
-with diabetes who experience fragility
-fracture should 1) be given the diagnosis
-of osteoporosis regardless of DXA data
-and 2) receive the appropriate work-up
-and therapy to prevent future fractures
-(85). Individuals on long-term treatment
-with antiosteoporosis medications, with
-multiple fragility fractures, or with multi-
-ple comorbidities should be referred to a
-bone metabolic specialist. In these more
-complicated cases, a bone specialist may
-choose to initiate an osteoanabolic agent
-to optimize bone formation and reduce
-immediate fracture risk (86). It is strongly
-recommended that all individuals with a
-fragility fracture be started on antiosteo-
-porosis therapy and adequate calcium
-and vitamin D supplementation (if re-
-quired) as soon as possible. In the appro-
-priate individual, therapy may even be
-initiated during an inpatient stay to re-
-duce care delays (85).
-Glucose-Lowering Medications and Bone
-Health
-Care plans for type 2 diabetes treatment
-should consider individual fracture risk
-and the potential effect of medications on
-bone metabolism. Medications other than
-TZDs are advisable for postmenopausal
-women or older men with type 2 diabetes
-due to their safer bone health proﬁles.
-While several studies have shown metfor-
-min to have a safe proﬁle, special atten-
-tion should be paid to the wide use of
-sulfonylureas because of the high risk of
-hypoglycemic events leading to falls and
-fractures (87). Dipeptidyl peptidase 4 in-
-hibitors and glucagon-like peptide 1 re-
-ceptor agonists (GLP-1 RAs) have been
-used in clinical practice for more than
-15 years, and both clinical trials and
-postmarketing data suggest a neutral im-
-pact on bone health (88,89). Tirzepatide
-may play a positive effect through glucose-
-dependent insulinotropic polypeptide (GIP)
-receptor agonism, preventing bone loss as-
-sociated with weight loss (90), although
-bone outcomes have not yet been reported
-in clinical data.
-Use of sodium–glucose cotransporter 2
-(SGLT2) inhibitors has raised some con-
-cerns.The Canagliﬂozin Cardiovascular As-
-sessment Study (CANVAS) study showed
-that the proportion of subjects with frac-
-ture was higher in the canagliﬂozin groups
-than the noncanagliﬂozin groups (2.7% vs.
-1.9%, respectively). Further analyses from
-the same trial and from the Canagliﬂozin
-and Renal Events in Diabetes with Estab-
-lished Nephropathy Clinical Evaluation
-(CREDENCE) study found a neutral effect
-on fracture risk (91–94). Although few
-data are available, use of empagliﬂozin,
-ertugliﬂozin, or dapagliﬂozin has not been
-associated with negative effects on bone
-health (93–95). Use of insulin has been
-shown to be associated with a doubling of
-the risk of hip fractures (87), likely because
-of higher risk of hypoglycemia, longer du-
-ration of the disease, and comorbidities
-that may contribute to diminished bone
-strength.
-In conclusion, glucose-lowering medica-
-tions with a good bone safety proﬁle are
-preferred. This is especially true in older
-adults, in people with longer duration of
-disease, or in people with complications.
-Aggressive therapeutic approaches should
-be avoided in those who are frail and in
-older adults to prevent hypoglycemic
-events and falls.
-Cancer
-Diabetes is associated with increased
-risk of cancers of the liver, pancreas, en-
-dometrium, colon and rectum, breast,
-S68
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-and bladder (96). The association may
-result from shared risk factors between
-type 2 diabetes and cancer (older age,
-obesity, and physical inactivity) but may
-also be due to diabetes-related factors
-(97), such as underlying disease physiol-
-ogy or diabetes treatments, although evi-
-dence for these links is scarce. People
-with diabetes should be encouraged
-to undergo recommended age-and sex-
-appropriate cancer screenings, coordinated
-with their primary health care professional,
-and to reduce their modiﬁable cancer
-risk factors (obesity, physical inactivity,
-and smoking). New onset of atypical dia-
-betes (lean body habitus and negative
-family history) in a middle-aged or older
-person may precede the diagnosis of
-pancreatic adenocarcinoma (98). Addi-
-tionally, in a nationwide cancer registry in
-New Zealand, postpancreatitis diabetes
-mellitus was associated with signiﬁcantly
-higher risk (2.4-fold) of pancreatic cancer
-compared with pancreatitis after type 2
-diabetes (99). However, in the absence
-of other symptoms (e.g., weight loss and
-abdominal pain), routine screening for
-pancreatic cancer is not currently recom-
-mended. Metformin and sulfonylureas
-may have anticancer properties. Data for
-pioglitazone are mixed, with a previous
-concern for bladder cancer association.
-Recommendations cannot be made at
-this time (100–102). Thus far, the use of
-GLP-1 RAs has not been shown to be as-
-sociated with the incidence of thyroid
-cancer, pancreatic cancer, or any other
-type of cancer in humans (103).
-Cognitive Impairment/Dementia
-Recommendation
-4.14 In the presence of cognitive im-
-pairment, diabetes treatment plans
-should be simpliﬁed as much as pos-
-sible and tailored to minimize the
-risk of hypoglycemia. B
-Diabetes is associated with a signiﬁcantly
-increased risk and rate of cognitive de-
-cline and an increased risk of dementia
-(104). A meta-analysis of prospective ob-
-servational studies found that individuals
-with diabetes had a 43% higher risk of all
-types of dementia, a 43% higher risk of
-Alzheimer dementia, and a 91% higher
-risk of vascular dementia compared with
-individuals without diabetes (104). The re-
-verse is also true: people with Alzheimer
-dementia are more likely to develop
-diabetes than people without Alzheimer
-dementia. In a 15-year prospective study
-of community-dwelling people >60 years
-of age, the presence of diabetes at base-
-line signiﬁcantly increased the age-and
-sex-adjusted incidence of all-cause demen-
-tia, Alzheimer dementia, and vascular de-
-mentia compared with rates in those with
-normal glucose tolerance (105). A new
-clinical entity of diabetes-related dementia
-is being recognized as distinct from
-Alzheimer dementia or vascular dementia.
-It is characterized by slow progression of
-dementia, absence of typical neuroimag-
-ing ﬁndings seen in Alzheimer or vascu-
-lar dementia, old age, high A1C levels,
-long duration of diabetes, high fre-
-quency of insulin use, frailty, and sarco-
-penia or dynapenia (106). See Section
-13, “Older Adults,” for a more detailed
-discussion regarding assessment of
-cognitive impairment.
-Glycemic Status and Cognition
-In individuals with diabetes, higher A1C
-level is associated with lower cognitive
-function (107). A meta-analysis of ran-
-domized trials found that intensive glyce-
-mic management, compared with higher
-A1C goals, was associated with a slightly
-lower rate of cognitive decline (108). How-
-ever, these ﬁndings were driven by an
-older study with an A1C goal of <7.0% in
-the intensive treatment arm. Analyses
-within the ACCORD, Action in Diabetes and
-Vascular Disease: Preterax and Diamicron
-MR Controlled Evaluation (ADVANCE), and
-Veterans Affairs Diabetes Trial (VADT) studies
-found that intensive glycemic management
-(A1C goal of <6.0–6.5%) resulted in no dif-
-ferences in cognitive outcomes compared
-with standard control (108–110).Therefore,
-intensive glycemic management should not
-be advised for the improvement of cogni-
-tive function in individuals with type 2
-diabetes. Additionally, people with type 2
-diabetes and dementia are at heightened
-risk for experiencing hyperglycemic crises
-(diabetic ketoacidosis and hyperglycemic
-hyperosmolar state) compared with people
-without dementia (111), underscoring the
-importance of supporting diabetes man-
-agement for individuals experiencing cogni-
-tive decline and diminished capacity for
-self-care. In addition, these individuals have
-increased difﬁculty with complex treatment
-and monitoring plans and are at risk of
-frailty, hypoglycemia, and disability (112).
-In type 2 diabetes, severe hypoglycemia
-is associated with reduced cognitive func-
-tion, and those with poor cognitive function
-have more severe or repeated episodes of
-hypoglycemia. Multiple observational stud-
-ies of adults with diabetes have found an
-association between severe hypoglyce-
-mic episodes and cognitive decline or in-
-cident dementia (113–116). Decreased
-cognitive function also increases the risk
-for severe hypoglycemia, likely through
-impaired ability to recognize and respond
-appropriately to hypoglycemic symptoms
-(113,117,118). Additionally, long-term follow-
-up of Diabetes Control and Complica-
-tions Trial/Epidemiology of Diabetes In-
-terventions and Complications (DCCT/
-EDIC) showed recurrent severe hypogly-
-cemia was associated with the highest
-risk of long-term psychomotor and men-
-tal function decline (119). Simplifying or
-deintensifying glycemic therapy and/or
-liberalizing A1C goals may prevent hypo-
-glycemia in individuals with cognitive dys-
-function. See Section 13, “Older Adults,”
-for more detailed discussion of hypogly-
-cemia in older people with type 1 and
-type 2 diabetes.
-Dental Care
-Recommendations
-4.15 People with diabetes should be
-referred for a dental exam at least
-once per year. E
-4.16 Coordinate efforts between the
-medical and dental teams to appropri-
-ately adjust glucose-lowering medica-
-tion and treatment plans prior to and
-in the post–dental procedure period
-as needed. B
-Periodontal disease is more severe, and
-may be more prevalent, in people with
-diabetes than in those without and has
-been associated with higher A1C levels
-(120–122). Longitudinal studies suggest
-that people with periodontal disease
-have higher rates of incident diabetes.
-Current evidence suggests that periodon-
-tal disease adversely affects diabetes out-
-comes, and periodontal treatment using
-subgingival instrumentation may improve
-glycemic outcomes (123,124). In a ran-
-domized controlled trial (RCT), intensive
-periodontal treatment was associated
-with better glycemic outcomes (A1C 8.3%
-vs. 7.8% in control subjects and the inten-
-sive-treatment group, respectively) and
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S69
-©AmericanDiabetesAssociation
-reduction in inﬂammatory markers after
-12 months of follow-up (125).
-Dental health professionals should be
-included in the diabetes care team (126).
-Early detection of oral health problems by
-clinicians may be helpful to promote
-prompt referral to dental care and mitigate
-the expensive and extensive procedures
-needed to treat advanced oral disease
-(127,128). Clinical assessment of people
-with diabetes should include a dental his-
-tory, and dental professionals should be in-
-formed about key aspects of the person’s
-health and diabetes treatment plan, in-
-cluding glycemic goals, medications, and
-comorbid conditions (127,128). It is impor-
-tant for dental professionals to know
-when people with diabetes have high A1C
-levels, as this population may have lower
-oral healing capacity (129,130). Hepatic,
-renal, and pulmonary conditions should
-also be known by dental professionals to
-assist in appropriate dosing of antibiotics
-and other medications. Coordination be-
-tween dental professionals and the diabe-
-tes care team will be especially important
-for people treated with insulin, sulfonylur-
-eas, or meglitinides who are at risk of hy-
-poglycemia
-during
-dental
-procedures,
-especially if fasting. The risk of hypoglyce-
-mia can be mitigated by coordination be-
-tween the dentist and treating clinician
-prior to the procedure to make a hypogly-
-cemia prevention plan, which may include
-medication adjustment, blood glucose
-monitoring before and during the proce-
-dure, and treatment of hypoglycemia if ap-
-propriate. Therefore, dental professionals
-caring for people with diabetes should
-have access to blood glucose monitors
-during procedures as well as carbohy-
-drates and glucagon to treat any hypo-
-glycemia that occurs.
-Disability
-Recommendation
-4.17 Assess for disability at the initial
-visit and for decline in function at
-each subsequent visit in people with
-diabetes. If a disability is impacting
-functional ability or capacity to man-
-age their diabetes, a referral should
-be made to an appropriate health
-care professional specializing in disabil-
-ity (e.g., physical medicine and reha-
-bilitation specialist, physical therapist,
-occupational therapist, or speech-
-language pathologist). C
-A disability is deﬁned as a physical or
-mental impairment that substantially
-limits one or more major life activities
-of an individual (131,132). Activities of
-daily living (ADLs) and instrumental ac-
-tivities of daily living (IADLs) comprise
-basic and complex life care tasks, re-
-spectively. The capacity to accomplish
-such tasks serves as an important mea-
-sure of function. Diabetes is associated
-with an increase in the risk of work and
-physical disability, with estimates of
-50–80% increased risk of disability for
-people with diabetes compared with
-people without diabetes (133). Reviews
-have shown that lower-body functional
-limitation was the most prevalent dis-
-ability (47–84%) among people with dia-
-betes (134,135). In a systematic review
-and meta-analysis, the presence of dia-
-betes increased the risk of mobility dis-
-ability (15 studies; odds ratio [OR] 1.71
-[95% CI 1.53–1.91]; RR 1.51 [95% CI
-1.38–1.64]), of IADL disability (10 stud-
-ies; OR 1.65 [95% CI 1.55–1.74]), and of
-ADL disability (16 studies; OR 1.82 [95% CI
-1.63–2.04]; RR 1.82 [95% CI 1.40–2.36])
-(133). The mechanisms underlying disabil-
-ity are multifactorial and include obesity,
-coronary artery disease, stroke, lower ex-
-tremity complications, and physiological
-factors such as hyperglycemia, sarcopenia,
-inﬂammation, and insulin resistance (136).
-Diabetic peripheral neuropathy (DPN)
-is a common complication of both type 1
-and 2 diabetes and may cause impaired
-postural balance and gait kinematics
-(137), leading to functional disability.
-DPN can be found in up to half of peo-
-ple with type 1 or type 2 diabetes, result-
-ing in physical disability, and neuropathic
-pain, resulting in a diminished quality of
-life (138). Glycemic management pre-
-vents DPN development in type 1 diabe-
-tes; in contrast, glycemic management
-has modest or no beneﬁt in individuals
-with type 2 diabetes, possibly due to the
-combined effect of coexisting comorbid-
-ities (138). People with lower-extremity
-involvement due to DPN have 3 times
-more risk of restricted mobility, resulting
-in people with DPN experiencing more
-physical dysfunctions and impairments
-than people who have diabetes but not
-neuropathy (139). Furthermore, DPN may
-progress to nontraumatic lower-limb am-
-putation, which signiﬁcantly impacts qual-
-ity of life (140).
-In addition to complications of diabetes
-from microvascular conditions such as CKD,
-retinopathy, autonomic neuropathy, and
-peripheral neuropathy, it is important to
-recognize the disabilities caused by macro-
-vascular complications of diabetes. These
-macrovascular complications, which include
-coronary heart disease, stroke, and periph-
-eral arterial disease, can lead to further im-
-pairments (134).
-An assessment of disability should be per-
-formed as necessary with referrals made
-to appropriate health care professionals
-specializing in disability (e.g., physical
-medicine and rehabilitation physician,
-physical therapist, occupational therapist,
-or speech-language pathologist) (133,141,
-142). Customized rehabilitation interven-
-tions for individuals with a disability from
-diabetes can recover function, allowing for
-safe physical activity (143), and improve
-quality of life (144). Additionally, frailty is
-commonly associated with diabetes, with
-progression to disability, morbidity, and
-mortality in older adults. People with dia-
-betes as well as frailty or disability may
-contend with comorbid conditions such as
-hypoglycemia, sarcopenia, falls, and cogni-
-tive dysfunction. A thorough medical eval-
-uation is imperative to identify the best
-approaches to preventative and therapeu-
-tic interventions for frailty and diabetes
-management (145).
-To assess the impact of diabetes on an
-individual’s daily functioning, clinicians
-should consider evaluating their ability to
-perform ADLs and IADLs, ensuring they
-can manage basic self-care and more
-complex tasks necessary for speciﬁc living
-situations, services, and supports. A psy-
-chosocial assessment should be conducted
-to screen for behavioral health conditions
-like depression and anxiety and to under-
-stand the individual’s social support and
-coping mechanisms. Functional capacity
-evaluations, involving tests for physical en-
-durance and strength, are used to gauge
-the ability of the person with diabetes to
-work and carry out daily activities. Addi-
-tionally, standardized disability question-
-naires and scales, such as the Diabetes
-Distress Scale (DDS) and the World Health
-Organization Disability Assessment Sched-
-ule (WHODAS 2.0), are employed to mea-
-sure the emotional burden of diabetes and
-overall disability (146,147). These sug-
-gested structured assessments are particu-
-larly relevant if individuals have fallen, had
-emergency department visits, missed ap-
-pointments, made signiﬁcant errors in the
-treatment plan, or exhibit apathy and de-
-pressed mood.
-S70
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Moreover, when treating people with
-an acquired disability from diabetes, it
-is vital to consider social determinants
-of health, race and ethnicity, and socio-
-economic status (148). Rates of diabetes-
-related major amputations are higher in
-individuals who are from racial and ethnic
-minoritized groups (149), live in rural
-areas, and are from regions with the low-
-est socioeconomic levels (150). Address-
-ing the complex challenges faced by
-individuals with acquired disabilities from
-diabetes requires a multifaceted approach
-involving solutions from both within and
-outside the health care system. By
-focusing on social determinants of health,
-health care professionals can develop
-appropriate interventions, provide advo-
-cacy, and establish support systems that
-cater to the speciﬁc needs of this popu-
-lation. See Section 1, “Improving Care
-and Promoting Health in Populations.”
-Hepatitis C
-Infection with hepatitis C virus (HCV) is as-
-sociated with a higher prevalence of type 2
-diabetes, which is present in up to one-
-third of individuals with chronic HCV infec-
-tion. HCV may impair glucose metabolism
-by several mechanisms, including directly
-via viral proteins and indirectly by altering
-proinﬂammatory cytokine levels (151). The
-use of newer direct-acting antiviral drugs
-produces a sustained virological response
-(cure) in nearly all cases and has been re-
-ported to improve glucose metabolism in
-individuals with diabetes (152). A meta-
-analysis of mostly observational studies
-found a mean reduction in A1C levels of
-0.45% (95% CI –0.60 to –0.30) and reduced
-requirement for glucose-lowering medica-
-tion use following successful eradication of
-HCV infection (153).
-Low Testosterone in Men
-Recommendation
-4.18 In men with diabetes or predi-
-abetes, inquire about sexual health
-(e.g., low libido and erectile dys-
-function [ED]). If symptoms and/or
-signs of hypogonadism are detected
-(e.g., low libido, ED, and depres-
-sion), screen with a morning serum
-total testosterone level. B
-Mean levels of testosterone are lower in
-men with diabetes than in age-matched
-men without diabetes, but obesity is a
-major confounder (154,155). Testosterone
-replacement in men with symptomatic hy-
-pogonadism may have beneﬁts, including
-improved sexual function, well-being, mus-
-cle mass and strength, and bone density
-(156). In men with diabetes who have
-symptoms or signs of low testosterone (hy-
-pogonadism), a morning total testosterone
-level should be measured using an accu-
-rate and reliable assay (157). In men who
-have total testosterone levels close to the
-lower limit, it is reasonable to determine
-free testosterone concentrations either di-
-rectly from equilibrium dialysis assays or by
-calculations that use total testosterone, sex
-hormone binding globulin, and albumin
-concentrations (157). Further tests (such
-as luteinizing hormone and follicle-
-stimulating hormone levels) may be needed
-to further evaluate the individual.Testoster-
-one replacement in older men with hypogo-
-nadism has been associated with increased
-coronary artery plaque volume, with no
-conclusive evidence that testosterone sup-
-plementation is associated with increased
-cardiovascular risk in all men with hypogo-
-nadism (157). Furthermore, erectile dys-
-function (ED) is also common in people
-with diabetes (158), and it is reasonable to
-measure and correct testosterone levels
-close to the lower limit to address the de-
-sire component that contributes to erectile
-difﬁculties (159) (see ERECTILE DYSFUNCTION, be-
-low, for more information on evaluation
-and further discussion).
-Erectile Dysfunction
-Recommendation
-4.19 In men with diabetes or predia-
-betes, screen for ED, particularly in
-those with high cardiovascular risk,
-retinopathy, cardiovascular disease,
-chronic kidney disease, peripheral or
-autonomic neuropathy, longer dura-
-tion of diabetes, depression, and hy-
-pogonadism, and in those who are
-not meeting glycemic goals. B
-The most common sexual dysfunction in
-men is ED, with an estimated prevalence
-of 52.5% in men with diabetes (160). The
-best predictors of ED are age (>40 years),
-CVD, diabetes, hypertension, obesity, dys-
-lipidemia, metabolic syndrome, hypogo-
-nadism, smoking, depression, and use of
-medications such as antidepressants and
-opioids (161,162). Because diabetes, poor
-nutrition, obesity, lack of exercise, and
-CVD are often interrelated, it may be
-challenging to identify the primary risk
-factor (159), although the most likely pri-
-mary underlying risk factor is vascular dis-
-ease (159).
-Men with diabetes are at increased
-risk for both CVD and ED, and ED is a pre-
-dictor of cardiovascular events in men
-with diabetes (163,164) as well as in
-men without diabetes. The signiﬁcant
-factors associated with ED in men with
-diabetes are age, peripheral or auto-
-nomic neuropathy, presence of micro-
-vascular disease including retinopathy,
-CVD, duration of diabetes, poor glycemic
-management, hypogonadism, and diuretic
-therapy (165). Physical activity may be pro-
-tective. Men with diabetes and ED report
-a signiﬁcant decline in quality-of-life meas-
-ures and an increase in depressive symp-
-toms (166), and depression is a well-
-recognized risk factor for ED. Given the
-bidirectional relationship between ED
-and depression, treatment of either one
-can result in improvement in the other
-condition. CKD is also a risk factor for
-CVD and ED, with prevalence rates of ED
->75% in men on hemodialysis (167).
-Awareness and identiﬁcation of these
-characteristics, factors, and behaviors can
-guide clinicians in early screening, treat-
-ment, prevention, and counseling in all
-men with diabetes and particularly those
-at higher risk for ED (165). Given the evi-
-dence that ED is strongly associated with
-diabetes and CVD, men with ED should
-be evaluated and managed for cardiovas-
-cular and endocrine risk factors. Glycemic
-assessment in men not previously diag-
-nosed with diabetes, lipid proﬁle, and
-morning total testosterone should be
-considered mandatory in all men newly
-presenting with ED (168).
-In a recent meta-analysis, testosterone
-was superior to placebo in improving
-erectile function in men with testoster-
-one deﬁciency; however, the magnitude
-of the effect was lower in the presence of
-diabetes and obesity (169).
-Meta-analyses show that all phosphodi-
-esterase type 5 inhibitors (PDE5Is) are su-
-perior to placebo in treating ED, lower
-dosages had effects comparable with those
-of higher dosages, and various PDE5Is
-show comparable efﬁcacy (159). PDE5Is
-are associated with an increased risk of
-headaches, ﬂushing, and dyspepsia (159).
-First-line therapy for ED in men with diabe-
-tes is PDE5Is, but men with diabetes may
-be less responsive than men without diabe-
-tes (160). Strategies to improve response
-to
-PDE5Is
-include
-daily
-therapy
-and
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S71
-©AmericanDiabetesAssociation
-optimization of comorbidities. In men with
-diabetes not respondingto PDEIs, other po-
-tentially effective treatments may include
-intracavernosal injections, intraurethral
-prostaglandin, vacuum erection devices,
-and penile prosthetic surgery (160).
-Female Sexual Dysfunction
-Recommendations
-4.20 In women with diabetes or predi-
-abetes, inquire about sexual health by
-screening for desire (libido), arousal,
-and orgasm difﬁculties, particularly in
-those who experience depression
-and/or anxiety and those with recur-
-rent urinary tract infections. B
-4.21 In postmenopausal women with
-diabetes or prediabetes, screen for
-symptoms and/or signs of genitouri-
-nary syndrome of menopause, includ-
-ing vaginal dryness and dyspareunia. B
-Female sexual dysfunction (FSD) is common
-in women with diabetes. In an epidemio-
-logic cross-sectional study of community-
-residing middle-aged and older adults
-(57–85 years), women with diagnosed dia-
-betes were less likely than men with diag-
-nosed diabetes (adjusted OR 0.28 [95% CI
-0.16–0.49]) and women without diabetes
-(0.63 [0.45–0.87]) to be sexually active
-(170). Older women with diabetes are as
-likely as men to have sexual problems but
-are signiﬁcantly less likely to have discussed
-sex with a physician (170).
-While studies showing the association
-between diabetes and FSD are less conclu-
-sive than those in men, most have reported
-a higher prevalence of FSD in women with
-diabetes compared with women without
-diabetes (171). A meta-analysis found that
-sexual dysfunctions are more common in
-women with type 1 and type 2 diabetes (OR
-2.27 and 2.49, respectively) than in women
-without diabetes (172).
-Reviews report a wide range of preva-
-lence rates of sexual dysfunctions in
-women with diabetes. In women with
-type 1 diabetes, 16–85% (vs. 0–66% in
-women without diabetes) report prob-
-lems with desire, 11–76% (vs. 0–41%) re-
-port problems with arousal, and 9–66%
-(vs. 0–39%) report problems with orgasm;
-9–57% (vs. 0–28%) report problems with
-lubrication, and 7–61% (vs. 5–39%) report
-problems with pain. In women with type 2
-diabetes, 70–82% (vs. 10–66% in women
-without diabetes) report problems with
-desire,
-54–68%
-(vs.
-3–41%)
-report
-problems with arousal, and 33–84% (vs.
-2–39%) report problems with orgasm;
-33–66% (vs. 4–28%) report problems
-with lubrication, and 33–46% (vs. 8–39%)
-report problems with pain (173).
-The Diabetes MILES (Management and
-Impact for Long-term Empowerment and
-Success) study examined the prevalence of
-sexual dysfunction in sexually active women
-with type 1 or type 2 diabetes and the asso-
-ciations between sexual dysfunction and
-clinical and psychological variables. Over-
-all, 33% of women reported sexual dys-
-function (type 1, 36.0%; type 2, 26.2%).
-The prevalence of speciﬁc FSDs accord-
-ing to diabetes type was decreased de-
-sire (type 1, 22%; type 2, 15%), decreased
-arousal (type 1, 9%; type 2, 11%), lubrica-
-tion problems (type 1, 19%; type 2, 14%),
-and orgasmic dysfunction (type 1, 16%;
-type 2, 15%) (173).
-Medical comorbidities that are risk fac-
-tors for FSD include hypertension, obesity,
-metabolic syndrome, smoking, and hyper-
-lipidemia. Clinical factors for consideration
-include longer duration of diabetic retinop-
-athy and neuropathy and individuals not
-meeting glycemic goals. The prevalence of
-FSD in women with end-stage kidney dis-
-ease is 74% (174).
-In women with diabetes, social and psy-
-chological components play a major role
-in FSD. Depression, anxiety, and emotional
-adjustments to diabetes have been found
-to be associated with sexual dysfunctions
-in women with diabetes. A study from
-Norway reported that women with type 1
-diabetes with scores on the Female Sexual
-Function Index (FSFI) (a validated instru-
-ment) indicating sexual dysfunction were
-more likely than women without sexual
-dysfunction to have diabetes distress, de-
-pression, and menopausal symptoms.They
-were also older and more likely to be single
-and postmenopausal (175). Another study
-also showed that women with sexual dys-
-function were signiﬁcantly more likely to
-report impaired well-being, have elevated
-diabetes distress, have poor adjustment to
-diabetes, and have more moderate to se-
-vere anxiety than women without sexual
-dysfunctions (173).
-In a qualitative study exploring the
-experiences of sexual health and sexual
-challenges, women with type 1 diabetes
-reported that diabetes affected their re-
-lationship, including sex life, and had an
-impact on their partner. Challenges in-
-cluded reduced sexual desire, decline
-in frequency, less spontaneous desire
-resulting in lack of initiation, and physi-
-cal challenges such as pain, vaginal dry-
-ness, and impaired sensitivity. Several
-women explained that vaginal dryness
-was an obstacle during sexual inter-
-course, leading to pain or even refraining
-from sexual activity. Sexual challenges
-were perceived to become a source of
-disappointment to the partners and con-
-sequential guilt for the women. Women
-also reported fear of hypoglycemia during
-sex, and some reported trying to maintain
-mild hyperglycemia. Technology devices,
-such as glucose monitors and insulin
-pumps, could be perceived as both a phys-
-ical and mental obstacle during sexual ac-
-tivity (176).
-Women with type 2 (25%) or type 1
-(17%) diabetes would like their health
-care professional to initiate a discussion
-on how diabetes is affecting their sex life
-(177). Women with type 1 diabetes almost
-unanimously endorsed that sexual health
-should be addressed, that they would ﬁnd
-it a relief that they were not alone, that
-they should be provided with information
-when they are young, and that it would be
-difﬁcult to address the topic themselves
-(176). Unfortunately, many health care pro-
-fessionals do not actively discuss sexual
-functioning in consultations, meaning that
-when the topic is discussed it is mostly the
-person with diabetes who initiates the con-
-versation (170). This leads to a marked un-
-derdiagnosis and undertreatment of sexual
-dysfunctions in people with diabetes.
-While no speciﬁc guidelines are avail-
-able for the treatment of FSD in this pop-
-ulation, women with type 1 or type 2
-diabetes should be encouraged to engage
-in lifestyle interventions and, in the ab-
-sence of contraindications, may beneﬁt
-from already-approved treatments for
-FSD (178). The Look AHEAD (Action for
-Health in Diabetes) study on intervention
-demonstrated statistical improvements in
-the FSFI total score and all domains of
-sexual dysfunction (179). Lifestyle factors
-that enhance desire and sexual function in-
-clude nutrition (such as the Mediterranean
-eating pattern), exercise (such as walking),
-and smoking cessation. Other interventions
-include improving glycemic management
-and prevention of diabetes complications;
-diagnosis and treatment of menopausal
-symptoms with hormonal therapies; ad-
-dressing vaginal dryness and dyspareunia
-as well as urinary tract and mycotic genital
-infections; screening and addressing de-
-pression, anxiety, diabetes distress, and
-S72
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-related psychosocial issues; and considering
-FDA-approved centrally acting medications
-for hypoactive sexual desire disorder, in-
-cluding ﬂibanserin and bremelanotide.
-Metabolic Dysfunction–Associated
-Steatotic Liver Disease and Metabolic
-Dysfunction–Associated Steatohepatitis
-Screening
-Recommendations
-4.22a Screen adults with type 2 diabe-
-tes or with prediabetes, particularly
-those with obesity or other cardiome-
-tabolic risk factors or established car-
-diovascular disease, for their risk of
-having or developing cirrhosis related
-to metabolic dysfunction–associated
-steatohepatitis (MASH) using a calcu-
-lated ﬁbrosis-4 index (FIB-4) (derived
-from age, ALT, AST, and platelets
-[mdcalc.com/calc/2200/ﬁbrosis4-ﬁb-4-
-index-liver-ﬁbrosis]), even if they have
-normal liver enzymes. B
-4.22b Adults with diabetes or predi-
-abetes with persistently elevated
-plasma aminotransferase levels for
->6 months and low FIB-4 should
-be evaluated for other causes of
-liver disease. B
-4.23 Adults with type 2 diabetes or
-prediabetes with a FIB-4 $1.3 should
-have additional risk stratiﬁcation by
-liver stiffness measurement with tran-
-sient elastography, or, if unavailable,
-the enhanced liver ﬁbrosis (ELF) test. B
-4.24 Refer adults with type 2 diabetes
-or prediabetes at higher risk for signiﬁ-
-cant liver ﬁbrosis (i.e., as indicated by
-FIB-4, liver stiffness measurement, or
-ELF) to a gastroenterologist or hepa-
-tologist for further evaluation and
-management. B
-Metabolic dysfunction–associated stea-
-totic liver disease (MASLD) has replaced
-the term nonalcoholic fatty liver disease
-(NAFLD) to identify steatotic liver dis-
-ease. The deﬁnition includes the pres-
-ence of steatotic liver disease and at
-least one cardiometabolic risk factor as-
-sociated with insulin resistance (e.g.,
-prediabetes, diabetes, atherogenic dysli-
-pidemia, or hypertension) without other
-identiﬁable causes of steatosis (180).
-This is in the absence of ongoing or re-
-cent consumption of signiﬁcant amounts
-of alcohol (deﬁned as ingestion of >21
-standard drinks per week in men and
->14 standard drinks per week in women
-over a 2-year period preceding evalua-
-tion) or other secondary causes of he-
-patic steatosis (181). It is estimated that
-in adults in the U.S., the prevalence of
-MASLD is >70% of people with type 2 di-
-abetes (182–184). This is consistent with
-studies from other countries (185,186).
-The new deﬁnition of MASLD aims to re-
-move potential stigma from the term
-“fatty” when referring to steatosis, high-
-lights the role of prediabetes and type 2
-diabetes in MASLD, and provides a posi-
-tive diagnosis by using cardiometabolic
-risk factors as surrogates for insulin resis-
-tance, the main driver for the develop-
-ment of steatosis. The new deﬁnition
-correlates well with the past deﬁnition
-of MASLD for people with prediabetes or
-type 2 diabetes (who already have, by
-deﬁnition, one cardiometabolic risk factor)
-(187,188). A separate category outside of
-MASLD, named metabolic dysfunction and
-alcoholic liver disease, was created for cir-
-cumstances in which alcohol intake is
-greater than that allowed for MASLD but
-less than that attributed to alcoholic liver
-disease. More research is needed to better
-characterize the predictive value for meta-
-bolic dysfunction–associated steatohepati-
-tis (MASH) of different cardiometabolic
-risk factors and the natural history of met-
-abolic dysfunction and alcoholic liver dis-
-ease or steatosis in young adults without
-cardiometabolic risk factors.
-Diabetes is a major risk factor for de-
-veloping MASH (formerly nonalcoholic
-steatohepatitis, or NASH) and worse liver
-outcomes (185,186). MASH is deﬁned his-
-tologically as having $5% hepatic steato-
-sis with inﬂammation and hepatocyte
-injury (hepatocyte ballooning), with or
-without evidence of liver ﬁbrosis (181).
-Steatohepatitis is estimated to affect more
-than half of people with type 2 diabetes
-with MASLD (189,190). Fibrosis stages are
-classiﬁed histologically as the following:
-F0, no ﬁbrosis; F1, mild; F2, moderate (sig-
-niﬁcant); F3, severe (advanced); and F4,
-cirrhosis. In the U.S., between 12% and
-20% of people with type 2 diabetes have
-“at-risk” MASH (i.e., steatohepatitis with
-clinically signiﬁcant ﬁbrosis [$F2] and at
-risk for cirrhosis) (182,183,189). A similar
-or higher prevalence has been observed
-worldwide (185,186,190). People with
-type 2 diabetes and at-risk MASH are at
-an increased risk of future cirrhosis, hepa-
-tocellular carcinoma (HCC) (191,192), and
-liver transplantation (193).The prevalence
-of MASLD in people with type 1 diabetes
-is 20% and is driven by obesity, which is
-becoming more common in this popula-
-tion (194), with a large variability across
-studies using different steatosis measure-
-ment methods (195). The prevalence of
-liver steatosis in a population with type 1
-diabetes by MRI (i.e., the gold standard)
-with low prevalence of obesity was only
-8.8% compared with 68% in people with
-type 2 diabetes (196). The prevalence of
-clinically signiﬁcant ﬁbrosis ($F2) is esti-
-mated to be 5% (197), which is much
-lower than the prevalence in type 2 diabe-
-tes (182,183,189). Therefore, screening for
-ﬁbrosis in people with type 1 diabetes
-should only be considered in the presence
-of additional risk factors for MASLD, such as
-obesity, incidental hepatic steatosis on imag-
-ing, or elevated plasma aminotransferases.
-Clinicians underestimate the preva-
-lence of at-risk MASH and do not consis-
-tently implement appropriate screening
-strategies in people with prediabetes or
-type 2 diabetes, thus missing a chance to
-establish an early diagnosis (198). This
-pattern of underdiagnosis is compounded
-by sparse referral to specialists and inade-
-quate prescription of medications with
-potential efﬁcacy in MASH (199,200). The
-goal of screening for MASLD is to identify
-people with at-risk MASH to prevent fu-
-ture cirrhosis, HCC, liver transplantation,
-and all-cause mortality (201–204). This
-risk is higher in people who have central
-obesity and cardiometabolic risk factors or
-insulin resistance, are >50 years of age,
-and/or have persistently elevated plasma
-aminotransferases
-(AST
-and/or
-ALT
->30 units/L for >6 months) (205,206).
-Some genetic variants that alter hepato-
-cyte triglyceride metabolism may also in-
-crease the risk of MASH progression and
-cirrhosis (207,208), amplifying the impact
-of obesity, but the role of genetic testing
-in clinical practice remains to be estab-
-lished. Individuals with MASLD also are
-at a greater risk of developing extrahe-
-patic cancer (192), type 2 diabetes (209),
-and CVD (210,211). Emerging evidence
-suggests that MASLD increases the risk
-of CKD in people with type 2 diabetes,
-particularly when liver ﬁbrosis is present
-(212,213), although the association of
-MASLD with diabetic retinopathy is less
-clear (214).
-The ﬁbrosis-4 index (FIB-4) is the
-most cost-effective strategy for the ini-
-tial screening of people with prediabe-
-tes and cardiometabolic risk factors or
-with type 2 diabetes for at-risk MASH in
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S73
-©AmericanDiabetesAssociation
-primary care and diabetes clinical set-
-tings (186,200,205,206,215–217). The
-diagnostic algorithm for the screening
-and liver ﬁbrosis risk stratiﬁcation of peo-
-ple with prediabetes or type 2 diabetes is
-shown in Fig. 4.2. A screening strategy
-relying on elevated plasma aminotrans-
-ferases >40 units/L would miss most in-
-dividuals with MASH in these settings, as
-at-risk MASH with clinically signiﬁcant
-ﬁbrosis ($F2) is frequently observed
-with plasma aminotransferases below the
-commonly used cutoff of 40 units/L
-(182–184,189,218,219). The American Col-
-lege of Gastroenterology considers the
-upper limit of normal ALT levels to be
-29–33 units/L for male individuals and
-19–25 units/L for female individuals (220),
-as higher levels are associated with in-
-creased liver-related mortality.The FIB-4 es-
-timates the risk of hepatic cirrhosis and is
-calculated from the computation of age,
-plasma aminotransferases (AST and ALT),
-and platelet count (mdcalc.com/calc/2200/
-ﬁbrosis-4-ﬁb-4-index-liver-ﬁbrosis). A value
-of <1.3 is considered low riskof having ad-
-vanced ﬁbrosis (F3–F4) and for developing
-adverse liver outcomes, while $1.3 is con-
-sidered as having a higher probability of
-at-risk MASH clinically signiﬁcant ﬁbrosis
-($F2) and increased risk of adverse liver
-outcomes. A value of >2.67 confers a high
-risk of having advanced ﬁbrosis (F3–F4),
-and referral to the liver specialist is war-
-ranted without additional testing. FIB-4
-predicts changes over time in hepatic ﬁ-
-brosis (221,222) and allows risk stratiﬁ-
-cation of individuals in terms of future
-liver-related morbidity and mortality (223).
-FIB-4 has reasonable speciﬁcity but low
-sensitivity, hence a negative result rules
-out ﬁbrosis while a positive result requires
-conﬁrmatory testing (222,224,225). Its
-low cost, simplicity, and good speciﬁcity
-make it the initial test of choice (Fig. 4.2).
-FIB-4 has not been validated in pediatric
-populations or in adults aged <35 years.
-In people with diabetes $65 years of age,
-higher cutoffs for FIB-4 have been recom-
-mended (1.9–2.0 rather than $1.3) (226).
-In people with a FIB-4 $1.3, there is
-need for additional risk stratiﬁcation with
-a liver stiffness measurement (LSM) by
-transient elastography (Fig. 4.2). Use of a
-second nonproprietary diagnostic panel is
-not recommended (e.g., MASLD ﬁbrosis
-score and others), as they generally do not
-perform better than FIB-4 (181,184,224).
-Transient elastography (LSM) is the best-
-validated imaging technique for ﬁbrosis
-risk stratiﬁcation, and it predicts future cir-
-rhosis and all-cause mortality in MASLD
-(205,206,227). An LSM value of <8.0 kPa
-has a good negative predictive value
-to exclude advanced ﬁbrosis ($F3–F4)
-(228–230) and indicates lower risk for
-clinically signiﬁcant ﬁbrosis. Such individ-
-uals with prediabetes or type 2 diabetes
-can be followed in nonspecialty clinics
-with repeat surveillance testing every
-$2 years, although the precise time in-
-terval remains to be established. If the
-LSM is $8.0 kPa, the risk for advanced ﬁ-
-brosis ($F3–F4) is higher and such individ-
-uals should be referred to the hepatologist
-(181,189,205,206) within the framework
-of an interprofessional team (231–233).
-FIB-4 followed by LSM helps stratify peo-
-ple with diabetes by risk level and mini-
-mize specialty referrals (227,234–237) (Fig.
-4.2). Given the lack of widespread avail-
-ability of LSM, the ELF test is a good alter-
-native (238). Individuals with ELF <9.8 are
-considered at low risk for adverse liver
-outcomes. Individuals with ELF $9.8 are
-considered at high risk of having MASH
-with advanced liver ﬁbrosis ($F3–F4) and
-Diagnostic Algorithm for the Prevention of Cirrhosis in People With
-Metabolic Dysfunction-Associated Steatotic Liver
-Lower risk of
-future cirrhosis
-Managed by primary care
-(and interprofessional team)
-•
-Repeat FIB-4 every 1-2 years
-•
-Optimize lifestyle and treatment
-of comorbidities
-Managed by liver specialist
-(and interprofessional team)
-•
-Additional imaging and biomarker
-risk stratification
-•
-Treatment + long-term follow-up
-Higher risk of
-future cirrhosis
-Is LSM
-8.0 kPa*?
-Groups with the highest risk of
-future cirrhosis
-3?
-Type 2 diabetes
-Prediabetes
-Obesity
-actors
-Rule out
-secondary
-causes of
-steatosis
-or ↑ ALT
-67
-No
-No
-Yes
-Yes
-* Consider
-.8
-Disease (MASLD)
-vailable. Refer to
-liver
-Figure 4.2—Diagnostic algorithm for risk stratiﬁcation and the prevention of cirrhosis in individuals with metabolic dysfunction–associated steatotic
-liver disease (MASLD). CV, cardiovascular; ELF, enhanced liver ﬁbrosis test; FIB-4, ﬁbrosis-4 index; LSM, liver stiffness measurement, as measured
-by vibration-controlled transient elastography. *In the absence of LSM, consider ELF a diagnostic alternative. If ELF $9.8, an individual is at high
-risk of metabolic dysfunction–associated steatohepatitis with advanced liver ﬁbrosis ($F3–F4) and should be referred to a liver specialist.
-S74
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-therefore are at risk for adverse liver
-outcomes (181,217). They should be re-
-ferred to a gastroenterologist or hepa-
-tologist. The optimal cutoff for clinical
-use of ELF in primary care and endocri-
-nology settings is evolving (239–242).
-An ELF <9.8 suggests an individual is at
-low risk of advanced liver ﬁbrosis and
-may be followed in the nonspecialty
-clinic with repeat testing in $2 years
-but may need repeat testing more often
-if ELF is between 9.2 and 9.7.
-Specialists may order additional tests
-for ﬁbrosis risk stratiﬁcation in MASH
-(180,205,206,217), including magnetic
-resonance elastography (MRE) (best over-
-all performance, particularly for early
-ﬁbrosis stages) or multiparametric iron-
-corrected T1 MRI (cT1) (243) and pat-
-ented blood-based ﬁbrosis biomarkers.
-While liver biopsy remains the gold stan-
-dard for the diagnosis of MASH, its indi-
-cation is reserved to the discretion of
-the specialist within an interprofessional
-team approach due to high costs and po-
-tential for morbidity associated with this
-procedure.
-Management
-Recommendations
-4.25 Adults with type 2 diabetes or
-prediabetes, particularly with over-
-weight or obesity, who have meta-
-bolic dysfunction–associated steatotic
-liver disease (MASLD) should be rec-
-ommended lifestyle changes using an
-interprofessional approach that pro-
-motes weight loss, ideally within a
-structured nutrition plan and physical
-activity program for cardiometabolic
-beneﬁts B and histological improve-
-ment. C
-4.26 In adults with type 2 diabetes,
-MASLD, and overweight or obesity,
-consider using a glucagon-like peptide 1
-(GLP-1) receptor agonist (RA) or a
-dual glucose-dependent insulinotropic
-polypeptide (GIP) and GLP-1 RA for
-the treatment of obesity with poten-
-tial beneﬁts in MASH as an adjunctive
-therapy to lifestyle interventions for
-weight loss. B
-4.27a In adults with type 2 diabetes
-and biopsy-proven MASH or those
-at high risk for liver ﬁbrosis (based
-on noninvasive tests), pioglitazone,
-a GLP-1 RA, or a dual GIP and GLP-1 RA
-is preferred for glycemic management
-because of potential beneﬁcial effects
-on MASH. B
-4.27b Combination therapy with piogli-
-tazone plus GLP-1 RA can be considered
-for the treatment of hyperglycemia in
-adults with type 2 diabetes with biopsy-
-proven MASH or those at high risk of
-liver ﬁbrosis (identiﬁed with noninva-
-sive tests) because of potential bene-
-ﬁcial effects on MASH.B
-4.28 For consideration of treatment
-with a thyroid hormone receptor-b
-agonist in adults with type 2 diabe-
-tes or prediabetes with MASLD with
-moderate (F2) or advanced (F3) liver
-ﬁbrosis on liver histology, or by a vali-
-dated imaging-based or blood-based
-test, refer to a gastroenterologist or
-hepatologist with expertise in MASLD
-management. A
-4.29 Treatment initiation and monitor-
-ing should be individualized and within
-the context of an interprofessional
-team that includes a gastroenterolo-
-gist or hepatologist, consideration of
-individual preferences, and a careful
-shared-decision cost-beneﬁt discus-
-sion. B
-4.30a In adults with type 2 diabetes
-and MASLD, use of glucose-lowering
-therapies other than pioglitazone
-or GLP-1 RAs may be continued as
-clinically indicated, but these ther-
-apies lack evidence of beneﬁt in
-MASH. B
-4.30b Insulin therapy is the pre-
-ferred agent for the treatment of
-hyperglycemia in adults with type 2
-diabetes with decompensated cir-
-rhosis. C
-4.31a Adults with type 2 diabetes
-and MASLD are at increased cardio-
-vascular risk; therefore, comprehen-
-sive management of cardiovascular
-risk factors is recommended. B
-4.31b Statin therapy is safe in adults
-with type 2 diabetes and compensated
-cirrhosis from MASLD and should be
-initiated or continued for cardiovascu-
-lar risk reduction as clinically indicated.
-B In people with decompensated cir-
-rhosis, statin therapy should be used
-with caution, and close monitoring is
-needed, given limited safety and efﬁ-
-cacy data. B
-4.32a Consider metabolic surgery in
-appropriate candidates as an option
-to treat MASH in adults with type 2
-diabetes B and to improve cardio-
-vascular outcomes. B
-4.32b Metabolic surgery should be
-used with caution in adults with type 2
-diabetes with compensated cirrhosis
-from MASLD B and is not recom-
-mended in decompensated cirrhosis. B
-While steatohepatitis and cirrhosis occur in
-lean people with diabetes and are believed
-to be linked to genetic predisposition, insu-
-lin resistance, and environmental factors
-(244,245), ample evidence implicates excess
-visceral fat and overall adiposity in people
-with overweight and obesity in the patho-
-genesis of the disease (246,247). Obesity
-in the setting of type 2 diabetes worsens
-insulin resistance and steatohepatitis,
-promoting the development of cirrhosis
-(248). Therefore, clinicians should enact
-evidence-based interventions (as dis-
-cussed in Section 5, “Facilitating Positive
-Health Behaviors and Well-being to
-Improve Health Outcomes”) to promote
-healthy lifestyle change and weight loss
-for people with overweight or obesity
-and MASLD. There is consensus that a
-minimum weight loss goal of 5%, prefer-
-ably $10%, is needed to improve liver
-histology (181,205,206,217), with ﬁbro-
-sis requiring the larger weight reduction
-to promote change (249,250). However,
-there is signiﬁcant individual variability in
-histological outcomes with weight loss. In-
-dividualized, structured weight loss and
-exercise programs offer greater beneﬁt
-than standard counseling in people with
-MASLD (251).
-Dietary recommendations to induce
-an energy deﬁcit are not different from
-those for people with diabetes with
-obesity without MASLD and should in-
-clude a reduction of macronutrient con-
-tent, limiting saturated fat, starch, and
-added sugar, with adoption of healthier
-eating patterns. The Mediterranean eat-
-ing pattern has the best evidence for im-
-proving liver and cardiometabolic health
-(205,215–217,251). Both aerobic and
-resistance training improve MASLD in pro-
-portion to treatment engagement and in-
-tensity of the program (252). Obesity
-pharmacotherapy may assist with weight
-loss in the context of lifestyle modiﬁcation
-if not achieved by lifestyle modiﬁcation
-alone (see Section 8, “Obesity and Weight
-Management for the Prevention and
-Treatment of Type 2 Diabetes”).
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S75
-©AmericanDiabetesAssociation
-Given the high prevalence of at-risk
-MASH
-(12–20%)
-(182–184,186,189),
-higher risk of disease progression and
-liver-related mortality (185,204,253), and
-the lack of pharmacological treatments
-once cirrhosis is established (254,255),
-optimizing the pharmacological manage-
-ment of hyperglycemia and obesity in
-people with type 2 diabetes and MASH
-could serve the dual purpose of address-
-ing these comorbidities while treating
-the liver disease (Fig. 4.3). Therefore,
-early diagnosis and treatment of MASLD
-offers the best opportunity for cirrhosis
-prevention. In phase 2 clinical trials,
-pioglitazone and some GLP-1 RAs have
-been shown to be potentially effective
-to treat steatohepatitis (205,256–259) and
-to slow ﬁbrosis progression (260–262).
-They may also decrease CVD (257), which
-is the number one cause of death in peo-
-ple with type 2 diabetes and MASLD
-(210). Evidence from phase 3 clinical trials
-still are not fully published (e.g., a phase
-3 study on semaglutide, The Effect of Sem-
-aglutide in Subjects With Non-cirrhotic
-Non- alcoholic Steatohepatitis [ESSENSE]
-trial, is predicted to be published in 2025)
-(263), and no glucose-lowering or weight
-management medication is FDA approved for
-the treatment of MASH.The recommendation
-to treat hyperglycemia with GLP-1 RAs and/or
-pioglitazone in people with type 2 diabetes
-and MASLD is based on consistent histo-
-logical beneﬁt for steatohepatitis in sev-
-eral phase 2 RCTs with GLP-1 RAs and
-with pioglitazone (264–268) compared
-with no beneﬁt with metformin or other
-glucose-lowering medications in MASH
-(181,205,206).
-Pioglitazone improves glucose and lipid
-metabolism and reverses steatohepatitis
-in people with prediabetes or type 2 dia-
-betes (261,264,265) and even in individu-
-als without diabetes (266–268) (Fig. 4.3).
-Fibrosis also improved in some trials
-(265,267). A meta-analysis (260) concluded
-that pioglitazone treatment results in reso-
-lution of MASH and may improve ﬁbrosis.
-Furthermore, combination therapy with
-pioglitazone plus a GLP-1 RA has been
-reported safe and effective for the treat-
-ment of hyperglycemia in adults with
-type 2 diabetes (269–272) as well as in
-reducing hepatic steatosis (269,271), sug-
-gesting additive beneﬁt in individuals with
-MASLD. It is important to note that these
-studies are based on phase 2 clinical trials
-and await further phase 3 evidence. How-
-ever, these plans are attractive because
-they offer potential beneﬁt compared
-with lack of histological beneﬁt (or clinical
-trial data) from other oral glucose-lower-
-ing therapies in MASLD. In the context of
-treating hyperglycemia in people with
-type 2 diabetes with MASLD, where the
-low cost of pioglitazone and any liver im-
-provement would be an added beneﬁt to
-glycemic management, these plans would
-be potentially cost-effective for the treat-
-ment of MASLD (273,274). Vitamin E may
-be beneﬁcial for the treatment of MASH
-in people without diabetes (266). How-
-ever, in people with type 2 diabetes, vita-
-min E monotherapy was found to be
-ineffective in a small RCT (261), and it did
-not seem to enhance pioglitazone’s efﬁ-
-cacy when used in combination, as re-
-ported in an earlier trial in this population
-(265). Pioglitazone causes dose-dependent
-weight gain (15 mg/day, mean weight
-gain of 1–2%; 45 mg/day, mean weight
-gain of 3–5%), which can be blunted or
-reversed if combined with SGLT2 inhibi-
-tors or GLP-1 RAs (257,271,272,275).
-Pioglitazone increases fracture risk, may
-promote heart failure if used in individu-
-als with preexisting congestive heart fail-
-ure, and may increase the risk of bladder
-cancer, although this remains controversial
-(181,205,206,257,258).
-GLP-1 RAs are effective at inducing
-weight loss and ameliorating elevated
-MASLD
-with F0-F1
-Compensated
-cirrhosis
-Decompensated
-cirrhosis
-MASLD
-with F2-F3
-(“at risk”
-MASH)
-Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD) Treatment Algorithm
-Obesity
-pharmacotherapy
-Diabetes
-pharmacotherapy
-MASH
-pharmacotherapy
-Prefer GLP-1 RA,
-dual GIP and GLP-1 RA
-Prefer GLP-1 RA,
-dual GIP and GLP-1 RA,
-pioglitazone, SGLT2i
-Not indicated
-Obesity
-pharmacotherapy
-Diabetes
-pharmacotherapy
-MASH
-pharmacotherapy
-Prefer GLP-1 RA,
-dual GIP and GLP-1 RA
-Prefer GLP-1 RA,
-dual GIP and GLP-1 RA,
-pioglitazone
-Resmetirom
-Obesity
-pharmacotherapy
-Diabetes
-pharmacotherapy
-MASH
-pharmacotherapy
-As with F2-F3
-with caution*
-As with F2-F3
-with caution*
-AVOID
-Obesity
-pharmacotherapy
-Diabetes
-pharmacotherapy
-MASH
-pharmacotherapy
-AVOID
-Only use insulin
-AVOID
-Individualize
-care, targeting
-the following:
-•
-Adoption of a
-healthy lifestyle
-•
-Weight loss (if indicated)
-•
-Optimal diabetes
-management
-•
-Cardiovascular
-risk reduction
-•
-Need for metabolic
-surgery (as recommended
-by guidelines)
-*Individualized care and close monitoring needed in compensated cirrhosis given limited safety data available.
-MASLD
-Figure 4.3—Metabolic dysfunction–associated steatotic liver disease (MASLD) treatment algorithm. F0-F1, no to minimal ﬁbrosis; F2-F3, moderate
-ﬁbrosis; F4, cirrhosis; GIP, glucose-dependent insulinotropic polypeptide; GLP-1 RA, glucagon-like peptide 1 receptor agonist; MASH, metabolic
-dysfunction–associated steatohepatitis; SGLT2i, sodium–glucose cotransporter 2 inhibitor.
-S76
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-plasma aminotransferases and steatosis
-(256) (Fig. 4.3). However, there are few
-phase 2 RCTs of GLP-1 RAs in individuals
-with MASH proven by biopsy. A small
-RCT reported that liraglutide improved
-some features of MASH and may delay
-ﬁbrosis progression (276). Subcutaneous
-semaglutide treatment in 320 people
-with MASH (62% having type 2 diabe-
-tes) led to resolution of steatohepatitis
-without worsening of ﬁbrosis in 59% of
-individuals at the higher dose (equiva-
-lent to 2.4 mg/week semaglutide) com-
-pared with 17% in the placebo group
-(P < 0.001) (262). Cumulatively, sema-
-glutide did not signiﬁcantly affect the
-stage of liver ﬁbrosis in this group of
-people but, over 72 weeks, slowed the
-progression of liver ﬁbrosis (4.9% with
-the GLP-1 RA at the highest dose com-
-pared with 18.8% on placebo). Tirzepa-
-tide is a dual GIP and GLP-1 RA known
-to reduce liver steatosis in MASLD
-(277), and a phase 2 paired-biopsy study
-of 190 adults with overweight or obesity
-with MASH (50–60% of whom had type 2
-diabetes) recently reported that doses of 5,
-10, and 15 mg/day resulted in resolution
-of steatohepatitis without worsening of ﬁ-
-brosis in 44%, 56%, and 62% of partici-
-pants, respectively, compared with 10% of
-participants receiving placebo (P < 0.001
-for all three comparisons) (278). Improve-
-ment of at least one ﬁbrosis stage without
-worsening of MASH occurred in 55%, 51%,
-and 61% of participants, respectively, com-
-pared with 30% of participants receiving
-placebo. Survodutide is a dual GLP-1 and
-glucagon RA that is in development, and a
-phase 2 paired-biopsy trial recently re-
-ported beneﬁt in MASH (279). In summary,
-GLP-1–based therapies and/or pioglitazone is
-recommended to treat type 2 diabetes in
-adults with MASH based on histological
-beneﬁt for steatohepatitis in several
-phase 2 RCTs (278,279) compared
-with no beneﬁt with metformin or
-other glucose-lowering or weight loss
-medications. Within the context of their
-approved indication (e.g., obesity or type 2
-diabetes), these medications are cost-
-effective to treat the comorbidity, while
-potentially improving MASH, which be-
-comes an added beneﬁt.
-SGLT2 inhibitors (280–282) and insulin
-(258) reduce hepatic steatosis, but their ef-
-fects on steatohepatitis remain unknown.
-The use of glucose-lowering agents other
-than pioglitazone or GLP-1 RAs may be
-continued in individuals with type 2
-diabetes and MASLD for glycemic man-
-agement, as clinically indicated. However,
-these agents have either failed to im-
-prove steatohepatitis in paired-biopsy
-studies (metformin) or have no RCTs with
-liver histological end points (i.e., sulfonyl-
-ureas, glitinides, dipeptidyl peptidase 4
-inhibitors, or acarbose).
-Resmetirom is a thyroid hormone re-
-ceptor-b agonist approved by the FDA
-for the treatment of adults with MASLD
-with moderate (F2) or advanced (F3)
-liver ﬁbrosis on liver histology or a vali-
-dated imaging- or blood-based test. In a
-phase 3 RCT, resmetirom for 52 weeks in
-966 adults at the highest dose of 100 mg
-(or placebo) met the primary end point
-of MASH resolution without worsening
-of ﬁbrosis in 29.9% of participants com-
-pared with 9.7% on placebo (P < 0.001)
-(283). Fibrosis improved in up to 25.9%
-and 14.2%, respectively (P < 0.001). Nau-
-sea, vomiting, and diarrhea occurred
-more often with resmetirom. The gastro-
-intestinal side effects are dose dependent
-and improve with continued treatment.
-Resmetirom decreased free thyroxine (T4)
-levels by 20% and increased sex hor-
-mone-binding protein levels two- to three-
-fold. Although a recent review of the data
-concluded that there is little concern
-about these changes, long-term postmar-
-keting data must be collected (284,285).
-Guidance by the American Association for
-the Study of Liver Diseases (AASLD) about
-optimal individual identiﬁcation for treat-
-ment, safety, and long-term monitoring
-has recently been published (286). This is
-especially relevant because hypothyroid-
-ism and hypogonadism are more preva-
-lent in people with MASLD than in the
-general population (181,205), and clini-
-cians should monitor all individuals with
-MASLD for symptoms of endocrine deﬁ-
-ciency and manage according to clinical
-practice guidelines. Per its label, candi-
-dates for resmetirom treatment are those
-with MASLD and moderate (F2) to ad-
-vanced (F3) liver ﬁbrosis but not with cir-
-rhosis or other active liver disease (i.e.,
-alcohol-related liver disease, autoimmune
-hepatitis, or primary biliary cholangitis) or
-unmanaged hypothyroidism or hyperthy-
-roidism. Given complexities associated
-with selection of an individual for therapy,
-drug cost, and treatment monitoring, ther-
-apy should be individualized and initiated
-by a hepatologist or gastroenterologist
-with expertise in MASH within an interpro-
-fessional team.
-Insulin is the preferred glucose-lowering
-agent for the treatment of hyperglycemia
-in adults with type 2 diabetes with decom-
-pensated cirrhosis given the lack of robust
-evidence about the safety and efﬁcacy of
-oral agents and noninsulin injectables (i.e.,
-GLP-1 RAs and dual GIP and GLP-1 RAs)
-(255), although a recent 48-week study
-suggested that GLP-1 RAs are safe in indi-
-viduals with MASH and compensated cir-
-rhosis (287).
-Metabolic surgery leading to sustained
-weight loss and improvement of type 2 di-
-abetes can improve MASH and cardiome-
-tabolic health, altering the natural history
-of the disease (288). Meta-analyses report
-that 70–80% of people have improvement
-in hepatic steatosis, 50–75% of people
-have improvement in inﬂammation and
-hepatocyte ballooning (necrosis), and
-30–40% of people have improvement in ﬁ-
-brosis (289,290). It may also reduce the
-risk of HCC (290). It is important to note
-that currently metabolic surgery is not
-indicated solely for treatment of MASH.
-Given that many individuals with MASH
-have metabolic risks (type 2 diabetes
-and obesity) that are indications for met-
-abolic surgery, the improvement in liver
-health is expected, but surgical indication
-should follow current practice guidelines.
-Metabolic surgery should be used with
-caution in individuals with compensated
-cirrhosis (i.e., asymptomatic stage of cir-
-rhosis without associated liver complica-
-tions), but with experienced surgeons the
-risk of hepatic decompensation is similar
-to that for individuals with less advanced
-liver disease. Because of the paucity of
-safety and outcome data, metabolic sur-
-gery is not recommended in individuals
-with decompensated cirrhosis (i.e., cir-
-rhosis stage with complications such as
-variceal hemorrhage, ascites, hepatic en-
-cephalopathy, or jaundice) who also have
-a much higher risk of postoperative devel-
-opment of these liver-related complica-
-tions (181,205,206).
-Adults with type 2 diabetes and MASLD
-are at an increased risk of CVD and
-require comprehensive management of
-cardiovascular risk factors (181,205,206).
-Within an interprofessional approach,
-statin therapy should be initiated or con-
-tinued for cardiovascular risk reduction as
-clinically indicated. Overall, its use appears
-to be safe in adults with type 2 diabetes
-and MASH, including in the presence of
-compensated cirrhosis (Child-Pugh class A
-or B cirrhosis) from MASLD. Some studies
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S77
-©AmericanDiabetesAssociation
-even suggest that statin use in people
-with chronic liver disease may reduce epi-
-sodes of hepatic decompensation and/or
-overall mortality (291,292). Statin therapy
-is not recommended in decompensated
-cirrhosis given limited safety and efﬁcacy
-data (181,205,206).
-Obstructive Sleep Apnea
-Age-adjusted rates of obstructive sleep
-apnea, a risk factor for CVD, are signiﬁ-
-cantly higher (4- to 10-fold) with obesity,
-especially with central obesity (293) (see
-Section 5, “Facilitating Positive Health
-Behaviors and Well-being to Improve
-Health Outcomes”). The prevalence of ob-
-structive sleep apnea in the population
-with type 2 diabetes may be as high as
-23%, and the prevalence of any sleep-di-
-sordered breathing may be as high as 58%
-(294,295). In participants with obesity en-
-rolled in the Look AHEAD trial, the preva-
-lence exceeded 80% (296). Obstructive
-sleep apnea should be evaluated in indi-
-viduals with suggestive symptoms (e.g.,
-excessive daytime sleepiness, snoring,
-and witnessed apnea) (297). Sleep apnea
-treatment (lifestyle modiﬁcation, continu-
-ous positive airway pressure, oral applian-
-ces, and surgery) signiﬁcantly improves
-quality of life and blood pressure man-
-agement. Recently, two phase 3 random-
-ized trials found that among adults with
-obesity and moderate-to-severe obstruc-
-tive sleep apnea but without diabetes,
-treatment with the dual GIP and GLP-1
-RA tirzepatide substantially reduced sleep
-apnea severity (298). More research is
-needed to determine the effects of GLP-1
-and dual GIP and GLP-1 RAs on sleep ap-
-nea in people with diabetes.
-Pancreatitis
-Diabetes is linked to diseases of the exo-
-crine pancreas, such as pancreatitis, which
-may disrupt the global architecture or
-physiology of the pancreas, often resulting
-in both exocrine and endocrine dysfunc-
-tion. Up to half of individuals with diabetes
-may have some degree of impaired exo-
-crine pancreas function (299). People with
-diabetes are at an approximately twofold
-higher risk of developing acute pancreatitis
-(300).
-Conversely, prediabetes and/or diabe-
-tes has been found to develop in approx-
-imately one-third of individuals after an
-episode of acute pancreatitis (301); thus,
-the relationship is likely bidirectional.
-Postpancreatitis diabetes may include ei-
-ther new-onset disease or previously
-unrecognized diabetes (302). Studies of
-individuals treated with incretin-based
-therapies for diabetes have also reported
-that pancreatitis may occur more fre-
-quently with these medications, but re-
-sults have been mixed and causality has
-not been established (303–306).
-Islet autotransplantation should be
-considered for individuals requiring total
-pancreatectomy for medically refractory
-chronic pancreatitis to prevent postsur-
-gical diabetes. Approximately one-third
-of individuals undergoing total pancrea-
-tectomy with islet autotransplantation
-are insulin free 1 year postoperatively,
-and observational studies from different
-centers have demonstrated islet graft
-function up to a decade after the surgery
-in some individuals (307–311). Both per-
-sonal factors for the individual with dia-
-betes and disease factors should be
-carefully considered when deciding the
-indications and timing of this surgery.
-Surgeries should be performed in skilled
-facilities that have demonstrated exper-
-tise in islet autotransplantation.
-Sensory Impairment
-Hearing impairment, both in high-fre-
-quency and low- to midfrequency ranges,
-is more common in people with diabetes
-than in those without, with stronger as-
-sociations found in studies of younger
-people (312). Proposed pathophysiologic
-mechanisms include the combined contri-
-butions of hyperglycemia and oxidative
-stress with cochlear microangiopathy and
-auditory neuropathy (313). In a National
-Health and Nutrition Examination Survey
-(NHANES) analysis, hearing impairment
-was about twice as prevalent in people
-with diabetes as in those without, after
-adjusting for age and other risk factors for
-hearing impairment (314). Low HDL cho-
-lesterol, coronary heart disease, periph-
-eral neuropathy, and general poor health
-have been reported as risk factors for
-hearing impairment for people with dia-
-betes, but an association of hearing loss
-with glycemia has not been consistently
-observed (315). In the DCCT/EDIC cohort,
-increases in the time-weighted mean A1C
-was associated with increased risk of
-hearing impairment when tested after
-long-term (>20 years) follow-up, with ev-
-ery 10% increase in A1C leading to 19%
-high-frequency impairment (316). Impair-
-ment in smell, but not taste, has also
-been reported in individuals with diabe-
-tes (317).
-References
-1. Northwood M, Shah AQ, Abeygunawardena
-C, Garnett A, Schumacher C. Care coordination of
-older adults with diabetes: a scoping review. Can
-J Diabetes 2023;47:272–286
-2. Stellefson M, Dipnarine K, Stopka C. The
-chronic care model and diabetes management in
-US primary care settings: a systematic review.
-Prev Chronic Dis 2013;10:E26
-3. Coleman K, Austin BT, Brach C, Wagner EH.
-Evidence on the Chronic Care Model in the new
-millennium. Health Aff (Millwood) 2009;28:75–85
-4. Gabbay RA, Bailit MH, Mauger DT, Wagner
-EH, Siminerio L. Multipayer patient-centered
-medical home implementation guided by the
-chronic care model. Jt Comm J Qual Patient Saf
-2011;37:265–273
-5. Adler AI, Coleman RL, Leal J, Whiteley WN,
-Clarke P, Holman RR. Post-trial monitoring of a
-randomised controlled trial of intensive glycaemic
-control in type 2 diabetes extended from 10 years
-to 24 years (UKPDS 91). Lancet 2024;404:
-145–155
-6. Nathan DM, Genuth S, Lachin J, et al.; Diabetes
-Control and Complications Trial Research Group.
-The effect of intensive treatment of diabetes on
-the development and progression of long-term
-complications in insulin-dependent diabetes mellitus.
-N Engl J Med 1993;329:977–986
-7. Lachin JM, Genuth S, Nathan DM, Zinman B,
-Rutledge BN; DCCT/EDIC Research Group. Effect of
-glycemic exposure on the risk of microvascular
-complications in the diabetes control and comp-
-lications trial–revisited. Diabetes 2008;57:995–1001
-8. White NH, Cleary PA, Dahms W, Goldstein D,
-Malone J, Tamborlane WV. Diabetes Control
-and Complications Trial (DCCT)/Epidemiology of
-Diabetes Interventions and Complications (EDIC)
-Research Group. Beneﬁcial effects of intensive
-therapy of diabetes during adolescence: outcomes
-after the conclusion of the Diabetes Control and
-Complications Trial (DCCT). J Pediatr 2001;139:
-804–812
-9. Rodriguez K, Ryan D, Dickinson JK, Phan V.
-Improving quality outcomes: the value of diabetes
-care and education specialists. Clin Diabetes 2022;
-40:356–365
-10. Nathan DM, Bayless M, Cleary P, et al.; DCCT/
-EDIC Research Group. Diabetes control and com-
-plications trial/epidemiology of diabetes inter-
-ventions and complications study at 30 years:
-advances and contributions. Diabetes 2013;62:
-3976–3986
-11. Anderson RM, Funnell MM. Compliance and
-adherence are dysfunctional concepts in diabetes
-care. Diabetes Educ 2000;26:597–604
-12. Sarkar U, Fisher L, Schillinger D. Is self-efﬁcacy
-associated with diabetes self-management across
-race/ethnicity and health literacy? Diabetes Care
-2006;29:823–829
-13. King DK, Glasgow RE, Toobert DJ, et al. Self-
-efﬁcacy, problem solving, and social-environmental
-support are associated with diabetes self-
-management behaviors. Diabetes Care 2010;33:
-751–753
-S78
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-14. Nouwen A, Urquhart Law G, Hussain S,
-McGovern S, Napier H. Comparison of the role of
-self-efﬁcacy and illness representations in relation
-to dietary self-care and diabetes distress in
-adolescents with type 1 diabetes. Psychol Health
-2009;24:1071–1084
-15. Dickinson JK, Guzman SJ, Maryniuk MD,
-et al. The use of language in diabetes care and
-education. Diabetes Care 2017;40:1790–1799
-16. Wodi AP, Murthy N, McNally VV, Daley MF,
-Cineas S. Advisory Committee on Immunization
-Practices recommended immunization schedule
-for children and adolescents aged 18 years or
-younger - United States, 2024. MMWR Morb
-Mortal Wkly Rep 2024;73:6–10
-17. Murthy N, Wodi AP, McNally VV, Daley MF,
-Cineas S. Advisory Committee on Immunization
-Practices recommended immunization schedule
-for adults aged 19 years or older - United States,
-2024. MMWR Morb Mortal Wkly Rep 2024;73:
-11–15
-18. Centers for Disease Control and Prevention,
-Advisory Committee on Immunization Practice
-(ACIP). ACIP Evidence to Recommendation User’s
-Guide. 2020. Accessed 8 October 2024. Available
-from https://stacks.cdc.gov/view/cdc/127248
-19. Weng MK, Doshani M, Khan MA, et al.
-Universal hepatitis B vaccination in adults aged
-19-59 years: updated recommendations of the
-Advisory Committee on Immunization Practices -
-United States, 2022. MMWR Morb Mortal Wkly
-Rep 2022;71:477–483
-20. Goeijenbier M, van Sloten TT, Slobbe L, et al.
-Beneﬁts of ﬂu vaccination for persons with diabetes
-mellitus: a review.Vaccine 2017;35:5095–5101
-21. Yedlapati SH, Khan SU,Talluri S, et al. Effects of
-inﬂuenza vaccine on mortality and cardiovascular
-outcomes in patients with cardiovascular disease: a
-systematic review and meta-analysis. J Am Heart
-Assoc 2021;10:e019636
-22. Grohskopf LA, Ferdinands JM, Blanton LH,
-Broder KR, Loehr J. Prevention and control of
-seasonal inﬂuenza with vaccines: recommen-
-dations of the Advisory Committee on Immuni-
-zation Practices-United States, 2024-25 inﬂuenza
-season. MMWR Recomm Rep 2024;73:1–25
-23. Kornum JB, Thomsen RW, Riis A, Lervang H-H,
-Schønheyder HC, Sørensen HT. Diabetes, glycemic
-control, and risk of hospitalization with pneumonia:
-a population-based case-control study. Diabetes
-Care 2008;31:1541–1545
-24. Kobayashi M, Pilishvili T, Farrar JL, et al.
-Pneumococcal vaccine for adults aged $19 years:
-recommendations of the Advisory Committee on
-Immunization Practices, United States, 2023.
-MMWR Recomm Rep 2023;72:1–39
-25. Britton A, Roper LE, Kotton CN, et al. Use of
-respiratory syncytial virus vaccines in adults aged
-$60 years: updated recommendations of the
-Advisory Committee on Immunization Practices -
-United States, 2024. MMWR Morb Mortal Wkly
-Rep 2024;73:696–702
-26. Grant RW, Ashburner JM, Hong CS, Chang Y,
-Barry MJ, Atlas SJ. Deﬁning patient complexity
-from the primary care physician’s perspective: a
-cohort study. Ann Intern Med 2011;155:797–804
-27. Tinetti ME, Fried TR, Boyd CM. Designing
-health care for the most common chronic
-condition–multimorbidity. JAMA 2012;307:2493–
-2494
-28. Sudore RL, Karter AJ, Huang ES, et al.
-Symptom burden of adults with type 2 diabetes
-across the disease course: diabetes & aging
-study. J Gen Intern Med 2012;27:1674–1681
-29. Nederstigt C, Uitbeijerse BS, Janssen LGM,
-Corssmit EPM, de Koning EJP, Dekkers OM.
-Associated auto-immune disease in type 1
-diabetes patients: a systematic review and meta-
-analysis. Eur J Endocrinol 2019;180:135–144
-30. De Block CE, D, Leeuw IH, V, Gaal LF. High
-prevalence of manifestations of gastric auto-
-immunity in parietal cell antibody-positive type 1
-(insulin-dependent) diabetic patients. The Belgian
-Diabetes Registry. J Clin Endocrinol Metab 1999;
-84:4062–4067
-31. Triolo TM, Armstrong TK, McFann K, et al.
-Additional autoimmune disease found in 33% of
-patients at type 1 diabetes onset. Diabetes Care
-2011;34:1211–1213
-32. Hughes JW, Riddlesworth TD, DiMeglio LA,
-Miller KM, Rickels MR, McGill JB; T1D Exchange
-Clinic Network. Autoimmune diseases in children
-and adults with type 1 diabetes from the T1D
-Exchange Clinic Registry. J Clin Endocrinol Metab
-2016;101:4931–4937
-33. Kahaly GJ, Hansen MP. Type 1 diabetes
-associated autoimmunity. Autoimmun Rev 2016;
-15:644–648
-34. Eisenbarth GS, Gottlieb PA. Autoimmune
-polyendocrine syndromes. N Engl J Med 2004;350:
-2068–2079
-35. Rubio-Tapia A, Hill ID, Kelly CP, Calderwood
-AH, Murray JA. ACG clinical guidelines: diagnosis
-and management of celiac disease. Am J
-Gastroenterol 2013;108:656–676
-36. Husby S, Murray JA, Katzka DA. AGA clinical
-practice update on diagnosis and monitoring of
-celiac disease-changing utility of serology and
-histologic measures: expert review. Gastroenterology
-2019;156:885–889
-37. Cauley JA, Hochberg MC, Lui L-Y, et al. Long-
-term risk of incident vertebral fractures. JAMA
-2007;298:2761–2767
-38. Kanis JA, Johnell O, De Laet C, et al. A meta-
-analysis of previous fracture and subsequent
-fracture risk. Bone 2004;35:375–382
-39. Pedersen AB, Ehrenstein V, Szepligeti SK,
-et
-al.
-Thirty-ﬁve-year
-trends
-in
-ﬁrst-time
-hospitalization for hip fracture, 1-year mortality,
-and the prognostic impact of comorbidity: a
-Danish nationwide cohort study, 1980-2014.
-Epidemiology 2017;28:898–905
-40. Tajeu GS, Delzell E, Smith W, et al. Death,
-debility, and destitution following hip fracture. J
-Gerontol A Biol Sci Med Sci 2014;69:346–353
-41. Miao J, Brismar K, Nyren O, Ugarph-Morawski
-A, Ye W. Elevated hip fracture risk in type 1
-diabetic patients: a population-based cohort study
-in Sweden. Diabetes Care 2005;28:2850–2855
-42. Wang H, Ba Y, Xing Q, Du J-L. Diabetes
-mellitus and the risk of fractures at speciﬁc sites:
-a meta-analysis. BMJ Open 2019;9:e024067
-43. Weber DR, Haynes K, Leonard MB, Willi SM,
-Denburg MR. Type 1 diabetes is associated with
-an increased risk of fracture across the life span:
-a population-based cohort study using The
-Health Improvement Network (THIN). Diabetes
-Care 2015;38:1913–1920
-44. Leanza G, Maddaloni E, Pitocco D, et al. Risk
-factors for fragility fractures in type 1 diabetes.
-Bone 2019;125:194–199
-45. Janghorbani M, Van Dam RM, Willett WC,
-Hu FB. Systematic review of type 1 and type 2
-diabetes mellitus and risk of fracture. Am J
-Epidemiol 2007;166:495–505
-46. Napoli N, Conte C, Pedone C, et al. Effect of
-insulin resistance on BMD and fracture risk in older
-adults. J Clin Endocrinol Metab 2019;104:3303–3310
-47. Napoli N, Schwartz AV, Schafer AL, et al.;
-Osteoporotic Fractures in Men (MrOS) Study
-Research Group.Vertebral fracture risk in diabetic
-elderly men: the MrOS study. J Bone Miner Res
-2018;33:63–69
-48. Koromani F, Oei L, Shevroja E, et al.
-Vertebral fractures in individuals with type 2
-diabetes: more than skeletal complications alone.
-Diabetes Care 2020;43:137–144
-49. Faraj M, Schwartz AV, Burghardt AJ, et al. Risk
-factors for bone microarchitecture impairments in
-older men with type 2 diabetes - the MrOS study. J
-Clin Endocrinol Metab. 12 July 2024 [Epub ahead
-of print]. DOI: 10.1210/clinem/dgae452
-50. Schwartz AV, Vittinghoff E, Bauer DC, et al.;
-Osteoporotic Fractures (SOF) Research Group;
-Osteoporotic Fractures in Men (MrOS) Research
-Group; Health, Aging, and Body Composition
-(Health ABC) Research Group. Association of
-BMD and FRAX score with risk of fracture in older
-adults with type 2 diabetes. JAMA 2011;305:
-2184–2192
-51. Hidayat K, Fang Q-L, Shi B-M, Qin L-Q.
-Inﬂuence of glycemic control and hypoglycemia
-on the risk of fracture in patients with diabetes
-mellitus: a systematic review and meta-analysis
-of observational studies. Osteoporos Int 2021;32:
-1693–1704
-52. Wang B, Wang Z, Poundarik AA, et al.
-Unmasking fracture risk in type 2 diabetes: the
-association of longitudinal glycemic hemoglobin
-level and medications. J Clin Endocrinol Metab
-2022;107:e1390–e1401
-53. Komorita Y, Iwase M, Fujii H, et al. Both
-hypo- and hyperglycaemia are associated with
-increased fracture risk in Japanese people with
-type 2 diabetes: the Fukuoka Diabetes Registry.
-Diabet Med 2020;37:838–847
-54. Majumdar SR, Leslie WD, Lix LM, et al.
-Longer duration of diabetes strongly impacts
-fracture risk assessment: the Manitoba BMD
-cohort. J Clin Endocrinol Metab 2016;101:4489–
-4496
-55. Vavanikunnel J, Charlier S, Becker C, et al.
-Association between glycemic control and risk of
-fracture in diabetic patients: a nested case-
-control study. J Clin Endocrinol Metab 2019;
-104:1645–1654
-56. Strotmeyer ES, Cauley JA, Schwartz AV, et al.
-Nontraumatic fracture risk with diabetes mellitus and
-impaired fasting glucose in older white and black
-adults: the health, aging, and body composition
-study. Arch Intern Med 2005;165:1612–1617
-57. Schwartz AV, Vittinghoff E, Sellmeyer DE,
-et al.; Health, Aging, and Body Composition
-Study. Diabetes-related complications, glycemic
-control, and falls in older adults. Diabetes Care
-2008;31:391–396
-58. Loke YK, Singh S, Furberg CD. Long-term use
-of thiazolidinediones and fractures in type 2
-diabetes: a meta-analysis. CMAJ 2009;180:32–39
-59. Dormandy
-J,
-Bhattacharya
-M,
-van
-Troostenburg de Bruyn A-R; PROactive Investigators.
-Safety and tolerability of pioglitazone in high-risk
-patients with type 2 diabetes: an overview of data
-from PROactive. Drug Saf 2009;32:187–202
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S79
-©AmericanDiabetesAssociation
-60. Schwartz AV, Chen H, Ambrosius WT, et al.
-Effects of TZD use and discontinuation on
-fracture rates in ACCORD bone study. J Clin
-Endocrinol Metab 2015;100:4059–4066
-61. Hidayat K, Du X, Wu M-J, Shi B-M. The use
-of metformin, insulin, sulphonylureas, and
-thiazolidinediones and the risk of fracture:
-systematic review and meta-analysis of obser-
-vational studies. Obes Rev 2019;20:1494–1503
-62. Piccoli A, Cannata F, Strollo R, et al. Sclerostin
-regulation,
-microarchitecture,
-and
-advanced
-glycation end-products in the bone of elderly
-women with type 2 diabetes. J Bone Miner Res
-2020;35:2415–2422
-63. Leanza G, Cannata F, Faraj M, et al. Bone
-canonical Wnt signaling is downregulated in type 2
-diabetes and associates with higher advanced
-glycation end-products (AGEs) content and
-reduced bone strength. Elife 2024;12:RP90437
-64. Tramontana F, Napoli N, Litwack-Harrison S,
-et al. More rapid bone mineral density loss in
-older men with diabetes: the Osteoporotic
-Fractures in Men (MrOS) study. J Clin Endocrinol
-Metab. 24 February 2024 [Epub ahead of print].
-DOI: 10.1210/clinem/dgae045
-65. Ferrari SL, Abrahamsen B, Napoli N, et al.;
-Bone and Diabetes Working Group of IOF.
-Diagnosis and management of bone fragility in
-diabetes: an emerging challenge. Osteoporos Int
-2018;29:2585–2596
-66. Leslie WD, Johansson H, McCloskey EV,
-Harvey NC, Kanis JA, Hans D. Comparison of
-methods for improving fracture risk assessment
-in diabetes: the Manitoba BMD registry. J Bone
-Miner Res 2018;33:1923–1930
-67. Ferrari
-S, Eastell
-R,
-Napoli
-N,
-et
-al.
-Denosumab in postmenopausal women with
-osteoporosis and diabetes: subgroup analysis of
-FREEDOM and FREEDOM extension. Bone 2020;
-134:115268
-68. LeBoff MS, Greenspan SL, Insogna KL, et al.The
-clinician’s guide to prevention and treatment of
-osteoporosis. Osteoporos Int 2022;33:2049–2102
-69. Napoli N, Conte C, Eastell R, et al. Bone
-turnover markers do not predict fracture risk in
-type 2 diabetes. J Bone Miner Res 2020;35:
-2363–2371
-70. International
-Society
-for
-Pediatric
-and
-Adolescent Diabetes. ISPAD Clinical Practice
-Consensus Guidelines 2022. Accessed 19 August
-2024. Available from https://www.ispad.org/
-page/ISPADGuidelines2022
-71. Armamento-Villareal R, Aguirre L, Napoli N,
-et al. Changes in thigh muscle volume predict
-bone
-mineral
-density
-response to
-lifestyle
-therapy in frail, obese older adults. Osteoporos
-Int 2014;25:551–558
-72. Sinclair AJ, Abdelhaﬁz A, Dunning T, et al.
-An international position statement on the
-management of frailty in diabetes mellitus:
-summary of recommendations. J Frailty Aging
-2017;7:10–20
-73. Ebeling
-PR, Adler RA,
-Jones G,
-et al.
-Management of endocrine disease: therapeutics of
-vitamin D. Eur J Endocrinol 2018;179:R239–R259
-74. Maddaloni E, Cavallari I, Napoli N, Conte C.
-Vitamin D and diabetes mellitus. Front Horm Res
-2018;50:161–176
-75. Iolascon G, Gimigliano R, Bianco M, et al. Are
-dietary supplements and nutraceuticals effective
-for musculoskeletal health and cognitive function?
-A scoping review. J Nutr Health Aging 2017;21:
-527–538
-76. National Institutes of Health. Calcium—fact
-sheet for health professionals. Accessed 19
-August 2024. Available from https://ods.od.nih.
-gov/factsheets/Calcium-HealthProfessional
-77. Rosen CJ, Abrams SA, Aloia JF, et al. IOM
-committee members
-respond to
-Endocrine
-Society vitamin D guideline. J Clin Endocrinol
-Metab 2012;97:1146–1152
-78. National Institutes of Health. Vitamin D—
-fact sheet for health professionals. Accessed 19
-August 2024. Available from https://ods.od.nih
-.gov/factsheets/VitaminD-HealthProfessional
-79. Eastell R, Vittinghoff E, Lui L-Y, et al. Diabetes
-mellitus and the beneﬁt of antiresorptive therapy
-on fracture risk. J Bone Miner Res 2022;37:
-2121–2131
-80. Langdahl BL, Silverman S, Fujiwara S, et al.
-Real-world
-effectiveness
-of
-teriparatide
-on
-fracture reduction in patients with osteoporosis
-and comorbidities or risk factors for fractures:
-integrated analysis of 4 prospective obser-
-vational studies. Bone 2018;116:58–66
-81. Schwartz
-AV,
-Pavo
-I,
-Alam
-J,
-et
-al.
-Teriparatide in patients with osteoporosis and
-type 2 diabetes. Bone 2016;91:152–158
-82. Napoli N, Pannacciulli N, Vittinghoff E, et al.
-Effect of denosumab on fasting glucose in
-women with diabetes or prediabetes from the
-FREEDOM trial. Diabetes Metab Res Rev 2018;
-34:e2991
-83. Langdahl
-BL,
-Hofbauer
-LC,
-Forfar
-JC.
-Cardiovascular safety and sclerostin inhibition. J
-Clin Endocrinol Metab 2021;106:1845–1853
-84. Cosman F, Crittenden DB, Adachi JD, et al.
-Romosozumab treatment in postmenopausal
-women with osteoporosis. N Engl J Med 2016;
-375:1532–1543
-85. Conley RB, Adib G, Adler RA, et al. Secondary
-fracture prevention: consensus clinical recom-
-mendations from a multistakeholder coalition. J
-Bone Miner Res 2020;35:36–52
-86. Hofbauer LC, Rachner TD. More DATA to
-guide sequential osteoporosis therapy. Lancet
-2015;386:1116–1118
-87. Napoli N, Strotmeyer ES, Ensrud KE, et al.
-Fracture risk in diabetic elderly men: the MrOS
-study. Diabetologia 2014;57:2057–2065
-88. Hidayat K, Du X, Shi B-M. Risk of fracture
-with dipeptidyl peptidase-4 inhibitors, glucagon-
-like peptide-1 receptor agonists, or sodium-
-glucose cotransporter-2 inhibitors in real-world
-use: systematic review and meta-analysis of
-observational studies. Osteoporos Int 2019;30:
-1923–1940
-89. Chai S, Liu F, Yang Z, et al. Risk of fracture
-with dipeptidyl peptidase-4 inhibitors, glucagon-
-like peptide-1 receptor agonists, or sodium-
-glucose cotransporter-2 inhibitors in patients
-with type 2 diabetes mellitus: a systematic
-review and network meta-analysis combining
-177 randomized controlled trials with a median
-follow-up of 26 weeks. Front Pharmacol 2022;
-13:825417
-90. Rosenstock J, Wysham C, Frıas JP, et al.
-Efﬁcacy and safety of a novel dual GIP and GLP-1
-receptor agonist tirzepatide in patients with type 2
-diabetes (SURPASS-1): a double-blind, randomised,
-phase 3 trial. Lancet 2021;398:143–155
-91. Bilezikian JP, Watts NB, Usiskin K, et al.
-Evaluation of bone mineral density and bone
-biomarkers in patients with type 2 diabetes
-treated with canagliﬂozin. J Clin Endocrinol Metab
-2016;101:44–51
-92. Watts NB, Bilezikian JP, Usiskin K, et al.
-Effects of canagliﬂozin on fracture risk in patients
-with type 2 diabetes mellitus. J Clin Endocrinol
-Metab 2016;101:157–166
-93. Perkovic V, Jardine MJ, Neal B, et al.;
-CREDENCE Trial Investigators. Canagliﬂozin and
-renal outcomes in type 2 diabetes and nephro-
-pathy. N Engl J Med 2019;380:2295–2306
-94. Neal B, Perkovic V, Matthews DR. Can-
-agliﬂozin and cardiovascular and renal events in
-type 2 diabetes. N Engl J Med 2017;377:2099
-95. Li X, Li T, Cheng Y, et al. Effects of SGLT2
-inhibitors on fractures and bone mineral density
-in type 2 diabetes: an updated meta-analysis.
-Diabetes Metab Res Rev 2019;35:e3170
-96. Suh S, Kim KW. Diabetes and cancer: cancer
-should be screened in routine diabetes assessment.
-Diabetes Metab J 2019;43:733–743
-97. Giovannucci E, Harlan DM, Archer MC, et al.
-Diabetes and cancer: a consensus report. CA
-Cancer J Clin 2010;60:207–221
-98. Aggarwal G, Kamada P, Chari ST. Prevalence of
-diabetes mellitus in pancreatic cancer compared
-to common cancers. Pancreas 2013;42:198–201
-99. Cho J, Scragg R, Petrov MS. Postpancreatitis
-diabetes confers higher risk for pancreatic cancer
-than type 2 diabetes: results from a nationwide
-cancer registry. Diabetes Care 2020;43:2106–2112
-100. Ninomiya I, Yamazaki K, Oyama K, et al.
-Pioglitazone inhibits the proliferation and metastasis
-of human pancreatic cancer cells. Oncol Lett 2014;
-8:2709–2714
-101. Hendriks AM, Schrijnders D, Kleefstra N,
-et al. Sulfonylurea derivatives and cancer, friend
-or foe? Eur J Pharmacol 2019;861:172598
-102. Hua Y, Zheng Y, Yao Y, Jia R, Ge S, Zhuang A.
-Metformin and cancer hallmarks: shedding new
-lights on therapeutic repurposing. J Transl Med
-2023;21:403
-103. Wang L, Xu R, Kaelber DC, Berger NA.
-Glucagon-like peptide 1 receptor agonists and 13
-obesity-associated cancers in patients with type 2
-diabetes. JAMA Netw Open 2024;7:e2421305
-104. Xue M, Xu W, Ou Y-N, et al. Diabetes
-mellitus and risks of cognitive impairment and
-dementia: a systematic review and meta-analysis
-of 144 prospective studies. Ageing Res Rev 2019;
-55:100944
-105. Ohara T, Doi Y, Ninomiya T, et al. Glucose
-tolerance status and risk of dementia in the
-community: the Hisayama study. Neurology 2011;
-77:1126–1134
-106. Hanyu H. Diabetes-related dementia. Adv
-Exp Med Biol 2019;1128:147–160
-107. Gudala K, Bansal D, Schifano F, Bhansali A.
-Diabetes mellitus and risk of dementia: a meta-
-analysis of prospective observational studies. J
-Diabetes Investig 2013;4:640–650
-108. Tang X, Cardoso MA, Yang J, Zhou J-B, Simo
-R. Impact of intensive glucose control on brain
-health: meta-analysis of cumulative data from
-16,584 patients with type 2 diabetes mellitus.
-Diabetes Ther 2021;12:765–779
-109. Cukierman-Yaffe T, Gerstein HC, Williamson
-JD, et al.; Action to Control Cardiovascular Risk in
-Diabetes-Memory in Diabetes (ACCORD-MIND) In-
-vestigators. Relationship between baseline glycemic
-control and cognitive function in individuals with
-type 2 diabetes and other cardiovascular risk factors:
-S80
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-the Action to Control Cardiovascular Risk in
-Diabetes-Memory in Diabetes (ACCORD-MIND) trial.
-Diabetes Care 2009;32:221–226
-110. Launer LJ, Miller ME, Williamson JD, et al.;
-ACCORD MIND Investigators. Effects of intensive
-glucose lowering on brain structure and function in
-people with type 2 diabetes (ACCORD MIND): a
-randomised open-label substudy. Lancet Neurol
-2011;10:969–977
-111. McCoy RG, Galindo RJ, Swarna KS, et al.
-Sociodemographic,
-clinical,
-and
-treatment-
-related factors associated with hyperglycemic
-crises among adults with type 1 or type 2
-diabetes in the US from 2014 to 2020. JAMA
-Netw Open 2021;4:e2123471
-112. Mair ML, Athavale R, Abdelhaﬁz AH. Practical
-considerations for managing patients with diabetes
-and dementia. Expert Rev Endocrinol Metab 2017;
-12:429–440
-113. Punthakee Z, Miller ME, Launer LJ, et al.;
-ACCORD-MIND
-Investigators.
-Poor
-cognitive
-function and risk of severe hypoglycemia in type 2
-diabetes: post hoc epidemiologic analysis of the
-ACCORD trial. Diabetes Care 2012;35:787–793
-114. Lacy ME, Gilsanz P, Eng C, Beeri MS, Karter
-AJ, Whitmer RA. Severe hypoglycemia and
-cognitive function in older adults with type 1
-diabetes: the Study of Longevity in Diabetes
-(SOLID). Diabetes Care 2020;43:541–548
-115. Lee AK, Rawlings AM, Lee CJ, et al. Severe
-hypoglycaemia,
-mild
-cognitive
-impairment,
-dementia and brain volumes in older adults with
-type 2 diabetes: the Atherosclerosis Risk in
-Communities (ARIC) cohort study. Diabetologia
-2018;61:1956–1965
-116. Ye M, Yang Q, Zhang L, et al. Effect of
-hypoglycemic events on cognitive function in
-individuals with type 2 diabetes mellitus: a dose-
-response meta-analysis. Front Neurol 2024;15:
-1394499
-117. Mattishent
-K,
-Loke
-YK.
-Bi-directional
-interaction between hypoglycaemia and cognitive
-impairment in elderly patients treated with
-glucose-lowering agents: a systematic review and
-meta-analysis. Diabetes Obes Metab 2016;18:
-135–141
-118. Giorda CB, Ozzello A, Gentile S, et al.;
-HYPOS-1 Study Group of AMD. Incidence and risk
-factors for severe and symptomatic hypoglycemia
-in type 1 diabetes. Results of the HYPOS-1 study.
-Acta Diabetol 2015;52:845–853
-119. Jacobson AM, Ryan CM, Braffett BH, et al.;
-DCCT/EDIC Research Group. Cognitive performance
-declines in older adults with type 1 diabetes: results
-from 32 years of follow-up in the DCCT and EDIC
-study. Lancet Diabetes Endocrinol 2021;9:436–445
-120. Khader
-YS,
-Dauod
-AS,
-El-Qaderi
-SS,
-Alkafajei A, Batayha WQ. Periodontal status of
-diabetics compared with nondiabetics: a meta-
-analysis. J Diabetes Complications 2006;20:59–68
-121. Casanova L, Hughes FJ, Preshaw PM.
-Diabetes and periodontal disease: a two-way
-relationship. Br Dent J 2014;217:433–437
-122. Eke
-PI,
-Thornton-Evans
-GO,
-Wei
-L,
-Borgnakke WS, Dye BA, Genco RJ. Periodontitis
-in US adults: National Health and Nutrition
-Examination Survey 2009-2014. J Am Dent Assoc
-2018;149:576–588.e576
-123. Borgnakke WS, Yl€ostalo PV, Taylor GW,
-Genco RJ. Effect of periodontal disease on
-diabetes: systematic review of epidemiologic
-observational evidence. J Periodontol 2013;84:
-S135–S152
-124. Simpson TC, Clarkson JE, Worthington HV,
-et al. Treatment of periodontitis for glycaemic
-control
-in
-people
-with
-diabetes
-mellitus.
-Cochrane Database Syst Rev 2022;4:CD004714
-125. D’Aiuto F, Gkranias N, Bhowruth D, et al.;
-TASTE Group. Systemic effects of periodontitis
-treatment in patients with type 2 diabetes: a
-12 month, single-centre, investigator-masked, ran-
-domised trial. Lancet Diabetes Endocrinol 2018;6:
-954–965
-126. Elangovan S, Hertzman-Miller R, Karimbux
-N, Giddon D. A framework for physician-dentist
-collaboration in diabetes and periodontitis. Clin
-Diabetes 2014;32:188–192
-127. Herrera D, Sanz M, Shapira L, et al.
-Association between periodontal diseases and
-cardiovascular diseases, diabetes and respiratory
-diseases: consensus report of the Joint Workshop
-by the European Federation of Periodontology
-(EFP) and the European arm of the World
-Organization of Family Doctors (WONCA Europe).
-J Clin Periodontol 2023;50:819–841
-128. Lalla E, Papapanou PN. Diabetes mellitus and
-periodontitis: a tale of two common interrelated
-diseases. Nat Rev Endocrinol 2011;7:738–748
-129. Christgau M, Palitzsch KD, Schmalz G,
-Kreiner U, Frenzel S. Healing response to non-
-surgical periodontal therapy in patients with
-diabetes mellitus: clinical, microbiological, and
-immunologic results. J Clin Periodontol 1998;25:
-112–124
-130. Retzepi M, Donos N. The effect of diabetes
-mellitus on osseous healing. Clin Oral Implants
-Res 2010;21:673–681
-131. United
-States
-Code.
-Americans
-with
-Disabilities Act of 1990. Pub. L. No. 101–336 42
-U.S.C. § 2. 104 Stat. 328. p. 101-336.
-132. United
-States
-Code.
-Americans
-with
-Disabilities Act Amendments Act of 2008. Pub. L.
-No. 110–325 42 U.S.C.A. § 12101 et seq.
-133. Wong E, Backholer K, Gearon E, et al.
-Diabetes and risk of physical disability in adults: a
-systematic review and meta-analysis. Lancet
-Diabetes Endocrinol 2013;1:106–114
-134. Tomic D, Shaw JE, Magliano DJ. The burden
-and risks of emerging complications of diabetes
-mellitus. Nat Rev Endocrinol 2022;18:525–539
-135. Lisy K, Campbell JM, Tufanaru C, Moola S,
-Lockwood C. The prevalence of disability among
-people
-with
-cancer,
-cardiovascular
-disease,
-chronic respiratory disease and/or diabetes: a
-systematic review. Int J Evid Based Healthc
-2018;16:154–166
-136. Gregg
-EW,
-Menke
-A.
-Diabetes
-and
-disability. In Diabetes in America, 3rd ed. Cowie
-CC, Casagrande SS, Menke A, et al., Eds.
-Bethesda, MD, National Institute of Diabetes and
-Digestive and Kidney Diseases, 2018. Available
-from https://www.ncbi.nlm.nih.gov/pubmed/
-33651544
-137. Khan KS, Andersen H. The impact of
-diabetic neuropathy on activities of daily living,
-postural balance and risk of falls - a systematic
-review. J Diabetes Sci Technol 2022;16:289–294
-138. Elafros MA, Andersen H, Bennett DL, et al.
-Towards
-prevention
-of
-diabetic
-peripheral
-neuropathy: clinical presentation, pathogenesis,
-and new treatments. Lancet Neurol 2022;21:
-922–936
-139. Selvarajah D, Kar D, Khunti K, et al. Diabetic
-peripheral neuropathy: advances in diagnosis
-and strategies for screening and early inter-
-vention. Lancet Diabetes Endocrinol 2019;7:
-938–948
-140. Fatma S, Noohu MM. Classiﬁcation of
-functionality of people with diabetic peripheral
-neuropathy based on international classiﬁcation
-of functioning, disability and health core set (ICF-
-CS) of diabetes mellitus. J Diabetes Metab Disord
-2020;19:213–221
-141. Zhang Y, Lazzarini PA, McPhail SM, van
-Netten JJ, Armstrong DG, Pacella RE. Global
-disability burdens of diabetes-related lower-
-extremity complications in 1990 and 2016.
-Diabetes Care 2020;43:964–974
-142. Tsai Y-H, Chuang L-L, Lee Y-J, Chiu C-J. How
-does diabetes accelerate normal aging? An
-examination of ADL, IADL, and mobility disability
-in middle-aged and older adults with and without
-diabetes. Diabetes Res Clin Pract 2021;182:
-109114
-143. Streckmann F, Balke M, Cavaletti G, et al.
-Exercise and neuropathy: systematic review with
-meta-analysis. Sports Med 2022;52:1043–1065
-144. Jing X, Chen J, Dong Y, et al. Related factors
-of quality of life of type 2 diabetes patients: a
-systematic review and meta-analysis. Health
-Qual Life Outcomes 2018;16:189
-145. Yoon S-J, Kim K-I. Frailty and disability in
-diabetes. Ann Geriatr Med Res 2019;23:165–169
-146. World Health Organization. WHO Disability
-Assessment
-Schedule
-2.0
-(WHODAS
-2.0).
-Accessed 26 September 2024. Available from
-https://www.who.int/standards/classiﬁcations/
-international-classiﬁcation-of-functioning-disability-
-and-health/who-disability-assessment-schedule
-147. Diabetes Distress Assessment and Resource
-Center. Diabetes Distress Scale (DDS). Accessed 26
-September 2024. Available from https://
-diabetesdistress.org/take-dd-survey/
-148. Hill-Briggs F, Adler NE, Berkowitz SA, et al.
-Social determinants of health and diabetes: a
-scientiﬁc review. Diabetes Care 2020;44:258–279
-149. Tan T-W, Shih C-D, Concha-Moore KC, et al.
-Disparities in outcomes of patients admitted with
-diabetic foot infections. PLoS One 2019;14:
-e0215532
-150. Skrepnek GH, Mills JL, Armstrong DG. A
-diabetic
-emergency
-one
-million
-feet
-long:
-disparities and burdens of illness among diabetic
-foot ulcer cases within emergency departments
-in the United States, 2006-2010. PLoS One 2015;
-10:e0134914
-151. Lecube A, Hernandez C, Genesca J, Simo R.
-Proinﬂammatory cytokines, insulin resistance, and
-insulin secretion in chronic hepatitis C patients:
-a case-control study. Diabetes Care 2006;29:
-1096–1101
-152. Hum J, Jou JH, Green PK, et al. Improvement
-in glycemic control of type 2 diabetes after
-successful treatment of hepatitis C virus. Diabetes
-Care 2017;40:1173–1180
-153. Carnovale C, Pozzi M, Dassano A, et al. The
-impact of a successful treatment of hepatitis C
-virus on glyco-metabolic control in diabetic
-patients: a systematic review and meta-analysis.
-Acta Diabetol 2019;56:341–354
-154. Dhindsa S, Miller MG, McWhirter CL, et al.
-Testosterone concentrations in diabetic and non-
-diabetic obese men. Diabetes Care 2010;33:
-1186–1192
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S81
-©AmericanDiabetesAssociation
-155. Grossmann M. Low testosterone in men
-with type 2 diabetes: signiﬁcance and treatment.
-J Clin Endocrinol Metab 2011;96:2341–2353
-156. Bhasin S, Cunningham GR, Hayes FJ, et al.;
-Task Force, Endocrine Society. Testosterone
-therapy in men with androgen deﬁciency
-syndromes: an Endocrine Society clinical practice
-guideline. J Clin Endocrinol Metab 2010;95:
-2536–2559
-157. Bhasin S, Brito JP, Cunningham GR, et al.
-Testosterone therapy in men with hypogonadism:
-an Endocrine Society clinical practice guideline. J
-Clin Endocrinol Metab 2018;103:1715–1744
-158. Shindel AW, Lue TF, Anawalt B, et al. Medical
-and surgical therapy of erectile dysfunction. In
-Endotext. Feingold KR, Anawalt B, Blackman MR,
-et al., Eds. South Dartmouth, MA, MDText.com,
-2000. Available from https://www.ncbi.nlm.nih
-.gov/pubmed/25905163
-159. Allen MS, Walter EE. Erectile dysfunction:
-an umbrella review of meta-analyses of risk-
-factors, treatment, and prevalence outcomes. J
-Sex Med 2019;16:531–541
-160. Kouidrat Y, Pizzol D, Cosco T, et al. High
-prevalence of erectile dysfunction in diabetes: a
-systematic review and meta-analysis of 145
-studies. Diabet Med 2017;34:1185–1192
-161. Araujo AB, Mohr BA, McKinlay JB. Changes
-in sexual function in middle-aged and older men:
-longitudinal data from the Massachusetts Male
-Aging Study. J Am Geriatr Soc 2004;52:1502–
-1509
-162. Grover SA, Lowensteyn I, Kaouache M,
-et al. The prevalence of erectile dysfunction in
-the primary care setting: importance of risk
-factors for diabetes and vascular disease. Arch
-Intern Med 2006;166:213–219
-163. Ma RC-W, So W-Y, Yang X, et al. Erectile
-dysfunction predicts coronary heart disease in
-type 2 diabetes. J Am Coll Cardiol 2008;51:2045–
-2050
-164. Gazzaruso C, Solerte SB, Pujia A, et al. Erectile
-dysfunction as a predictor of cardiovascular events
-and death in diabetic patients with angiographically
-proven asymptomatic coronary artery disease:
-a
-potential
-protective
-role
-for
-statins
-and
-5-phosphodiesterase inhibitors. J Am Coll Cardiol
-2008;51:2040–2044
-165. Kalter-Leibovici O, Wainstein J, Ziv A, et al.;
-Israel Diabetes Research Group (IDRG) Investigators.
-Clinical, socioeconomic, and lifestyle parameters
-associated with erectile dysfunction among diabetic
-men. Diabetes Care 2005;28:1739–1744
-166. De Berardis G, Pellegrini F, Franciosi M,
-et al.; QuED (Quality of Care and Outcomes in
-Type 2 Diabetes) Study Group. Longitudinal
-assessment of quality of life in patients with
-type 2 diabetes and self-reported erectile
-dysfunction. Diabetes Care 2005;28:2637–2643
-167. Navaneethan SD, Vecchio M, Johnson DW,
-et al. Prevalence and correlates of self-reported
-sexual dysfunction in CKD: a meta-analysis of
-observational studies. Am J Kidney Dis 2010;
-56:670–685
-168. Hackett G, Kirby M, Wylie K, et al. British
-society for sexual medicine guidelines on the
-management of erectile dysfunction in men-
-2017. J Sex Med 2018;15:430–457
-169. Corona G, Rastrelli G, Morgentaler A,
-Sforza A, Mannucci E, Maggi M. Meta-analysis of
-results
-of
-testosterone
-therapy
-on
-sexual
-function based on international index of erectile
-function scores. Eur Urol 2017;72:1000–1011
-170. Lindau ST, Tang H, Gomero A, et al.
-Sexuality among middle-aged and older adults
-with diagnosed and undiagnosed diabetes: a
-national, population-based study. Diabetes Care
-2010;33:2202–2210
-171. Maiorino MI, Bellastella G, Esposito K.
-Diabetes
-and
-sexual
-dysfunction:
-current
-perspectives. Diabetes Metab Syndr Obes 2014;7:
-95–105
-172. Pontiroli AE, Cortelazzi D, Morabito A.
-Female sexual dysfunction and diabetes: a
-systematic review and meta-analysis. J Sex Med
-2013;10:1044–1051
-173. Van Cauwenberghe J, Enzlin P, Nefs G, et al.
-Prevalence
-of
-and
-risk
-factors
-for
-sexual
-dysfunctions in adults with type 1 or type 2
-diabetes: results from Diabetes MILES - Flanders.
-Diabet Med 2022;39:e14676
-174. Pyrgidis N, Mykoniatis I, Tishukov M, et al.
-Sexual dysfunction in women with end-stage
-renal disease: a systematic review and meta-
-analysis. J Sex Med 2021;18:936–945
-175. Haugstvedt A, Jørgensen J, Strandberg RB,
-et al. Sexual dysfunction in women with type 1
-diabetes in Norway: a cross-sectional study on
-the prevalence and associations with physical
-and psychosocial complications. Diabet Med 2022;
-39:e14704
-176. Buskoven MEH, Kjørholt EKH, Strandberg
-RB, Søfteland E, Haugstvedt A. Sexual dysfunction
-in women with type 1 diabetes in Norway: a
-qualitative study of women’s experiences. Diabet
-Med 2022;39:e14856
-177. Hendrieckx C, Halliday JA, Russell-Green S,
-et al. Adults with diabetes distress often want to
-talk with their health professionals about it:
-ﬁndings from an audit of 4 Australian specialist
-diabetes clinics. Can J Diabetes 2020;44:473–480
-178. Di Stasi V, Maseroli E, Vignozzi L. Female
-sexual dysfunction in diabetes: mechanisms,
-diagnosis and treatment. Curr Diabetes Rev
-2022;18:e171121198002
-179. Wing RR, Bond DS, Gendrano IN, 3rd, et al.;
-Sexual Dysfunction Subgroup of the Look AHEAD
-Research Group. Effect of intensive lifestyle
-intervention on sexual dysfunction in women
-with type 2 diabetes: results from an ancillary
-Look AHEAD study. Diabetes Care 2013;36:
-2937–2944
-180. Rinella ME, Lazarus JV, Ratziu V, et al. A
-multisociety Delphi consensus statement on new
-fatty liver disease nomenclature. Hepatology 2023;
-78:1966–1986
-181. Rinella
-ME,
-Neuschwander-Tetri
-BA,
-Siddiqui MS, et al. AASLD practice guidance on
-the clinical assessment and management of
-nonalcoholic fatty liver disease. Hepatology 2023;
-77:1797–1835
-182. Lomonaco R, Godinez Leiva E, Bril F, et al.
-Advanced liver ﬁbrosis is common in patients
-with type 2 diabetes followed in the outpatient
-setting: the need for systematic screening. Diabetes
-Care 2021;44:399–406
-183. Ciardullo S, Monti T, Perseghin G. High
-prevalence of advanced liver ﬁbrosis assessed by
-transient elastography among U.S. adults with
-type 2 diabetes. Diabetes Care 2021;44:519–525
-184. Barb D, Repetto EM, Stokes ME, Shankar
-SS, Cusi K. Type 2 diabetes mellitus increases the
-risk of hepatic ﬁbrosis in individuals with obesity
-and nonalcoholic fatty liver disease. Obesity
-(Silver Spring) 2021;29:1950–1960
-185. Younossi ZM, Golabi P, Price JK, et al. The
-global epidemiology of nonalcoholic fatty liver
-disease and nonalcoholic steatohepatitis among
-patients with type 2 diabetes. Clin Gastroenterol
-Hepatol 2024;22:1999–2010.e8
-186. Stefan N, Cusi K. A global view of the
-interplay between non-alcoholic fatty liver disease
-and diabetes. Lancet Diabetes Endocrinol 2022;
-10:284–296
-187. Song SJ, Lai JC-T, Wong GL-H, Wong VW-S,
-Yip TC-F. Can we use old NAFLD data under the
-new MASLD deﬁnition? J Hepatol 2024;80:
-e54–e56
-188. Younossi ZM, Paik JM, Stepanova M, Ong J,
-Alqahtani S, Henry L. Clinical proﬁles and mortality
-rates are similar
-for metabolic
-dysfunction-
-associated steatotic liver disease and non-alcoholic
-fatty liver disease. J Hepatol 2024;80:694–701
-189. Harrison SA, Gawrieh S, Roberts K, et al.
-Prospective evaluation of the prevalence of non-
-alcoholic fatty liver disease and steatohepatitis in
-a large middle-aged US cohort. J Hepatol 2021;
-75:284–291
-190. Castera L, Laouenan C, Vallet-Pichard A,
-et al.; QUID-NASH Investigators. High prevalence
-of NASH and advanced ﬁbrosis in type 2 diabetes:
-a prospective study of 330 outpatients undergoing
-liver biopsies for elevated ALT, using a low
-threshold. Diabetes Care 2023;46:1354–1362
-191. Paik JM, Golabi P, Younossi Y, Mishra A,
-Younossi ZM. Changes in the global burden of
-chronic liver diseases from 2012 to 2017: the
-growing impact of NAFLD. Hepatology 2020;72:
-1605–1616
-192. Simon TG, Roelstraete B, Khalili H, Hagstr€om
-H, Ludvigsson JF. Mortality in biopsy-conﬁrmed
-nonalcoholic fatty liver disease: results from a
-nationwide cohort. Gut 2021;70:1375–1382
-193. Burra P, Becchetti C, Germani G. NAFLD
-and liver transplantation: disease burden, current
-management and future challenges. JHEP Rep
-2020;2:100192
-194. Corbin KD, Driscoll KA, Pratley RE, Smith SR,
-Maahs DM, Mayer-Davis EJ; Advancing Care for
-Type 1 Diabetes and Obesity Network (ACT1ON).
-Obesity in type 1 diabetes: pathophysiology,
-clinical impact, and mechanisms. Endocr Rev 2018;
-39:629–663
-195. de Vries M, Westerink J, Kaasjager KHAH,
-de Valk HW. Prevalence of nonalcoholic fatty liver
-disease (NAFLD) in patients with type 1 diabetes
-mellitus: a systematic review and meta-analysis. J
-Clin Endocrinol Metab 2020;105:3842–3853
-196. Cusi K, Sanyal AJ, Zhang S, et al. Non-
-alcoholic fatty liver disease (NAFLD) prevalence
-and its metabolic associations in patients with
-type 1 diabetes and type 2 diabetes. Diabetes
-Obes Metab 2017;19:1630–1634
-197. Ciardullo S, Perseghin G. Prevalence of
-elevated liver stiffness in patients with type 1 and
-type 2 diabetes: a systematic review and meta-
-analysis. Diabetes Res Clin Pract 2022;190:109981
-198. Cusi K. Nonalcoholic fatty liver disease in
-diabetes: a call to action. Diabetes Spectr 2024;
-37:5–7
-199. Younossi ZM, Ong JP, Takahashi H, et al.;
-Global Nonalcoholic Steatohepatitis Council. A
-global survey of physicians knowledge about
-nonalcoholic fatty liver disease. Clin Gastroenterol
-Hepatol 2022;20:e1456–e1468
-S82
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-200. Kanwal F, Shubrook JH, Younossi Z, et al.
-Preparing for the NASH epidemic: a call to action.
-Diabetes Care 2021;44:2162–2172
-201. Angulo P, Kleiner DE, Dam-Larsen S, et al. Liver
-ﬁbrosis, but no other histologic features, is associated
-with long-term outcomes of patients with non-
-alcoholic fatty liver disease. Gastroenterology 2015;
-149:389–397.e310
-202. Ekstedt M, Hagstr€om H, Nasr P, et al. Fibrosis
-stage is the strongest predictor for disease-speciﬁc
-mortality in NAFLD after up to 33 years of follow-
-up. Hepatology 2015;61:1547–1554
-203. Taylor RS, Taylor RJ, Bayliss S, et al.
-Association between ﬁbrosis stage and outcomes
-of patients with nonalcoholic fatty liver disease:
-a systematic review and meta-analysis. Gas-
-troenterology 2020;158:1611–1625.e1612
-204. Sanyal AJ,Van Natta ML, Clark J, et al.; NASH
-Clinical Research Network (CRN). Prospective
-study of outcomes in adults with nonalcoholic fatty
-liver disease. N Engl J Med 2021;385:1559–1569
-205. Cusi K, Isaacs S, Barb D, et al. American
-Association
-of
-Clinical
-Endocrinology
-clinical
-practice guideline for the diagnosis and man-
-agement of nonalcoholic fatty liver disease in
-primary care and endocrinology clinical settings:
-co-sponsored by the American Association for the
-Study of Liver Diseases (AASLD). Endocr Pract
-2022;28:528–562
-206. Kanwal F, Shubrook JH, Adams LA, et al.
-Clinical care pathway for the risk stratiﬁcation
-and management of patients with nonalcoholic
-fatty liver disease. Gastroenterology 2021;161:
-1657–1669
-207. Gellert-Kristensen H, Richardson TG, Davey
-Smith G, Nordestgaard BG, Tybjaerg-Hansen A,
-Stender S. Combined effect of PNPLA3, TM6SF2,
-and HSD17B13 variants on risk of cirrhosis and
-hepatocellular carcinoma in the general po-
-pulation. Hepatology 2020;72:845–856
-208. Stender S, Kozlitina J, Nordestgaard BG,
-Tybjærg-Hansen
-A,
-Hobbs
-HH,
-Cohen
-JC.
-Adiposity ampliﬁes the genetic risk of fatty liver
-disease conferred by multiple loci. Nat Genet
-2017;49:842–847
-209. Mantovani A, Byrne CD, Bonora E, Targher
-G. Nonalcoholic fatty liver disease and risk of
-incident type 2 diabetes: a meta-analysis. Diabetes
-Care 2018;41:372–382
-210. Duell PB,Welty FK, Miller M, et al.; American
-Heart Association Council on Arteriosclerosis,
-Thrombosis and Vascular Biology; Council on
-Hypertension; Council on the Kidney in Car-
-diovascular Disease; Council on Lifestyle and
-Cardiometabolic Health; and Council on Peripheral
-Vascular Disease. Nonalcoholic fatty liver disease
-and cardiovascular risk: a scientiﬁc statement from
-the
-American
-Heart
-Association.
-Arterioscler
-Thromb Vasc Biol 2022;42:e168–e185
-211. Mantovani A, Csermely A, Petracca G, et al.
-Non-alcoholic fatty liver disease and risk of fatal
-and non-fatal cardiovascular events: an updated
-systematic review and meta-analysis. Lancet
-Gastroenterol Hepatol 2021;6:903–913
-212. Ciardullo S, Ballabeni C,Trevisan R, Perseghin
-G. Liver stiffness, albuminuria and chronic kidney
-disease in patients with NAFLD: a systematic
-review and meta-analysis. Biomolecules 2022;
-12:105
-213. Musso G, Gambino R, Tabibian JH, et al.
-Association of non-alcoholic fatty liver disease
-with chronic kidney disease: a systematic review
-and meta-analysis. PLoS Med 2014;11:e1001680
-214. Song D, Li C, Wang Z, Zhao Y, Shen B, Zhao
-W. Association of non-alcoholic fatty liver disease
-with diabetic retinopathy in type 2 diabetic
-patients: a meta-analysis of observational studies.
-J Diabetes Investig 2021;12:1471–1479
-215. Arab JP, Dirchwolf M, Alvares-da-Silva MR,
-et al. Latin American Association for the Study of
-the Liver (ALEH) practice guidance for the
-diagnosis and treatment of non-alcoholic fatty
-liver disease. Ann Hepatol 2020;19:674–690
-216. Eslam M, Sarin SK, Wong VW-S, et al. The
-Asian Paciﬁc Association for the Study of the
-Liver clinical practice guidelines for the diagnosis
-and management of metabolic associated fatty
-liver disease. Hepatol Int 2020;14:889–919
-217. European Association for the Study of the
-Liver (EASL); European Association for the Study of
-Diabetes (EASD); European Association for the
-Study of Obesity (EASO); European Association for
-the Study of the Liver (EASL). EASL-EASD-EASO
-Clinical Practice Guidelines on the management of
-metabolic dysfunction-associated steatotic liver
-disease (MASLD). J Hepatol 2024;81:492–542
-218. Portillo-Sanchez P, Bril F, Maximos M, et al.
-High prevalence of nonalcoholic fatty liver
-disease in patients with type 2 diabetes mellitus
-and normal plasma aminotransferase levels. J
-Clin Endocrinol Metab 2015;100:2231–2238
-219. Maximos M, Bril F, Portillo Sanchez P, et al.
-The role of liver fat and insulin resistance as
-determinants of plasma aminotransferase elevation
-in nonalcoholic fatty liver disease. Hepatology 2015;
-61:153–160
-220. Kwo PY, Cohen SM, Lim JK. ACG clinical
-guideline: evaluation of abnormal liver chemistries.
-Am J Gastroenterol 2017;112:18–35
-221. Younossi ZM, Anstee QM, Wai-Sun Wong V,
-et al. The association of histologic and noninvasive
-tests with adverse clinical and patient-reported
-outcomes in patients with advanced ﬁbrosis due
-to nonalcoholic steatohepatitis. Gastroenterology
-2021;160:1608–1619.e1613
-222. Siddiqui MS, Yamada G, Vuppalanchi R,
-et al.; NASH Clinical Research Network. Diagnostic
-accuracy of noninvasive ﬁbrosis models to detect
-change in ﬁbrosis stage. Clin Gastroenterol Hepatol
-2019;17:1877–1885.e1875
-223. Unalp-Arida A, Ruhl CE. Liver ﬁbrosis scores
-predict liver disease mortality in the United
-States population. Hepatology 2017;66:84–95
-224. Qadri S, Ahlholm N, Lønsmann I, et al.
-Obesity modiﬁes the performance of ﬁbrosis
-biomarkers in nonalcoholic fatty liver disease. J
-Clin Endocrinol Metab 2022;107:e2008–e2020
-225. Bril F, McPhaul MJ, Caulﬁeld MP, et al.
-Performance of plasma biomarkers and diagnostic
-panels
-for
-nonalcoholic
-steatohepatitis
-and
-advanced ﬁbrosis in patients with type 2 diabetes.
-Diabetes Care 2020;43:290–297
-226. McPherson S, Hardy T, Dufour J-F, et al. Age
-as a confounding factor for the accurate non-
-invasive diagnosis of advanced NAFLD ﬁbrosis.
-Am J Gastroenterol 2017;112:740–751
-227. Castera L, Friedrich-Rust M, Loomba R.
-Noninvasive assessment of liver disease in
-patients with nonalcoholic fatty liver disease.
-Gastroenterology 2019;156:1264–1281.e1264
-228. Eddowes PJ, Sasso M, Allison M, et al.
-Accuracy of FibroScan controlled attenuation
-parameter and liver stiffness measurement in
-assessing steatosis and ﬁbrosis in patients with
-nonalcoholic fatty liver disease. Gastroenterology
-2019;156:1717–1730
-229. Mozes FE, Lee JA, Selvaraj EA, et al.;
-LITMUS Investigators. Diagnostic accuracy of
-non-invasive
-tests
-for advanced ﬁbrosis
-in
-patients with NAFLD: an individual patient data
-meta-analysis. Gut 2022;71:1006–1019
-230. Elhence A, Anand A, Biswas S, et al.
-Compensated advanced chronic liver disease in
-nonalcoholic fatty liver disease: two-step strategy
-is better than Baveno criteria. Dig Dis Sci 2023;
-68:1016–1025
-231. Wong VWS, Zelber-Sagi S, Cusi K, et al.
-Management of NAFLD in primary care settings.
-Liver Int 2022;42:2377–2389
-232. Lazarus JV, Anstee QM, Hagstr€om H, et al.
-Deﬁning comprehensive models of care for
-NAFLD. Nat Rev Gastroenterol Hepatol 2021;18:
-717–729
-233. Cusi K, Budd J, Johnson E, Shubrook J.
-Making sense of the nonalcoholic fatty liver
-disease clinical practice guidelines: what clinicians
-need to know. Diabetes Spectr 2024;37:29–38
-234. Anstee QM, Lawitz EJ, Alkhouri N, et al.
-Noninvasive tests accurately identify advanced
-ﬁbrosis due to NASH: baseline data from the
-STELLAR trials. Hepatology 2019;70:1521–1530
-235. Lee J, Vali Y, Boursier J, et al. Prognostic
-accuracy of FIB-4, NAFLD ﬁbrosis score and APRI
-for NAFLD-related events: a systematic review.
-Liver Int 2021;41:261–270
-236. Chan W-K, Treeprasertsuk S, Goh GB-B,
-et al. Optimizing use of nonalcoholic fatty liver
-disease ﬁbrosis score, ﬁbrosis-4 score, and liver
-stiffness measurement to identify patients with
-advanced ﬁbrosis. Clin Gastroenterol Hepatol
-2019;17:2570–2580.e2537
-237. Petta S, Wai-Sun Wong V, Bugianesi E, et al.
-Impact of obesity and alanine aminotransferase
-levels on the diagnostic accuracy for advanced
-liver ﬁbrosis of noninvasive tools in patients with
-nonalcoholic fatty liver disease. Am J Gastroenterol
-2019;114:916–928
-238. Vali Y, Lee J, Boursier J, et al.; LITMUS
-Systematic Review Team. Enhanced liver ﬁbrosis
-test for the non-invasive diagnosis of ﬁbrosis in
-patients with NAFLD: a systematic review and
-meta-analysis. J Hepatol 2020;73:252–262
-239. Srivastava A, Gailer R, Tanwar S, et al.
-Prospective evaluation of a primary care referral
-pathway for patients with non-alcoholic fatty
-liver disease. J Hepatol 2019;71:371–378
-240. Saarinen K, F€arkkil€a M, Jula A, et al.
-Enhanced liver ﬁbrosis test predicts liver-related
-outcomes in the general population. JHEP Rep
-2023;5:100765
-241. Kjaergaard M, Lindvig KP, Thorhauge KH,
-et al. Using the ELF test, FIB-4 and NAFLD ﬁbrosis
-score to screen the population for liver disease. J
-Hepatol 2023;79:277–286
-242. Zoncape M, Liguori A, Tsochatzis EA. Non-
-invasive testing and risk-stratiﬁcation in patients
-with MASLD. Eur J Intern Med 2024;122:11–19
-243. Andersson A, Kelly M, Imajo K, et al. Clinical
-utility of magnetic resonance imaging biomarkers
-for identifying nonalcoholic steatohepatitis patients
-at high risk of progression: a multicenter pooled
-data and meta-analysis. Clin Gastroenterol Hepatol
-2022;20:2451–2461
-244. Long MT, Noureddin M, Lim JK. AGA clinical
-practice update: diagnosis and management of
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S83
-©AmericanDiabetesAssociation
-nonalcoholic fatty liver disease in lean individuals:
-expert review. Gastroenterology 2022;163:764–
-774.e761
-245. Cusi K. Nonalcoholic steatohepatitis in
-nonobese patients: not so different after all.
-Hepatology 2017;65:4–7
-246. Loomba R, Friedman SL, Shulman GI.
-Mechanisms and disease consequences of non-
-alcoholic fatty liver disease. Cell 2021;184:2537–
-2564
-247. Cusi K. Role of obesity and lipotoxicity in
-the development of nonalcoholic steatohepatitis:
-pathophysiology and clinical implications. Gas-
-troenterology 2012;142:711–725.e716
-248. Schuppan
-D,
-Surabattula
-R, Wang
-XY.
-Determinants of ﬁbrosis progression and regression
-in NASH. J Hepatol 2018;68:238–250
-249. Promrat K, Kleiner DE, Niemeier HM, et al.
-Randomized controlled trial testing the effects of
-weight loss on nonalcoholic steatohepatitis.
-Hepatology 2010;51:121–129
-250. Vilar-Gomez E, Martinez-Perez Y, Calzadilla-
-Bertot L, et al. Weight loss through lifestyle
-modiﬁcation signiﬁcantly reduces features of
-nonalcoholic steatohepatitis. Gastroenterology
-2015;149:367–378.e365
-251. Younossi ZM, Zelber-Sagi S, Henry L, Gerber
-LH. Lifestyle interventions in nonalcoholic fatty
-liver disease. Nat Rev Gastroenterol Hepatol 2023;
-20:708–722
-252. Sargeant JA, Gray LJ, Bodicoat DH, et al.
-The effect of exercise training on intrahepatic
-triglyceride and hepatic insulin sensitivity: a
-systematic review and meta-analysis. Obes Rev
-2018;19:1446–1459
-253. Kanwal F, Kramer JR, Li L, et al. Effect of
-metabolic traits on the risk of cirrhosis and
-hepatocellular cancer in nonalcoholic fatty liver
-disease. Hepatology 2020;71:808–819
-254. Younossi Z, Stepanova M, Sanyal AJ, et al.
-The conundrum of cryptogenic cirrhosis: adverse
-outcomes without treatment options. J Hepatol
-2018;69:1365–1370
-255. Castera L, Cusi K. Diabetes and cirrhosis:
-current concepts on diagnosis and management.
-Hepatology 2023;77:2128–2146
-256. Patel Chavez C, Cusi K, Kadiyala S. The
-emerging role of glucagon-like peptide-1 receptor
-agonists for the management of NAFLD. J Clin
-Endocrinol Metab 2022;107:29–38
-257. Gastaldelli A, Cusi K. From NASH to diabetes
-and from diabetes to NASH: mechanisms and
-treatment options. JHEP Rep 2019;1:312–328
-258. Budd J, Cusi K. Role of agents for the
-treatment of diabetes in the management of
-nonalcoholic fatty liver disease. Curr Diab Rep
-2020;20:59
-259. Ussher JR, Drucker DJ. Glucagon-like peptide 1
-receptor agonists: cardiovascular beneﬁts and
-mechanisms of action. Nat Rev Cardiol 2023;20:
-463–474
-260. Musso G, Cassader M, Paschetta E, Gambino
-R. Thiazolidinediones and advanced liver ﬁbrosis
-in nonalcoholic steatohepatitis: a meta-analysis.
-JAMA Intern Med 2017;177:633–640
-261. Bril F, Kalavalapalli S, Clark VC, et al. Response
-to pioglitazone in patients with nonalcoholic
-steatohepatitis with vs without type 2 diabetes. Clin
-Gastroenterol Hepatol 2018;16:558–566.e552
-262. Newsome PN, Buchholtz K, Cusi K, et al.;
-NN9931-4296 Investigators. A placebo-controlled
-trial of subcutaneous semaglutide in nonalcoholic
-steatohepatitis. N Engl J Med 2021;384:1113–1124
-263. National Library of Medicine, National
-Center for Biotechnology Information. Research
-Study on Whether Semaglutide Works in People
-With
-Non-Alcoholic
-Steatohepatitis
-(NASH)
-(ESSENCE).
-Accessed
-23
-September
-2024.
-Available
-from
-https://clinicaltrials.gov/study/
-NCT04822181
-264. Belfort R, Harrison SA, Brown K, et al. A
-placebo-controlled
-trial
-of
-pioglitazone
-in
-subjects with nonalcoholic steatohepatitis. N
-Engl J Med 2006;355:2297–2307
-265. Cusi K, Orsak B, Bril F, et al. Long-term
-pioglitazone
-treatment
-for
-patients
-with
-nonalcoholic steatohepatitis and prediabetes or
-type 2 diabetes mellitus: a randomized trial. Ann
-Intern Med 2016;165:305–315
-266. Sanyal AJ, Chalasani N, Kowdley KV, et al.;
-NASH CRN. Pioglitazone, vitamin E, or placebo for
-nonalcoholic steatohepatitis. N Engl J Med 2010;
-362:1675–1685
-267. Aithal GP, Thomas JA, Kaye PV, et al.
-Randomized, placebo-controlled trial of pioglitazone
-in nondiabetic subjects with nonalcoholic steato-
-hepatitis. Gastroenterology 2008;135:1176–1184
-268. Huang J-F, Dai C-Y, Huang C-F, et al. First-in-
-Asian double-blind randomized trial to assess the
-efﬁcacy and safety of insulin sensitizer in
-nonalcoholic steatohepatitis patients. Hepatol Int
-2021;15:1136–1147
-269. Sathyanarayana P, Jogi M, Muthupillai R,
-Krishnamurthy R, Samson SL, Bajaj M. Effects of
-combined exenatide and pioglitazone therapy on
-hepatic fat content in type 2 diabetes. Obesity
-(Silver Spring) 2011;19:2310–2315
-270. Abdul-Ghani M, Migahid O, Megahed A,
-DeFronzo RA, Al-Ozairi E, Jayyousi A. Combination
-therapy
-with
-pioglitazone/exenatide
-improves
-beta-cell function and produces superior glycaemic
-control compared with basal/bolus insulin in
-poorly controlled type 2 diabetes: a 3-year follow-
-up of the Qatar study. Diabetes Obes Metab
-2020;22:2287–2294
-271. Lavynenko O, Abdul-Ghani M, Alatrach M,
-et al. Combination therapy with pioglitazone/
-exenatide/metformin reduces the prevalence of
-hepatic ﬁbrosis and steatosis: the efﬁcacy and
-durability of initial combination therapy for type 2
-diabetes (EDICT). Diabetes Obes Metab 2022;24:
-899–907
-272. Ahren B, Masmiquel L, Kumar H, et al.
-Efﬁcacy and safety of once-weekly semaglutide
-versus once-daily sitagliptin as an add-on to
-metformin, thiazolidinediones, or both, in patients
-with type 2 diabetes (SUSTAIN 2): a 56-week,
-double-blind, phase 3a, randomised trial. Lancet
-Diabetes Endocrinol 2017;5:341–354
-273. Noureddin M, Jones C, Alkhouri N, Gomez
-EV, Dieterich DT, Rinella ME; NASHNET. Screening
-for nonalcoholic fatty liver disease in persons
-with type 2 diabetes in the United States is cost-
-effective: a comprehensive cost-utility analysis.
-Gastroenterology 2020;159:1985–1987.e1984
-274. Mahady SE, Wong G, Craig JC, George J.
-Pioglitazone and vitamin E for nonalcoholic
-steatohepatitis: a cost utility analysis. Hepatology
-2012;56:2172–2179
-275. Kovacs CS, Seshiah V, Swallow R, et al.; EMPA-
-REG PIO Trial Investigators. Empagliﬂozin improves
-glycaemic and weight control as add-on therapy to
-pioglitazone or pioglitazone plus metformin in
-patients with type 2 diabetes: a 24-week, ran-
-domized, placebo-controlled trial. Diabetes Obes
-Metab 2014;16:147–158
-276. Armstrong MJ, Gaunt P, Aithal GP, et al.;
-LEAN Trial Team. Liraglutide safety and efﬁcacy in
-patients with non-alcoholic steatohepatitis (LEAN):
-a multicentre, double-blind, randomised, placebo-
-controlled phase 2 study. Lancet 2016;387:679–
-690
-277. Gastaldelli A, Cusi K, Fernandez Lando L,
-Bray R, Brouwers B, Rodrıguez A. Effect of
-tirzepatide versus insulin degludec on liver fat
-content and abdominal adipose tissue in people
-with type 2 diabetes (SURPASS-3 MRI): a
-substudy of the randomised, open-label, parallel-
-group, phase 3 SURPASS-3 trial. Lancet Diabetes
-Endocrinol 2022;10:393–406
-278. Loomba R, Hartman ML, Lawitz EJ, et al.;
-SYNERGY-NASH
-Investigators. Tirzepatide
-for
-metabolic dysfunction-associated steatohepatitis
-with liver ﬁbrosis. N Engl J Med 2024;391:
-299–310
-279. Sanyal AJ, Bedossa P, Fraessdorf M, et al.;
-1404-0043 Trial Investigators. A phase 2 randomized
-trial of survodutide in MASH and ﬁbrosis. N Engl J
-Med 2024;391:311–319
-280. Cusi K, Bril F, Barb D, et al. Effect of
-canagliﬂozin treatment on hepatic triglyceride
-content and glucose metabolism in patients with
-type 2 diabetes. Diabetes Obes Metab 2019;21:
-812–821
-281. Kahl S, Gancheva S, Straßburger K, et al.
-Empagliﬂozin effectively lowers liver fat content
-in well-controlled type 2 diabetes: a randomized,
-double-blind, phase 4, placebo-controlled trial.
-Diabetes Care 2020;43:298–305
-282. Latva-Rasku A, Honka M-J, Kullberg J, et al.
-The SGLT2 inhibitor dapagliﬂozin reduces liver fat
-but does not affect tissue insulin sensitivity: a
-randomized,
-double-blind,
-placebo-controlled
-study with 8-week treatment in type 2 diabetes
-patients. Diabetes Care 2019;42:931–937
-283. Harrison SA, Bedossa P, Guy CD, et al.;
-MAESTRO-NASH Investigators. A phase 3, ran-
-domized, controlled trial of resmetirom in NASH
-with liver ﬁbrosis. N Engl J Med 2024;390:497–509
-284. Cusi
-K.
-Selective
-agonists
-of
-thyroid
-hormone receptor beta for the treatment of
-NASH. N Engl J Med 2024;390:559–561
-285. Noureddin M, Charlton MR, Harrison SA,
-et al. Expert panel recommendations: practical
-clinical applications for initiating and monitoring
-resmetirom in patients with MASH/NASH and
-moderate to noncirrhotic advanced ﬁbrosis. Clin
-Gastroenterol Hepatol. 20 July 2024 [Epub ahead
-of print]. DOI: 10.1016/j.cgh.2024.07.003
-286. Chen VL, Morgan TR, Rotman Y, et al.
-Resmetirom therapy for metabolic dysfunction-
-associated steatotic liver disease: October 2024
-updates to AASLD Practice Guidance. Hepatology.
-18 October 2024 [Epub ahead of print]. DOI:
-10.1097/HEP.0000000000001112
-287. Loomba R, Abdelmalek MF, Armstrong MJ,
-et al.; NN9931-4492 Investigators. Semaglutide 2.4
-mg once weekly in patients with non-alcoholic
-steatohepatitis-related cirrhosis: a randomised,
-placebo-controlled phase 2 trial. Lancet Gas-
-troenterol Hepatol 2023;8:511–522
-288. Aminian A, Al-Kurd A, Wilson R, et al.
-Association of bariatric surgery with major adverse
-liver and cardiovascular outcomes in patients with
-S84
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-biopsy-proven nonalcoholic steatohepatitis. JAMA
-2021;326:2031–2042
-289. Fakhry
-TK,
-Mhaskar
-R,
-Schwitalla
-T,
-Muradova E, Gonzalvo JP, Murr MM. Bariatric
-surgery improves nonalcoholic fatty liver disease:
-a contemporary systematic review and meta-
-analysis. Surg Obes Relat Dis 2019;15:502–511
-290. Ramai D, Singh J, Lester J, et al. Systematic
-review with meta-analysis: bariatric surgery
-reduces the incidence of hepatocellular carcinoma.
-Aliment Pharmacol Ther 2021;53:977–984
-291. Kim RG, Loomba R, Prokop LJ, Singh S. Statin
-use and risk of cirrhosis and related complications
-in patients with chronic liver diseases: a systematic
-review and meta-analysis. Clin Gastroenterol
-Hepatol 2017;15:1521–1530.e1528
-292. Kaplan DE, Serper MA, Mehta R, et al.; VOCAL
-Study Group. Effects of hypercholesterolemia and
-statin exposure on survival in a large national cohort
-of patients with cirrhosis. Gastroenterology 2019;
-156:1693–1706.e1612
-293. Li C, Ford ES, Zhao G, Croft JB, Balluz LS,
-Mokdad AH. Prevalence of self-reported clinically
-diagnosed sleep apnea according to obesity
-status in men and women: National Health and
-Nutrition Examination Survey, 2005-2006. Prev
-Med 2010;51:18–23
-294. West SD, Nicoll DJ, Stradling JR. Prevalence
-of obstructive sleep apnoea in men with type 2
-diabetes.Thorax 2006;61:945–950
-295. Resnick HE, Redline S, Shahar E, et al.;
-Sleep Heart Health Study. Diabetes and sleep
-disturbances: ﬁndings from the Sleep Heart
-Health Study. Diabetes Care 2003;26:702–709
-296. Foster GD, Sanders MH, Millman R, et al.;
-Sleep AHEAD Research Group. Obstructive sleep
-apnea among obese patients with type 2
-diabetes. Diabetes Care 2009;32:1017–1019
-297. Bibbins-Domingo K, Grossman DC, Curry SJ,
-et al.; US Preventive Services Task Force. Screening
-for
-obstructive
-sleep
-apnea
-in
-adults:
-US
-Preventive Services Task Force recommendation
-statement. JAMA 2017;317:407–414
-298. Malhotra A, Grunstein RR, Fietze I, et al.;
-SURMOUNT-OSA Investigators. Tirzepatide for
-the treatment of obstructive sleep apnea and
-obesity. N Engl J Med 2024;391:1193–1205
-299. Piciucchi M, Capurso G, Archibugi L, Delle
-Fave MM, Capasso M, Delle Fave G. Exocrine
-pancreatic insufﬁciency in diabetic patients:
-prevalence, mechanisms, and treatment. Int J
-Endocrinol 2015;2015:595649
-300. Lee Y-K, Huang M-Y, Hsu C-Y, Su Y-C.
-Bidirectional relationship between diabetes and
-acute pancreatitis: a population-based cohort study
-in Taiwan. Medicine (Baltimore) 2016;95:e2448
-301. Das SLM, Singh PP, Phillips ARJ, Murphy R,
-Windsor JA, Petrov MS. Newly diagnosed diabetes
-mellitus after acute pancreatitis: a systematic
-review and meta-analysis. Gut 2014;63:818–831
-302. Petrov MS. Diabetes of the exocrine pancreas:
-American Diabetes Association-compliant lexicon.
-Pancreatology 2017;17:523–526
-303. Thomsen RW, Pedersen L, Møller N, Kahlert
-J, Beck-Nielsen H, Sørensen HT. Incretin-based
-therapy and risk of acute pancreatitis: a nationwide
-population-based case-control study. Diabetes Care
-2015;38:1089–1098
-304. Tkac I, Raz I. Combined analysis of three
-large interventional trials with gliptins indicates
-increased incidence of acute pancreatitis in
-patients with type 2 diabetes. Diabetes Care
-2017;40:284–286
-305. Egan AG, Blind E, Dunder K, et al. Pancreatic
-safety of incretin-based drugs–FDA and EMA
-assessment. N Engl J Med 2014;370:794–797
-306. Drucker DJ. Efﬁcacy and safety of GLP-1
-medicines for type 2 diabetes and obesity. Diabetes
-Care 2024;
-307. Bellin MD, Gelrud A, Arreaza-Rubin G, et al.
-Total pancreatectomy with islet autotransplantation:
-summary of an NIDDK workshop. Ann Surg 2015;
-261:21–29
-308. Sutherland DER, Radosevich DM, Bellin
-MD, et al. Total pancreatectomy and islet
-autotransplantation for chronic pancreatitis. J Am
-Coll Surg 2012;214:409–424
-309. Quartuccio M, Hall E, Singh V, et al. Glycemic
-predictors of insulin independence after total
-pancreatectomy with islet autotransplantation. J
-Clin Endocrinol Metab 2017;102:801–809
-310. Webb MA, Illouz SC, Pollard CA, et al. Islet
-auto
-transplantation
-following
-total
-pan-
-createctomy: a long-term assessment of graft
-function. Pancreas 2008;37:282–287
-311. Wu Q, Zhang M, Qin Y, et al. Systematic
-review and meta-analysis of islet autotrans-
-plantation after total pancreatectomy in chronic
-pancreatitis patients. Endocr J 2015;62:227–234
-312. Baiduc RR, Helzner EP. Epidemiology of
-diabetes and hearing loss. Semin Hear 2019;40:
-281–291
-313. Helzner EP, Contrera KJ. Type 2 diabetes
-and hearing impairment. Curr Diab Rep 2016;
-16:3
-314. Hicks CW, Wang D, Lin FR, Reed N,
-Windham BG, Selvin E. Peripheral neuropathy
-and vision and hearing impairment in US adults
-with and without diabetes. Am J Epidemiol 2023;
-192:237–245
-315. Bainbridge KE, Hoffman HJ, Cowie CC. Risk
-factors for hearing impairment among U.S. adults
-with diabetes: National Health and Nutrition
-Examination Survey 1999-2004. Diabetes Care
-2011;34:1540–1545
-316. Schade DS, Lorenzi GM, Braffett BH, et al.;
-DCCT/EDIC Research Group. Hearing impairment
-and type 1 diabetes in the Diabetes Control and
-Complications Trial/Epidemiology of Diabetes
-Interventions and Complications (DCCT/EDIC)
-cohort. Diabetes Care 2018;41:2495–2501
-317. Rasmussen VF, Vestergaard ET, Hejlesen O,
-Andersson CUN, Cichosz SL. Prevalence of taste
-and smell impairment in adults with diabetes: a
-cross-sectional analysis of data from the National
-Health and Nutrition Examination Survey (NHANES).
-Prim Care Diabetes 2018;12:453–459
-318. Centers for Disease Control and Prevention.
-Interim
-Clinical
-Considerations.
-Accessed
-19
-August 2024. Available from https://www.cdc.gov/
-vaccines/covid-19/clinical-considerations/covid-19-
-vaccines-us.html
-319. Centers for Disease Control and Prevention
-(CDC);
-Advisory
-Committee
-on
-Immunization
-Practices. Updated recommendations for prevention
-of invasive pneumococcal disease among adults
-using the 23-valent pneumococcal polysaccharide
-vaccine (PPSV23). MMWR Morb Mortal Wkly Rep
-2010;59:1102–1106
-320. Falkenhorst G, Remschmidt C, Harder T,
-Hummers-Pradier E, Wichmann O, Bogdan C.
-Effectiveness of the 23-valent pneumococcal poly-
-saccharide vaccine (PPV23) against pneumococcal
-disease in the elderly: systematic review and
-meta-analysis. PLoS One 2017;12:e0169368
-321. Kobayashi M, Farrar JL, Gierke R, et al. Use
-of 15-valent pneumococcal conjugate vaccine
-and 20-valent pneumococcal conjugate vaccine
-among U.S. adults: updated recommendations of
-the Advisory Committee on Immunization Practices -
-United States, 2022. MMWR Morb Mortal Wkly Rep
-2022;71:109–117
-322. Havers FP, Moro PL, Hunter P, Hariri S,
-Bernstein H. Use of tetanus toxoid, reduced
-diphtheria toxoid, and acellular pertussis vaccines:
-updated recommendations of the Advisory
-Committee on Immunization Practices - United
-States, 2019. MMWR Morb Mortal Wkly Rep
-2020;69:77–83
-323. Dooling KL, Guo A, Patel
-M, et al.
-Recommendations of the Advisory Committee on
-Immunization Practices for use of herpes zoster
-vaccines. MMWR Morb Mortal Wkly Rep 2018;
-67:103–108
-324. Davies MJ, Aroda VR, Collins BS, et al.
-Management of hyperglycemia in type 2 diabetes,
-2022. A consensus report by the American
-Diabetes Association (ADA) and the European
-Association for the Study of Diabetes (EASD).
-Diabetes Care 2022;45:2753–2786
-diabetesjournals.org/care
-Comprehensive Medical Evaluation and Assessment of Comorbidities
-S85
-©AmericanDiabetesAssociation
-5. Facilitating Positive Health
-Behaviors and Well-being to
-Improve Health Outcomes:
-Standards of Care in
-Diabetes—2025
-Diabetes Care 2025;48(Suppl. 1):S86–S127 | https://doi.org/10.2337/dc25-S005
-American Diabetes Association
-Professional Practice Committee*
-The American Diabetes Association (ADA) “Standards of Care in Diabetes” includes
-the ADA’s current clinical practice recommendations and is intended to provide the
-components of diabetes care, general treatment goals and guidelines, and tools to
-evaluate quality of care. Members of the ADA Professional Practice Committee, an
-interprofessional expert committee, are responsible for updating the Standards of
-Care annually, or more frequently as warranted. For a detailed description of ADA
-standards, statements, and reports, as well as the evidence-grading system for ADA’s
-clinical practice recommendations and a full list of Professional Practice Committee
-members, please refer to Introduction and Methodology. Readers who wish to com-
-ment on the Standards of Care are invited to do so at professional.diabetes.org/SOC.
-Building positive health behaviors and maintaining psychological well-being are foun-
-dational for achieving diabetes management goals and maximizing quality of life
-(1,2). Essential to achieving these goals are diabetes self-management education and
-support (DSMES), medical nutrition therapy (MNT), routine physical activity, ade-
-quate quality sleep, support for cessation of tobacco products and vaping, health be-
-havior counseling, and psychosocial care. Following an initial comprehensive health
-evaluation (see Section 4, “Comprehensive Medical Evaluation and Assessment of
-Comorbidities”), health care professionals should engage in person-centered collabo-
-rative care with people with diabetes (3–6). Person-centered collaborative care is
-guided by shared decision-making in treatment plan selection; facilitating access to
-medical, behavioral, psychosocial, and technological resources and support; and
-shared monitoring of agreed-upon diabetes care plans and behavioral goals (7,8).
-Routine care evaluations should include assessments of medical and behavioral
-health outcomes, particularly during periods of changes in health and well-being.
-DIABETES SELF-MANAGEMENT EDUCATION AND SUPPORT
-Recommendations
-5.1 All people with diabetes should be advised to participate in developmentally
-and culturally appropriate diabetes self-management education and support
-(DSMES) to facilitate informed decision-making, self-care behaviors, problem-
-solving, and active collaboration with the health care team. A
-5.2 Provide DSMES at diagnosis, annually and/or when not meeting treatment
-goals, when complicating factors develop (e.g., medical, functional, and psy-
-chosocial), and when transitions in life and care occur. E
-*A complete list of members of the American
-Diabetes Association Professional Practice Committee
-can be found at https://doi.org/10.2337/dc25-SINT.
-Duality of interest information for each author is
-available at https://doi.org/10.2337/dc25-SDIS.
-Suggested citation: American Diabetes Association
-Professional Practice Committee. 5. Facilitating
-positive health behaviors and well-being to
-improve health outcomes: Standards of Care in
-Diabetes—2025. Diabetes Care 2025;48(Suppl. 1):
-S86–S127
-© 2024 by the American Diabetes Association.
-Readers may use this article as long as the
-work is properly cited, the use is educational
-and not for proﬁt, and the work is not altered.
-More information is available at https://www
-.diabetesjournals.org/journals/pages/license.
-5. FACILITATING POSITIVE HEALTH BEHAVIORS
-S86
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-5.3 Routinely assess clinical outcomes,
-health status, and well-being as key
-goals of DSMES. C
-5.4 Screen for behavioral health con-
-cerns at the same critical times as
-evaluating the need for DSMES and
-refer to a qualiﬁed behavioral health
-professional if indicated to increase
-engagement in DSMES. E
-5.5 DSMES should be culturally ap-
-propriate and responsive to individ-
-ual preferences, needs, and values
-and may be offered in group or in-
-dividual settings. A Such education
-and support should be documented
-and made available to members of
-the entire diabetes care team. E
-5.6 Consider offering DSMES via tel-
-ehealth and/or digital interventions
-as needed to meet individual pref-
-erences, address barriers to access,
-and improve satisfaction. B
-5.7 DSMES can improve outcomes
-and reduce costs, so reimbursement by
-third-party payors is recommended. B
-5.8 Identify and address barriers to
-DSMES that exist at the payor, health
-system, clinic, health care professional,
-and individual levels. E
-5.9 Screen for and include social de-
-terminants of health in guiding de-
-sign and delivery of DSMES C with
-the ultimate goal of health equity
-across all populations.
-The overall objectives of DSMES are to
-support informed decision-making, self-
-care behaviors, problem-solving, and ac-
-tive collaboration with the health care
-team to improve clinical outcomes,
-health status, and well-being in a cost-
-effective manner (2). DSMES services fa-
-cilitate the knowledge, decision-making,
-and skills mastery necessary for optimal
-diabetes self-care and incorporate the
-needs, goals, and life experiences of the
-person with diabetes (9). When provid-
-ing DSMES, health care professionals
-should consider the individual’s burden
-of treatment, level of self-efﬁcacy for
-self-care behaviors, and degree of social
-and family support. Engagement in self-
-management behaviors and subsequent
-clinical outcomes, health status, and
-quality of life, in addition to psychoso-
-cial factors affecting the person’s ability
-to self-manage, should be monitored
-routinely. A randomized controlled trial
-(RCT) that evaluated a decision-making
-education and skill-building program (10)
-showed that addressing these aims im-
-proved health outcomes in a population
-in need of health care resources. Further-
-more, following a DSMES curriculum im-
-proves quality of care (11).
-Use of judgmental words is associated
-with increased feelings of shame and guilt;
-therefore, health care professionals should
-consider the impact language has on build-
-ing therapeutic and productive relation-
-ships. Health care professionals should use
-positive, strength-based words and phrases
-putting people ﬁrst (4). Please see Section 4,
-“Comprehensive Medical Evaluation and
-Assessment of Comorbidities,” for more on
-use of language.
-In accordance with the “2022 National
-Standards for Diabetes Self-Management
-Education and Support” (here referred
-to as the National Standards for DSMES)
-(9), all people with diabetes should par-
-ticipate in developmentally appropriate
-and culturally sensitive DSMES, as it helps
-people with diabetes identify and imple-
-ment effective self-management strategies
-and coping skills (2). DSMES includes collab-
-orative goal setting that improves empow-
-erment, self-management, and quality of
-life as the person with diabetes encounters
-new challenges and as advances in treat-
-ment become available (12–14). Moreover,
-DSMES should be thought of as an ongo-
-ing process—not a one-time occurrence.
-The National Standards for DSMES (9) in-
-clude delivery of content addressing:
-• Pathophysiology of diabetes and treat-
-ment options
-• Healthy coping
-• Healthy eating
-• Being active
-• Taking medication
-• Monitoring
-• Reducing risk (treating acute and
-chronic complications)
-• Problem solving and behavior change
-strategies
-In addition to providing DSMES upon
-diagnosis, there are additional critical time
-points when the need for DSMES should
-be evaluated by the health care profes-
-sional and/or interprofessional team,
-with referrals made as needed (2):
-• Annually and/or when not meeting
-treatment goals, whichever is more
-frequent
-• When complicating factors (e.g., health
-conditions, physical or functional limi-
-tations, emotional factors, and basic
-living needs) that inﬂuence self-
-management develop
-• When transitions in life and care occur
-DSMES empowers individuals with dia-
-betes by providing them with tools to
-make informed self-management decisions
-(4). DSMES should be person-centered—
-placing the person with diabetes and their
-family and/or support system at the center
-of the care model as they work in col-
-laboration with health care professio-
-nals. Person-centered care is respectful
-of and responsive to individual and cul-
-tural preferences, needs, and values. It
-ensures the values of the person with
-diabetes guide all decision-making (15).
-Evidence for the Benefits
-DSMES is associated with improved dia-
-betes knowledge and self-care behav-
-iors (16,17), lower A1C (16–21), lower
-self-reported weight (22), improved qual-
-ity of life (23,24), reduced all-cause mor-
-tality risk (25), positive coping behaviors
-(5,26), and lower health care costs
-(27–29). DSMES is also associated with
-an increased use of primary care and
-preventive services (27,30) and less fre-
-quent use of acute care and inpatient
-hospital services (22). People with diabe-
-tes who participate in DSMES are more
-likely to follow best practice treatment
-recommendations, particularly those with
-Medicare, and have lower Medicare and
-insurance claim costs (28,30). Better out-
-comes were reported for DSMES interven-
-tions that were >10 h over the course of
-6–12 months (19), included ongoing sup-
-port (12,13,31), were culturally (30,32–34)
-and age appropriate (35,36), were tai-
-lored to individual needs and preferen-
-ces, addressed psychosocial issues, and
-incorporated behavioral strategies (4,26,
-37,38). Individual and group approaches
-are effective (22,39,40), with a slight ben-
-eﬁt realized by those who engage in both
-(19).
-Strong evidence now exists for the
-beneﬁts of telehealth, telemedicine, and
-telephone-based or internet-based (i.e.,
-virtual) DSMES for diabetes prevention
-and management in a wide variety of
-populations and age-groups (9,41–44).
-When feasible, the best choice for deliv-
-ery of DSMES is that which will align with
-individual preferences. A 2023 systematic
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S87
-©AmericanDiabetesAssociation
-review and meta-analysis of RCTs reported
-moderate evidence indicating digital health
-technologies (e.g., mobile apps, websites,
-digital coaching, and SMS [i.e., texting])
-can be effective modes of intervention de-
-livery for DSMES. In fact, telehealth-based
-interventions have been found to produce
-a greater reduction in A1C (0.30 per-
-centage points; 95% CI 0.42 to 0.19)
-compared with control (43,45). These
-digital methods provide outcomes that
-are comparable to or even better than
-those seen with traditional in-person
-care (46). Greater A1C reductions are
-demonstrated with increased engage-
-ment (47), although data from trials are
-heterogeneous.
-Diabetes care and education specialists
-(DCES) are effective providers of DSMES.
-Members of the DSMES team can in-
-clude a variety of health care professio-
-nals such as nurses (registered nurses
-and nurse practitioners), registered dieti-
-tian nutritionists (RDNs), pharmacists, so-
-cial workers, certiﬁed health education
-specialists, exercise physiologists, care
-coordinators or navigators, and others
-who can tailor curricula to individual
-needs (48–50). Team members acting in
-the DCES capacity should have special-
-ized clinical knowledge of diabetes and
-behavior change principles. In addition,
-a DCES needs to be knowledgeable
-about technology-enabled services and
-may serve as a technology champion
-within their practice (51). Credentialing
-such as certiﬁed diabetes care and edu-
-cation specialists (CDCES) (cbdce.org/)
-and/or board certiﬁcation in advanced
-diabetes management (BC-ADM) (diabe-
-teseducator.org/education/certiﬁcation/
-bc_adm) demonstrates an individual’s
-specialized training in and understanding
-of diabetes management and support (9),
-and engagement with qualiﬁed professio-
-nals has been shown to improve diabe-
-tes-related outcomes (52). There is also
-continued and growing evidence for the
-role of community health workers, peer
-educators, peer support, and lay lead-
-ers in providing ongoing diabetes self-
-management support (53,54).
-Social determinants of health (SDOH)
-are an important aspect of diabetes care
-and should always be weighed in guiding
-the design and delivery of DSMES. The
-DSMES team should consider demo-
-graphic characteristics such as racial
-identity, ethnic and cultural background,
-biological sex and gender identity, age,
-geographic location, technology access,
-education, literacy, and numeracy (4).
-For example, a systematic review and
-meta-analysis of telehealth DSMES inter-
-ventions with Black and Hispanic adults
-with diabetes showed a 0.465% decrease
-in A1C, demonstrating the importance of
-considering demographic factors in rela-
-tion to DSMES interventions (44). Barriers
-to equitable DSMES access can be miti-
-gated by keeping in mind the SDOH and
-leveraging creative delivery options (e.g.,
-telehealth and online) that will work best
-for the population in need of DSMES (9).
-Despite the recognized beneﬁts of
-DSMES, only about half of individuals el-
-igible for DSMES through their health
-insurance receive it (55). Barriers to
-DSMES exist at multiple levels including
-the health system, payor, clinic, health
-care professional, and individual for a
-myriad of reasons from lack of adminis-
-trative leadership support to ineffective
-DSMES referral processes and transpor-
-tation challenges. Low participation can
-be due to lack of referrals, logistical
-issues (e.g., accessibility, timing, and
-costs), and lack of a perceived beneﬁt
-(56). Thus, in addition to educating re-
-ferring health care professionals about
-the beneﬁts of DSMES and the critical
-times to refer, efforts to identify and
-address potential barriers at all levels
-need to be made (2). This was illus-
-trated in a multilevel diabetes care in-
-tervention that combined clinical outreach,
-standardized protocols, and DSMES with
-SDOH screening and referrals to social
-needs support; a 15% increase in re-
-ceipt of DSMES, including among peo-
-ple on Medicaid, was documented (57).
-Support from institutional leadership is
-foundational for DSMES success. Expert
-stakeholders, including those external
-to an organization, should also support
-DSMES by advocating for it and for
-people with diabetes (9).
-Diabetes Technologies
-Technology-enabled
-diabetes
-self-
-management solutions (e.g., continuous
-glucose monitors [CGM], closed-loop pump
-systems, and connected glucose meters)
-improve A1C most effectively when there
-is two-way communication between the
-person with diabetes and the health care
-team, individualized feedback, use of
-person-generated health data, and edu-
-cation (58). Alternative and innovative
-models of DSMES delivery (59), including
-integration of technology-enabled diabe-
-tes and cardiometabolic health services
-(8), need to be continually explored and
-evaluated. Technology can facilitate self-
-management decisions and improve ac-
-cess to DSMES (58). Additionally, use of
-diabetes technologies warrants broader
-adoption because they can reduce thera-
-peutic inertia (60). One potential model
-is virtual environments, which allow peo-
-ple with diabetes to self-represent as
-avatars and interact in a world with em-
-bedded informational resources that can
-be accessed using principles of gamiﬁca-
-tion. An RCT that tested DSMES in a vir-
-tual environment demonstrated greater
-weight loss but similar decreases in A1C,
-blood pressure, cholesterol, and triglycer-
-ides compared with DSMES via a standard
-website (61). These versions may not al-
-ways be reimbursed; however, adoption
-of
-reimbursement
-policies
-that
-in-
-crease DSMES access and use will
-positively affect beneﬁciaries’ clinical
-outcomes, quality of life, health care
-use, and costs (9,62,63).
-Of all the newer diabetes technolo-
-gies, CGM might be the most widely
-adopted. When combined with individu-
-alized DSMES or behavioral interventions,
-CGM demonstrated greater improvement
-of glycemic and psychosocial outcomes
-than CGM alone (47,64). Similarly, DSMES
-plus intermittently scanned CGM (isCGM)
-demonstrated increased time in range
-(70–180 mg/dL [3.9–10.0 mmol/L]), less
-time above range, and greater reduction
-in A1C compared with DSMES alone (65).
-Incorporating a systematic approach for
-technology assessment, adoption, and
-integration into the diabetes care plan
-could help ensure equity in access and
-standardized application of technology-
-enabled solutions (8,51,66–68).
-Reimbursement
-Medicare reimburses DSMES (referred to
-as diabetes self-management training
-[DSMT] by Medicare) when the service is in
-accordance with the National Standards for
-DSMES (2,9) and is recognized by the
-American Diabetes Association (ADA)
-through the Education Recognition Pro-
-gram (professional.diabetes.org/diabetes-
-education) or by the Association of Diabetes
-Care & Education Specialists (www.adces
-.org/store/online-education/unlisted-detail/
-becoming-an-accredited-dsmes-program).
-S88
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-DSMES is also covered by most other
-health insurance plans. Ongoing support
-has been shown to be instrumental for
-improving outcomes when it is imple-
-mented after the completion of formal
-DSMES. For comprehensive information
-about Medicare reimbursement, readers
-may ﬁnd the following website useful: www.
-cdc.gov/diabetes-toolkit/php/reimburse-
-ment/medicare-reimbursement-guidelines.
-html. In brief, the Medicare Part B initial
-DSMT is a “once-in-a-lifetime” beneﬁt. Indi-
-vidual encounters are reimbursable for the
-ﬁrst 10 h (1 h of individual training and 9
-h of group training).Two hours of follow-up
-DSMT are allowed each year after the initial
-DSMT. If a person has special needs that
-would interfere with effective group partici-
-pation,these should be identiﬁed on the re-
-ferral order. For Medicaid, DSMES coverage
-varies by state, but further guidance can be
-found at www.cdc.gov/diabetes-toolkit/php/
-reimbursement/medicare-reimbursement-
-guidelines.html. Additional information ad-
-dressing implementation of a successful
-DSMES program can be found in the Cen-
-ters for Disease Control and Prevention
-DSMES toolkit at www.cdc.gov/diabetes-
-toolkit/php/index.html.
-Programs recognized by the ADA and
-accredited by the Association of Diabe-
-tes Care & Education Specialists are cur-
-rently included on the list of telehealth
-professionals approved by Centers for
-Medicare & Medicaid Services (CMS),
-via the Consolidated Appropriations Act
-of 2023 (69). Continuation of reim-
-bursement for DSMES telehealth serv-
-ices is expected through the end of
-2025, after which CMS is likely to rein-
-state limitations on the number of
-times certain services in high-acuity set-
-tings may be performed via telehealth.
-During this time, CMS will continue to
-evaluate whether the removal of these
-frequency limitations should be made
-permanent (70).
-DSMES uses an evidence-based cur-
-riculum designed to educate people with
-diabetes about all elements from the Na-
-tional Standards for DSMES, as described
-above, that can be delivered and billed
-by a variety of health care professionals
-on the diabetes care team. While the
-overarching healthy eating concepts used
-in DSMES can be taught by all members
-of the team, MNT, which is more in-
-depth and individualized and derived
-from the evidence-based Nutrition Care
-Process, can only be delivered and billed
-by RDNs. For Medicare Part B, the MNT
-beneﬁt includes individual encounters re-
-imbursable for 3 h. Each subsequent year
-is reimbursed for 2 h. However, additional
-hours are available if a subsequent refer-
-ral identiﬁes a change in treatment. For
-further information on Medicare coverage
-of MNT, readers are encouraged to re-
-view www.cdc.gov/diabetes-toolkit/php/
-reimbursement/medical-nutrition-therapy.
-html and www.cms.gov/medicare-coverage-
-database/view/ncacal-decision-memo.aspx?
-proposed=N&NCAId=53.
-MEDICAL NUTRITION THERAPY
-When the ﬁrst ADA Standards of Care
-guidelines were published in 1989, nu-
-trition was only mentioned in two sen-
-tences of the entire 4-page document
-(71). Even today, the science of nutri-
-tion for diabetes continues to evolve.
-There has also been a change in how
-we talk about nutrition. We are moving
-away from emphasizing macronutrients,
-which include carbohydrates, proteins,
-and fats, and micronutrients, which in-
-clude vitamins and minerals, and in-
-stead focusing on foods. More broadly,
-we are encouraging people to think in
-terms of eating patterns, also known as
-dietary patterns or food patterns, or the
-totality of the foods and beverages a
-person consumes. Additionally, promot-
-ing nutrient-dense food choices, deﬁned
-as foods high in micronutrients while
-being relatively low in calories (e.g., vege-
-tables, fruits, and legumes), is useful. This
-integrative food-based approach aligns
-with the 2021 American Heart Associa-
-tion dietary guidance to improve cardio-
-vascular health (72), the Kidney Disease:
-Improving Global Outcomes (KDIGO)
-guidelines (73), the European Associa-
-tion for the Study of Diabetes and ADA
-type 1 consensus report (74) and type 2
-consensus report (75), and the Dietary
-Guidelines
-for
-Americans,
-2020–2025
-(76). Simply put, people eat food, not nu-
-trients, and nutrition recommendations
-need to be applicable to what people ac-
-tually eat. Additionally, macronutrients
-are not interchangeable entities and vary
-by nutrient type and quality. As an exam-
-ple, carbohydrates include legumes, whole
-grains, and fruits, which are in the same
-category as reﬁned grains, but their health
-effects are quite different (77).
-MNT is effective and beneﬁcial to
-people with diabetes. When delivered
-by an RDN, MNT is associated with A1C
-absolute decreases of 1.0–1.9% for peo-
-ple with type 1 diabetes and 0.3–2.0%
-for people with type 2 diabetes (78).
-Because type 2 diabetes is progressive,
-behavior modiﬁcation alone may not be
-adequate to maintain euglycemia over
-time. However, after pharmacotherapy
-is initiated, nutrition therapy continues
-to be an important component of ongo-
-ing diabetes self-management, and RDNs
-providing diabetes-speciﬁc MNT should as-
-sess and monitor medication changes in
-relation to the nutrition care plan (50,79).
-All members of the health care team
-should also be empowered to reiterate
-the general and evidence-based nutrition
-advice to limit processed foods and foods
-high in added salt, sugars, and fats and,
-when possible, choose whole foods.
-For more detailed information on nu-
-trition therapy, please refer to the ADA
-consensus report on nutrition therapy
-(50). Contained in the report is an impor-
-tant and often repeated tenet, i.e., there
-is no one-size-ﬁts-all eating pattern for
-individuals with diabetes, and meal plan-
-ning should be individualized. Nutrition
-therapy plays an integral role in overall
-diabetes management, and each person
-with diabetes should actively engage in
-education, self-management, and treat-
-ment planning with the health care team
-and participate in collaborative develop-
-ment of an individualized eating plan
-(50,79).
-All health care professionals should re-
-fer people with diabetes for individualized
-MNT provided by an RDN who is experi-
-enced and skilled in providing diabetes-
-speciﬁc MNT (80–82), at diagnosis and as
-needed throughout the life span, similar
-to DSMES. Referrals to RDNs are particu-
-larly warranted when a person with dia-
-betes is dealing with additional health
-conditions such as hypertension, dyslipide-
-mia, heart failure, gastrointestinal disorders,
-chronic kidney disease, pregnancy-related
-nutrition concerns, pediatric growth issues,
-or obesity (83). See Table 5.1 for general
-nutrition recommendations, Table 5.2 for
-macronutrient-speciﬁc recommendations,
-and Table 5.3 for nutrition behaviors that
-should be encouraged.
-Eating Patterns and Meal Planning
-For an understanding of the role of nu-
-trition in diabetes, it is important to
-clarify the terminology. Food patterns,
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S89
-©AmericanDiabetesAssociation
-eating
-plans,
-and
-approaches
-are
-terms that are often used interchange-
-ably, but they are different and rele-
-vant in individualizing nutrition care
-plans (84).
-• Eating pattern, dietary pattern, or
-food pattern. The totality of all foods
-and beverages consumed over a given
-period of time. An eating pattern can
-be ascribed to an individual, but it is
-also the term used in prospective
-cohort and observational nutrition
-studies to classify and study nutrition
-patterns. Examples of eating patterns
-include Mediterranean style, Dietary Ap-
-proaches to Stop Hypertension (DASH),
-low carbohydrate, vegetarian, and plant
-based (84).
-• Eating/meal plan (historically referred
-to as a diet). An individualized guide
-to plan when, what, and how much
-to eat on a daily basis, completed
-by the person with diabetes and the
-RDN. The eating plan could incorpo-
-rate an eating pattern combined with
-a strategy or method to direct some
-of the choices. Eating plans are based
-on the individual’s usual eating style
-and food preferences.
-• Eating/meal plan approach. Method
-or strategy to individualize a desired
-eating pattern and provide practical
-tools for developing healthy eating pat-
-terns. Examples of dietary approaches
-include the plate method, carbohydrate
-choice, carbohydrate counting, and
-highly individualized behavioral ap-
-proaches (85).
-Table 5.1—Nutrition therapy recommendations
-Recommendations
-Provide medical nutrition therapy
-5.10 An individualized medical nutrition therapy program, as needed to achieve treatment goals
-and provided by a registered dietitian nutritionist, preferably one who has comprehensive
-knowledge and experience in diabetes care, is recommended for all people with type 1 or
-type 2 diabetes, prediabetes, and gestational diabetes mellitus. A
-5.11 Because diabetes medical nutrition therapy can result in cost savings B and improved
-cardiometabolic outcomes, A medical nutrition therapy should be adequately reimbursed by
-insurance. E
-Promote energy balance
-5.12 Provide weight management treatment based on nutrition, physical activity, and behavioral
-therapy for all people with overweight or obesity, aiming for at least 3–7% weight loss. A
-Encourage healthy, evidence-based
-eating patterns
-5.13 For diabetes prevention and management of people with prediabetes or diabetes, recommend
-individualized meal plans that keep nutrient quality, total calories, and metabolic goals in
-mind, B as data do not support a speciﬁc macronutrient pattern.
-5.14 Eating patterns should emphasize key nutrition principles (inclusion of nonstarchy vegetables,
-whole fruits, legumes, lean proteins, whole grains, nuts and seeds, and low-fat dairy or
-nondairy alternatives) and minimize consumption of red meat, sugar-sweetened beverages,
-sweets, reﬁned grains, processed and ultraprocessed foods in people with prediabetes and
-diabetes. B
-5.15 Consider reducing overall carbohydrate intake for adults with diabetes to improve glycemia, as
-this approach may be applied to a variety of eating patterns that meet individual needs and
-preferences. B
-Do not promote the use of
-micronutrient, herbal, and other
-supplements to aid in glycemic
-management
-5.16 Health care professionals should inquire about intake of dietary supplements and counsel as
-necessary. Supplementation with micronutrients (e.g., vitamins and minerals, such as
-magnesium or chromium) or herbs or spices (e.g., cinnamon and aloe vera) for glycemic
-beneﬁts is not recommended. C
-5.17 Counsel against b-carotene supplementation, as there is evidence of harm for certain
-individuals and it confers no beneﬁt. B
-Avoid excess alcohol intake
-5.18 Advise adults with diabetes and those at risk for diabetes who consume alcohol to not exceed
-the recommended daily limits. B Advise abstainers to not start drinking alcohol, even in
-moderation.
-5.19 Educate people with diabetes about the signs, symptoms, and self-management of delayed
-hypoglycemia after drinking alcohol, especially when using insulin or insulin secretagogues. The
-importance of monitoring glucose after drinking alcoholic beverages to reduce hypoglycemia
-risk should be emphasized. B
-Limit sodium and foods high in salt
-5.20 Counsel people with diabetes to limit sodium consumption to <2,300 mg/day, as clinically
-appropriate, B and that the best way to achieve this is through limiting consumption of
-processed foods. B
-Recommend water over other
-beverages
-5.21 Counsel people with prediabetes and diabetes that water is recommended over nutritive and
-nonnutritive sweetened beverages. A
-5.22 Counsel people with diabetes and those at risk for diabetes that nonnutritive sweeteners can
-be used instead of sugar-sweetened products if consumed in moderation and for the short
-term to reduce overall calorie and carbohydrate intake. B
-Screen for malnutrition
-5.23 Screen people with diabetes and those at risk for diabetes for malnutrition, especially those
-who have undergone metabolic surgery A and those being treated with weight loss
-pharmacologic therapies. B
-S90
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Meal Planning
-There is no ideal percentage of calories
-from carbohydrate, protein, or fat for
-people with diabetes. Therefore, macro-
-nutrient distribution should be based
-on an individualized assessment of cur-
-rent eating patterns, preferences, and
-metabolic goals. Members of the health
-care team should complement and rein-
-force MNT by providing evidence-based
-guidance that helps people with diabe-
-tes make healthy food choices that meet
-their individualized needs and improve
-overall health. Ultimately, ongoing diabe-
-tes and nutrition education paired with
-appropriate support to implement and
-sustain health behaviors are recom-
-mended (82).
-Research conﬁrms that a variety of eat-
-ing patterns are acceptable for the manage-
-ment of diabetes (50,78,86,87). Evidence
-for eating patterns has been informed by
-RCTs, prospective cohort studies, systematic
-reviews, and network meta-analyses.Those
-most frequently recommended based
-on the evidence include Mediterranean,
-DASH, low-fat, carbohydrate-restricted,
-vegetarian, and vegan eating patterns. Un-
-til evidence around beneﬁts of different
-eating patterns is strengthened, health
-care professionals should focus on the
-core dimensions common among healthful
-patterns: inclusion of nonstarchy vegeta-
-bles, whole fruits, legumes, whole grains,
-nuts, seeds, and low-fat dairy products and
-minimizing consumption of red meat,
-sugar-sweetened beverages, sweets, re-
-ﬁned grains, and processed and ultrapro-
-cessed foods (88,89).
-Referral to and ongoing support from
-an RDN is essential to assess the overall
-nutrition status of, and to work collabo-
-ratively with, the person with diabetes
-to create a personalized meal plan that
-coordinates and aligns with the overall
-lifestyle treatment plan, including physical
-activity and medication use. Using shared
-decision-making to collaboratively select a
-method for how to execute the plan may
-be part of the nutrition care process.
-Eating/Meal Plan Approaches and Methods
-Few head-to-head studies have com-
-pared different eating approaches. In a
-systematic review and meta-analysis of
-carbohydrate counting versus other forms
-of meal planning advice (e.g., standard
-education, low glycemic index, and ﬁxed
-carbohydrate quantities), no signiﬁcant
-differences were seen in A1C levels com-
-pared with standard education (90). In
-another RCT, a simpliﬁed carbohydrate
-counting tool based on individual glycemic
-response was noninferior to conventional
-carbohydrate counting in 85 adults with
-type 1 diabetes (91). In a randomized
-crossover trial, carbohydrate counting and
-qualitative meal size (i.e., low, me-
-dium, and high carbohydrate) were
-compared. Time in range was 74% for
-carbohydrate counting and 70.5% for
-the quantitative meal size estimates.
-Noninferiority was not conﬁrmed for
-the qualitative method (92). Newer
-technologies (e.g., smart phone apps
-and CGM) and automated insulin de-
-livery may decrease the need for pre-
-cise carbohydrate counting and allow
-for personalized nutrition approaches
-(93,94).
-One RCT found that two meal-planning
-approaches (diabetes plate method and
-carbohydrate counting) were effective in
-helping achieve improved A1C (95). The
-diabetes plate method (96) is a com-
-monly used visual approach for providing
-basic meal planning guidance for individ-
-uals with type 1 and type 2 diabetes.
-This simple graphic (featuring a 9-in
-plate) shows how to portion foods
-(one-half of the plate for nonstarchy
-vegetables, one-quarter of the plate
-for protein, and one-quarter of the
-plate for carbohydrates). Carbohydrate
-counting is a more advanced skill that
-helps plan for and track how much
-carbohydrate is consumed at meals
-and snacks. Meal planning approaches
-should be customized to the individ-
-ual, including their numeracy (95) and
-Table 5.2—Macronutrient-speciﬁc nutrition recommendations
-Recommendations
-Carbohydrates
-5.24 Emphasize minimally processed, nutrient-dense, high-ﬁber sources of carbohydrate (at least 14 g ﬁber per
-1,000 kcal). B
-5.25 Advise people with diabetes and those at risk to replace sugar-sweetened beverages (including fruit juices)
-with water or low-calorie or no-calorie beverages as much as possible to manage glycemia and reduce risk for
-cardiometabolic disease B and minimize consumption of foods with added sugar that have the capacity to
-displace healthier, more nutrient-dense food choices. A
-5.26 Regardless of diabetes classiﬁcation, individuals treated with sodium–glucose cotransporter 2 inhibitors should
-avoid a ketogenic eating pattern, be educated on the signs of ketoacidosis and methods of risk mitigation and
-provided with appropriate tools for accurate ketone measurement (i.e., serum b-hydroxybutyrate), and be
-instructed to avoid fasting and maintain appropriate insulin therapy. E
-5.27 Provide education on the glycemic impact of carbohydrate, A fat, and protein B tailored to an individual’s
-needs, insulin plan, and preferences to optimize mealtime insulin dosing.
-5.28 When using ﬁxed insulin doses, individuals should be provided with education about consistent patterns of
-carbohydrate intake with respect to time and amount while considering the insulin action time, as it can result
-in improved glycemia and reduce the risk for hypoglycemia. B
-Proteins
-5.29 People with diabetes and those at risk for diabetes are advised to incorporate more plant-based protein
-sources (e.g., nuts, seeds, and legumes) as part of an overall diverse eating pattern to reduce cardiovascular
-disease risk. B
-5.30 Counsel people with diabetes to consider an eating plan emphasizing elements of a Mediterranean eating
-pattern, which is rich in monounsaturated and polyunsaturated fats and long-chain fatty acids such as fatty
-ﬁsh, nuts, and seeds, to reduce cardiovascular disease risk A and improve glucose metabolism. B
-Fats
-5.31 Counsel people with diabetes and those at risk for diabetes to limit intake of foods high in saturated fat (e.g.,
-red meat, full-fat dairy, butter, and coconut oil) to help reduce cardiovascular disease risk. A
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S91
-©AmericanDiabetesAssociation
-food literacy level. Health numeracy
-refers to understanding and using num-
-bers and numerical concepts in relation
-to health and self-management. Food
-literacy generally describes proﬁciency
-in food-related knowledge and skills
-that ultimately affect health, although
-speciﬁc deﬁnitions vary across initiatives
-(97,98).
-Nutrition Therapy Goals for All
-People With Diabetes
-1. To promote and support healthful eat-
-ing patterns, emphasizing a variety of
-nutrient-dense foods in appropriate
-portion sizes, contributing to im-
-proved overall health, and to:
-• achieve and maintain body weight
-goals
-• attain individualized glycemic, blood
-pressure, and lipid goals
-• delay or prevent the complications
-of diabetes
-2. To address individual nutrition needs
-based on personal and cultural prefer-
-ences, health literacy and numeracy,
-access to healthful foods, willingness
-and ability to make behavioral changes,
-and existing barriers to change
-3. To maintain the pleasure of eating
-by providing nonjudgmental mes-
-sages about food choices while also
-reducing or limiting certain foods
-only when indicated by scientiﬁc
-evidence
-4. To provide an individual with diabe-
-tes the practical tools for developing
-healthy eating patterns rather than fo-
-cusing on individual macronutrients,
-micronutrients, or single foods
-Carbohydrates
-Studies examining the optimal amount of
-carbohydrate intake for people with dia-
-betes are inconclusive, although monitor-
-ing carbohydrate intake is a key strategy
-in reaching glucose goals in people with
-type 1 and type 2 diabetes (99,100).
-For people with type 2 diabetes, low-
-carbohydrate and very-low-carbohydrate
-eating patterns have been found to reduce
-A1C and the need for glucose-lowering
-medications (84,101–103). Systematic re-
-views and meta-analyses of RCTs found
-carbohydrate-restricted eating patterns,
-particularly those considered very low
-carbohydrate (<26% total energy), were
-effective in reducing A1C in the short
-term (<6 months), with less difference in
-eating patterns beyond 1 year (84,104,105).
-However, in a 2022 carefully designed
-12-week RCT feeding study among adults
-with prediabetes and type 2 diabetes, a
-well-formulated ketogenic diet (20–50 g/day
-and keeping protein to 1.5 g/kg ideal
-body weight/day, with the remainder of
-energy from fat) did not signiﬁcantly im-
-prove A1C and increased LDL cholesterol
-compared with a low-carbohydrate Medi-
-terranean diet (105).Therefore, questions
-still remain about the optimal degree of
-carbohydrate restriction and long-term
-effects of those meal patterns on cardio-
-vascular disease (CVD).
-The effects of changes in body weight
-and the wide range of deﬁnitions for a
-low-carbohydrate eating plan are impor-
-tant challenges in interpreting carbohy-
-drate-restricted research studies (106).
-Weight reduction is often a goal in many
-studies on low-carbohydrate eating plans,
-which complicates evaluating the dis-
-tinct contribution of the eating pattern
-(107–109). As studies on low-carbohydrate
-eating plans generally indicate challenges
-with long-term sustainability (101), it is im-
-portant to reassess and individualize meal
-plan guidance regularly for those inter-
-ested in this approach.
-Table 5.3—Nutrition behaviors to encourage
- Vegetables—especially nonstarchy vegetables that are dark green, red, and orange in color; fresh, frozen, or low-sodium canned are all
-acceptable vegetable options.
- Legumes—dried beans, peas, and lentils.
- Fruits—especially whole fruit—fresh, frozen, or canned in own juice (or no added sugar) are all acceptable fruit options.
- Whole-grain foods—where culturally appropriate, whole-grain versions of commonly consumed foods such as 100% whole-wheat breads or
-pastas, and brown rice. When not culturally appropriate, focus more on portion control.
- Foods with at least 3 g of ﬁber per serving, which generally indicates a food higher in ﬁber.
- Water should be the primary beverage of choice.
- For individuals who do not prefer plain water, no-calorie alternatives are the next best choice. Options include adding lemon, lime, or
-cucumber slices to water; sparkling no-calorie water or ﬂavored no-calorie waters; no-calorie carbonated beverages, etc.
- Plant-based proteins can include legumes (e.g., soybeans, pinto beans, black beans, garbanzo beans, dried peas, and lentils), nuts, and
-seeds.
- Meats and poultry should be from fresh, frozen, or low-sodium canned and in lean forms (e.g., chicken breast and ground turkey).
- Heart-healthy wild-caught fatty ﬁsh such as salmon, tuna, sardines, and mackerel. Fresh, frozen, or low-sodium canned are all acceptable
-options.
- Use herbs (e.g., basil, fennel, mint, parsley, rosemary, and thyme) and spices (e.g., cinnamon, garam masala, ginger, pepper, and turmeric)
-to season foods instead of salt or salt-containing preparations.
- Incorporate onions, garlic, celery, carrots, and other vegetables as a base for preparing various homemade foods.
- Cook with vegetable oil (e.g., canola and olive) in place of fats high in saturated fat (e.g., butter, shortening, lard, and coconut oil).
- Meal prep by planning out meals for the week, grocery shopping with a list, and cooking on a day off so there are ready-to-eat and ready-
-to-reheat homemade meals waiting in the fridge or freezer.
- Include family or roommates in meal preparation; share the responsibilities of grocery shopping and cooking.
-S92
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Health care professionals should main-
-tain consistent medical oversight of indi-
-viduals following very-low-carbohydrate
-eating plans and recognize that insulin
-and other diabetes medications may need
-to be adjusted to prevent hypoglycemia,
-and blood pressure will need to be moni-
-tored. In addition, very-low-carbohydrate
-eating plans are not currently recom-
-mended for individuals who are pregnant
-or lactating, children, people who have
-kidney disease, or people with or at risk
-for disordered eating.
-Very-low-carbohydrate eating plans
-should also be used with caution in those
-taking sodium–glucose cotransporter 2
-(SGLT2) inhibitors because of the potential
-risk of ketoacidosis (110,111). Numerous
-case reports have now been published il-
-lustrating that diabetic ketoacidosis (DKA)
-or euglycemic DKA can occur in people
-with type 1 and type 2 diabetes using
-SGLT2 inhibitors in combination with very-
-low-carbohydrate or ketogenic eating pat-
-terns. Additionally, excessive alcohol intake
-should be avoided when taking SGLT2 in-
-hibitors (110).
-Regardless of the amount of carbohy-
-drate in the meal plan, focus should be
-placed on high-quality, minimally proc-
-essed, nutrient-dense carbohydrate sour-
-ces high in ﬁber. Dietary ﬁber modulates
-gut microbiota composition and increases
-gut microbial diversity. Although there is
-still much to be elucidated about the gut
-microbiome and chronic disease, higher-
-ﬁber diets are advantageous (112). Both
-children and adults with diabetes are en-
-couraged to minimize intake of reﬁned
-carbohydrates with added sugars, fat, and
-sodium and instead focus on carbohy-
-drates from vegetables, legumes, fruits,
-dairy (milk and yogurt) or fortiﬁed non-
-dairy alternatives, and whole grains. Peo-
-ple with diabetes and those at risk for
-diabetes are encouraged to consume a
-minimum of 14 g of ﬁber/1,000 kcal, with
-at least half of grain consumption being
-whole, intact grains, according to the Die-
-tary Guidelines for Americans, 2020–2025
-(76). Regular intake of sufﬁcient dietary
-ﬁber is associated with lower all-cause
-mortality in people with diabetes, and
-prospective cohort studies have found
-dietary ﬁber intake is inversely associated
-with risk for type 2 diabetes (113,114).
-The consumption of sugar-sweetened bev-
-erages and processed food products with
-large amounts of reﬁned grains and added
-sugars is strongly discouraged (76), as
-these have the capacity to displace
-healthier, more nutrient-dense food choices
-and increase inﬂammation (115).
-The literature concerning glycemic in-
-dex and glycemic load in individuals
-with diabetes is complex, often with
-varying deﬁnitions of low– and high–
-glycemic index foods (116–118). The gly-
-cemic index ranks carbohydrate foods
-on their postprandial glycemic response,
-and glycemic load considers both the gly-
-cemic index of foods and the amount of
-carbohydrate eaten. Studies have found
-mixed results regarding the effect of gly-
-cemic index and glycemic load on fasting
-glucose levels and A1C, with one system-
-atic review ﬁnding no signiﬁcant effect
-on A1C (117) while others demonstrated
-A1C reductions of 0.15% (116) to
-0.5% (106,119). More recently, how-
-ever, a meta-analysis of large cohorts
-($100,000 participants) reported that
-when people had larger intakes of
-high glycemic index foods, there was
-increased incidence of type 2 diabetes
-(risk ratio 1.27 [95% CI 1.21–1.34];
-P < 0.0001), total CVD (1.15 [1.11–1.19];
-P < 0.0001), diabetes-related cancer
-(1.05 [1.02–1.08]; P = 0.0010), and all-
-cause mortality (1.08 [1.05–1.12]; P <
-0.0001) (118). It is important to note that
-“low glycemic index” or “low glycemic
-load” is synonymous with high-ﬁber eating
-patterns.
-Individuals with type 1 or type 2 dia-
-betes taking insulin at mealtime should
-be offered comprehensive and ongoing
-education about nutrition content and
-the need to couple insulin administra-
-tion with carbohydrate intake. For peo-
-ple whose meal schedule or carbohydrate
-consumption is variable, regular education
-to increase understanding of the relation-
-ship between carbohydrate intake and
-insulin needs is important. In addition, ed-
-ucation on using insulin-to-carbohydrate
-ratios for meal planning can assist individ-
-uals with effectively modifying insulin
-dosing from meal to meal to improve gly-
-cemic management (78,99). Consumption
-of fat and protein can affect early and de-
-layed postprandial glycemia (120), and it
-appears to have a dose-dependent re-
-sponse (121,122). Results from high-fat,
-high-protein feeding studies highlight
-the need for additional insulin to cover
-these meals; however, more research is
-needed to determine the optimal insulin
-dose and delivery strategy. Results from
-these studies also point to individual
-differences in postprandial glycemic re-
-sponse; therefore, a cautious approach
-to increasing insulin doses for high-fat
-and/or high-protein mixed meals is rec-
-ommended to address delayed hypergly-
-cemia
-that
-may
-occur
-after
-eating
-(50,123). For individuals using an insulin
-pump, a split bolus feature (part of the bo-
-lus delivered immediately and the remain-
-der over a programmed duration of time)
-may provide better insulin coverage for
-high-fat and/or high-protein mixed meals
-(124,125).
-Insulin dosing decisions should be con-
-ﬁrmed with a structured approach to blood
-glucose monitoring or CGM to evaluate in-
-dividual responses and guide insulin dose
-adjustments. Checking glucose 3 h after
-eating may help determine if additional in-
-sulin adjustments are required (i.e., increas-
-ing or stopping bolus) (124,125). Adjusting
-insulin doses to account for high-fat and/or
-high-protein meals requires determination
-of anticipated nutrient intake to calculate
-the mealtime dose. Food literacy, numer-
-acy, interest, and capability should be eval-
-uated. For individuals on a ﬁxed daily
-insulin schedule, meal planning should em-
-phasize a relatively ﬁxed carbohydrate con-
-sumption pattern with respect to both
-time and amount while considering insulin
-action. Attention to hunger and satiety
-cues will also help with nutrient modiﬁca-
-tions throughout the day (50). Most
-commercially available automated in-
-sulin delivery systems still require basic
-diabetes management skills, including
-carbohydrate counting and understand-
-ing of the effect of protein and fat on
-postprandial glucose response (126).
-Protein
-There is no evidence that adjusting the daily
-protein intake above or below the recom-
-mended amount for the general public
-(typically 0.8–1.5 g/kg body weight/day
-or 15–20% of total calories) will improve
-health, and research is inconclusive regard-
-ing the ideal amount of dietary protein to
-optimize either glycemic management or
-CVD risk (76,127).Therefore, protein intake
-goals should be individualized based on
-current eating patterns. Some research has
-found successful management of type 2 di-
-abetes with meal plans including slightly
-higher levels of protein (20–30%), which
-may contribute to increased satiety (128).
-Historically, low-protein eating plans
-were advised for individuals with diabetes-
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S93
-©AmericanDiabetesAssociation
-related chronic kidney disease (CKD) (with
-albuminuria and/or reduced estimated
-glomerular ﬁltration rate [eGFR]); how-
-ever, current evidence does not suggest
-that people with CKD need to restrict
-protein to less than the generally recom-
-mended protein intake (129). Reducing
-the amount of dietary protein below the
-recommended daily allowance of 0.8 g/
-kg is not recommended because it does
-not alter glycemic measures, cardiovas-
-cular risk measures, or the rate at which
-eGFR declines and may increase risk for
-malnutrition (129).
-Growing evidence suggests higher
-plant protein intake and replacement of
-animal protein with plant protein is asso-
-ciated with lower risk of all-cause and
-cardiovascular mortality. A meta-analysis
-of 13 RCTs showed that replacing animal
-proteins with plant proteins leads to
-small improvements in A1C and fasting
-glucose in adults with type 2 diabetes
-(130). A 2023 systematic review and
-meta-analysis of 13 RCTs and 7 cohort
-studies concluded that there is limited-
-suggestive evidence to support replacing
-animal protein with plant-based protein
-based on a moderate degree of bias in
-cohort studies (131). However, a pro-
-spective observational study of more
-than 11,000 community-dwelling adults
-over 22 years of follow-up reported that
-those with higher intakes of plant foods
-and lower intakes of animal foods had
-lower diabetes risk (132). Plant proteins
-are lower in saturated fat, higher in ﬁber,
-and also support planetary health (133).
-Fats
-There is no optimal percentage of calo-
-ries from fat for people with or at risk for
-diabetes, and macronutrient distribution
-should be individualized according to the
-individual’s eating patterns, preferences,
-and metabolic goals (50).The type of fats
-consumed is more important than total
-amount of fat when looking at metabolic
-goals and CVD risk, and the percentage
-of total calories from saturated fats
-should be limited (76,134–136). Multiple
-RCTs including people with type 2 diabetes
-have reported that a Mediterranean eating
-pattern can improve both glycemic man-
-agement and blood lipids (137–139). The
-Mediterranean eating pattern is based on
-the traditional eating habits in the countries
-bordering the Mediterranean Sea. Although
-eating styles vary by country and culture,
-they share a number of common features,
-including consumption of fresh fruits and
-vegetables, whole grains, beans, and nuts/
-seeds; olive oil as the primary fat source;
-low to moderate amounts of ﬁsh, eggs, and
-poultry; and limited added sugars, sugary
-beverages, sodium, highly processed foods,
-reﬁned carbohydrates, saturated fats, and
-fatty or processed meats.
-People with diabetes should be ad-
-vised to follow the guidelines for the
-general population for the recommended
-intakes of saturated fat, cholesterol, and
-trans fat (76). In a 12-week double-blinded
-randomized controlled feeding study
-among 61 adults with overweight and
-obesity, without diabetes, higher intakes
-of saturated fat, compared with poly-
-unsaturated fat, were found to increase
-liver fat deposition (140). A 2021 system-
-atic review and meta-analysis including
-over 22,500 prospective study participants
-followed for 9.8 years reported that replac-
-ing saturated fats with other macronu-
-trients, such as polyunsaturated fats, was
-associated with reduced CVD occurrence
-(141). Trans fats should be avoided. In
-addition, as foods high in saturated
-fats are progressively decreased, they
-should be replaced with foods high in
-unsaturated fats and not with reﬁned
-carbohydrate foods (142).
-Evidence does not conclusively sup-
-port recommending n-3 (eicosapentae-
-noic acid and docosahexaenoic acid)
-supplements for all people with diabe-
-tes for the prevention or treatment of
-cardiovascular events (50,143). In indi-
-viduals with type 2 diabetes, two sys-
-tematic reviews with n-3 and n-6 fatty
-acids concluded that the dietary supple-
-ments did not improve glycemic man-
-agement (144,145). In the ASCEND (A
-Study of Cardiovascular Events iN Diabe-
-tes) trial, when compared with placebo,
-supplementation with n-3 fatty acids at
-a dose of 1 g/day did not lead to cardio-
-vascular beneﬁt in people with diabetes
-without evidence of CVD (146). How-
-ever, results from the Reduction of Car-
-diovascular Events with Icosapent Ethyl-
-Intervention Trial (REDUCE-IT) found that
-supplementation with 4 g/day of pure ei-
-cosapentaenoic acid signiﬁcantly lowered
-the risk of adverse cardiovascular events.
-REDUCE-IT included 8,179 participants, of
-whom over 50% had diabetes, and found
-a 5% absolute reduction in cardiovascular
-events for individuals with established
-atherosclerotic CVD already treated with
-a statin with residual hypertriglyceridemia
-(135–499
-mg/dL
-[1.52–5.63
-mmol/L])
-(147). See Section 10, “Cardiovascular
-Disease and Risk Management,” for more
-information.
-Sodium
-As for the general population, people
-with diabetes are advised to limit their
-sodium consumption to <2,300 mg/day
-(50,148). Sodium intake has been shown
-to mediate glucose metabolism in a num-
-ber of studies and affect eGFR, so limiting
-sodium intake is a valuable strategy for
-people with diabetes with or without kid-
-ney disease (148,149). In their post hoc
-analysis of the DASH-sodium RCT, Mora-
-les-Alvarez et al. reported that participants
-randomized to the low-sodium DASH eat-
-ing pattern (containing 1,150 mg so-
-dium/day [50 mmol sodium/day]) had
-change in eGFR of 3.10 mL/min/1.73 m2
-(95% CI 5.46 to 0.73) after 4 weeks
-compared with 3,450 mg sodium/day
-(150 mmol sodium/day) (150).
-Limiting sodium intake is most easily
-achieved through reducing consumption
-of processed and ultraprocessed foods,
-which are major contributors of sodium
-intake. Encouraging people to avoid
-adding salt to foods and during cook-
-ing can also help. Sodium recommen-
-dations should consider palatability,
-availability, affordability, clinical appropri-
-ateness, and the difﬁculty of achieving
-low-sodium recommendations in a nutri-
-tionally adequate eating plan.
-Micronutrients and Other
-Supplements
-Despite lack of evidence of beneﬁt from
-dietary supplements, consumers con-
-tinue to take them. Estimates show that
-up to 59% of people with diabetes in
-the U.S. use supplements (151). With-
-out underlying deﬁciency, there is no
-beneﬁt from herbal or other (i.e., vitamin
-or mineral) supplementation for people
-with diabetes (50,152).
-Federal law in the U.S. broadly de-
-ﬁnes dietary supplements as products
-having one or more dietary ingredients,
-including vitamins, minerals, herbs or
-other botanicals, amino acids, enzymes,
-tissues from organs or glands, or ex-
-tracts of these (153). It should also be
-noted that dietary supplements are
-not regulated like other over-the-counter
-medications or prescription drugs in the
-U.S. (154). In combination with the strong
-S94
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-views on dietary supplements (both posi-
-tive and negative), this can contribute to
-consumer confusion (155). Consumers can
-also consult the U.S. Food and Drug Ad-
-ministration (FDA) Dietary Supplement In-
-gredient Directory to locate information
-about ingredients used in dietary supple-
-ments and any action taken by the agency
-with regard to that ingredient (156). Rou-
-tine antioxidant supplementation (such as
-vitamins E and C) is not recommended
-due to lack of evidence of efﬁcacy and
-concern related to long-term safety. Based
-on the 2022 U.S. Preventative Services
-Task Force statement, the harms of
-b-carotene outweigh the beneﬁts for the
-prevention of CVD or cancer. b-Carotene
-was associated with increased lung cancer
-and cardiovascular mortality risk (157).
-Vitamin D in the context of diabetes
-has generated much research, but uni-
-versal vitamin D supplementation for
-people with type 1 or type 2 diabetes
-without deﬁciency is not recommended
-at this time. Although post hoc analyses
-of the Vitamin D and Type 2 Diabetes
-Study (D2d) prospective RCT and Diabe-
-tes Prevention and Active Vitamin D
-(DPVD) and some meta-analyses sug-
-gest a potential beneﬁt in speciﬁc popu-
-lations (158–160), other studies have
-found no beneﬁt or mixed results
-(161–163). Furthermore, adopting healthy
-lifestyle habits, including the eating patterns
-recommended herein, are strongly advised.
-Additional research is needed to deﬁne in-
-dividual characteristics, clinical indicators,
-and appropriate dosages if and when
-vitamin D supplementation might beneﬁt
-people with type 1 or type 2 diabetes.
-There is insufﬁcient evidence to support
-the routine use of herbal supplements and
-micronutrients, such as cinnamon (164),
-curcumin (e.g., turmeric), aloe vera, or
-chromium, to improve glycemia in people
-with type 1 or type 2 diabetes (50).
-Metformin is associated with vitamin
-B12 deﬁciency per a report from the
-Diabetes Prevention Program Outcomes
-Study (DPPOS), which suggests that peri-
-odic testing of vitamin B12 levels should
-be considered in people taking metfor-
-min, particularly in those with anemia or
-peripheral neuropathy (165) (see Section 9,
-“Pharmacologic Approaches to Glycemic
-Treatment”).
-For special populations, including preg-
-nant or lactating individuals, older adults,
-vegetarians, and people following very-
-low-calorie or low-carbohydrate diets, a
-multivitamin may be necessary (166).
-Alcohol
-The long-term effects of alcohol con-
-sumption for people with diabetes are
-unknown. The World Health Organization
-declared that there is no safe amount of
-alcohol intake (167,168). Risks associated
-with alcohol consumption include hypo-
-glycemia and/or delayed hypoglycemia
-(particularly for those using insulin or in-
-sulin secretagogue therapies), weight
-gain, and hyperglycemia (for those con-
-suming excessive amounts) (50,169). Peo-
-ple with diabetes should be educated
-about these risks and encouraged to
-monitor glucose frequently before and
-after drinking alcohol to minimize such
-risks. People with diabetes who consume
-alcohol can follow the same guidelines
-as those without diabetes consistent
-with Dietary Guidelines for Americans,
-2020–2025 (76), which does not promote
-alcohol consumption in people who do
-not currently drink. To reduce risk of alco-
-hol-related harms, adults can choose not
-to drink or to drink in moderation by lim-
-iting intake to #2 drinks a day for men
-or #1 drink a day for women (one drink
-is equal to a 12-oz beer, a 5-oz glass of
-wine, or 1.5 oz of distilled spirits) (76).
-Recent meta-analyses have reported
-the previously recognized J-shaped re-
-lationship between alcohol intake and
-health risks likely varies by sex, obesity
-status, genetics, and alcohol intake be-
-haviors (170,171). A YMCA-based psy-
-choeducational intervention tailored to
-those with chronic conditions, including
-14- to 18-year-olds with type 1 diabetes,
-reported improvements in perceived
-risks of alcohol intake. Importantly,
-they also reported reduced alcohol
-consumption (172).
-Nonnutritive Sweeteners and Water
-The FDA has approved many nonnutri-
-tive sweeteners (NNS) (containing few
-or no calories; commonly referred to as
-artiﬁcial sweeteners) for consumption by
-the general public, including people with
-diabetes (50,173). However, the safety
-and role of NNS continue to be sources
-of concern and confusion for the public.
-For some people with diabetes who
-are accustomed to regularly consuming
-sugar-sweetened foods or beverages (e.g.,
-regular soda pop, juice drinks, and other
-items sweetened with cane sugar or
-high-fructose corn syrup), NNS may be
-an acceptable substitute for nutritive
-sweeteners (those containing calories,
-such as sugar, honey, and agave syrup)
-when consumed in moderation (174).
-NNS do not appear to have a signiﬁ-
-cant effect on glycemic management
-(175,176), and they can reduce overall
-calorie and carbohydrate intake (174)
-as long as individuals are not compen-
-sating with additional calories from
-other food sources (50,177). A recent
-meta-analysis and systematic review
-of RCTs found no evidence that NNS
-raise liver enzymes (178).
-There is mixed evidence from system-
-atic reviews and meta-analyses for NNS
-use with regard to weight management,
-with some ﬁnding beneﬁt for weight
-loss (179–181) while other research
-suggests an association with weight
-gain (182,183). This may be explained
-by reverse causality and residual con-
-founding variables (183). The addition
-of NNS to eating plans poses no bene-
-ﬁt for weight loss or reduced weight
-gain without energy restriction (184).
-In a recent systematic review and meta-
-analysis using low-calorie and no-calorie
-sweetened beverages as an intended
-substitute for sugar-sweetened bever-
-ages, a small improvement in body weight
-and cardiometabolic risk factors was seen
-without evidence of harm and had a di-
-rection of beneﬁt similar to that seen
-with water (185). While health care pro-
-fessionals should promote water as the
-healthiest beverage option, people with
-overweight or obesity and diabetes may
-also use a variety of no-calorie or low-
-calorie sweetened products so that they
-do not feel deprived (185).
-Health care professionals should en-
-courage reductions in foods and bever-
-ages with added sugars and promote
-reducing overall sugar intake and calo-
-ries with or without the use of NNS.
-Assuring people with diabetes that
-NNS have undergone extensive safety
-evaluation by regulatory agencies and
-are continually monitored can allay
-unnecessary concern for harm. Health
-care professionals can regularly assess
-individual use of NNS based on the ac-
-ceptable daily intake (amount of a sub-
-stance considered safe to consume each
-day over a person’s life) and recommend
-moderation. See the chart from the FDA
-on safe levels of sweeteners found at
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S95
-©AmericanDiabetesAssociation
-fda.gov/food/food-additives-petitions/
-aspartame-and-other-sweeteners-food.
-Weight Management
-Management and reduction of weight is
-important for people with type 1 diabe-
-tes, type 2 diabetes, or prediabetes with
-overweight or obesity. To support weight
-loss and improve A1C, CVD risk factors,
-and well-being in adults with overweight
-or obesity and prediabetes or diabetes,
-MNT and DSMES services should include
-an individualized eating plan resulting in
-an energy deﬁcit in combination with en-
-hanced physical activity (50). Lifestyle in-
-tervention programs should be intensive
-and have frequent follow-up to achieve
-signiﬁcant reductions in excess body
-weight and improve clinical indicators.
-Behavior modiﬁcation goals should ad-
-dress physical activity, calorie restriction,
-healthy weight management strategies,
-and motivation. There is strong and con-
-sistent evidence that modest, sustained
-weight loss can delay the progression
-from prediabetes to type 2 diabetes
-(82,186,187) (see Section 3, “Prevention
-or Delay of Diabetes and Associated
-Comorbidities”) and is beneﬁcial for type 2
-diabetes management (see Section 8,
-“Obesity and Weight Management for
-the Prevention and Treatment of Type 2
-Diabetes”).
-In prediabetes, the weight loss goal is
-at least 3–7% from baseline body weight,
-and higher for reducing risk of progres-
-sion to type 2 diabetes. In conjunction
-with support for healthy lifestyle behav-
-iors, medication-assisted weight loss can
-be considered for people at risk for type 2
-diabetes when needed to achieve and
-sustain 7–10% weight loss (188,189)
-(see Section 8, “Obesity and Weight
-Management for the Prevention and
-Treatment of Type 2 Diabetes”). People
-with prediabetes at a healthy weight
-should also be considered for behavioral
-interventions to help establish routine
-aerobic and resistance exercise (186,
-190,191) as well as healthy eating pat-
-terns. Services delivered by health care
-professionals familiar with diabetes and
-its management, such as an RDN, have
-been found to be effective (81).
-For many individuals with overweight
-or obesity alongside type 2 diabetes, at
-least 5% weight loss is needed to achieve
-beneﬁcial outcomes in glycemic manage-
-ment, lipids, and blood pressure (192).
-However, any magnitude of weight loss is
-recommended. It also should be noted
-that the clinical beneﬁts of weight loss are
-progressive, and more intensive weight
-loss goals (i.e., 15%) may be appropriate
-to maximize beneﬁt depending on need,
-feasibility, and safety (193,194). Long-term
-sustainability of weight loss remains a
-challenge (195). Medications can augment
-MNT to support weight loss, weight loss
-maintenance, and improve cardiovascu-
-lar outcomes. Newer medications (e.g.,
-glucagon-like peptide 1 receptor agonists
-[GLP-1 RAs]) may be more viable, posi-
-tively affect cardiovascular outcomes, and
-produce weight reduction beyond 10–15%
-(196–200). For more information on the
-nutritional considerations important for
-people undergoing metabolic surgery,
-including prevention of malnutrition,
-please see MALNUTRITION, below.
-In select individuals with type 2 diabe-
-tes, an overall healthy eating plan resulting
-in energy deﬁcit and pharmacotherapy
-and/or metabolic surgery should be con-
-sidered to help achieve weight loss and
-maintenance goals, lower A1C, and reduce
-CVD risk (188,201,202). A recent systematic
-review and meta-analysis concluded that
-when obesity pharmacotherapy is included
-in intervention efforts (alone or as part of a
-multipronged intervention), people with
-obesity can achieve a more signiﬁcant
-weight loss of 2.94 kg (P < 0.0001)
-(203). However, in some populations such
-as South Asian adults, traditional inter-
-ventions have not been as effective in
-preventing or remission of type 2 diabe-
-tes, so those groups will beneﬁt from
-more culturally tailored interventional
-approaches (204).
-Overweight and obesity are increas-
-ingly prevalent in people with type 1 di-
-abetes and present clinical challenges
-regarding diabetes treatment and CVD
-risk factors (205,206). Like in adults
-with type 2 diabetes, there is some evi-
-dence that GLP-1 RAs are useful in
-achieving weight loss among those with
-type 1 diabetes, although with a higher
-risk of nausea and ketosis (207).
-Regardless of diabetes type, maintaining
-weight loss is challenging (208,209) but
-has well-recognized long-term beneﬁts.
-The physiology of weight loss maintenance
-is complex and involves many hormonal,
-psychosocial, behavioral, and environmen-
-tal factors. Following a weight loss of at
-least 8%, a subsequent “weight loss main-
-tenance” intervention was reported to be
-only moderately beneﬁcial, as it helped
-sustain physical health improvements but
-not glucose metabolism improvements
-(210). However, in another RCT with long-
-term, real-world, clinic-based follow-
-up of 10 years, Tomah et al. reported
-lasting glycemic beneﬁts in their co-
-hort with an average weight loss of 7.7 ±
-0.9 kg (6.9 ± 0.8%) maintained for
-10 years (211).
-Starting a conversation about weight
-management should be based on moti-
-vational interviewing techniques (212)
-beginning with ﬁrst asking the individual
-if they want to discuss their weight.
-Health care professionals should never
-assume that a person with overweight
-or obesity wants to discuss their weight
-at a medical appointment, especially if
-the appointment is for a seemingly un-
-related issue (e.g., back pain, which
-many people do not realize is often sec-
-ondary to excess body weight). Using
-person-centered approaches to weight
-management conversations involves meet-
-ing the individual where they are at in
-their life and working with what they and
-their health care professional agree is the
-most beneﬁcial approach. Guidance from
-an RDN with expertise in motivational in-
-terviewing and diabetes and weight man-
-agement MNT during any comprehensive
-structured weight loss program is strongly
-recommended.
-Along with routine medical manage-
-ment visits, people with diabetes and
-prediabetes should be screened during
-DSMES and MNT encounters for a his-
-tory of dieting and past or current disor-
-dered eating behaviors. Characterizing
-an individual’s past efforts with weight
-loss and their body weight history can
-also be very useful. Nutrition therapy
-should be individualized to help address
-maladaptive eating behavior (e.g., purg-
-ing) or compensatory changes in medi-
-cal treatment plan (e.g., overtreatment
-of hypoglycemic episodes and reduction
-in medication dosing to reduce hunger)
-(50) (see DISORDERED EATING BEHAVIOR, below).
-Disordered eating, eating disorders, and/or
-disrupted eating can increase challenges
-for weight and diabetes management. For
-example, caloric restriction may be essen-
-tial for glycemic management and weight
-maintenance, but rigid meal plans and strict
-tracking of food intake and/or body weight
-may be contraindicated for individuals who
-are at increased risk of clinically signiﬁcant
-maladaptive eating behaviors (213). If
-S96
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-eating disorders are identiﬁed during screen-
-ing with diabetes-speciﬁc questionnaires, in-
-dividuals should be referred to a qualiﬁed
-behavioral health professional (1).
-Nonreligious Fasting
-The primary forms of nonreligious fast-
-ing are intermittent fasting or time-
-restricted eating. These are popular strate-
-gies for weight and glucose management.
-One of the key distinctions between non-
-religious and religious fasting is water in-
-take. See Fig. 5.1 for further details on
-how religious and nonreligious fasting
-practices compare.
-Intermittent fasting is an umbrella term
-that includes three main forms of re-
-stricted eating: alternate-day fasting (en-
-ergy restriction of 500–600 calories on
-alternate days), the 5:2 diet (energy restric-
-tion of 500–600 calories on consecutive or
-nonconsecutive days with usual intake
-the other ﬁve), and time-restricted eating
-(daily calorie restriction based on window
-of time of 8–15 h). Each produces mild to
-moderate weight loss (3–8% loss from
-baseline) over short durations (8–12 weeks)
-with no signiﬁcant differences in weight
-loss when compared with continuous calo-
-rie restriction (214,215). A 2024 systematic
-review and meta-analysis of RCTs exam-
-ined the most common types of fasting in
-studies lasting 2–52 weeks. The authors
-concluded that intermittent energy restric-
-tion produces small but signiﬁcant reduc-
-tions in waist circumference and fat-free
-mass but were otherwise not superior to
-continuous energy restriction diets (216).
-Generally, time-restricted eating or short-
-ening the eating window can be adapted
-to any eating pattern and has been shown
-to be safe for adults with type 1 or type 2
-diabetes (217). People with diabetes who
-are taking insulin and/or secretagogues
-should be medically monitored during
-the fasting period (218). Because of the
-simplicity of intermittent fasting and
-time-restricted eating, these may be use-
-ful strategies for people with diabetes
-who are looking for practical eating man-
-agement tools.
-Use of partial or total meal replace-
-ments is an additional strategy for en-
-ergy restriction. Meal replacements are
-prepackaged foods (bars, shakes, and
-soups) that contain ﬁxed amounts of
-macro nutrients and micronutrients. They
-can improve nutrient quality and glycemic
-management and, consequently, reduce
-portion size and energy intake. In a meta-
-analysis involving 17 studies incorporating
-both partial and total meal replacements,
-greater weight loss and improvements in
-A1C and fasting blood glucose were
-demonstrated
-compared
-with
-conven-
-tional meal plans (219). Furthermore, meal
-replacements have been used in several
-landmark clinical trials, including Look
-AHEAD (Action for Health in Diabetes)
-(220), DiRECT (Diabetes Remission Clini-
-cal Trial) (221), and PREVIEW (Prevention
-of Diabetes Through Lifestyle Interven-
-tion and Population Studies in Europe
-and Around the World) (222). Results of
-these trials showed that partial or total
-meal replacements can be a potential
-short-term strategy for weight loss. Re-
-gardless of the speciﬁc eating pattern or
-meal plan selected, long-term follow-up and
-support from members of the diabetes care
-team are needed to optimize self-efﬁcacy
-and maintain behavioralchanges(85).
-Chrononutrition is an emerging nutri-
-tion and biology subspecialty aimed to-
-ward increasing the understanding of
-how the timing of food ingestion affects
-metabolic health (223). Glucose metab-
-olism follows a circadian rhythm through
-diurnal variation of glucose tolerance and
-peaks during daylight hours when food is
-consumed. Some preliminary studies show
-cardiometabolic beneﬁts when food is
-INTERMITTENT FASTING
-•
-Flexible duration and timing
-•
-Varying levels of intrinsic and extrinsic motivation
-•
-Hyperglycemia is unlikely as motive is
-health related
-•
-No added risk of dehydration
-RELIGIOUS FASTING
-•
-Fixed duration and timing
-•
-High levels of intrinsic motivation
-•
-Risk of hyperglycemia at end of fasting hours
-with or without ketoacidosis
-•
-Dehydration is possible in some types
-
-Hypoglycemia
-risk
-
-Risk assessment and
-education is essential
-prefasting
-
-Treatment
-adjustment is
-required
-Religious and Intermittent Fasting: Differences and Similarities
-Figure 5.1—Differences and similarities of religious and intermittent fasting for people with diabetes.
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S97
-©AmericanDiabetesAssociation
-consumed earlier (224). Similarly, cir-
-cadian disruptions found in shift workers
-increase risk of type 2 diabetes (225).
-This evolving area of research currently
-lacks conclusive evidence, but future stud-
-ies are anticipated.
-Religious Fasting
-Recommendations
-5.32 Use the International Diabetes
-Federation along with Diabetes and
-Ramadan International Alliance com-
-prehensive prefasting risk assessment
-to generate a risk score for the safety
-of religious fasting. Provide fasting-
-focused education to minimize risks. B
-5.33 Assess and optimize treatment
-plan, dose, and timing for people with
-diabetes well in advance of religious
-fasting to reduce risk of hypoglycemia,
-dehydration, hyperglycemia, and/or ke-
-toacidosis. B
-Although intermittent fasting and time-
-restricted eating are speciﬁc dietary
-strategies for energy restriction, reli-
-gious fasting has been practiced for
-thousands of years and is part of
-many faith-based traditions. Duration,
-frequency, and type of fast vary among
-different religions (226). For example,
-Jewish people abstain from any intake
-for 25 h during Yom Kippur (227,228).
-For Muslims, Ramadan fasting lasts for a
-full month, when abstinence from any
-food or drink is required from dawn to
-dusk (229). Individuals with diabetes who
-fast have an increased risk for hypoglyce-
-mia, dehydration, hyperglycemia, and ke-
-toacidosis (230,231).
-Prefasting risk assessment is essential
-to increase level of safety (230,231).
-Various risk factors need to be consid-
-ered for every individual wishing to fast.
-Some of these factors are related to the
-type of fast, type of diabetes, and/or
-the individual. Indeed, health care pro-
-fessionals should inquire about any reli-
-gious fasting for people with diabetes
-and provide education and support to
-accommodate their choice. The number
-of days of fasting is an important factor
-to consider. In Ramadan fasting, a per-
-son fasts from dawn to dusk for a lunar
-month (29–30 days). It is important for
-the health care professional to compre-
-hensively assess these risk factors well
-in advance of fasting date, as some of
-them are modiﬁable. Some of these
-factors are related to the nature of the
-fasting practice, others are related to di-
-abetes, and others might be due to indi-
-vidual factors. The International Diabetes
-Federation along with Diabetes and Ram-
-adan International Alliance adopted a
-risk calculator for the various risk factors
-(230,232). Several clinical studies from
-different countries have been published
-that assess the validity of the fasting
-risk score and the ease of use of it
-(232–235). The accumulation of these
-risk factors provides a risk score as low,
-moderate, or high (Table 5.4) (230). While
-the risks of different religious fasting prac-
-tices may vary, this risk calculator provides
-some useful guidance for other religious
-fasting.
-Prefasting education regarding the im-
-portance of increasing the frequency of
-glucose monitoring for people wishing to
-fast is very important. The timing of glu-
-cose monitoring is also especially impor-
-tant, as the last few hours of fasting are
-frequently associated with approximately
-50% of hypoglycemic events (236). Conse-
-quently, avoiding intense physical activity
-during the last few hours of fasting seems
-to be a sensible approach.
-During religious fasting, some people
-change their nutrition habits and overindulge
-after fasting concludes. In many commu-
-nities, the meal consumed to break the
-fast is rich in carbohydrates and includes
-foods and beverages high in added sugars
-and fat (230). Indeed, in a recent study in
-type 2 diabetes, 16.5% of people with
-diabetes who fasted for Ramadan re-
-ported high blood glucose of >300 mg/dL
-(>16.6 mmol/L) during fasting days (236).
-Individualized ﬂuid adjustment and meal
-advice should be provided with emphasis
-on higher intake of ﬁber and replacing
-added sugars with complex carbohydrates
-to minimize hypoglycemia and hyperglyce-
-mia and emphasis on sustaining adequate
-daily ﬂuid intake (237).
-Treatment before and after fasting
-should be culturally sensitive and individ-
-ualized. Speciﬁc recommendations for
-diabetes management during religious
-fasting in different faiths are available
-(230,231). In general, for people planning
-to fast for long hours and for multiple con-
-secutive days, choice of treatment should
-prioritize drugs with low hypoglycemia
-risk. Hypoglycemia risk while fasting in
-people
-using
-insulin,
-sulfonylureas,
-and other insulin secretagogues is higher
-than those treated with other types of
-diabetes medications (230). The safety of
-SGLT2 inhibitors was assessed in several
-studies during Ramadan fasting. These
-studies did not show signiﬁcant change
-in kidney function, dehydration rates, or
-ketosis (238). Guidelines do not advise
-any change in SGLT2 inhibitor dose dur-
-ing fasting; however, they advise against
-initiating SGLT2 inhibitors close to the
-start of fasting days to avoid excessive
-thirst (230). Table 5.5 summarizes the
-effect of fasting on different treatment
-options and the possible change in doses
-or timing for people with diabetes.
-Technology could be an important tool
-to enhance safety during fasting. Several
-studies have investigated the use of moni-
-toring technology during Ramadan fasting
-(e.g., ﬂash glucose monitoring and real-
-time CGM [rtCGM]) and conﬁrmed that
-these tools are able to support high-risk
-groups wishing to fast, especially if com-
-bined with Ramadan-focused education
-(238–240). Meanwhile, the use of insulin
-pumps has been associated with low rates
-of hypoglycemia during fasting in people
-with type 1 diabetes. Diabetes technologies
-should be considered as a useful adjunct
-to risk calculation and/or nutrition planning
-and education during religious fasting for
-people with diabetes (230).
-Malnutrition
-Malnutrition is deﬁned by the World
-Health Organization as “deﬁciencies,
-excesses, or imbalances in a person’s
-intake of energy and/or nutrients.”
-Malnutrition can occur in people of
-varying weight status, with the “double
-burden” of obesity and malnutrition be-
-ing increasingly recognized among those
-with chronic conditions. Malnutrition is
-also more likely to develop in popula-
-tions experiencing poverty and in older
-age-groups (241). Often, malnutrition
-and sarcopenia, which is a condition of
-loss in lean body mass combined with
-declined
-strength
-and
-functionality
-among older adults, codevelop (242).
-A 2022 meta-analysis examined 45
-studies including 12,237 adults and re-
-ported that 18% of people with type 2
-diabetes had sarcopenia with A1C in-
-creasing the risk (odds ratio 1.16; 95%
-CI, 1.09–1.24) (243).
-There is concern that GLP-1 RAs and
-dual GIP and GLP-1 RAs and metabolic
-surgery for weight loss, which are more
-common
-in
-some
-populations
-with
-S98
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-diabetes, can increase the risk for malnu-
-trition and sarcopenia (244,245). This is
-especially concerning among those with
-heart, kidney, or liver disease and obesity
-and among racial and ethnic minoritized
-communities (246,247). Health care pro-
-fessionals
-should
-encourage
-resistance
-training (248), sufﬁcient protein intake,
-and screening for sarcopenia and malnutri-
-tion in people with diabetes who are
-experiencing signiﬁcant or rapid weight
-loss because they could be at risk for mal-
-nutrition. While there is no single best
-method to screen for both malnutrition
-and sarcopenia, there are individual instru-
-ments available to screen for each respec-
-tive condition including the Simpliﬁed
-Nutritional Appetite Questionnaire (SNAQ),
-the Malnutrition Universal Screening Tool
-(MUST), and others (249–251).
-Advising a healthy, whole-foods–based
-eating pattern alongside regular strength
-training exercise to maintain lean body
-mass will be of paramount importance
-for these segments of the diabetes popu-
-lation (244) (see Section 8, “Obesity and
-Weight Management for the Prevention
-and Treatment of Type 2 Diabetes”).
-Food Insecurity and Access
-Food insecurity is a household-level eco-
-nomic and social condition of limited or
-uncertain access to adequate food (252).
-In 2022, almost 13% of Americans were
-food insecure (252), and food insecurity
-affects 16% of adults with diabetes com-
-pared with 9% of adults without diabetes
-(253). There is a complex bidirectional
-association between food insecurity and
-co-occurring diabetes. Food security screen-
-ing should happen at all levels of the
-health care system. Any member of the
-health care team can screen for food inse-
-curity using the Hunger Vital Sign. House-
-holds are considered at risk if they answer
-either or both of the following state-
-ments as “often true” or “sometimes
-true” (compared with “never true”) (254):
-• “Within the past 12 months, we wor-
-ried whether our food would run out
-before we got money to buy more.”
-• “Within the past 12 months, the
-food we bought just didn’t last, and
-we didn’t have money to get more.”
-If screening is positive for food insecu-
-rity, efforts should be made to refer to ap-
-propriate programs and resources. See
-Table 5.4—Elements for risk calculation and suggested risk score for people
-with diabetes who seek to fast during Ramadan
-Risk element
-Risk score
-1. Diabetes classiﬁcation and duration
-• Type 1 diabetes
-1
-• Type 2 diabetes
-0
-2. Duration of diabetes (years)
-• A duration of $10 years
-1
-• A duration of <10 years
-0
-3. Presence of hypoglycemia
-• Hypoglycemia unawareness
-6.5
-• Recent severe hypoglycemia
-5.5
-• Multiple weekly hypoglycemia
-3.5
-• Hypoglycemia less than one time per week
-1
-• No hypoglycemia
-0
-4. Level of glycemic management
-• A1C levels >9% (>75 mmol/mol)
-2
-• A1C levels 7.5–9% (59–75 mmol/mol)
-1
-• A1C levels <7.5% (<59 mmol/mol)
-0
-5. Type of treatment
-• Multiple daily mixed insulin injections
-3
-• Basal bolus/insulin pump
-2.5
-• Once-daily mixed insulin
-2
-• Basal insulin
-1.5
-• Glibenclamide/glyburide
-1
-• Gliclazide modiﬁed release or glimepiride or repaglinide
-0.5
-• Other therapy not including sulfonylureas or insulin
-0
-6. Self-monitoring of glucose
-• Indicated but not conducted
-2
-• Indicated but conducted suboptimally
-1
-• Conducted as indicated
-0
-7. Acute complications
-• DKA or HHS in the last 3 months
-3
-• DKA or HHS in the last 6 months
-2
-• DKA or HHS in the last 12 months
-1
-• No DKA or HHS
-0
-8. MVD complications and comorbidities
-• Unstable MVD
-6.5
-• Stable MVD
-2
-• No MVD
-0
-9. Renal complications and comorbidities
-• eGFR <30 mL/min/1.73 m2
-6.5
-• eGFR 30–45 mL/min/1.73 m2
-4
-• eGFR 45–60 mL/min/1.73 m2
-3
-• eGFR >60 mL/min/1.73 m2
-0
-10. Pregnancy*
-• Pregnant not within glycemic goals
-6.5
-• Pregnant within glycemic goals
-3.5
-• Not pregnant
-0
-11. Frailty and cognitive function
-• Impaired cognitive function or frail
-6.5
-• >70 years old with no home support
-3.5
-• No frailty or loss in cognitive function
-0
-12. Physical labor
-• Highly intense physical labor
-4
-• Moderately intense physical labor
-2
-• No physical labor
-0
-13. Previous Ramadan experience
-• Overall negative experience
-1
-• No negative or positive experience
-0
-Continued on p. S100
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S99
-©AmericanDiabetesAssociation
-Section 1, “Improving Care and Promoting
-Health in Populations,” for more informa-
-tion concerning the social determinants of
-health and related issues like food insecu-
-rity and access.
-PHYSICAL ACTIVITY
-Recommendations
-5.34 Counsel youth with type 1 diabe-
-tes C or type 2 diabetes B to engage
-in 60 min/day or more of moderate-
-or vigorous-intensity aerobic activity,
-with muscle-strengthening and bone-
-strengthening activities at least 3 days/
-week, and to limit the amount of time
-being spent sedentary, including recre-
-ational screen time. C
-5.35 Counsel most adults with type 1
-diabetes C and type 2 diabetes B to
-engage in 150 min or more of moder-
-ate- to vigorous-intensity aerobic ac-
-tivity per week, spread over at least
-3 days/week, with no more than 2
-consecutive
-days
-without
-activity.
-Shorter durations (minimum 75 min/
-week) of vigorous-intensity or interval
-training may be sufﬁcient for more
-physically ﬁt individuals.
-5.36 Counsel adults with type 1 dia-
-betes C and type 2 diabetes B to
-engage in 2–3 sessions/week of
-resistance exercise on nonconsecu-
-tive days.
-5.37 Recommend ﬂexibility training
-and balance training 2–3 times/
-week for older adults with diabetes.
-Yoga and tai chi may be included
-based on individual preferences to
-increase ﬂexibility, muscular strength,
-and balance. C
-5.38 For all people with diabetes, eval-
-uate baseline physical activity and time
-spent in sedentary behavior (i.e., quiet
-sitting, lying, and leaning). For people
-who do not meet activity guidelines,
-encourage an increase in physical activ-
-ities (e.g., walking, yoga, housework,
-gardening, swimming, and dancing)
-above baseline. B Counsel that pro-
-longed sitting should be interrupted
-at least every 30 min for blood glu-
-cose beneﬁts. C
-5.39 Counsel adults and youth treated
-with weight management pharma-
-cotherapy or metabolic surgery that
-meeting physical activity recom-
-mendations, and in particular muscle-
-strengthening exercises, may be
-beneﬁcial for maintaining lean body
-mass. E
-Table 5.4—Continued
-Risk element
-Risk score
-14. Fasting hours (varies by geographical location for time of sunrise and sunset)
-• $16 h
-1
-• <16 h
-0
-Risk categories are deﬁned as follows: score 0–3, low risk, fasting is probably safe; score
-3.5–6, moderate risk, fasting is uncertain; score >6, high risk, fasting is probably unsafe. DKA,
-diabetic ketoacidosis; eGFR, estimated glomerular ﬁltration rate; HHS, hyperglycemic hyperos-
-molar state; MVD, macrovascular disease (cardiac, cerebral, or peripheral). *Individuals who
-are pregnant or breastfeeding have the right to not fast regardless of whether they have di-
-abetes or not. Adapted from Hassanein et al. (230).
-Table 5.5—Changes in medications during fasting
-Medication name
-Risk of hypoglycemia
-Timing
-Total daily dose
-Metformin, SGLT2 inhibitor,
-DPP-4 inhibitor, GLP-1
-receptor agonist, acarbose,
-or pioglitazone
-Low
- If once daily, then take at main
-mealtime.
- If twice daily, then split dose
-between the two meals.
- If once weekly, no change of time.
- No change
-New generation sulfonylurea
-(glimepiride and gliclazide)
-Low to moderate
- If once daily, then take at main
-mealtime.
- If twice daily, then split dose
-between the two meals.
- Reduce dose if glucose levels are
-within individualized goal range and
-if no hypoglycemia or hyperglycemia
-is present at baseline.
-Older generation of
-sulfonylurea (glyburide)
-Moderate to high
- Take at time of main meal
- Replace with newer-generation
-sulfonylurea or reduce dose by 50%.
-Basal insulin
-Moderate to high
- For longer-acting basal analogs
-(glargine 300 or degludec), no need
-to change timing.
- For other basal insulins, take at
-beginning of breaking fast meal.
- Choose the insulin with lower risk of
-hypoglycemia among the class.
- Reduce dose by 25–35% if not well
-managed.
-Prandial insulin
-High
- At mealtime
- Reduce dose of insulin for the meal
-followed by fasting (35–50%).
- For other meals, insulin dose should
-match carbohydrate intake.
-Mixed insulin and insulin
-coformulations
-High
- If once daily, then take at main
-mealtime.
- If twice daily, then split dose
-between the two meals
- Reduce dose of insulin for the meal
-followed by fasting (35–50%).
- For other meals, no change of dose.
-DPP-4, dipeptidyl peptidase 4; GLP-1, glucagon-like peptide 1; SGLT2, sodium–glucose cotransporter 2.
-S100
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Physical activity includes all movement
-that increases energy use, and it is an
-important part of the diabetes manage-
-ment plan. Exercise is a more speciﬁc
-form of physical activity that is struc-
-tured and designed to improve physical
-ﬁtness. Both physical activity and exercise
-are important. Exercise has been shown
-to improve blood glucose levels, reduce
-cardiovascular risk factors, contribute to
-weight loss, and improve well-being (255).
-Physical activity is important for the gen-
-eral population as well as people at risk
-for and with established diabetes. Exercise
-plays a speciﬁc role in glucose manage-
-ment and in the prevention of diabetes
-complications in those with type 2 diabe-
-tes. Many individuals with type 2 diabetes
-do not meet the recommended physical
-activity levels (150 min/week). Objective
-measurement by accelerometer in 871 in-
-dividuals with type 2 diabetes showed
-that 44.2%, 42.6%, and 65.1% of White,
-African American, and Hispanic individu-
-als, respectively, met the recommended
-physical activity threshold (256). An RCT in
-1,366 individuals with prediabetes com-
-bined a physical activity intervention with
-text messaging and telephone support,
-which showed improvement in daily step
-count at 12 months compared with the
-control group, but this was not sustained
-at 48 months (257). Another RCT, including
-324 individuals with prediabetes, showed
-increased physical activity at 8 weeks
-with supportive text messages, but by
-12 weeks there was no difference be-
-tween groups (258). It is important for
-diabetes care management teams to un-
-derstand the difﬁculty that many people
-have reaching recommended physical
-activity goals and to identify individual-
-ized approaches to improve physical ac-
-tivity and exercise goal achievement,
-which may need to change over time.
-Moderate to high volumes of aerobic
-activity are associated with substantially
-lower cardiovascular and overall mortal-
-ity risks in both type 1 and type 2 dia-
-betes (259). A prospective observational
-study of adults with type 1 diabetes
-suggested that higher amounts of physi-
-cal activity led to reduced cardiovascu-
-lar mortality after a mean follow-up
-time of 11.4 years for people with and
-without chronic kidney disease (260).
-There are also considerable data for the
-health beneﬁts (e.g., increased cardio-
-vascular ﬁtness, greater muscle strength,
-and
-improved
-insulin
-sensitivity)
-of
-regular exercise for those with type 1
-diabetes (261). Exercise training in type 1
-diabetes may also improve several impor-
-tant markers such as triglyceride level,
-LDL cholesterol, waist circumference, and
-body mass (262).
-Structured exercise interventions of at
-least 8 weeks have been shown to lower
-A1C by 0.66% in people with type 2 dia-
-betes, even without a signiﬁcant change
-in BMI (263). In adults with type 2 diabe-
-tes, higher levels of exercise intensity are
-associated with greater improvements in
-A1C and in cardiorespiratory ﬁtness (264);
-sustained improvements in cardiorespira-
-tory ﬁtness and weight loss have also been
-associated with a lower risk of heart failure
-(265). Other beneﬁts include slowing the
-decline in mobility among people with dia-
-betes and overweight (266).
-Physical activity and exercise should be
-recommended and prescribed to all indi-
-viduals who are at risk for or have diabe-
-tes as part of management of glycemia
-and overall health, unless otherwise con-
-traindicated. Speciﬁc recommendations
-and precautions will vary by the type of
-diabetes, age, physical activity, and pres-
-ence of diabetes-related health compli-
-cations. Recommendations should be
-tailored to meet the speciﬁc needs of
-each individual (267), and different strat-
-egies may be used in speciﬁc populations
-to increase engagement in physical activ-
-ity (268). Furthermore, physical activity
-and exercise plans can be modiﬁed or
-adapted to best suit the ﬁtness level of
-the individual, which may vary due to
-disability or other complications. Individu-
-als with diabetes may beneﬁt from a
-team-based approach, including working
-with an exercise physiologist, physical
-therapist, or personal trainer, among
-others, where available and affordable
-(269).
-The
-ADA
-position
-statement
-“Physical Activity/Exercise and Diabetes”
-reviews the evidence for the beneﬁts of
-exercise in people with type 1 and type 2
-diabetes and offers speciﬁc recom-
-mendations (267).
-Exercise and Youth
-Youth with diabetes or prediabetes should
-be encouraged to engage in regular physi-
-cal activity, including at least 60 min of
-moderate-to-vigorous aerobic activity every
-day and muscle- and bone-strengthening
-activities at least 3 days per week (270).
-Structured exercise programs promoting
-nutrition modiﬁcation and increasing exer-
-cise in adolescents at risk for type 2 diabetes
-have been shown to reduce riskof type 2 di-
-abetes development (271). In general, youth
-with type 1 diabetes beneﬁt from being
-physically active, and meta-analyses have
-demonstrated a signiﬁcant association be-
-tween physical activity and lower A1C (272).
-Thus, an active lifestyle should be recom-
-mended to all children and adolescents
-with type 1 and type 2 diabetes (273).
-Youth with type 1 diabetes who engage in
-more physical activity may have better
-health outcomes and health-related qual-
-ity of life (274,275). Youth are recom-
-mended to limit the amount spent as
-sedentary time, including recreational
-screen time, to less than 2 h per day
-(276,277). See Section 14, “Children and
-Adolescents,” for details.
-Frequency and Type of Physical
-Activity
-For all people with diabetes, baseline
-physical activity and time spent in sed-
-entary behavior should be evaluated.
-People who do not meet activity guide-
-lines should be encouraged to increase
-physical activity (e.g., walking, yoga,
-housework, gardening, swimming, and
-dancing) above baseline (278). Health
-care professionals should counsel peo-
-ple with diabetes to engage in aerobic
-and resistance exercise regularly (267).
-Aerobic activity bouts should last at least
-10 min, with the goal of 30 min/day or
-more most days of the week for adults
-with type 2 diabetes. Daily exercise, or at
-least not allowing more than 2 days to
-elapse between exercise sessions, is rec-
-ommended to decrease insulin resistance,
-regardless of diabetes type (279,280). A
-study in adults with type 1 diabetes found
-a dose-response inverse relationship be-
-tween self-reported bouts of physical activ-
-ity per week and A1C, BMI, hypertension,
-dyslipidemia, and diabetes-related compli-
-cations such as hypoglycemia, DKA, retinop-
-athy, and microalbuminuria (281), and
-higher physical activity reduces mortality
-risk in people with type 1 diabetes (260).
-Over time, activities should progress in
-intensity, frequency, and/or duration to
-at least 150 min/week of moderate-
-intensity exercise. Adults able to run at
-6 mph (9.7 km/h) for at least 25 min can
-beneﬁt sufﬁciently from shorter dura-
-tions of vigorous-intensity activity or inter-
-val training (75 min/week) (267). Many
-adults, including most with type 2 diabetes,
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S101
-©AmericanDiabetesAssociation
-may be unable or unwilling to participate in
-such intense exercise and should engage in
-moderate exercise for the recommended
-duration.
-Adults with diabetes are encouraged
-to engage in 2–3 sessions/week of resis-
-tance exercise on nonconsecutive days
-(282). Although heavier resistance train-
-ing with free weights or weight machines
-may improve glycemia and strength
-(283,284), resistance training of any
-intensity is recommended to improve
-strength, balance, and the ability to
-engage in activities of daily living
-throughout the life span. Health care
-professionals should support people
-with diabetes to set stepwise goals
-toward meeting the recommended
-exercise goals. As individuals inten-
-sify their exercise program, medical
-monitoring may be indicated to en-
-sure safety and evaluate the effects
-on glucose management. (See PHYSICAL
-ACTIVITY AND GLYCEMIC MANAGEMENT, below.)
-The use of weight management phar-
-macotherapy has recently increased. Both
-weight
-management
-pharmacotherapy
-and metabolic surgery can lead to a de-
-crease in body weight, which often indu-
-ces fat mass loss as well as loss of lean
-body mass. This has raised concern about
-the loss of muscle mass leading over
-time to the development or worsening
-of frailty and sarcopenic obesity (285).
-One study demonstrated that after discon-
-tinuation of weight management pharma-
-cotherapy with GLP-1 RAs in people with
-obesity but without diabetes, the combina-
-tion of supervised exercise and GLP-1 RA
-therapy was more favorable in maintaining
-body weight and body composition com-
-pared with GLP-1 RA therapy alone. Data
-in people with diabetes and overweight or
-obesity are emerging. It is recommended
-that people with diabetes be encouraged
-to follow the physical activity recommen-
-dations, in particular muscle-strengthen-
-ing activities, to reduce the loss of lean
-mass (285).
-Evidence supports that all individuals,
-including those with diabetes, should be
-encouraged to reduce the amount of
-time spent being sedentary—waking be-
-haviors with low energy expenditure
-(e.g., seated work at a computer and
-watching television)—by breaking up
-bouts of sedentary activity (at least every
-30 min) by brieﬂy standing, walking, or
-performing other light physical activities
-(286–288). Participating in leisure-time
-activity and avoiding extended sedentary
-periods may help prevent type 2 diabetes
-for those at risk and may also aid in glyce-
-mic management for those with diabetes
-(289,290).
-A systematic review and meta-analysis
-found that higher frequency of regular lei-
-sure-time physical activity was more effec-
-tive in reducing A1C (291). A wide range
-of activities, including yoga, tai chi, and
-other types, can signiﬁcantly affect A1C,
-ﬂexibility, muscle strength, and balance
-(255,292–294). Flexibility and balance
-exercises may be particularly important
-in older adults with diabetes for main-
-tenance of range of motion, strength,
-and balance (267) (Fig. 5.2). There is
-strong evidence that exercise interven-
-tions in individuals with type 2 diabetes
-improve depression, A1C, and overall
-psychosocial well-being (295).
-Physical Activity and Glycemic
-Management
-Clinical trials have provided strong evi-
-dence for the A1C-lowering value of re-
-sistance training in older adults with
-type 2 diabetes (267) and for an addi-
-tive beneﬁt of combined aerobic and re-
-sistance exercise on A1C reduction in
-adults with type 2 diabetes (296). If not
-contraindicated, people with type 2 dia-
-betes should be encouraged to do at
-least two weekly sessions of resistance
-exercise (free weights, machines, elastic
-bands, or body weight as resistance),
-with each session consisting of at least
-one set (group of consecutive repetitive
-exercise motions) of ﬁve or more differ-
-ent resistance exercises involving the
-large muscle groups (297).
-For people with type 1 diabetes, there
-can be a variable glucose response to exer-
-cise, possibly leading to hypoglycemia or hy-
-perglycemia.This variability should be taken
-into consideration when recommending the
-type, intensity, and duration of exercise for a
-given individual (261).
-Individuals of childbearing potential
-with preexisting diabetes, particularly
-type 2 diabetes, and those at risk for or
-presenting with gestational diabetes mel-
-litus should be advised to engage in reg-
-ular moderate-intensity physical activity
-prior to and during their pregnancies, as
-tolerated (267).
-High-Intensity Interval Training
-High-intensity interval training (HIIT) in-
-volves short bursts of aerobic training
-performed between 65% and 90% VO2peak
-(a measure of maximal aerobic capacity) or
-75% and 95% heart rate peak for 10 s to
-4 min with 12 s to 5 min of active or pas-
-sive recovery. HIIT is a potentially time-
-efﬁcient modality that can elicit signiﬁ-
-cant physiologic and metabolic adaptations
-for individuals with type 1 and type 2
-diabetes (298,299). Higher intensities of
-aerobic training are generally considered
-superior to low-intensity training (300).
-HIIT reduces A1C and BMI and improves
-ﬁtness levels in individuals with type 2
-diabetes. Because HIIT can lead to tran-
-sient increases in post-exercise hypergly-
-cemia, individuals with type 1 diabetes
-may need to use bolus correction (301)
-and individuals with type 2 diabetes are
-encouraged to monitor blood glucose
-when starting HIIT (297). In type 1 diabe-
-tes, HIIT reduces A1C and insulin require-
-ments and improves cardiometabolic risk
-proﬁles (299). Variability in glucose may
-occur with an increased risk in delayed
-hypoglycemia, so careful monitoring of
-glucose during and after HIIT is advised
-(299).
-Pre-exercise Evaluation
-As discussed more fully in Section 10,
-“Cardiovascular Disease and Risk Man-
-agement,” the best protocol for assess-
-ing asymptomatic people with diabetes
-for coronary artery disease remains un-
-clear.The ADA consensus report “Screening
-for Coronary Artery Disease in Patients
-With Diabetes” (302) concluded that rou-
-tine testing is not recommended. However,
-health care professionals should perform a
-careful history, assess cardiovascular risk
-factors, and be aware of the atypical pre-
-sentation of coronary artery disease, such
-as a recently reported or measured de-
-crease in exercise tolerance. Certainly,
-those with high risk should be encour-
-aged to start with short periods of low--
-intensity exercise and slowly increase
-the duration and intensity as tolerated.
-Health care professionals should assess
-for conditions that might contraindicate
-certain types of exercise or predispose
-to injury, such as uncontrolled hyperten-
-sion, untreated proliferative retinopathy,
-autonomic neuropathy, orthostatic hy-
-potension, peripheral neuropathy, bal-
-ance impairment, and a history of foot
-ulcers or Charcot foot. Age and previous
-physical activity level should be consid-
-ered when customizing the exercise plan
-S102
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-to the individual’s needs. Those with
-complications may need a more thor-
-ough evaluation prior to starting an ex-
-ercise program (261).
-Hypoglycemia
-For individuals taking insulin and/or insu-
-lin secretagogues, physical activity may
-cause hypoglycemia if the medication
-dose or carbohydrate consumption is not
-adjusted for the exercise session and post-
-bout effect on glucose. Individuals on
-these therapies may need to ingest
-24 HOURS
-SWEATING (MODERATE-TO-VIGOROUS ACTIVITY)
-• Encourage ≥150 min/week of moderate-intensity physical
-activity (i.e., uses large muscle groups, rhythmic in
-nature) OR ≥75 min/week vigorous-intensity activity
-spread over ≥3 days/week, with no more than 2
-consecutive days of inactivity. Supplement
-with two to three resistance, flexibility,
-and/or balance sessions.
-• As little as 30 min/week of
-moderate-intensity physical activity
-improves metabolic profiles.
-Physical function/
-frailty/sarcopenia
-• The frailty
-phenotype in type 2
-diabetes is unique,
-often encompassing
-obesity alongside
-physical frailty, at
-an earlier age. The
-ability of people with
-type 2 diabetes to
-undertake simple
-functional exercises
-in middle-age is
-similar to that in those
-over a decade older.
-SLEEP
-Aim for consistent,
-uninterrupted sleep,
-even on weekends.
-Quantity - Long
-(>8 h) and short
-(<6 h) sleep
-durations negatively
-impact A1C.
-Quality - Irregular sleep
-results in poorer glycemic
-levels, likely influenced by the
-increased prevalence of insomnia,
-obstructive sleep apnea, and restless
-leg syndrome in people with type 2 diabetes.
-Chronotype - Evening chronotypes (i.e., night owl: go to bed
-late and get up late) may be more susceptible to inactivity
-and poorer glycemic levels than morning chronotypes (i.e.,
-early bird: go to bed early and get up early).
-SLEEP QUALITY
-CHRONOTYPE
-SLEEP QUANTITY
-STRENGTHENING
-SWEATING
-PHYSICAL
-FUNCTION
-SITTING/BREAKING
-UP PROLONGED
-SITTING
-STEPPING
-STEPPING
-•
-An increase of only
-500 steps/day is
-associated with
-2-9% decreased risk
-of cardiovascular
-morbidity and all-
-cause mortality.
-•
-A 5-to 6-min
-brisk-intensity
-walk per day
-equates to ~4
-years' greater life
-expectancy.
-STRENGTHENING
-Resistance exercise (i.e., any
-activity that uses the person's
-own body weight or works against
-a resistance) also improves insulin
-sensitivity and glucose levels; activities
-like tai chi and yoga also encompass
-elements of flexibility and balance.
-SITTING/BREAKING UP PROLONGED SITTING
-•
-Limit sitting. Breaking up prolonged sitting (at least every 30 min)
-with short regular bouts of slow walking or simple resistance
-exercises can improve glucose metabolism.
-Glucose/
-insulin
-Blood
-pressure
-A1C
-Lipids
-Physical
-function
-Depression
-Quality
-of life
-SITTING/BREAKING UP PROLONGED SITTING
-
-
-
-
-
-
-
-STEPPING
-
-
-
-
-
-
-
-SWEATING (MODERATE-TO-VIGOROUS ACTIVITY)
-
-
-
-
-
-
-
-STRENGTHENING
-
-
-
-
-
-
-
-ADEQUATE SLEEP DURATION
-
-
-
-
-
-
-
-GOOD SLEEP QUALITY
-
-
-
-
-
-
-
-CHRONOTYPE/CONSISTENT TIMING
-
-
-
-
-
-
-
-Importance of 24-Hour Physical Behaviors for Type 2 Diabetes
-IMPACT OF PHYSICAL BEHAVIORS ON CARDIOMETABOLIC HEALTH IN PEOPLE WITH TYPE 2 DIABETES
- Higher levels of improvement (physical function, quality of life)  Lower levels of improvement (glucose/insulin, blood pressure, A1C, lipids, depression)
- No data available
- Green arrows = strong evidence  Yellow arrows = medium-strength evidence 
-Red arrows = limited evidence
-Figure 5.2—Importance of 24-h physical behaviors for type 2 diabetes. Adapted from Davies et al. (75).
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S103
-©AmericanDiabetesAssociation
-carbohydrates if pre-exercise glucose lev-
-els are <90 mg/dL (<5.0 mmol/L), de-
-pending on whether they are able to
-lower insulin doses during the workout
-(such as with an insulin pump or reduced
-pre-exercise insulin dosage), the time of
-day exercise is done, and the intensity and
-duration of the activity (261). In some
-people with diabetes, hypoglycemia after
-exercise may occur and last for several
-hours due to increased insulin sensitivity.
-Hypoglycemia is not common in those
-who are not treated with insulin or insulin
-secretagogues, and no routine preventive
-measures for hypoglycemia are usually ad-
-vised in these cases. Intense activities, such
-as HIIT, may actually raise glucose levels in-
-stead of lowering them, especially if pre-
-exercise glucose is elevated (261). Because
-of variation in glycemic response to exercise,
-people with diabetes should be taught to
-check blood glucose levels and/or monitor
-CGM values during and after exercise, how
-to understand the effect of exercise on glu-
-cose, and about the potential prolonged ef-
-fects (depending on intensity and duration)
-(303). See Section 6, “Glycemic Goals and
-Hypoglycemia,” for more information on hy-
-poglycemia prevention and management.
-Exercise in the Presence of
-Microvascular Complications
-See Section 11, “Chronic Kidney Disease
-and Risk Management,” and Section 12,
-“Retinopathy, Neuropathy, and Foot Care,”
-for more information on these long-term
-complications. A meta-analysis demon-
-strated that high versus low levels of phys-
-ical activity were associated with lower
-CVD incidence and mortality (summary
-risk ratio 0.84 [95% CI 0.77–0.92], n = 7,
-and 0.62 [0.55–0.69], n = 11) and
-fewer microvascular complications (0.76
-[0.67–0.86], n = 8). Dose-response meta-
-analyses showed that physical activity
-was associated with lower risk of diabe-
-tes-related complications even at lower
-activity levels (304).
+
+Table 14.1A—Recommendations for screening and treatment of complications and related conditions in pediatric type 1 diabetes
+Thyroid disease
+Celiac disease
+Hypertension
+Nephropathy
 Retinopathy
-If proliferative diabetic retinopathy or
-severe nonproliferative diabetic retinop-
-athy is present, then vigorous-intensity
-aerobic or resistance exercise may be
-contraindicated because of the risk of
-triggering vitreous hemorrhage or retinal
-detachment (305). Consultation with an
-ophthalmologist prior to engaging in an
-intense exercise plan may be appropriate.
-Peripheral Neuropathy
-Decreased pain sensation and a higher
-pain threshold in the extremities can result
-in an increased risk of skin breakdown, in-
-fection, and Charcot joint destruction with
-some forms of exercise. Therefore, a thor-
-ough assessment should be done to ensure
-that neuropathy does not alter kinesthetic
-or proprioceptive sensation during physical
-activity, particularly in those with more se-
-vere neuropathy. Moderate-intensity walk-
-ing may not lead to an increased risk of
-foot ulcers or reulceration in those with pe-
-ripheral neuropathy who use proper foot-
-wear (306,307). In addition, 150 min/week
-of moderate exercise improved outcomes in
-people with prediabetic neuropathy (308).
-All individuals with peripheral neuropathy
-should wear proper footwear and examine
-their feet daily to detect lesions early. Any-
-one with a foot injury or open sore should be
-restricted to non–weight-bearing activities.
-Autonomic Neuropathy
-Autonomic neuropathy can increase the
-risk of exercise-induced injury or adverse
-events through decreased cardiac respon-
-siveness to exercise, postural hypotension,
-impaired thermoregulation, impaired night
-vision due to impaired papillary reaction,
-and greater susceptibility to hypoglycemia
-(309). Cardiovascular autonomic neuropa-
-thy is also an independent risk factor for
-cardiovascular death and silent myocardial
-ischemia (310). Therefore, individuals with
-diabetic autonomic neuropathy should un-
-dergo cardiac investigation before begin-
-ning physical activity more intense than
-that to which they are accustomed.
-Chronic Kidney Disease
-Physical activity can acutely increase uri-
-nary albumin excretion. However, there
-is no evidence that vigorous-intensity
-exercise accelerates the rate of progres-
-sion of CKD, and there appears to be no
-need for speciﬁc exercise restrictions for
-people with CKD in general (305).
-SMOKING CESSATION: TOBACCO,
-E-CIGARETTES, AND CANNABIS
-Recommendations
-5.40 Advise all people with diabetes
-not to use cigarettes and other to-
-bacco products or e-cigarettes. A
-5.41 Ask people with diabetes rou-
-tinely about the use of cigarettes
-or other tobacco products. After
-identiﬁcation of use, recommend
-and refer for combination treat-
-ment consisting of both tobacco/
-smoking cessation counseling and
-pharmacologic therapy. A
-5.42 Advise people with type 1 dia-
-betes C and those with other forms
-of diabetes at risk for diabetic ke-
-toacidosis E not to use recreational
-cannabis in any form.
-A causal link between cigarette smoking
-and diabetes has been established and
-reported on by the Surgeon General for
-over a decade (311). Results from epide-
-miologic, case-control, and cohort studies
-provide convincing evidence to support
-the causal link between cigarette smok-
-ing and multiple health risks that can
-have a profound effect on morbidity and
-mortality for people with diabetes (311).
-People with diabetes who smoke and are
-exposed to second-hand smoke have a
-heightened risk of macrovascular compli-
-cations (e.g., cardiovascular and peripheral
-vascular disease), microvascular complica-
-tions (e.g., kidney disease and visual im-
-pairment), worsened glycemic outcomes,
-and premature death compared with
-those who do not smoke (312–315).
-Emerging data suggest that smoking has a
-role in the development of type 2 diabe-
-tes, and quitting has been shown to signiﬁ-
-cantly decrease this risk over time (316).
-Routine (every visit with every per-
-son), thorough assessment of all types
-of tobacco use is essential to prevent
-tobacco product initiation and promote
-cessation. Evidence demonstrates signif-
-icant beneﬁts to quitting smoking for all
-people, resulting in a reduction and
-even reversal of adverse health effects
-in addition to an increase in life expec-
-tancy by as much as a decade (317).
-However, data show that tobacco use
-prevalence among adults with chronic
-conditions has remained persistently
-higher than that in the general popula-
-tion, though with recent declines in
-smoking in middle-aged and older adults
-with diabetes (318). Numerous large
-RCTs have demonstrated the efﬁcacy
-and cost-effectiveness of both intensive
-and brief counseling on smoking cessa-
-tion, including the use of telephone quit
-lines and web-based interventions, in re-
-ducing tobacco use and maintaining ab-
-stinence from smoking (317,319). Current
-S104
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-recommendations include both counsel-
-ing and pharmacologic therapy to assist
-with smoking cessation in nonpregnant
-adults (320). A secondary data analysis
-of the Evaluating Adverse Events in a
-Global Smoking Cessation Study (EAGLES),
-a randomized, double-blind, triple-dummy,
-placebo-controlled and active-controlled
-trial, found varenicline to be the most
-efﬁcacious pharmacotherapy for peo-
-ple with diabetes when compared with
-placebo (321). These ﬁndings support
-the American Thoracic Society 2020 guide-
-line recommending varenicline as a ﬁrst-
-line pharmacotherapy for tobacco depen-
-dence (322). However, despite the effec-
-tiveness of pharmacologic therapy and
-counseling, more than two-thirds of peo-
-ple trying to quit do not receive treatment
-following evidence-based guidelines (317).
-Weight gain after smoking cessation
-has been a concern related to diabetes
-management and risk for new onset of
-disease (323). While post-cessation weight
-gain is an identiﬁed issue, studies have
-found that an average weight gain of
-3–5 kg does not necessarily persist long
-term nor diminish the substantial cardio-
-vascular beneﬁt realized from smoking
-cessation (316). These ﬁndings highlight
-the need for tobacco cessation treat-
-ment that addresses eating and physical
-activity needs. One study in people with
-newly diagnosed type 2 diabetes who
-smoke found that smoking cessation was
-associated with amelioration of microal-
-buminuria and reduction in blood pres-
-sure after 1 year (324).
-In recent years, there has been an in-
-crease in the use and availability of mul-
-tiple noncigarette nicotine products. The
-evidence regarding the effect of these
-products on diabetes is not as clear as
-that for combustible cigarettes. It is known
-that smokeless tobacco products, such as
-dip and chew, pose an increased risk for
-CVD and oral cancer (325,326). Vaping
-with e-cigarettes and related devices has
-gained public awareness and popularity
-because of perceptions that e-cigarette
-use is less harmful than regular cigarette
-smoking (327). While combustible tobacco
-products are clearly the most harmful,
-electronic products should not be charac-
-terized as harmless, as health risks with
-use that affect the cardiovascular and re-
-spiratory systems have been identiﬁed
-(328,329). Findings from the Population
-Assessment of Tobacco and Health (PATH)
-Study suggest e-cigarettes may contribute
-to nicotine dependence, conﬁrming there
-is no safe tobacco product (330,331). Indi-
-viduals with diabetes should be advised to
-avoid vaping and using e-cigarettes, either
-as an approach to stop smoking combusti-
-ble cigarettes or as a recreational drug. If
-people are using e-cigarettes to quit, they
-should be advised to avoid using both com-
-bustible and electronic cigarettes, and if us-
-ing only e-cigarettes, they should be advised
-to have a plan to quit these also (319).
-Increased legalization and multiple
-formulations of cannabis products have
-resulted in increased prevalence in the
-use of these products in all age-groups
-(332,333). Cannabidiol (CBD), which in
-its pure form has no psychoactive ef-
-fect, has received attention for its po-
-tential therapeutic beneﬁts in diabetes
-management. However, research shows
-no noticeable effect on glucose or insu-
-lin levels in adults with type 2 diabetes
-who use CBD (334). Signiﬁcant increases
-in tetrahydrocannabinol (THC) concentra-
-tions in CBD products and use of addi-
-tional psychoactive cannabinoid products,
-such as delta-8 THC, are of speciﬁc con-
-cern (335). Most of these products are
-currently unregulated by the FDA, and
-public health warnings regarding use
-have been issued (336). The FDA re-
-ports adverse effects related to delta-
-8 THC, some of which may have health
-implications for people with diabetes
-(e.g., vomiting) (336). Evidence of spe-
-ciﬁc increased risk of diabetic keto-
-acidosis associated with cannabis use
-has been reported in adults with type 1
-diabetes (337–339). Diabetic ketoacido-
-sis in individuals with type 1 diabetes
-using cannabis is associated with canna-
-bis hyperemesis syndrome, which is
-marked by severe nausea, abdominal
-pain, and vomiting (337–339). Recom-
-mended diagnostic criteria for cannabis
-hyperemesis syndrome include a blood
-glucose of $250 mg/dL, an anion gap of
->10, a serum b-hydroxybutyrate level of
->0.6 mmol/L, a pH level of $7.4, and a
-bicarbonate level of $15 mmol/L (339).
-Health care professionals should con-
-sider cannabis hyperemesis syndrome in
-people with type 1 diabetes with pH
-$7.4 and bicarbonate >15 mmol/L in
-the presence of ketosis (339).
-Diabetes education programs offer po-
-tential to systematically reach and engage
-individuals with diabetes in smoking ces-
-sation efforts. A cluster randomized trial
-found statistically signiﬁcant increases in
-quit rates and long-term abstinence rates
-(>6 months) when smoking cessation in-
-terventions were offered through dia-
-betes education clinics, regardless of
-motivation to quit at baseline (340).
-The increased prevalence in availability
-and use of tobacco and cannabis prod-
-ucts and the effect on the health of peo-
-ple with diabetes highlights the need to
-ask about use of these products, educate
-individuals regarding the associated risks,
-and provide support for cessation.
-SUPPORTING POSITIVE HEALTH
-BEHAVIORS
-Recommendation
-5.43 Behavioral strategies should be
-used to support diabetes self-manage-
-ment and engagement in health be-
-haviors (e.g., taking medications, using
-diabetes technologies, and engaging
-in physical activity and healthy eating)
-to promote optimal health-related qual-
-ity of life and health outcomes. A
-Given associations with glycemic outcomes
-and risk for future complications (341,342),
-diabetes care professionals should support
-people with diabetes engaging in health-
-promoting behaviors (preventive,treatment,
-and maintenance), including blood glucose
-monitoring, taking insulin and medications,
-using diabetes technologies, engaging in
-physical activity, and making nutritional
-changes. Evidence-based behavioral strate-
-gies and multicomponent interventions, in-
-cluding motivational interviewing (343,344),
-activation (40), goal setting and action plan-
-ning (344–346), problem-solving (7,345),
-tracking or self-monitoring health behaviors
-with or without feedback from a health care
-professional (344–346), and facilitating op-
-portunities for social support (344–346),
-help people with diabetes and their care-
-givers or family members develop health
-behavior routines and overcome barriers
-to self-management. Behavioral economics
-strategies (e.g., ﬁnancial incentives and ex-
-posure to information about social norms)
-show mixed results in the promotion of
-health behaviors; however, they tend to
-enhance motivation and demonstrate
-short-term beneﬁts for behavior change
-(347). Multicomponent behavior change
-interventions have the highest efﬁcacy
-for behavioral and glycemic outcomes
-(346,348). For youth with diabetes, family-
-based behavioral intervention packages
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S105
-©AmericanDiabetesAssociation
-and interventions that address multiple
-areas of the person’s life (i.e., multisystem
-interventions) demonstrate beneﬁts for
-increasing management behaviors and
-improving glycemic outcomes (349). Im-
-portantly, adapting and tailoring behavior
-change strategies to the characteristics
-and needs of the individual and popula-
-tion are crucial (350,351). Health behav-
-ior change strategies can be delivered by
-behavioral health professionals, CDCES,
-other trained health care professionals
-(352,353), or qualiﬁed community health
-workers (345). Additionally, these ap-
-proaches can be delivered via digital
-health tools (346,353,354). Finally, diabe-
-tes care professionals should be trained to
-use these methods effectively (e.g., moti-
-vational interviewing) (355).
-PSYCHOSOCIAL CARE
-Recommendations
-5.44 Psychosocial care should be pro-
-vided to all people with diabetes, with
-the goal of optimizing health-related
-quality of life and health outcomes.
-Such care should be integrated with
-routine medical care and delivered by
-trained health care professionals using
-a collaborative, person-centered, cul-
-turally informed approach. A
-5.45 Implement screening protocols
-for psychosocial concerns, including
-diabetes distress, depression, anxi-
-ety, fear of hypoglycemia, and dis-
-ordered eating behaviors. Screen at
-least annually or when there is a
-change in disease, treatment, or life
-circumstances. C
-5.46 When indicated, refer to behav-
-ioral health professionals or other
-trained health care professionals, ide-
-ally those with experience in diabetes,
-for further assessment and treatment
-for symptoms of diabetes distress, de-
-pression, suicidality, anxiety, treatment-
-related fear of hypoglycemia, disordered
-eating, and/or cognitive capacities. Such
-specialized psychosocial care should
-use age-appropriate standardized and
-validated tools and treatment ap-
-proaches. B
-5.47 Consider developmental factors
-and use age-appropriate validated
-tools for psychosocial screening in
-people with diabetes. E
-Please refer to the ADA position state-
-ment “Psychosocial Care for People With
-Diabetes” for a list of assessment tools
-and additional details (1) and the ADA Be-
-havioral Health Toolkit for assessment
-questionnaires and surveys (professional.
-diabetes.org/meetings/behavioral-health-
-toolkit). Throughout the Standards of
-Care, the broad term “behavioral health”
-is used to encompass both 1) health be-
-havior engagement and relevant factors
-and 2) behavioral health concerns and
-care related to living with diabetes.
-Psychosocial factors, including environ-
-mental, social, family, behavioral, and emo-
-tional factors, inﬂuence living with diabetes
-and achieving optimal health outcomes.
-People with diabetes and their families or
-caregivers face complex, multifaceted chal-
-lenges integrating diabetes care into daily
-life (356). Clinically signiﬁcant behavioral
-health diagnoses are considerably more
-prevalent in people with diabetes than in
-those without (357,358). Psychosocial well-
-being is a critical component of diabetes
-care and self-management. Psychological
-and social problems can interfere with a
-person’s (359–361) or family’s (361) ability
-to perform diabetes care tasks and nega-
-tively affect health status. In addition to
-affecting a person’s ability to conduct self-
-management, behavioral health diagnoses
-are associated with reduced short-term gly-
-cemic stability and increased mortality risk
-(358,362). Therefore, psychological symp-
-toms, both clinical and subclinical, must be
-addressed.
-Diabetes health care professionals should
-routinely monitor and screen for psycho-
-social concerns in a timely and efﬁcient
-manner and refer to appropriate services
-(363,364). Various health care professio-
-nals can contribute to psychosocial care
-based on training, experience, need, and
-availability (353,365,366). Ideally, qualiﬁed
-behavioral health professionals with spe-
-cialized training and experience in diabetes
-should be integrated with or provide collab-
-orative care as part of diabetes care teams
-(367,368). Referrals for in-depth assess-
-ment and treatment for psychosocial con-
-cerns should be made to such behavioral
-health professionals when indicated (369,
-370). A systematic review and meta-analysis
-showed that psychosocial interventions
-modestly but signiﬁcantly improved A1C
-and behavioral health outcomes (371). It
-should be noted that the association be-
-tween the effects on A1C and behavioral
-health was limited, and no intervention
-characteristics predicted beneﬁt on both
-outcomes. Cost analyses also have shown
-that behavioral health interventions are
-both effective and cost-effective approaches
-for the prevention of diabetes (372).
-Screening
-Health care teams and clinical practices
-should develop and implement psychoso-
-cial screening protocols to ensure routine
-monitoring of psychosocial well-being and
-to identify potential concerns among peo-
-ple with diabetes, following published guid-
-ance and recommendations (373–376).
-Topics to screen for may include, but are
-not limited to, attitudes about diabetes, ex-
-pectations for treatment and outcomes
-(especially related to starting a new treat-
-ment or technology), general and diabetes-
-related mood, stress, and/or quality of life
-(e.g., diabetes distress, depressive symp-
-toms, anxiety symptoms, and fear of hypo-
-glycemia), available resources (ﬁnancial,
-social, family, and emotional), and/or psychi-
-atric history. Given elevated rates of suicidal-
-ity among people with diabetes (377,378),
-screening for suicidality may also be appro-
-priate (379–381), similar to U.S. Preventive
-Services Task Force statements regarding
-screening for some adolescents and adults
-in the general population (382,383). A list of
-age-appropriate screening and evaluation
-measures is provided in the ADA position
-statement “Psychosocial Care for People
-with Diabetes” (1), and guidance has been
-published about selection of screening tools,
-clinical thresholds, and frequency of screen-
-ing (374,384).
-Key opportunities for psychosocial
-screening occur at diabetes diagnosis,
-during regularly scheduled management
-visits, during hospitalizations, with new
-onset of complications, during signiﬁ-
-cant transitions in care such as from pe-
-diatric to adult care teams (385), at the
-time of medical treatment changes, or
-when problems with achieving A1C goals,
-quality of life, or self-management are
-identiﬁed. Additionally, signiﬁcant changes
-in life circumstances and SDOH are known
-to affect a person’s ability to self-manage
-their diabetes. Thus, screening for SDOH
-should also be incorporated into routine
-care (386). In circumstances where individ-
-uals other than the person with diabetes
-are signiﬁcantly involved in diabetes man-
-agement (e.g., caregivers or family mem-
-bers), these issues should be monitored
-and treated by appropriate professionals
-(385,387).
-S106
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Standardized, validated, age-appropriate
-tools for psychosocial monitoring and
-screening can also be used (1). The ADA
-provides access to tools for screening spe-
-ciﬁc psychosocial topics, such as diabetes
-distress, fear of hypoglycemia, and other
-relevant
-psychological
-symptoms
-at
-professional.diabetes.org/sites/default/
-ﬁles/media/ada_mental_health_toolkit_
-questionnaires.pdf. Additional informa-
-tion about developmentally speciﬁc psy-
-chosocial screening topics is available in
-Section 14, “Children and Adolescents,”
-and Section 13, “Older Adults.” Health care
-professionals may also use informal verbal
-inquires, for example, by asking whether
-there have been persistent changes in
-mood during the past 2 weeks or since the
-individual’s last appointment and whether
-the person can identify a triggering event
-or change in circumstances. Diabetes care
-professionals should also ask whether
-there are new or different barriers to
-treatment and self-management, such as
-feeling overwhelmed or stressed by hav-
-ing diabetes (see DIABETES DISTRESS, below),
-changes in ﬁnances, or competing medi-
-cal demands (e.g., the diagnosis of a co-
-morbid condition).
-Psychological Assessment and
+Neuropathy
+Dyslipidemia
+Corresponding
+recommendations
+14.29 and 14.30
+14.31–14.33
+14.34–14.37
+14.43 and 14.44
+14.45–14.47
+14.48
+14.38–14.42
+Method
+Thyroid-stimulating
+hormone; consider
+antithyroglobulin
+and antithyroid
+peroxidase antibodies
+IgA tTG if total IgA normal;
+IgG tTG and deamidated
+gliadin antibodies if IgA
+deﬁcient
+Blood pressure
+monitoring
+Albumin-to-creatinine
+ratio; random sample
+acceptable initially
+Dilated fundoscopy or
+retinal photography
+Foot exam with foot pulses,
+pinprick, 10-g
+monoﬁlament sensation
+tests, vibration, and ankle
+reﬂexes
+Lipid proﬁle, nonfasting
+acceptable initially
+When to start
+Soon after diagnosis
+Soon after diagnosis
+At diagnosis
+Puberty or $10 years old,
+whichever is earlier, and
+diabetes duration of 5
+years
+Puberty or $11 years old,
+whichever is earlier, and
+diabetes duration of
+3–5 years
+Puberty or $10 years old,
+whichever is earlier, and
+diabetes duration of
+5 years
+Soon after diagnosis;
+preferably after
+glycemia has improved
+and $2 years old
+Follow-up frequency
+Every 1–2 years if thyroid
+antibodies negative;
+more often if symptoms
+develop or presence of
+thyroid antibodies
+Within 2 years and then
+at 5 years after
+diagnosis; sooner if
+symptoms develop
+Every visit
+If normal, annually; if
+abnormal, repeat with
+conﬁrmation in two of
+three samples over
+6 months (ﬁrst morning
+void is recommended)
+If normal, every 2 years;
+consider less frequently
+(every 4 years) if A1C
+<8% and eye
+professional agrees
+If normal, annually
+If LDL <100 mg/dL, repeat
+at 9–11 years old; then,
+if <100 mg/dL,
+every 3 years
+Goal
+NA
+NA
+<90th percentile for age,
+sex, and height; if
+$13 years old,
+<120/80 mmHg
+Albumin-to-creatinine ratio
+<30 mg/g
+No retinopathy
+No neuropathy
+LDL <100 mg/dL
 Treatment
-When psychosocial concerns are identi-
-ﬁed, referral to a qualiﬁed behavioral
-health professional, ideally one specializ-
-ing in diabetes, should be made for com-
-prehensive evaluation, diagnosis, and
-treatment (353,369,370). Indications for
-referral may include positive screening
-for diabetes distress, depression, anxiety,
-disordered eating, or cognitive dysfunc-
-tion (see Table 5.6 for a complete list).
-Incorporating
-psychosocial
-assessment
-and treatment into routine care is prefer-
-able to waiting for a speciﬁc problem
-or deterioration in glycemic or psycho-
-logical status to occur (37,361). Health
-care professionals should identify and refer
-to behavioral health professionals knowl-
-edgeable about diabetes and psychosocial
-care. The ADA provides a list of behavioral
-health professionals who have specialized
-expertise or who have received education
-about psychosocial and behavioral issues
-related to diabetes in the ADA Mental
-Health Professional Directory (professional.
-diabetes.org/ada-mental-health-provider-
-directory). Ideally, behavioral health pro-
-fessionals should be embedded in diabetes
-care settings. In recognition of limited be-
-havioral health resources and to optimize
-availability, other health care professionals
-who have been trained in behavioral health
-interventions may also provide this special-
-ized psychosocial care (365,367,388). Al-
-though some health care professionals may
-not feel qualiﬁed to treat psychological
-problems (389), strengthening the relation-
-ship between a person with diabetes and
-the health care professional may increase
-the likelihood of a person accepting a re-
-ferral for other services. Collaborative
-care interventions and a team approach
-have demonstrated efﬁcacy in diabetes
-self-management, outcomes of depres-
-sion, and psychosocial functioning (5,6).
-The ADA provides resources for a range
-of health professionals to support behav-
-ioral health in people with diabetes at
-professional.diabetes.org/meetings/
-behavioral-health-toolkit.
-Evidence supports interventions for
-people with diabetes and psychosocial
-concerns, including issues that affect
-behavioral health. Successful therapeutic
-approaches include cognitive behavioral
-(369,390,391) and mindfulness-based ther-
-apies (392). See the sections below for
-details about interventions for speciﬁc psy-
-chological concerns. Behavioral interven-
-tions may also be indicated in a preventive
-manner even in the absence of positive psy-
-chosocial screeners, such as resilience-
-promoting interventions to prevent diabe-
-tes distress in adolescence (393,394) and
-behavioral family interventions to promote
-collaborative family diabetes management
-in early adolescence (395,396) or to support
-adjustment to a new treatment plan or
-technology (64). Psychosocial interven-
-tions can be delivered via digital health
-platforms (397). Group-based or shared
-diabetes appointments that address both
-medical and psychosocial issues relevant
-to living with diabetes are a promising
-model to consider (366,398).
-Although psychosocial interventions
-have demonstrated short-term efﬁcacy,
-their success in sustained engagement in
-health behaviors and improved glycemic
-outcomes associated with behavioral
-health issues has varied. Thus, health care
-professionals should systematically monitor
-these outcomes following implementation
-of current evidence-based psychosocial
-treatments to determine ongoing needs.
-Diabetes Distress
-Recommendation
-5.48 Screen for diabetes distress at
-least annually in people with diabe-
-tes, caregivers, and family members,
-and repeat screening when treatment
-goals are not met, at transitional times,
-and/or in the presence of diabetes com-
-plications. Health care professionals can
-Table 5.6—Situations that warrant referral of a person with diabetes to a qualiﬁed behavioral health professional for
-evaluation and treatment
-• A positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or
-cognitive impairment
-• The presence of symptoms or suspicions of disordered eating behavior, an eating disorder, or disrupted patterns of eating
-• Intentional omission or underdosing of insulin or noninsulin medication to cause weight loss
-• A serious mental illness is suspected
-• In youth and families with behavioral self-care difﬁculties, repeated hospitalizations for diabetic ketoacidosis, failure to achieve expected
-developmental milestones, or signiﬁcant distress
-• Low engagement in diabetes self-management behaviors, including declining or impaired ability to perform diabetes self-management
-behaviors
-• Before undergoing metabolic surgery and after surgery, if assessment reveals an ongoing need for adjustment support
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S107
-©AmericanDiabetesAssociation
-address diabetes distress and may con-
-sider referral to a qualiﬁed behavioral
-health professional, ideally one with ex-
-perience in diabetes, for further assess-
-ment and treatment if indicated. B
-Diabetes distress is very common (361,
-399,400). Distress is distinct from depres-
-sion and anxiety and has unique relation-
-ships with glycemic and other outcomes
-(401,402) (Tables 5.7 and 5.8). Diabetes
-distress refers to signiﬁcant negative psy-
-chological reactions related to emotional
-burdens and worries speciﬁc to an indi-
-vidual’s experience in having to manage a
-demanding chronic condition such as
-diabetes (403). The constant behavioral
-demands of diabetes self-management
-(medication dosing, frequency, and ti-
-tration as well as monitoring of glucose,
-food intake, eating patterns, and physi-
-cal activity) and the potential or actual
-disease progression are directly associ-
-ated with reports of diabetes distress
-(404). Diabetes distress in people with
-type 2 diabetes is common and persis-
-tent, with prevalence rates over 60%
-(404,405). Among people with type 1 dia-
-betes, the prevalence of diabetes distress
-is 22–42%, with a 9-month incidence of
-54% (400,406). In the second Diabetes
-Attitudes, Wishes, and Needs (DAWN2)
-study, 45% of the participants reported sig-
-niﬁcant diabetes distress, but only 24% re-
-ported that their health care teams asked
-them how diabetes affected their lives
-(361). Similar rates of diabetes distress
-have been identiﬁed among adolescents
-with type 1 diabetes (399) and in parents of
-youth with type 1 diabetes. Diabetes distress
-negatively affects medication-taking behav-
-iors and is linked to higher A1C, lower self-
-efﬁcacy, and less optimal eating and exer-
-cise behaviors (5,403,407). Diabetes dis-
-tress is also associated with symptoms of
-anxiety, depression, and reduced health-
-related quality of life (408). The experience
-of stigma related to living with diabetes may
-contribute to increased diabetes distress
-(409,410).
-Diabetes distress should be routinely
-monitored (411) using diabetes-speciﬁc
-validated measures (1), such as those
-available through the ADA’s website
-(professional.diabetes.org/sites/default/
-ﬁles/media/ada_mental_health_toolkit_
-questionnaires.pdf). As there are vali-
-dated diabetes distress measures for
-people with type 1 and type 2 diabetes
-Table 5.7—Psychosocial concerns and their association with diabetes-related outcomes in adults with type 1 diabetes
-Increased
-A1C
-Increased
-blood pressure
-Increased
-cholesterol
-Increased
-macrovascular
-complications
-Increased
-microvascular
-complications
-Decreased
-self-care
-behaviors
-Comorbid
-psychosocial
-concerns
-Decreased
-quality of life
-Increased
-mortality
-Diabetes distress
-(406,528–530)
-+++
-?
-+
-+++
-+++
-+++
-+++
-+++
-?
-Depression and depressive
-symptoms
-(528,529,531,532)
-+++
-?
-+++
-+++
-+++
-+++
-+++
-+++
-+++
-Anxiety (359,533,534)
-+++
-?
-?
-?
-?
-+++
-+++
-+++
-?
-Disordered eating
-behaviors (insulin
-omission) (535,536)
-+++
-?
-?
-?
-+++
-+++
-+++
-+++
-+++
-Serious mental illness
-(schizophrenia,
-personality disorders)
-(537–539)
-+++
-?
-+
-+++
-+++
-?
-+++
-?
-+++
-Cognitive impairment
-(540–544)
-+++
-+++
-+++
-+++
-+++
-11
-+++
-?
-+++
-+++, strong evidence (consistent ﬁndings in multiple studies of good methodological quality or one study of excellent methodological quality); ++, moderate evidence (consistent ﬁndings in multiple
-studies of fair methodological quality or one study of good methodological quality); +, limited evidence (evidence from one study of fair methodological quality); ?, no data available.
-S108
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-at different life stages, it is important to
-select a tool that is appropriate for each
-person or population. If diabetes dis-
-tress is identiﬁed, it should be acknowl-
-edged and addressed (412). If indicated,
-the person should be referred for follow-up
-care (370).This may include speciﬁc DSMES
-to address areas of diabetes self-care caus-
-ing distress and affecting clinical manage-
-ment and/or behavioral intervention from
-a qualiﬁed behavioral health professional,
-ideally one with expertise in diabetes, or
-from another trained health care profes-
-sional (413).
-Several educational and behavioral in-
-tervention strategies have demonstrated
-beneﬁts for diabetes distress and, to a
-lesser degree, glycemic outcomes. These
-interventions include educational, psy-
-chological, and health behavior change
-approaches such as DSMES, cognitive be-
-havioral therapy (CBT), mindfulness-based
-therapies, motivational interviewing, and
-others (390,391,414,415). Interventions
-delivered via telephone, smartphone ap-
-plications, video visits, and/or self-help
-modalities can be effective in reducing di-
-abetes distress (397,416–418). DSMES has
-been shown to reduce diabetes distress
-(5,419) and may also beneﬁt A1C when
-combined with peer support (420). It may
-be helpful to provide counseling regarding
-expected diabetes-related emotional dis-
-tress at diagnosis and when the disease
-state, treatment, or life context changes
-(413). Two multisite RCTs with adults with
-type 1 diabetes, elevated diabetes dis-
-tress, and elevated A1C demonstrated
-clinically meaningful improvements in di-
-abetes distress and A1C through a com-
-bination of group-based intervention
-approaches including an educational dia-
-betes self-management program and a
-psychological intervention that included
-emotion-focused skills (417). In adults
-with type 2 diabetes in the Veterans Af-
-fairs system, an RCT demonstrated that
-integrating a single session of mindful-
-ness into DSMES, followed by a booster
-session and 24 weeks of mobile app–
-based home practice, signiﬁcantly re-
-duced diabetes distress compared with a
-DSMES-only control group (421). An RCT
-of CBT demonstrated positive beneﬁts
-for diabetes distress, A1C, and depres-
-sive symptoms for up to 1 year among
-adults with type 2 diabetes and elevated
-symptoms of distress or depression (422).
-An RCT among people with type 1 and type 2
-diabetes found mindful self-compassion
-Table 5.8—Psychosocial concerns and their association with diabetes-related outcomes in adults with type 2 diabetes
-Increased
-A1C
-Increased
-blood pressure
-Increased
-dyslipidemia
-Increased
-macrovascular
-complications
-Increased
-microvascular
-complications
-Decreased
-self-care
-behaviors
-Comorbid
-psychosocial
-concerns
-Decreased
-quality
-of life
-Increased
-mortality
-Diabetes distress (545–551)
-+++
-+
-+
-+++
-+++
-+++
-+++
-+++
-+++
-Depression and depressive
-symptoms (552–559)
-+++
-++
-+++
-+++
-+++
-+++
-+++
-+++
-+++
-Anxiety (358,408,553,560–563)
-+++
-++
-+
-+++
-+
-+++
-+++
-+++
-+++
-Disordered eating behaviors
-(binge eating disorder, night
-eating syndrome) (564–567)
-+/–
-?
-?
-?
-?
-+
-+++
-+++
-?
-Serious mental illness
-(schizophrenia, bipolar
-disorder) (568–575)
-+/–
-?
-?
-+++
-+++
-+++
-+++
-+++
-+++
-Cognitive impairment (576–583)
-+++
-+++
-+++
-+++
-+++
-+++
-+++
-+++
-+++
-+++, strong evidence (consistent ﬁndings in multiple studies of good methodological quality or one study of excellent methodological quality); ++, moderate evidence (consistent ﬁndings in multiple
-studies of fair methodological quality or one study of good methodological quality); +, limited evidence (evidence from one study of fair methodological quality); +/–, inconclusive evidence; ?, no data
-available.
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S109
-©AmericanDiabetesAssociation
-training increased self-compassion, reduced
-depression and diabetes distress, and
-improved A1C (423). An RCTof a resilience-
-focused cognitive behavioral and social
-problem-solving intervention compared
-with diabetes education in teens with
-type 1 diabetes showed that diabetes dis-
-tress and depressive symptoms were
-signiﬁcantly reduced for up to 3 years
-post-intervention, although neither A1C
-nor self-management behaviors improved
-over time (394). A meta-analysis of RCTs
-found that in type 1 diabetes, use of au-
-tomated insulin delivery systems contrib-
-uted to decreases in diabetes distress
-compared with usual care (i.e., sensor
-augmented pumps, multiple daily insulin
-injections, continuous glucose monitor-
-ing, and predictive low-glucose suspend)
-(424).These recent studies support that a
-combination of educational, behavioral,
-and psychological intervention approaches
-is needed to address distress, depression,
-and A1C.
-There are few outcome data on long-
-term systematic treatment of diabetes
-distress integrated into routine care. As
-the burden of diabetes management can
-vary over time, diabetes distress may ﬂuc-
-tuate and may need varying treatment
-approaches at different life stages and at
-different levels of diabetes progression.
-Anxiety
-Recommendations
-5.49 Screen people with diabetes for
-anxiety symptoms. Health care profes-
-sionals can discuss diabetes-related wor-
-ries and should consider referral to a
-qualiﬁed behavioral health professional
-for further assessment and treatment if
-anxiety symptoms indicate interference
-with diabetes self-management behav-
-iors or quality of life. B
-5.50 Screen people with diabetes at
-risk for hypoglycemia or fear of hy-
-poglycemia, especially if they have
-experienced severe and/or frequent
-hypoglycemic events. B
-Anxiety symptoms are common in people
-with diabetes (425) (see Tables 5.7 and
-5.8), and there appear to be higher rates
-of generalized anxiety disorder, body dys-
-morphic disorder, obsessive compulsive
-disorder, speciﬁc phobias, and posttrau-
-matic stress disorder in people with diabe-
-tes than in those without diabetes. The
-Behavioral Risk Factor Surveillance System
-estimated the lifetime prevalence of gen-
-eralized anxiety disorder to be 19.5% in
-people with either type 1 or type 2 diabe-
-tes (426). A common diabetes-speciﬁc
-concern is fear related to hypoglycemia
-(427–429), which may explain avoidance
-of behaviors associated with lowering glu-
-cose, such as increasing insulin doses or
-frequency of monitoring. Factors related
-to greater fear of hypoglycemia in people
-with diabetes and family members include
-history of nocturnal hypoglycemia, presence
-of other psychological concerns, and sleep
-concerns (430). See Section 6, “Glycemic
-Goals and Hypoglycemia,” for more infor-
-mation about impaired awareness of hypo-
-glycemia and related fear of hypoglycemia.
-Other common sources of diabetes-related
-anxiety include not meeting glycemic goals
-(425), insulin injections or infusion (431),
-and onset of complications (1). People
-with diabetes who exhibit excessive dia-
-betes self-management behaviors well
-beyond what is prescribed or needed
-to achieve glycemic goals may be
-experiencing symptoms of obsessive-
-compulsive
+Appropriate treatment of
+underlying thyroid
 disorder
-(432).
-General
-anxiety is a predictor of injection-re-
-lated anxiety and is associated with
-fear of hypoglycemia (433).
-Psychological and behavioral care can be
-helpful to address symptoms of anxiety in
-people with diabetes. Among adults with
-type 2 diabetes and elevated depressive
-symptoms, an RCT of collaborative care
-demonstrated beneﬁts on anxiety symp-
-toms for up to 1 year (434). An RCTof CBT
-for adults with type 2 diabetes showed a
-reduction in health anxiety, with CBT ac-
-counting for 77% of the reduction in health
-anxiety at 16 weeks of follow-up; this trial
-also found decreased depressive symptoms
-and diabetes distress (435). Additionally, an
-RCTshowed switching from isCGM without
-alerts to rtCGM with alert functionality in
-adults with type 1 diabetes decreased hy-
-poglycemia-related anxiety at 24 months
-of follow-up while reducing A1C (436).
-Similarly, a systematic review and meta-
-analysis found that people with type 1 dia-
-betes using diabetes technologies, speciﬁ-
-cally rtCGM, sensor-augmented pumps,
-and automated insulin delivery, reported
-decreased fear of hypoglycemia indepen-
-dent of the reduction of hypoglycemia fre-
-quency (437). Another RCTof a CBT-based
-intervention reported reduced fear of hy-
-poglycemia by 8.5% compared with con-
-trol participants, increased time in range,
-and improved self-management behaviors
-in young adults with type 1 diabetes over
-an 8-week period (438). Thus, specialized
-behavioral intervention with positive
-adjunct of diabetes technology from a
-qualiﬁed professional is needed to treat
-hypoglycemia-related anxiety.
-Depression
-Recommendations
-5.51 Conduct at least annual screen-
-ing of depressive symptoms in all peo-
-ple with diabetes and more frequently
-among those with a history of depres-
-sion. Use age-appropriate, validated
-depression screening measures,
-recognizing that further evaluation will
-be necessary for individuals who have
-a positive screen. B
-5.52 Rescreen for depression at diag-
-nosis of complications or when there
-are signiﬁcant changes in medical sta-
-tus. B
-5.53 Refer to qualiﬁed behavioral
-health professionals or other trained
-health care professionals with experi-
-ence using evidence-based treatment
-approaches for depression in con-
-junction with collaborative care with
-the diabetes treatment team. A
-History of depression, current depres-
-sion, and antidepressant medication use
-are risk factors for the development of
-type 2 diabetes, especially if the individ-
-ual has other risk factors, such as obesity
-and family history of type 2 diabetes
-(439,440). Elevated depressive symptoms
-and depressive disorders are common
-among people with diabetes (357,429)
-(Tables 5.7 and 5.8), affecting approxi-
-mately one in four people with type 1 or
-type 2 diabetes (360), and among pa-
-rents of youth with diabetes (441). Rou-
-tine screening for depressive symptoms
-is indicated for people with type 1 or
-type 2 diabetes and gestational diabetes
-mellitus. Regardless of diabetes type,
-women have signiﬁcantly higher rates
-of depression than men (442). For indi-
-viduals with type 2 diabetes, the experience
-of diabetes-related stigma is associated
-with increased depressive symptoms (410).
-Routine monitoring with age-appropri-
-ate validated measures (1) can help to
-identify if referral is warranted (370). Mul-
-tisite studies have demonstrated feasibil-
-ity of implementing depressive symptom
-screening protocols in diabetes clinics
-and published practical guides for
-S110
-Facilitating Positive Health Behaviors and Well-being
+After conﬁrmation, start
+gluten-free diet
+Lifestyle modiﬁcation for
+elevated blood pressure
+(90th to <95th percentile
+for age, sex, and height
+or, if $13 years old,
+120–129/<80 mmHg);
+lifestyle modiﬁcation and
+ACE inhibitor or ARB* for
+hypertension ($95th
+percentile for age, sex,
+and height or, if $13
+years old, $130/80
+mmHg)
+Optimize glycemia and blood
+pressure; ACE inhibitor*
+if albumin-to-creatinine
+ratio is elevated in two of
+three samples over
+6 months
+Optimize glycemia;
+treatment per
+ophthalmology
+Optimize glycemia;
+referral to neurology
+If abnormal, optimize
+glycemia and medical
+nutrition therapy; if
+after 6 months LDL
+>160 mg/dL or
+>130 mg/dL with
+cardiovascular risk
+factor(s), initiate statin
+therapy (for those aged
+>10 years)*
+ARB, angiotensin receptor blocker; NA, not applicable; tTG, tissue transglutaminase. *Due to the potential teratogenic effects, individuals of childbearing age should receive reproductive counseling, and medication should be
+avoided in individuals of childbearing age who are not using reliable contraception.
+S284
+Children and Adolescents
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
-implementation (374,375). Person-
-centered
-integrated
-care
-approaches
-have been shown to improve both de-
-pression and glycemic outcomes (443).
-The behavioral health professional provid-
-ing treatment for depression should be in-
-corporated into or collaborate with the
-diabetes treatment team (443). Depres-
-sive symptoms may also be a manifesta-
-tion of reduced quality of life secondary
-to diabetes burden (also see DIABETES DIS-
-TRESS, above) (411). When depressive
-symptoms are identiﬁed, it is important to
-query origins and exacerbating factors,
-both diabetes-speciﬁc ones and those due
-to other life circumstances (408,444).
-Trials have shown consistent evidence
-of improvements in depressive symp-
-toms and variable beneﬁts for A1C when
-depression is treated simultaneously with
-diabetes (445), whether through phar-
-macologic treatment, group therapy,
-psychotherapy, parenting intervention,
-mindfulness-based approaches, or col-
-laborative care (6,390,446–449). Psycho-
-logical interventions addressing depressive
-symptoms have shown efﬁcacy when deliv-
-ered via digital technologies (447,450). A
-meta-analysis found that internet- and
-phone-delivered CBT and self-guided inter-
-ventions improved depressive symptoms
-(451). For people with diabetes, an RCT
-comparing internet plus telephonic CBT to
-usual care found moderate to large im-
-provements in depressive symptoms at
-12 months (452). Lifestyle interventions
-(i.e., changing nutrition and/or physical ac-
-tivity) also demonstrate beneﬁts for de-
-pressive symptoms and A1C (295) on their
-own and when combined with CBT
-(453–455). Finally, a systematic review
-and meta-analysis found that use of
-GLP-1 RAs led to signiﬁcant improve-
-ment in depressive symptoms among
-adults with type 2 diabetes (456). It is
-important to note that the medical
-treatment plan should also be moni-
-tored in response to reduction in de-
-pressive symptoms.
-Disordered Eating Behavior
-Recommendations
-5.54 Screen for disordered or dis-
-rupted eating using validated screen-
-ing measures. In addition, a review of
-the medical treatment plan is recom-
-mended to identify potential treat-
-ment-related effects on hunger/caloric
-intake. B
-5.55 Consider reevaluating the treat-
-ment plan of people with diabetes who
-present with symptoms of disordered
-eating behavior, an eating disorder, or
-disrupted patterns of eating, in consul-
-tation with a qualiﬁed professional. Key
-qualiﬁcations include familiarity with
-diabetes disease physiology, treatments
-for diabetes and disordered eating be-
-haviors, and weight-related and psy-
-chological risk factors for disordered
-eating behaviors. B
-Estimated prevalence of disordered eat-
-ing behavior and diagnosable eating dis-
-orders in people with diabetes varies
-(457–459) (see Tables 5.7 and 5.8). Peo-
-ple with type 1 diabetes have been found
-to be at greater risk for eating disorders
-than people without diabetes (460). Prev-
-alence of intentional insulin omission to
-lose weight is 10% and more common
-among women than men with type 1 dia-
-betes (460). In people with type 2 diabe-
-tes, bingeing (excessive food intake with
-an accompanying sense of loss of control)
-is most commonly reported. For people
-with type 2 diabetes treated with insulin,
-intentional omission is also frequently re-
-ported (461). People with diabetes and
-diagnosable eating disorders have high
-rates of comorbid psychiatric disorders
-(462). People with type 1 diabetes and eat-
-ing disorders often have high rates of diabe-
-tes distress and fear of hypoglycemia (463).
-Diabetes care professionals should moni-
-tor for disordered eating behaviors using
-validated measures; diabetes-speciﬁc meas-
-ures are recommended to assess presence
-of intentional insulin omission and were
-found in a meta-analysis to be more
-strongly associated with A1C (464). When
-evaluating symptoms of disordered or dis-
-rupted eating (when the individual exhibits
-eating behaviors that appear maladaptive
-but are not volitional, such as bingeing
-caused by loss of satiety cues), etiology
-and motivation for the behavior should be
-evaluated by a qualiﬁed disordered eating
-professional (465). Inconsistent interven-
-tion ﬁndings point to the need for treat-
-ment of eating disorders and disordered
-eating behavior in the context of the
-condition and its treatment. Recent in-
-tervention efforts have focused on pre-
-venting
-disordered
-eating
-behaviors
-among individuals with type 1 diabetes
-and on supporting parents of youth
-with type 1 diabetes who are at risk for
-disordered eating; however, more RCTs
-with longer-term follow-up are needed
-(466–468).
-Given the complexities of treating dis-
-ordered eating behaviors and disrupted
-eating patterns in people with diabetes,
-it is recommended that interprofessional
-care teams include or collaborate with a
-health professional trained to identify
-and treat eating behaviors and with ex-
-pertise in disordered eating and diabetes
-(469). Key qualiﬁcations for such profes-
-sionals include familiarity with diabetes
-physiology, weight-related and psycho-
-logical risk factors for disordered eating
-behaviors, and treatments for diabetes
-and disordered eating behaviors. More
-rigorous methods to identify underlying
-mechanisms of action that drive change
-in eating and treatment behaviors, as well
-as associated mental distress, are needed
-(470). Health care teams may consider
-the appropriateness of technology use
-among people with diabetes and disor-
-dered eating behaviors, although more re-
-search on the risks and beneﬁts is needed
-(471). Caution should be taken in labeling
-individuals with diabetes as having a diag-
-nosable psychiatric disorder, i.e., an eating
-disorder, when disordered or disrupted
-eating patterns are found to be associated
-with the disease and its treatment. In
-other words, patterns of maladaptive food
-intake that appear to have a psychological
-origin may be driven by physiologic disrup-
-tion in hunger and satiety cues, metabolic
-perturbations, and/or secondary distress
-because of the individual’s inability to con-
-trol their hunger and satiety (465).
-The use of incretin therapies, speciﬁ-
-cally GLP-1 RAs and potentially dual GIP
-and GLP-1 RAs, may have relevance to
-the treatment of disrupted or disordered
-eating
-(see
-Section
-8,
-“Obesity
-and
-Weight Management for the Prevention
-and Treatment of Type 2 Diabetes”).
-These therapies work in the appetite and
-reward circuitries to modulate food intake,
-reducing uncontrollable hunger and over-
-eating (472). A systematic review found
-early evidence for GLP-1 RAs being effec-
-tive in reducing binge-eating behaviors,
-but clinical trials are needed (473).
-Serious Mental Illness
-Recommendations
-5.56 Provide an increased level of sup-
-port for people with diabetes and seri-
-ous mental illness through enhanced
+
+Table 14.1B—Recommendations for screening and treatment of complications and related conditions in pediatric type 2 diabetes
+Hypertension
+Nephropathy
+Neuropathy
+Retinopathy
+Dyslipidemia
+Metabolic dysfunction–
+associated steatotic
+liver disease
+Obstructive
+sleep apnea
+Polycystic ovary
+syndrome (for
+adolescent female
+individuals)
+Corresponding
+recommendations
+14.72–14.75
+14.76–14.80
+14.81 and 14.82
+14.83–14.86
+14.93–14.97
+14.87 and 14.88
+14.89
+14.90 and 14.91
+Method
+Blood pressure
+monitoring
+Albumin-to-creatinine
+ratio; random
+sample acceptable
+initially
+Foot exam with foot
+pulses, pinprick, 10-g
+monoﬁlament
+sensation tests,
+vibration, and ankle
+reﬂexes
+Dilated
+fundoscopy
+Lipid proﬁle
+AST and ALT
+measurement
+Screening for
+symptoms
+Screening for
+symptoms;
+laboratory
+evaluation if positive
+symptoms
+When to start
+At diagnosis
+At diagnosis
+At diagnosis
+At or soon
+after diagnosis
+Soon after diagnosis,
+preferably after
+glycemia has
+improved
+At diagnosis
+At diagnosis
+At diagnosis
+Follow-up frequency
+Every visit
+If normal, annually;
+if abnormal, repeat
+with conﬁrmation in
+two of three
+samples over 6
+months
+If normal, annually
+If normal, annually
+or every 2 years
+if glycemic goals
+are achieved
+Annually
+Annually
+Every visit
+Every visit
+Goal
+<90th percentile for age,
+sex, and height; if
+$13 years old,
+<130/80 mmHg
+<30 mg/g
+No neuropathy
+No retinopathy
+LDL <100 mg/dL, HDL
+>35 mg/dL,
+triglycerides
+<150 mg/dL
+NA
+NA
+NA
+Treatment
+Lifestyle modiﬁcation for
+elevated blood pressure
+(90th to <95th percentile
+for age, sex, and height
+or, if $13 years old,
+120–129/<80 mmHg);
+lifestyle modiﬁcation and
+ACE inhibitor or ARB* for
+hypertension ($95th
+percentile for age, sex,
+and height or, if $13
+years, $130/80 mmHg)
+Optimize glycemia
+and blood pressure;
+ACE inhibitor* if
+albumin-to-
+creatinine ratio is
+elevated in two of
+three samples over 6
+months
+Optimize glycemia;
+referral to neurology
+Optimize glycemia;
+treatment per
+ophthalmology
+If abnormal, optimize
+glycemia and medical
+nutrition therapy; if
+LDL >130 mg/dL after
+6 months, initiate
+statin therapy (for
+those aged >10
+years);* if triglycerides
+>400 mg/dL fasting
+or >1,000 mg/dL
+nonfasting, begin
+ﬁbrate
+Refer to gastroenterology
+for persistently
+elevated or worsening
+transaminases
+If positive symptoms,
+refer to sleep
+specialist and
+polysomnogram
+If no contraindications,
+oral contraceptive
+pills; medical
+nutrition therapy;
+metformin
+ARB, angiotensin receptor blocker; NA, not applicable; tTG, tissue transglutaminase. *Due to the potential teratogenic effects, individuals of childbearing age should receive reproductive counseling, and medication should be
+avoided in individuals of childbearing age who are not using reliable contraception.
 diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S111
+Children and Adolescents
+S285
 ©AmericanDiabetesAssociation
-monitoring of and assistance with dia-
-betes self-management behaviors. B
-5.57 Monitor changes in body weight,
-glycemia, and lipids in adolescents and
-adults with diabetes who are prescribed
-second-generation antipsychotic medi-
-cations; adjust the treatment plan ac-
-cordingly, if needed. C
-Studies of individuals with serious men-
-tal illness, particularly schizophrenia and
-other thought disorders, show signiﬁ-
-cantly increased rates of type 2 diabetes
-(474) (see Tables 5.7 and 5.8). People
-with schizophrenia and other thought dis-
-orders who are prescribed antipsychotic
-medications should be monitored for pre-
-diabetes and type 2 diabetes because of
-the known comorbidity. Changes in body
-weight, glycemia, and lipids should be
-monitored every 12–16 weeks, unless clin-
-ically indicated to be monitored sooner
-(475). Disordered thinking and judgment
-can make it difﬁcult to engage in behav-
-iors that reduce risk factors for type 2 dia-
-betes, such as restrained eating for weight
-management. Further, people with serious
-mental illness and diabetes frequently ex-
-perience moderate psychological distress,
-suggesting pervasive intrusion of behav-
-ioral health issues into daily functioning
-(476). Serious mental illness is often as-
-sociated with the inability to evaluate
-and apply information to make judg-
-ments about treatment options. For a
-person with an established diagnosis of
-a mental illness affecting judgment, ac-
-tivities of daily living, and the ability to
-collaborate with care professionals, in-
-cluding a nonmedical caretaker, in treat-
-ment decision-making is beneﬁcial. This
-caretaker can help improve the person’s
-ability to follow the agreed-upon treat-
-ment plan through both monitoring and
-caretaking functions (477).
-Coordinated management of prediabe-
-tes or diabetes and serious mental illness
-is recommended to achieve diabetes treat-
-ment goals. The diabetes care team, in col-
-laboration with other care professionals,
-should work to provide an enhanced level
-of care and self-management support for
-people with diabetes and serious mental
-illness based on individual capacity and
-needs. Such care may include remote
-monitoring, facilitating health care aides,
-and providing diabetes training for family
-members, community support person-
-nel, and other caregivers. A systematic
-review and meta-analysis of nonpharma-
-cologic interventions for people with
-type 2 diabetes and serious mental ill-
-ness showed signiﬁcant reductions in
-psychiatric symptoms, total cholesterol,
-and LDL cholesterol. These nonpharma-
-cologic interventions did not reduce A1C,
-triglycerides, or BMI (478). Qualitative re-
-search suggests that educational and be-
-havioral interventions provide beneﬁt via
-group support, accountability, and assis-
-tance with applying diabetes knowledge
-(479).
-Cognitive Capacity and Impairment
+
+TYPE 1 DIABETES
+Type 1 diabetes is the most common
+form of diabetes in youth (4), although
+there are more adults living with and di-
+agnosed with type 1 diabetes (5). The
+health care professional must consider
+the unique aspects of care and manage-
+ment of children and adolescents with
+type 1 diabetes, such as changes in insu-
+lin sensitivity related to physical growth
+and sexual maturation, ability to provide
+self-care, supervision in the childcare and
+school environment, neurological vulnera-
+bility to hypoglycemia and hyperglycemia
+in young children, and possible adverse
+neurocognitive effects of diabetic keto-
+acidosis (DKA) (6,7). Attention to family
+dynamics, developmental stages, and
+physiologic differences related to sexual
+maturity is essential in developing and
+implementing an optimal diabetes treat-
+ment plan (8). Additionally, more people
+(adults and youth) with type 1 diabetes
+are experiencing obesity than in the past,
+which adds to the complexity of living
+with and managing type 1 diabetes (9).
+An interprofessional team trained in
+pediatric diabetes management and sen-
+sitive to the challenges of children and
+adolescents with type 1 diabetes and
+their families should provide diabetes-
+speciﬁc care for this population. It is
+essential that diabetes self-management
+education and support (DSMES), medical
+nutrition therapy (MNT), and psychoso-
+cial and behavioral support be provided
+at diagnosis and routinely (e.g., at each
+follow-up visit) thereafter in a develop-
+mentally appropriate format that builds
+on prior knowledge by a team of health
+care professionals experienced with the
+biological, educational, nutritional, behav-
+ioral, and emotional needs of the growing
+child and family. The diabetes team, con-
+sidering the youth’s developmental and
+psychosocial needs, should ask about and
+discuss diabetes management responsi-
+bilities with youth and parents or care-
+givers on an ongoing basis.
+Diabetes Self-Management Education
+and Support
+Recommendation
+14.1 Youth with type 1 diabetes and
+their parents or caregivers (for individ-
+uals aged <18 years) should receive
+culturally sensitive and developmen-
+tally appropriate individualized diabe-
+tes self-management education and
+support (DSMES) according to national
+standards at diagnosis and routinely
+thereafter. B
+Self-management in pediatric diabetes in-
+volves both the youth and their parents
+or adult caregivers. No matter how sound
+the medical plan is, it will only be effec-
+tive if the family and/or affected individu-
+als can implement it. Family involvement
+is a vital component of optimal diabetes
+management throughout childhood and
+adolescence. As parents or caregivers are
+critical to diabetes self-management in
+youth, diabetes care requires an approach
+that places the youth and their parents or
+caregivers at the center of the care model.
+The pediatric diabetes care team must be
+capable of evaluating the educational,
+behavioral, emotional, and psychosocial
+factors that impact treatment plan im-
+plementation and must work with the
+youth and family to overcome barriers
+or redeﬁne goals as appropriate. As the
+youth grows, develops, and acquires the
+need and desire for greater independent
+self-care skills, DSMES requires periodic
+and routine (e.g., at each follow-up visit)
+reassessment.The pediatric diabetes team
+should work with the youth and their pa-
+rents or caregivers to ensure there is not a
+premature transfer of self-management
+tasks to the youth during this time. In addi-
+tion, it is important to assess the educa-
+tional needs and skills of, and provide
+training to, daycare workers, school nurses,
+and school personnel who are responsible
+for the care and supervision of the child
+with diabetes (2,10,11).
+Nutrition Therapy
 Recommendations
-5.58 Cognitive capacity should be
-monitored throughout the life span
-for all individuals with diabetes, partic-
-ularly in those who have documented
-cognitive disabilities, those who experi-
-ence severe hypoglycemia, very young
-children, and older adults. B
-5.59 If cognitive capacity changes or
-appears to be suboptimal for decision-
-making and/or behavioral self-manage-
-ment, referral for a formal assessment
-should be considered. E
-Cognitive capacity is generally deﬁned
-as attention, memory, logic and reason-
-ing, and auditory and visual processing,
-all of which are involved in diabetes
-self-management behavior (480) (see
-Tables 5.7 and 5.8). Long-term diabetes
-(type 1 or type 2) has been associated
-with cognitive decline (481,482). In peo-
-ple with type 1 diabetes, the following
-factors have been linked with cognitive im-
-pairment: diabetes-speciﬁc factors (e.g.,
-younger age at diagnosis, longer disease
-duration, more time in glycemic extremes,
-recurrent DKA, higher A1C, and presence of
-microvascular complications), other medi-
-cal factors (e.g., dyslipidemia, intestinal
-ﬂora, and poorer sleep quality), and socio-
-demographic factors (e.g., female sex and
-lower educational level) (483). Diagnosis of
-dementia is more prevalent among people
-with diabetes, both type 1 and type 2
-(484). Executive functioning is an aspect
-of cognitive capacity that has particular
-relevance to diabetes management. De-
-clines in cognitive capacity have been
-shown to affect executive function and in-
-formation processing speed; they are not
-consistent between people, and evidence
-is lacking regarding a known course of de-
-cline (485).
-Attention deﬁcit hyperactivity disor-
-der, which involves deﬁcits in executive
-functions, has been linked with twice
-the risk of type 2 diabetes (486). Among
-youth and young adults with type 1 dia-
-betes, lower executive functioning has
-been linked with more difﬁculties with
-diabetes self-management and higher
-A1C (487). In contrast, higher self-regula-
-tion has been linked with improved emo-
-tional and diabetes-speciﬁc functioning
-(488). Thus, monitoring cognitive capacity
-and skills among individuals with or at
-risk for diabetes is recommended, partic-
-ularly regarding their ability to self-moni-
-tor and make judgments about their
-symptoms, physical status, and needed
-adjustments to their self-management
-behaviors, all of which are mediated by
-executive function (484).
-As with other disorders affecting mental
-capacity (e.g., major psychiatric disorders),
-the key issue is whether the person can
-collaborate with the care team to achieve
-optimal metabolic outcomes and prevent
-complications, both short term and long
-term (476). When cognitive ability is al-
-tered, declining, or absent, a lay care pro-
-fessional should be introduced into the
-care team to serve in the capacity of a
-day-to-day monitor as well as a liaison to
-the care team (1). Cognitive capacity also
-contributes to the ability to beneﬁt from
-DSMES and may indicate the need for al-
-ternative teaching approaches as well as
-remote monitoring. Youth will need sec-
-ond-party monitoring (e.g., parents and
-adult caregivers) until they are develop-
-mentally able to evaluate necessary infor-
-mation for self-management decisions and
-to inform resultant behavior changes.
-Episodes of severe hypoglycemia are
-independently associated with cognitive
-decline as well as the more immediate
-symptoms of mental confusion (489).
-Early-onset type 1 diabetes is associated
-with potential long-term deﬁcits in intel-
-lectual abilities, especially in the context
-of repeated episodes of severe hypoglyce-
-mia (490), and is correlated with higher
-A1C and sensor glucose values (491) (See
-Section 14, “Children and Adolescents,”
-for information on early-onset diabetes
-and cognitive abilities and the effects of
-severe hypoglycemia on children’s cogni-
-tive and academic performance). Thus,
-for myriad reasons, cognitive capacity
-should be assessed during routine care
-to ascertain the person’s ability to maintain
-and adjust self-management behaviors,
-S112
-Facilitating Positive Health Behaviors and Well-being
+14.2 Individualized medical nutrition
+therapy (MNT) is recommended for
+youth with type 1 diabetes as an es-
+sential component of the overall treat-
+ment plan. A
+14.3 Monitoring carbohydrate intake,
+whether by carbohydrate counting or
+experience-based estimation, is a key
+component to optimizing glycemic
+management. B
+14.4 Advise youth with type 1 diabe-
+tes and their caregivers to strive for
+an eating pattern emphasizing key nu-
+trition principles (including nonstarchy
+vegetables, whole fruits, legumes, ﬁsh
+and other lean protein, whole grains,
+nuts and seeds, and low-fat dairy
+products, and minimize consump-
+tion of red meat, sugar-sweetened
+beverages, sweets, reﬁned grains, and
+processed foods). B
+14.5 Meal composition impacts post-
+prandial glucose excursions. Educa-
+tion on the impact of high-fat and
+high-protein meals and the adjust-
+ment of insulin dosing is necessary. A
+14.6 Strongly advise comprehensive
+nutrition education at diagnosis, and
+at least annually as needed, by an
+experienced registered dietitian nutri-
+tionist to assess the eating pattern in
+relation to weight status, age-appro-
+priate growth, and cardiovascular dis-
+ease risk factors. E
+Nutrition management should be indi-
+vidualized: family habits, food preferen-
+ces, religious or cultural needs, ﬁnances,
+schedules, physical activity, and the youth’s
+and family’s abilities in numeracy, literacy,
+and self-management should be consid-
+ered.Visits with a registered dietitian nutri-
+tionist, preferably experienced in working
+with pediatric populations with diabetes,
+should include assessment for changes in
+food preferences over time, access to food,
+growth and development, weight status,
+cardiovascular risk, and potential for dis-
+ordered eating. Following recommended
+eating patterns is associated with better
+glycemic outcomes in youth with type 1
+diabetes (12).
+Although carbohydrate content is the
+primary variable for calculation of meal-
+time insulin doses, meals with higher fat
+and protein content can cause early
+hypoglycemia and delayed postprandial
+glucose excursions. Some adjustments in
+insulin dosing, including an increase in
+the calculated dose and a split dose, will
+improve postprandial glucose manage-
+ment (13–17).
+Physical Activity and Exercise
+Recommendations
+14.7 Physical activity is recommended
+for all youth with type 1 diabetes with
+the goal of 60 min of moderate- to
+vigorous-intensity aerobic activity daily,
+with vigorous muscle-strengthening and
+bone-strengthening activities at least
+3 days per week. C
+14.8 Advise frequent glucose monitor-
+ing before, during, and after exercise,
+S286
+Children and Adolescents
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
-such as dosing of medications, remediation
-approaches to glycemic excursions, etc.,
-and to determine whether to enlist a care-
-giver in monitoring and decision-making re-
-garding management behaviors. If cognitive
-capacity to conduct self-management be-
-haviors is questioned, an age-appropriate
-test of cognitive capacity is recommended
-(1). Cognitive capacity should be evaluated
-in the context of the person’s age, such as
-in very young children who are not ex-
-pected to manage their disease indepen-
-dently and in older adults who may
-require active monitoring of treatment
-plan behaviors.
-Cognitive decline is more severe in older
-adults with type 2 diabetes (492). Longitu-
-dinal epidemiological studies have docu-
-mented that chronic hyperglycemia, acute
-glucose variability, older age, less educa-
-tion, retinopathy, and nephropathy are as-
-sociated with diabetes-related cognitive
-dysfunction (493,494). Importantly, the
-risk of cognitive decline can be reduced
-through improved A1C (495). Further, glu-
-cose-lowering treatments may decrease
-the risk of cognitive decline. A systematic
-review and network meta-analysis showed
-that treatment with SGLT2 inhibitors and
-GLP-1 RAs had a decreased risk for cogni-
-tive impairment, whereas sulfonylureas
-had the highest increased risk for cognitive
-impairment (496). Additionally, exercise
-may be a potential nonpharmacologic
-treatment pathway for cognitive im-
-pairment in older adults with type 2 di-
-abetes (497).
-Sleep Health
-Recommendations
-5.60 Consider screening for sleep health
-in people with diabetes, including symp-
-toms of sleep disorders, disruptions to
-sleep due to diabetes symptoms or
-management needs, and worries about
-sleep. Refer to sleep medicine specialists
-and/or qualiﬁed behavioral health pro-
-fessionals as indicated. B
-5.61 Counsel people with diabetes to
-practice sleep-promoting routines and
-habits. A
-The associations between sleep problems
-and diabetes are complex: sleep disorders
-are a risk factor for developing type 2 dia-
-betes (498,499) and possibly gestational
-diabetes mellitus (500). People with dia-
-betes across the life span often experi-
-ence sleep disruptions and reduced sleep
-quality (501,502), and sleep problems are
-also common in parents of youth with di-
-abetes, especially soon after diagnosis
-(503,504). Disrupted sleep and sleep dis-
-orders, including obstructive sleep apnea
-(OSA) (505), insomnia, and sleep distur-
-bances (506), are common among people
-with diabetes. In type 1 diabetes, esti-
-mates of poor sleep range from 30% to
-50% (507), and estimates of moderate to
-severe OSA are >50% (505). In type 2 di-
-abetes, 24–86% of people are estimated
-to have OSA (508), 39% to have insomnia,
-and 8–45% to have restless leg syndrome
-(i.e., an uncontrollable urge to move legs)
-(509). Further, people with type 2 diabe-
-tes and restless leg syndrome are more
-likely to experience microvascular and
-macrovascular complications (510) as well
-as depression (511). Additionally, people
-with diabetes who perform shift work in-
-crease their risk for circadian rhythm dis-
-orders, which are associated with higher
-A1C (512), neuropathy (513), and de-
-creased psychological well-being (513).
-Health care professionals should consider
-a comprehensive evaluation of the daily
-lifestyles of people with diabetes to de-
-crease risk factors, including low sleep du-
-ration, shift work, and days off, given their
-associations with hyperglycemia, hyperten-
-sion, dyslipidemia, and weight gain (514).
-The high prevalence of OSA in people
-with diabetes poses signiﬁcant clinical im-
-plications for diabetes management. Sleep
-fragmentation and hypoxemia activate the
-sympathetic nervous system, contributing
-to hyperglycemia, insulin resistance, in-
-creased circulating free fatty acids, im-
-paired microcirculation, oxidative stress,
-and psychological stress (515). A systematic
-review and meta-analysis of 11 RCTs with
-964 total participants found that continu-
-ous positive airway pressure (CPAP) signiﬁ-
-cantly reduced A1C by 0.24% (95% CI
-0.43 to 0.06%, P = 0.001) (516). Simi-
-larly, a randomized proof-of-concept study
-with 30 adults with OSA and obesity com-
-pared CPAP therapy, GLP-1 RA–mediated
-weight loss, and both in combination for
-24 weeks (517). Findings showed that
-CPAP alone and in combination reduced
-apnea-hypopnea severity more than GLP-1
-RA–mediated weight loss alone. CPAP ther-
-apy also improved vascular inﬂammation
-and reduced unstable plaque volume, sug-
-gesting potential beneﬁts for early CVD.
-Two phase 3, double-blind RCTs with 469
-adults with OSA and obesity showed that a
-dual GIP and GLP-1 RA signiﬁcantly reduced
-sleep apnea severity and body weight com-
-pared with placebo after 52 weeks (518).
-More RCTs with people with diabetes are
-needed to determine the effectiveness of
-GLP-1 RAs and dual GIP and GLP-1 RAs as
-potential treatments for OSA.
-Sleep disturbances are associated with
-less engagement in diabetes self-manage-
-ment and can interfere with achieving and
-maintaining glucose levels within the goal
-range among people with type 1 and type 2
-diabetes (502,505). Risk of hypoglycemia
-poses speciﬁc challenges for sleep in people
-with type 1 diabetes and may require
-detailed assessment and treatment ap-
-proaches (519). People with type 1 dia-
-betes and their family members also
-describe diabetes management needs
-interfering with sleep and experiencing
-worries about poor sleep (520). Both
-helpful and challenging aspects of diabe-
-tes technology use have been described
-in relation to sleep (520), with the great-
-est perceived beneﬁts being related to au-
-tomated insulin delivery systems (521–523).
-For these reasons, detection and treatment
-of sleep disorders should be considered a
-part of standardized care for people with
-type 1 and type 2 diabetes.
-As for the general population, there are
-evidence-based strategies to improve sleep
-for people with diabetes. CBT shows bene-
-ﬁts for sleep in people with diabetes (390),
-including CBT for insomnia, which demon-
-strates improvements in sleep outcomes
-and possible small improvements in A1C
-(524), fasting glucose (524), and depressive
-symptoms (525). There is also evidence
-that sleep extension and pharmacologic
-treatments for sleep can improve sleep out-
-comes and possibly insulin resistance (519,
-524). Lastly, sleep education, or sleep hy-
-giene, improves sleep quality, reduces A1C,
-and decreases insulin resistance in adults
-with type 2 diabetes (526). Thus, diabetes
-care professionals are encouraged to
-counsel people with diabetes to use
-sleep-promoting routines and practices,
-such as establishing a regular bedtime
-and rise time, creating a dark, quiet
-area for sleep with temperature and hu-
-midity control, establishing a pre-sleep
-routine, putting electronic devices (ex-
-cept diabetes management devices) in
-silent/off mode, exercising during the
-day, avoiding daytime naps, limiting caf-
-feine and nicotine in the evening, avoid-
-ing spicy foods at night, and avoiding
-alcohol before bedtime (527). For peo-
-ple with diabetes who have signiﬁcant
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S113
-©AmericanDiabetesAssociation
-sleep difﬁculties, referral to sleep special-
-ists to address the medical and behavioral
-aspects of sleep is recommended, ideally
-in collaboration with the diabetes care
-team (Fig. 5.2).
-References
-1. Young-Hyman D, de Groot M, Hill-Briggs F,
-Gonzalez JS, Hood K, Peyrot M. Psychosocial care
-for people with diabetes: a position statement of
-the American Diabetes Association. Diabetes
-Care 2016;39:2126–2140
-2. Powers MA, Bardsley JK, Cypress M, et al.
-Diabetes self-management education and support
-in adults with type 2 diabetes: a consensus report of
-the American Diabetes Association, the Association
-of Diabetes Care & Education Specialists,the Academy
-of Nutrition and Dietetics, the American Academy of
-Family Physicians, the American Academy of PAs,
-the American Association of Nurse Practitioners,
-and the American Pharmacists Association. Diabetes
-Care 2020;43:1636–1649
-3. Rutten GEHM, Alzaid A. Person-centred type 2
-diabetes care: time for a paradigm shift. Lancet
-Diabetes Endocrinol 2018;6:264–266
-4. Dickinson JK, Guzman SJ, Maryniuk MD, et al.
-The use of language in diabetes care and
-education. Diabetes Care 2017;40:1790–1799
-5. Fisher L, Hessler D, Polonsky WH, et al.
-T1-REDEEM: a randomized controlled trial to
-reduce diabetes distress among adults with type 1
-diabetes. Diabetes Care 2018;41:1862–1869
-6. van der Feltz-Cornelis C, Allen SF, Holt RIG,
-Roberts R, Nouwen A, Sartorius N. Treatment for
-comorbid depressive disorder or subthreshold
-depression in diabetes mellitus: systematic review
-and meta-analysis. Brain Behav 2021;11:e01981
-7. Fitzpatrick SL, Schumann KP, Hill-Briggs F.
-Problem solving interventions for diabetes self-
-management and control: a systematic review of
-the literature. Diabetes Res Clin Pract 2013;100:
-145–161
-8. Greenwood DA, Howell F, Scher L, et al. A
-framework
-for
-optimizing
-technology-enabled
-diabetes and cardiometabolic care and education:
-the role of the diabetes care and education
-specialist. Diabetes Educ 2020;46:315–322
-9. Davis J, Fischl AH, Beck J, et al. 2022 National
-standards for diabetes self-management education
-and support. Diabetes Care 2022;45:484–494
-10. Fitzpatrick SL, Golden SH, Stewart K, et al.
-Effect of DECIDE (Decision-making Education for
-Choices In Diabetes Everyday) program delivery
-modalities on clinical and behavioral outcomes in
-urban african americans with type 2 diabetes:
-a randomized trial. Diabetes Care 2016;39:
-2149–2157
-11. Brunisholz KD, Briot P, Hamilton S, et al.
-Diabetes self-management education improves
-quality of care and clinical outcomes determined
-by a diabetes bundle measure. J Multidiscip
-Healthc 2014;7:533–542
-12. Woodard L, Amspoker AB, Hundt NE, et al.
-Comparison of collaborative goal setting with
-enhanced education for managing diabetes-
-associated distress and hemoglobin A1c levels: a
-randomized clinical trial. JAMA Netw Open 2022;
-5:e229975
-13. Cheng L, Sit JWH, Choi K-C, et al.The effects of
-an empowerment-based self-management inter-
-vention on empowerment level, psychological
-distress, and quality of life in patients with poorly
-controlled type 2 diabetes: a randomized con-
-trolled trial. Int J Nurs Stud 2021;116:103407
-14. Okeyo HM, Biddle M, Williams LB. Impact of
-diabetes self-management education on A1C
-levels among Black/African Americans: a syste-
-matic review. Sci Diabetes Self Manag Care
-2024;50:87–95
-15. Rutten GEHM, Van Vugt H, de Koning E.
-Person-centered diabetes care and patient acti-
-vation in people with type 2 diabetes. BMJ Open
-Diabetes Res Care 2020;8
-16. Li R, Shrestha SS, Lipman R, et al.; Centers for
-Disease Control and Prevention (CDC). Diabetes
-self-management education and training among
-privately insured persons with newly diagnosed
-diabetes–United States, 2011-2012. MMWR Morb
-Mortal Wkly Rep 2014;63:1045–1049
-17. Hildebrand JA, Billimek J, Lee J-A, et al. Effect
-of diabetes self-management education on gly-
-cemic control in Latino adults with type 2
-diabetes: a systematic review and meta-analysis.
-Patient Educ Couns 2020;103:266–275
-18. Rosland A-M, Piette JD, Trivedi R, et al.
-Effectiveness of a health coaching intervention
-for patient-family dyads to improve outcomes
-among adults with diabetes: a randomized
-clinical trial. JAMA Netw Open 2022;5:e2237960
-19. Chrvala CA, Sherr D, Lipman RD. Diabetes self-
-management education for adults with type 2
-diabetes mellitus: a systematic review of the effect
-on glycemic control. Patient Educ Couns 2016;99:
-926–943
-20. Bekele BB, Negash S, Bogale B, et al. Effect
-of diabetes self-management education (DSME)
-on glycated hemoglobin (HbA1c) level among
-patients with T2DM: systematic review and
-meta-analysis of randomized controlled trials.
-Diabetes Metab Syndr 2021;15:177–185
-21. Nkhoma DE, Soko CJ, Bowrin P, et al. Digital
-interventions self-management education for
-type 1 and 2 diabetes: a systematic review and
-meta-analysis. Comput Methods Programs Biomed
-2021;210:106370
-22. Odgers-Jewell K, Ball LE, Kelly JT, Isenring EA,
-Reidlinger DP, Thomas R. Effectiveness of group-
-based self-management education for individuals
-with Type 2 diabetes: a systematic review with
-meta-analyses and meta-regression. Diabet Med
-2017;34:1027–1039
-23. Winkley K, Upsher R, Stahl D, et al.
-Psychological interventions to improve self-
-management of type 1 and type 2 diabetes: a
-systematic review. Health Technol Assess 2020;
-24:1–232
-24. Davidson P, LaManna J, Davis J, et al. The
-effects of diabetes self-management education
-on quality of life for persons with type 1 diabetes:
-a systematic review of randomized controlled
-trials. Sci Diabetes Self Manag Care 2022;48:
-111–135
-25. He X, Li J, Wang B, et al. Diabetes self-
-management education reduces risk of all-cause
-mortality in type 2 diabetes patients: a sys-
-tematic review and meta-analysis. Endocrine
-2017;55:712–731
-26. Thorpe CT, Fahey LE, Johnson H, Deshpande
-M, Thorpe JM, Fisher EB. Facilitating healthy
-coping in patients with diabetes: a systematic
-review. Diabetes Educ 2013;39:33–52
-27. Robbins JM, Thatcher GE, Webb DA,
-Valdmanis VG. Nutritionist visits, diabetes classes,
-and hospitalization rates and charges: the Urban
-Diabetes Study. Diabetes Care 2008;31:655–660
-28. Duncan I, Ahmed T, Li QE, et al. Assessing
-the value of the diabetes educator. Diabetes
-Educ 2011;37:638–657
-29. Strawbridge LM, Lloyd JT, Meadow A, Riley
-GF, Howell BL. One-year outcomes of diabetes
-self-management training among medicare bene-
-ﬁciaries newly diagnosed with diabetes. Med Care
-2017;55:391–397
-30. Al Harbi SS, Alajmi MM, Algabbas SM, Alharbi
-MS. The comparison of self-management group
-education and the standard care for patients with
-type 2 diabetes mellitus: an updated systematic
-review and meta-analysis. J Family Med Prim Care
-2022;11:4299–4309
-31. Cruz-Cobo C, Santi-Cano MJ. Efﬁcacy of
-diabetes education in adults with diabetes
-mellitus type 2 in primary care: a systematic
-review. J Nurs Scholarsh 2020;52:155–163
-32. Dallosso H, Mandalia P, Gray LJ, et al. The
-effectiveness of a structured group education
-programme for people with established type 2
-diabetes in a multi-ethnic population in primary
-care: a cluster randomised trial. Nutr Metab
-Cardiovasc Dis 2022;32:1549–1559
-33. Lu JB, Danko KJ, Elfassy MD, Welch V,
-Grimshaw JM, Ivers NM. Do quality improvement
-initiatives
-for
-diabetes
-care
-address
-social
-inequities? Secondary analysis of a systematic
-review. BMJ Open 2018;8:e018826
-34. Attridge M, Creamer J, Ramsden M, Cannings-
-John R, Hawthorne K. Culturally appropriate health
-education for people in ethnic minority groups
-with type 2 diabetes mellitus. Cochrane Database
-Syst Rev 2014;2014:CD006424
-35. Chodosh J, Morton SC, Mojica W, et al.
-Meta-analysis: chronic disease self-management
-programs for older adults. Ann Intern Med 2005;
-143:427–438
-36. Sarkisian CA, Brown AF, Norris KC, Wintz RL,
-Mangione CM. A systematic review of diabetes
-self-care interventions for older, African American,
-or Latino adults. Diabetes Educ 2003;29:467–479
-37. Peyrot M, Rubin RR. Behavioral and psy-
-chosocial interventions in diabetes: a con-ceptual
-review. Diabetes Care 2007;30:2433–2440
-38. Naik AD, Palmer N, Petersen NJ, et al.
-Comparative effectiveness of goal setting in
-diabetes mellitus
-group
-clinics: randomized
-clinical trial. Arch Intern Med 2011;171:453–459
-39. Mannucci E, Giaccari A, Gallo M, et al. Self-
-management in patients with type 2 diabetes:
-group-based versus individual education. A sys-
-tematic review with meta-analysis of randomized
-trails. Nutr Metab Cardiovasc Dis 2022;32:330–336
-40. Almutairi N, Hosseinzadeh H, Gopaldasani V.
-The effectiveness of patient activation intervention
-on type 2 diabetes mellitus glycemic control and
-self-management behaviors: a systematic review
-of RCTs. Prim Care Diabetes 2020;14:12–20
-41. Seo Y-C, Yong SY, Choi WW, Kim SH. Meta-
-analysis of studies on the effects of digital
-therapeutics. J Pers Med 2024;14
-42. Eberle C, Stichling S. Clinical improvements
-by telemedicine interventions managing type 1
-and type 2 diabetes: systematic meta-review. J
-Med Internet Res 2021;23:e23244
-43. Moschonis G, Siopis G, Jung J, et al.;
-DigiCare4You
-Consortium.
-Effectiveness,
-reach,
-uptake, and feasibility of digital health interventions
-for adults with type 2 diabetes: a systematic review
-S114
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-and meta-analysis of randomised controlled trials.
-Lancet Digit Health 2023;5:e125–e143
-44. Anderson
-A,
-O’Connell
-SS, Thomas
-C,
-Chimmanamada R. Telehealth interventions to
-improve diabetes management among Black and
-Hispanic patients: a systematic review and meta-
-analysis. J Racial Ethn Health Disparities 2022;9:
-2375–2386
-45. Sherifali D, Brozic A, Agema P, et al. Effect of
-diabetes health coaching on glycemic control and
-quality of life in adults living with type 2 diabetes:
-a community-based, randomized, controlled trial.
-Can J Diabetes 2021;45:594–600
-46. Gershkowitz BD, Hillert CJ, Crotty BH. Digital
-coaching strategies to facilitate behavioral change
-in type 2 diabetes: a systematic review. J Clin
-Endocrinol Metab 2021;106:e1513–e1520
-47. Lee M-K, Lee DY, Ahn H-Y, Park C-Y. A novel
-user utility score for diabetes management using
-tailored mobile coaching: secondary analysis of a
-randomized controlled trial. JMIR Mhealth Uhealth
-2021;9:e17573
-48. van Eikenhorst L, Taxis K, van Dijk L, de Gier H.
-Pharmacist-led self-management interventions to
-improve diabetes outcomes. a systematic literature
-review and meta-analysis. Front Pharmacol 2017;
-8:891
-49. Tshiananga JKT, Kocher S, Weber C, Erny-
-Albrecht K, Berndt K, Neeser K. The effect of
-nurse-led diabetes self-management education
-on glycosylated hemoglobin and cardiovascular
-risk factors: a meta-analysis. Diabetes Educ 2012;
-38:108–123
-50. Evert AB, Dennison M, Gardner CD, et al.
-Nutrition therapy for adults with diabetes or
-prediabetes: a consensus report. Diabetes Care
-2019;42:731–754
-51. Scalzo P. From the Association of Diabetes
-Care & Education Specialists: the role of the
-diabetes care and education specialist as a
-champion of technology integration. Sci Diabetes
-Self Manag Care 2021;47:120–123
-52. Rodriguez K, Ryan D, Dickinson JK, Phan V.
-Improving quality outcomes: the value of diabetes
-care and education specialists. Clin Diabetes 2022;
-40:356–365
-53. Litchman ML, Oser TK, Hodgson L, et al. In-
-person and technology-mediated peer support in
-diabetes care: a systematic review of reviews and
-gap analysis. Diabetes Educ 2020;46:230–241
-54. Evans J, White P, Ha H. Evaluating the
-effectiveness of community health worker inter-
-ventions on glycaemic control in type 2 diabetes:
-a systematic review and meta-analysis. Lancet
-2023;402(Suppl. 1):S40
-55. Mendez
-I,
-Lundeen
-EA,
-Saunders
-M,
-Williams A, Saaddine J, Albright A. Diabetes self-
-management education and association with
-diabetes self-care and clinical preventive care
-practices. Sci Diabetes Self Manag Care 2022;
-48:23–34
-56. Horigan G, Davies M, Findlay-White F, Chaney
-D, Coates V. Reasons why patients referred to
-diabetes education programmes choose not to
-attend: a systematic review. Diabet Med 2017;34:
-14–26
-57. Roth SE, Gronowski B, Jones KG, et al.
-Evaluation of an integrated intervention to
-address clinical care and social needs among
-patients with type 2 diabetes. J Gen Intern Med
-2023;38:38–44
-58. Greenwood DA, Gee PM, Fatkin KJ, Peeples
-M. A Systematic review of reviews evaluating
-technology-enabled diabetes self-management
-education and support. J Diabetes Sci Technol
-2017;11:1015–1027
-59. Liang K, Xie Q, Nie J, Deng J. Study on the
-effect of education for insulin injection in diabetic
-patients with new simulation tools. Medicine
-(Baltimore) 2021;100:e25424
-60. Powell RE, Zaccardi F, Beebe C, et al.
-Strategies for overcoming therapeutic inertia in
-type 2 diabetes: a systematic review and meta-
-analysis. Diabetes Obes Metab 2021;23:2137–
-2154
-61. Johnson CM, D’Eramo Melkus G, Reagan L,
-et al. Learning in a virtual environment to
-improve type 2 diabetes outcomes: randomized
-controlled trial. JMIR Form Res 2023;7:e40359
-62. Center For Health Law and Policy Innovation.
-Reconsidering
-cost-sharing
-for
-diabetes
-self-
-management education: recommendations for
-policy reform. Accessed 13 August 2024. Available
-from https://chlpi.org/wp-content/uploads/2015/
-07/6.11.15-Reconsidering-Cost-Sharing-for-DSME-
-cover.jpg
-63. Turner RM, Ma Q, Lorig K, Greenberg J,
-DeVries AR. Evaluation of a diabetes self-
-management program: claims analysis on co-
-morbid illnesses, health care utilization, and cost.
-J Med Internet Res 2018;20:e207
-64. Strategies to Enhance New CGM Use in Early
-Childhood (SENCE) Study Group. A randomized
-clinical trial assessing continuous glucose moni-
-toring (CGM) use with standardized education with
-or without a family behavioral intervention com-
-pared with ﬁngerstick blood glucose monitoring in
-very young children with type 1 diabetes. Diabetes
-Care 2021;44:464–472
-65. Aronson R, Brown RE, Chu L, et al. IMpact of
-ﬂash glucose Monitoring in pEople with type 2
-Diabetes Inadequately controlled with non-insulin
-Antihyperglycaemic ThErapy (IMMEDIATE): a ran-
-domized controlled trial. Diabetes Obes Metab
-2023;25:1024–1031
-66. Patil SP, Albanese-O’Neill A, Yehl K, Seley JJ,
-Hughes AS. Professional competencies for diabetes
-technology use in the care setting. Sci Diabetes Self
-Manag Care 2022;48:437–445
-67. Greenwood DA, Litchman ML, Isaacs D, et al.
-A new taxonomy for technology-enabled diabetes
-self-management interventions: results of an
-umbrella review. J Diabetes Sci Technol 2022;16:
-812–824
-68. Association for Diabetes Care & Education
-Specialists. Diabetes technology resources for
-healthcare professionals. Accessed 13 September
-2024. Available from https://www.adces.org/
-education/danatech/home
-69. H.R.2617 - 117th Congress (2021-2022):
-Consolidated Appropriations Act, 2023. (2022,
-December
-29).
-Accessed
-13
-August
-2024.
-Available from https://www.congress.gov/bill/
-117th-congress/house-bill/2617/text
-70. Federal Register. Medicare and Medicaid
-Programs; CY 2025 Payment Policies Under the
-Physician Fee Schedule and Other Changes to
-Part B Payment and Coverage Policies; Medicare
-Shared Savings Program Requirements; Medicare
-Prescription Drug Inﬂation Rebate Program; and
-Medicare Overpayments. Accessed 7 September
-2024. Available from https://www.federalregister.
-gov/documents/2024/07/31/2024-14828/medicare-
-and-medicaid-programs-cy-2025-payment-policies-
-under-the-physician-fee-schedule-and-other
-71. American Diabetes Association. Standards of
-medical care for patients with diabetes mellitus.
-Diabetes Care 1989;12:365–368
-72. Lichtenstein AH, Appel LJ, Vadiveloo M, et al.
-2021 Dietary guidance to improve cardiovascular
-health: a scientiﬁc statement from the American
-Heart Association. Circulation 2021;144:e472–e487
-73. Levin A, Ahmed SB, Carrero JJ, et al.
-Executive summary of the KDIGO 2024 Clinical
-Practice
-Guideline
-for
-the
-Evaluation
+
+via blood glucose meter and/or con-
+tinuous glucose monitoring (CGM), to
+prevent, detect, and treat hypoglyce-
+mia
 and
-Management of Chronic Kidney Disease: known
-knowns and known unknowns. Kidney Int 2024;
-105:684–701
-74. Holt RIG, DeVries JH, Hess-Fischl A, et al.The
-management of type 1 diabetes in adults. a
-consensus report by the American Diabetes
-Association (ADA) and the European Association
-for the Study of Diabetes (EASD). Diabetes Care
-2021;44:2589–2625
-75. Davies MJ, Aroda VR, Collins BS, et al.
-Management of hyperglycemia in type 2 dia-
-betes, 2022. A consensus report by the American
-Diabetes Association (ADA) and the European
-Association for the Study of Diabetes (EASD).
-Diabetes Care 2022;45:2753–2786
-76. U.S. Department of Agriculture and U.S.
-Department of Health and Human Services.
-Dietary Guidelines for Americans, 2020–2025. 9th
-ed. 2020. Accessed 13 August 2024. Available from
-https://www.dietaryguidelines.gov/sites/default/
-ﬁles/2021-03/Dietary_Guidelines_for_Americans-
-2020-2025.pdf
-77. Forouhi NG. Embracing complexity: making
-sense of diet, nutrition, obesity and type 2
-diabetes. Diabetologia 2023;66:786–799
-78. Franz MJ, MacLeod J, Evert A, et al. Academy
-of Nutrition and Dietetics Nutrition practice
-guideline for type 1 and type 2 diabetes in adults:
-systematic review of evidence for medical nutrition
-therapy effectiveness and recommendations for
-integration into the nutrition care process. J Acad
-Nutr Diet 2017;117:1659–1679
-79. Davies MJ, D’Alessio DA, Fradkin J, et al.
-Management
-of
 hyperglycemia
-in
-type
-2
-diabetes, 2018. A consensus report by the
-American Diabetes Association (ADA) and the
-European Association for the Study of Diabetes
-(EASD). Diabetes Care 2018;41:2669–2701
-80. Marincic PZ, Salazar MV, Hardin A, et al.
-Diabetes self-management education and medical
-nutrition therapy: a multisite study documenting
-the efﬁcacy of registered dietitian nutritionist
-interventions in the management of glycemic
-control and diabetic dyslipidemia through retro-
-spective chart review. J Acad Nutr Diet 2019;119:
-449–463
-81. Briggs Early K, Stanley K. Position of the
-Academy of Nutrition and Dietetics: the role of
-medical nutrition therapy and registered dietitian
-nutritionists in the prevention and treatment of
-prediabetes and type 2 diabetes. J Acad Nutr Diet
-2018;118:343–353
-82. Dobrow L, Estrada I, Burkholder-Cooley N,
-Miklavcic J. Potential effectiveness of registered
-dietitian nutritionists in healthy behavior inter-
-ventions for managing type 2 diabetes in older
-adults: a systematic review. Front Nutr 2021;8:
-737410
-83. Academy of Nutrition and Dietetics Eat Right
-PRO. Referrals to an RDN: primary care provider
+associated
+with exercise. C
+14.9 Youth and their parents or
+caregivers should receive education
+on goals and management of glyce-
+mia before, during, and after physi-
+cal activity, individualized according
+to the type and intensity of the
+planned physical activity. C
+14.10 Youth and their parents or care-
+givers should be educated on strate-
+gies to prevent hypoglycemia during,
+after, and overnight following physical
+activity and exercise. Treatment for
+hypoglycemia should be accessible
+before, during, and after engaging in
+activity. C
+Physical activity and structured exercise
+positively impact metabolic and psycho-
+logical health in children with type 1 dia-
+betes (18). While it can have positive
+effects on insulin sensitivity, physical ﬁt-
+ness, strength building, cardiorespiratory
+ﬁtness, weight management, social inter-
+action, mood, self-esteem building, and
+the creation of healthful habits for adult-
+hood, it also has the potential to cause
+both hypoglycemia and hyperglycemia.
+See below for strategies to mitigate
+hypoglycemia risk and minimize hypergly-
+cemia associated with exercise. For an
+in-depth discussion, see previously pub-
+lished reviews and guidelines (19–23).
+Overall, it is recommended that all
+youth participate in 60 min of moderate-
+intensity (e.g., brisk walking and dancing)
+to vigorous-intensity (e.g., running and
+jumping rope) aerobic activity daily, in-
+cluding resistance and ﬂexibility training
+(24). Although uncommon in the pediat-
+ric population, youth should be medically
+evaluated for comorbid conditions or
+diabetes complications that may restrict
+participation in an exercise program. As
+hyperglycemia can occur before, during,
+and after physical activity, it is important
+to ensure the elevated glucose level is
+not related to insulin deﬁciency, as that
+can lead to worsening hyperglycemia
+with exercise and ketosis risk. Intense ac-
+tivity should be postponed with marked
+hyperglycemia (glucose $350 mg/dL
+[$19.4 mmol/L]), moderate to large urine
+ketones, and/or b-hydroxybutyrate (B-OHB)
+>1.5 mmol/L. Caution may be needed
+when B-OHB levels are $0.6 mmol/L
+(12,19).
+Prevention and treatment of hypogly-
+cemia associated with physical activity
+includes decreasing prandial insulin for
+the meal or snack before exercise and/or
+increasing food intake. Youth on insulin
+pumps without automated insulin delivery
+(AID) can lower basal rates by 10–50%
+or more or suspend for 1–2 h during ex-
+ercise (25). Decreasing basal rates or
+long-acting insulin doses by 20% after
+exercise may reduce delayed exercise-
+induced hypoglycemia (26). Accessible
+rapid-acting carbohydrates and frequent
+blood glucose monitoring before, during,
+and after exercise, with or without contin-
+uous glucose monitoring (CGM), maxi-
+mize safety with exercise. Using AID
+systems may improve time in range (TIR)
+(70–180 mg/dL) during exercise, and
+youth can use brand-speciﬁc settings that
+are more conservative or increase the gly-
+cemic goal to prevent hypoglycemia (27).
+Blood glucose goals prior to physical
+activity and exercise are 126–180 mg/dL
+(7.0–10.0 mmol/L) but should be individu-
+alized based on the type, intensity, and
+duration of activity (19,21). The accuracy
+of CGM systems varies depending on the
+type of exercise (28–30). Consider addi-
+tional carbohydrate intake during and/or
+after exercise, depending on duration and
+intensity of physical activity, to prevent
+hypoglycemia. For low- to moderate-
+intensity aerobic activities (30–60 min),
+and if the youth is fasting, 10–15 g of car-
+bohydrate may prevent hypoglycemia (21).
+After insulin boluses (relative hyperinsuli-
+nemia), consider 0.5–1.0 g of carbohy-
+drates/kg per hour of exercise (30–60 g),
+similar to carbohydrate requirements for
+optimizing performance in athletes with-
+out type 1 diabetes (31,32).
+For children and adolescents with
+type 1 diabetes and obesity, physical ac-
+tivity and exercise are key components
+of diabetes care. Obesity is equally com-
+mon in youth with or without type 1 dia-
+betes. Having obesity is associated with
+a higher frequency of cardiovascular risk
+factors, and it disproportionately affects
+youth from racial and ethnic minoritized
+groups (e.g., Black and Latino youth)
+(9,33–36). Therefore,
+diabetes
+health
+care professionals should monitor weight
+status and encourage a healthy eating
+pattern, physical activity, and healthy
+weight as key components of pediatric
+type 1 diabetes care.
+School and Child Care
+As a large portion of a youth’s day is
+spent in school and/or daycare, training
+of school or daycare personnel to provide
+care in accordance with the child’s indi-
+vidualized diabetes medical management
+plan is essential for optimal diabetes
+management and safe access to all
+school- or daycare–sponsored opportuni-
+ties (11,37,38). In addition, federal and
+state laws require schools, daycare facili-
+ties, and other entities to provide needed
+diabetes care to enable the child to
+safely access the school or daycare envi-
+ronment. Refer to the ADA position
+statements “Diabetes Care in the School
+Setting” (11) and “Care of Young Chil-
+dren With Diabetes in the Childcare and
+Community Setting” (38) and the ADA’s
+Safe at School website (diabetes.org/
+resources/know-your-rights/safe-at-school-
+state-laws) for additional details.
+Psychosocial Care
+Recommendations
+14.11 At diagnosis and during rou-
+tine follow-up care, screen youth
+with type 1 diabetes for psychosocial
+concerns (e.g., diabetes distress, depres-
+sive symptoms, and disordered eating),
+family factors, and behavioral health
+concerns that could impact diabetes
+management with age-appropriate
+standardized and validated tools. Refer
+to a qualiﬁed behavioral health profes-
+sional, preferably experienced in child-
+hood diabetes, when indicated. B
+14.12 Behavioral health professio-
+nals should be considered integral
+members of the pediatric diabetes
+interprofessional team. E
+14.13 Encourage developmentally ap-
+propriate family involvement in dia-
+betes management tasks for children
+and adolescents, recognizing that pre-
+mature or unsupportive transfer of di-
+abetes care responsibility to the youth
+can contribute to diabetes distress,
+lower engagement in diabetes self-
+management behaviors, and deterio-
+ration in glycemia. A
+14.14 Health care professionals should
+screen for food security, housing stabil-
+ity, health literacy, ﬁnancial barriers,
+and social or community support and
+apply that information to treatment de-
+cisions. E
+14.15 Health care professionals should
+consider asking youth and their parents
 diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S115
+Children and Adolescents
+S287
 ©AmericanDiabetesAssociation
-toolkit. Accessed 13 August 2024. Available from
-https://www.eatrightpro.org/referrals-to-an-rdn-
-primary-care-provider-toolkit
-84. Evert AB, Chomko M. Nutrition therapy. In
-The Art and Science of Diabetes Care and
-Education. 6th ed. Cornell S, Miller K, Urbanski P,
-Eds. Association of Diabetes Care & Education
-Specialists, 2023, p. 455-484
-85. Salvia
-MG,
-Quatromoni
-PA.
-Behavioral
-approaches to nutrition and eating patterns for
-managing type 2 diabetes: A review. Am J Med
-Open 2023;9:100034
-86. Schwingshackl L, Schwedhelm C, Hoffmann G,
-et al. Food groups and risk of all-cause mortality: a
-systematic review and meta-analysis of prospective
-studies. Am J Clin Nutr 2017;105:1462–1473
-87. Benson G, Hayes J. An update on the
-Mediterranean, vegetarian, and DASH eating
-patterns in people with type 2 diabetes. Diabetes
-Spectr 2020;33:125–132
-88. Ge L, Sadeghirad B, Ball GDC, et al.
-Comparison of dietary macronutrient patterns of
-14 popular named dietary programmes for
-weight and cardiovascular risk factor reduction in
-adults: systematic review and network meta-
-analysis of randomised trials. BMJ 2020;369:
-m696
-89. Bonekamp NE, van Damme I, Geleijnse JM,
-et al. Effect of dietary patterns on cardiovascular
-risk factors in people with type 2 diabetes. A
-systematic review and network meta-analysis.
-Diabetes Res Clin Pract 2023;195:110207
-90. Builes-Monta~no CE, Ortiz-Cano NA, Ramirez-
-Rincon A, Rojas-Henao NA. Efﬁcacy and safety of
-carbohydrate counting versus other forms of
-dietary advice in patients with type 1 diabetes
-mellitus: a systematic review and meta-analysis
-of randomised clinical trials. J Hum Nutr Diet
-2022;35:1030–1042
-91. Witkow S, Liberty IF, Goloub I, et al. Sim-
-plifying carb counting: a randomized controlled
-study - feasibility and efﬁcacy of an individualized,
-simple, patient-centred carb counting tool. Endo-
-crinol Diabetes Metab 2023;6:e411
-92. Haidar A, Legault L, Raffray M, et al. A
-randomized crossover trial to compare automated
-insulin delivery (the artiﬁcial pancreas) with carbo-
-hydrate counting or simpliﬁed qualitative meal-size
-estimation in type 1 diabetes. Diabetes Care 2023;
-46:1372–1378
-93. Joubert M, Meyer L, Doriot A, Dreves B,
-Jeandidier N, Reznik Y. Prospective independent
-evaluation of the carbohydrate counting accuracy
-of two smartphone applications. Diabetes Ther
-2021;12:1809–1820
-94. Vasiloglou MF, Mougiakakou S, Aubry E,
-et al. A comparative study on carbohydrate
-estimation: GoCARB vs. dietitians. Nutrients 2018;
-10:741
-95. Bowen ME, Cavanaugh KL,Wolff K, et al.The
-diabetes nutrition education study randomized
-controlled trial: a comparative effectiveness
-study of approaches to nutrition in diabetes self-
-management education. Patient Educ Couns
-2016;99:1368–1376
-96. American Diabetes Association. Nutrition
-for Life: Diabetes Plate Method. Accessed 11
-September
-2024.
-Available
-from
-https://
-professional.diabetes.org/sites/dpro/ﬁles/2023-12/
-plan_your_plate.pdf
-97. Krause C, Sommerhalder K, Beer-Borst S,
-Abel T. Just a subtle difference? Findings from a
-systematic review on deﬁnitions of nutrition
-literacy and food literacy. Health Promot Int
-2018;33:378–389
-98. Food Literacy Center. What is food literacy?
-Accessed 13 August 2024. Available from https://
-www.foodliteracycenter.org/about
-99. Walker GS, Chen JY, Hopkinson H, Sainsbury
-CAR, Jones GC. Structured education using Dose
-Adjustment for Normal Eating (DAFNE) reduces
-long-term HbA1c and HbA1c variability. Diabet
-Med 2018;35:745–749
-100. Delahanty LM, Nathan DM, Lachin JM,
-et al.; Diabetes Control and Complications Trial/
-Epidemiology of Diabetes. Association of diet with
-glycated hemoglobin during intensive treatment of
-type 1 diabetes in the Diabetes Control and
-Complications Trial. Am J Clin Nutr 2009;89:
-518–524
-101. Kirkpatrick CF, Bolick JP, Kris-Etherton
-PM, et al. Review of current evidence and
-clinical recommendations on the effects of
-low-carbohydrate and very-low-carbohydrate
-(including ketogenic) diets for the management of
-body weight and other cardiometabolic risk
-factors: a scientiﬁc statement from the National
-Lipid Association Nutrition and Lifestyle Task Force.
-J Clin Lipidol 2019;13:689–711.e1 e681
-102. Goldenberg JZ, Day A, Brinkworth GD, et al.
-Efﬁcacy and safety of low and very low car-
-bohydrate diets for type 2 diabetes remission:
-systematic review and meta-analysis of published
-and unpublished randomized trial data. BMJ
-2021;372:m4743
-103. Schwingshackl L, Chaimani A, Hoffmann G,
-Schwedhelm C, Boeing H. A network meta-
-analysis on the comparative efﬁcacy of different
-dietary approaches on glycaemic control in
-patients with type 2 diabetes mellitus. Eur J
-Epidemiol 2018;33:157–170
-104. Sacks FM, Bray GA, Carey VJ, et al.
-Comparison of weight-loss diets with different
-compositions of fat, protein, and carbohydrates.
-N Engl J Med 2009;360:859–873
-105. Gardner CD, Landry MJ, Perelman D, et al.
-Effect of a ketogenic diet versus Mediterranean
-diet on glycated hemoglobin in individuals with
-prediabetes and type 2 diabetes mellitus: The
-interventional Keto-Med randomized crossover
-trial. Am J Clin Nutr 2022;116:640–652
-106. Chiavaroli L, Lee D, Ahmed A, et al. Effect of
-low glycaemic index or load dietary patterns on
-glycaemic control and cardiometabolic risk factors
-in diabetes: systematic review and meta-analysis
-of randomised controlled trials. BMJ 2021;374:
-n1651
-107. Athinarayanan SJ, Adams RN, Hallberg SJ,
-et al. Long-term effects of a novel continuous
-remote care intervention including nutritional
-ketosis for the management of type 2 diabetes: a
-2-year non-randomized clinical trial. Front Endo-
-crinol (Lausanne) 2019;10:348
-108. Saslow LR, Daubenmier JJ, Moskowitz JT,
-et al. Twelve-month outcomes of a randomized
-trial of a moderate-carbohydrate versus very low-
-carbohydrate diet in overweight adults with type 2
-diabetes mellitus or prediabetes. Nutr Diabetes
-2017;7:304
-109. Korsmo-Haugen H-K, Brurberg KG, Mann J,
-Aas A-M. Carbohydrate quantity in the dietary
-management of type 2 diabetes: a systematic
-review and meta-analysis. Diabetes Obes Metab
-2019;21:15–27
-110. U.S. Food and Drug Administration. FDA
-revises labels of SGLT2 inhibitors for diabetes to
-include warnings about too much acid in the
-blood
-and
-serious
+
+or caregivers about social adjustment
+(peer relationships) and school perfor-
+mance to determine whether further
+intervention is needed. B
+14.16 Offer adolescents time by them-
+selves with their health care professio-
+nal(s) at a developmentally appropriate
+age. E
+14.17 Starting at puberty, precon-
+ception counseling should be incor-
+porated into routine diabetes care
+for all individuals of childbearing po-
+tential. A
+Rapid and dynamic cognitive, develop-
+mental, and emotional changes occur dur-
+ing childhood, adolescence, and emerging
+adulthood. Diabetes management during
+childhood and adolescence places sub-
+stantial burdens on the youth and family,
+necessitating ongoing assessment of psy-
+chosocial status, social determinants of
+health, and diabetes distress in the youth
+and the parents or caregivers during rou-
+tine diabetes visits (39–41). It is important
+to consider the impact of diabetes on
+quality of life as well as the development
+of behavioral health problems related to
+diabetes distress, symptoms of depres-
+sion, symptoms of anxiety, fear of hypo-
+glycemia (and hyperglycemia), disordered
+eating behaviors, and eating disorders
+(39,42).
+Consider screening youth for diabetes
+distress, generally starting at 7 or 8 years of
+age (42), using validated tools for youth
+and their parents or caregivers (43). The
+U.S. Preventive Services Task Force recom-
+mends screening for depression in youth
+aged 12–18 years (44). Additional times to
+consider screening for depression include
+when youth are not meeting treatment
+goals or when there are signiﬁcant changes
+in medical status or life circumstances. The
+U.S. Preventive Services Task Force also rec-
+ommends screening for anxiety in youth
+aged 8–18 years (45). Parents or caregivers
+and youth at risk for hypoglycemia or fear
+of hypoglycemia, especially if they have ex-
+perienced severe and/or frequent hypogly-
+cemic events, should be screened for fear
+of hypoglycemia; youth as young as 6 years
+old can provide reliable self-reports for fear
+of hypoglycemia (46). Lastly, health care
+professionals should consider screening for
+disordered eating behaviors when signs
+and symptoms (e.g., unexplained weight
+loss, hyperglycemia, and DKA) and/or be-
+havioral and emotional indicators (e.g.,
+secrecy around eating and excessive con-
+cern about weight) are present using avail-
+able screening tools (47).Youth with type 1
+diabetes have an increased risk of disor-
+dered eating behavior as well as clinical eat-
+ing disorders, with serious short-term and
+long-term negative effects on diabetes out-
+comes and health in general. It is important
+to recognize the unique and dangerous dis-
+ordered eating behavior of insulin omission
+for weight management in type 1 diabetes
+(48).
+Given the complexity of psychosocial
+concerns in the management of type 1 di-
+abetes in youth, collaboration between
+the diabetes health care team and a be-
+havioral health professional, ideally with
+expertise in diabetes, is recommended.
+Early detection of diabetes distress, de-
+pression, anxiety, fear of hypoglycemia,
+and disordered eating can facilitate effec-
+tive treatment options and help minimize
+adverse effects on diabetes management
+and disease outcomes (39,42). When
+psychological symptoms are identiﬁed,
+referral to a behavioral health profes-
+sional, ideally with experience in pediat-
+ric diabetes, may be warranted. Such
+professionals can provide individualized,
+evidence-based behavioral health care
+services, including cognitive-behavioral,
+mindfulness-based, and other interven-
+tions (49), to improve psychosocial func-
+tioning in youth with type 1 diabetes
+(50–52).
+The complexities of diabetes manage-
+ment require ongoing parental involve-
+ment in care throughout childhood and
+adolescence. Developmentally appropriate,
+supportive family teamwork between the
+growing youth and parent(s) can help
+maintain engagement in self-management
+behaviors and reduce deterioration in
+glycemia (53,54). It is appropriate to in-
+quire about diabetes-speciﬁc family rela-
+tionships, including family teamwork and
+conﬂict, during visits; health care profes-
+sionals can both help families negotiate a
+plan and refer to an appropriate behavioral
+health professional for more in-depth sup-
+port (55). Such professionals can conduct
+further assessment and deliver evidence-
+based behavioral interventions to support
+developmentally appropriate, collabora-
+tive family involvement in diabetes self-
+management (50,52). Monitoring of social
+adjustment (peer relationships) and school
+performance can facilitate both well-being
+and academic achievement (56,57). Diabe-
+tes management and glycemic levels may
+be related to academic progress and stu-
+dents’ functioning in the school setting,
+which highlights the need for appropriate
+accommodations and access to diabetes-
+related support in school (58).
+Shared decision-making with youth re-
+garding the adoption of management plan
+components and self-management behav-
+iors can improve diabetes self-efﬁcacy,
+participation in diabetes care, and glyce-
+mic outcomes (9,59). For example, well-
+designed decision aids can engage youth
+in comprehensive, unbiased conversations
+with their diabetes care team about treat-
+ment options (60). Other examples in-
+clude creating self-care contracts (61)
+and technology-integrated care that uses
+blood glucose records shared with the
+care team to facilitate shared decision-
+making (62). Importantly, health care pro-
+fessionals working with youth who are
+not yet able to provide legal consent must
+balance clinical oversight with promoting
+developmentally appropriate independence.
+Recommendations include providing educa-
+tion tailored to the developmental stage,
+encouraging gradual responsibility with self-
+care, guiding parental involvement as
+responsibilities change, teaching self-
+advocacy to prepare for transitions in
+care, and incorporating psychosocial sup-
+port at all stages (57,63). Although cogni-
+tive abilities vary, the ethical position
+often adopted is the “mature minor rule,”
+whereby children after age 12 or 13 years
+who appear to be mature have the right
+to consent or withhold consent to general
+medical treatment, except in cases in
+which refusal would signiﬁcantly endan-
+ger health (64).
+Beginning at the onset of puberty or
+at diagnosis of diabetes, all individuals
+with childbearing potential should re-
+ceive education about the effective use
+of contraception to prevent unplanned
+pregnancy, as risks of fetal malforma-
+tions are associated with elevated A1C.
+Preconception counseling using devel-
+opmentally appropriate educational and
+behavioral strategies enables individuals
+of childbearing potential to make well-
+informed decisions (65). Preconception
+counseling resources tailored for adoles-
+cents are available at no cost through
+the ADA (66). Refer to the ADA position
+statement “Psychosocial Care for People
+With Diabetes” for further details (42).
+The presence of a behavioral health
+professional on pediatric interprofes-
+sional teams highlights the importance
+S288
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+of attending to the psychosocial issues of
+diabetes. These psychosocial factors are
+signiﬁcantly related to self-management
+difﬁculties, elevated A1C, reduced quality
+of life, and higher rates of acute and chronic
+diabetes complications.
+Glycemic Monitoring, Insulin
+Delivery, and Goals
+Recommendations
+14.18 All youth with type 1 diabetes
+should monitor glucose levels multi-
+ple times daily (up to 10 times/day
+by blood glucose meter or CGM), in-
+cluding prior to meals and snacks, at
+bedtime, and as needed for safety in
+speciﬁc situations such as physical
+activity, driving, or the presence of
+symptoms of hypoglycemia. B
+14.19 Real-time CGM A or intermit-
+tently scanned CGM C should be offered
+for diabetes management at diagnosis
+or as soon as possible in youth with dia-
+betes on multiple daily injections or in-
+sulin pump therapy who are capable of
+using the device safely (either by them-
+selves or with caregivers). The choice of
+device should be made based on the in-
+dividual’s and family’s circumstances,
+desires, and needs.
+14.20 Automated insulin delivery
+(AID) systems should be offered for di-
+abetes management to youth with
+type 1 diabetes who are capable of us-
+ing the device safely (either by them-
+selves or with caregivers). The choice
+of device should be made based on
+the individual’s and family’s circum-
+stances, desires, and needs. A
+14.21 Insulin pump therapy alone
+should be offered for diabetes man-
+agement to youth on multiple daily
+injections with type 1 diabetes who
+are capable of using the device
+safely (either by themselves or with
+caregivers) if unable to use AID sys-
+tems. The choice of device should
+be made based on the individual’s
+and family’s circumstances, desires,
+and needs. A
+14.22 Students must be supported at
+school in the use of diabetes technol-
+ogy, including CGM, insulin pumps,
+connected insulin pens, and AID sys-
+tems, as prescribed by their diabetes
+care team. E
+14.23 A1C goals must be individual-
+ized and reassessed over time. An
+A1C of <7% (<53 mmol/mol) is
+appropriate for many children and
+adolescents. B
+14.24 Less stringent A1C goals (such
+as <7.5% [<58 mmol/mol]) may be
+appropriate for youth who cannot ar-
+ticulate symptoms of hypoglycemia;
+have hypoglycemia unawareness; lack
+advanced insulin delivery technology
+and/or CGM; cannot check blood glu-
+cose regularly; or have nonglycemic
+factors that increase A1C (e.g., high
+glycators). B
+14.25 Even less stringent A1C goals
+(such as <8% [<64 mmol/mol]) may
+be appropriate for individuals with a
+history of severe hypoglycemia or lim-
+ited life expectancy or where the
+harms of treatment are greater than
+the beneﬁts. B
+14.26 Health care professionals may
+reasonably suggest more stringent A1C
+goals (such as <6.5% [<48 mmol/
+mol]) for selected individuals if they
+can be achieved without signiﬁcant hy-
+poglycemia, excessive weight gain, neg-
+ative impacts on well-being, or undue
+burden of care or in those who have
+nonglycemic factors that decrease
+A1C (e.g., lower erythrocyte life span).
+Lower goals may also be appropriate
+during the honeymoon phase. B
+14.27 CGM metrics derived from CGM
+use over the most recent 14 days (or
+longer for youth with more glycemic var-
+iability), including time in range (70–180
+mg/dL [3.9–10.0 mmol/L]), time below
+range (<70 mg/dL [<3.9 mmol/L] and
+<54 mg/dL [<3.0 mmol/L]), and time
+above range (>180 mg/dL [>10.0
+mmol/L] and >250 mg/dL [>13.9
+mmol/L]), are recommended to be used
+in conjunction with A1C whenever possi-
+ble. E
+Current standards for diabetes manage-
+ment reﬂect the need to minimize hy-
+perglycemia as safely as possible. The
+Diabetes Control and Complications Trial
+(DCCT), which did not enroll children
+<13 years of age, demonstrated that
+near normalization of blood glucose lev-
+els was more difﬁcult to achieve in ado-
+lescents than in adults. Nevertheless,
+the increased use of basal-bolus plans,
+insulin pumps, frequent blood glucose
+monitoring, CGM, AID systems, goal
+setting, and improved education has
+been associated with more children
+and adolescents reaching the blood
+glucose goals recommended by the
+ADA (67,68), particularly in families in
+which the parents or caregivers as well
+as the child with diabetes participate
+jointly to perform the required diabe-
+tes-related tasks.
+Lower A1C in adolescence and young
+adulthood is associated with a lower risk
+and rate of microvascular and macrovas-
+cular complications (69–71) and demon-
+strates the effects of metabolic memory
+(72–75).
+In addition, type 1 diabetes can be as-
+sociated with adverse effects on cognition
+during childhood and adolescence (6,76),
+and neurocognitive imaging differences
+related to hyperglycemia in children pro-
+vide another motivation for achieving
+glycemic goals (6). Several factors, in-
+cluding young age, severe hypoglycemia
+at <6 years of age, DKA, and chronic hy-
+perglycemia (76,77), contribute to ad-
+verse effects on brain development and
+function. However, meticulous use of
+therapeutic modalities such as rapid- and
+long-acting insulin analogs, technological
+advances (e.g., CGM, sensor-augmented
+pump therapy, and AID systems), and in-
+tensive self-management education now
+make it more feasible to achieve glycemic
+goals while reducing the incidence of se-
+vere hypoglycemia (78–99). Please refer to
+Section 7, “Diabetes Technology,” for more
+information on technology to support peo-
+ple with diabetes.
+Recent data with newer devices and
+insulins indicate that the risk of hypogly-
+cemia with lower A1C is less than it was
+before (100–108). In addition, achieving
+lower A1C levels is likely facilitated by
+setting lower A1C goals (109). Lower
+goals may be possible during the honey-
+moon phase of type 1 diabetes. Special
+consideration should be given to the
+risk of hypoglycemia in young children
+(aged <6 years) who are often unable
+to recognize, articulate, and/or manage
+hypoglycemia. However, registry data
+indicate that lower A1C goals can be
+achieved in children, including those
+aged <6 years, without increased risk
+of severe hypoglycemia (101). Recent
+data have demonstrated that the use of
+real-time CGM lowered A1C and in-
+creased TIR in adolescents and young
+adults and was associated with a lower
+risk of hypoglycemia (110). Please refer
+to Section 6, “Glycemic Goals and Hypo-
+glycemia,” for more information on glyce-
+mic assessment.
+diabetesjournals.org/care
+Children and Adolescents
+S289
+©AmericanDiabetesAssociation
+
+A strong relationship exists between
+the frequency of blood glucose monitor-
+ing and glycemic management (97–99,
+111,112). Glucose levels for all children
+and adolescents with type 1 diabetes
+should be monitored multiple times daily
+by blood glucose monitoring and/or CGM.
+Recent data on children and adults sug-
+gest that use of CGM soon after type 1
+diabetes diagnosis is associated with
+improved A1C (84,85,113). In the U.S.,
+real-time CGM is approved for nonad-
+junctive use in children aged 2 years
+and older, and intermittently scanned
+CGM is approved for nonadjunctive use
+in children aged 4 years and older. Pa-
+rents, caregivers, and youth should be
+offered initial and ongoing education
+and support for CGM use. Behavioral
+support may further improve ongoing
+CGM use (114). Metrics derived from
+CGM include percent TIR, time below tar-
+get range, and time above target range
+(115). While studies indicate a relationship
+between TIR and A1C (116,117), it is still
+uncertain
+what
+the
+ideal
+goal
+TIR
+should be for children, and further
+studies are needed. Please refer to Sec-
+tion 7, “Diabetes Technology,” for more
+information on the use of blood glu-
+cose meters, CGM, and insulin pumps.
+More information on insulin injection
+technique can be found in Section 9,
+“Pharmacologic Approaches to Glycemic
+Treatment.”
+Key Concepts in Setting Glycemic Goals
+• Glycemic goals should be individualized,
+and lower goals may be reasonable
+based on a beneﬁt-risk assessment.
+• Blood glucose goals should be modiﬁed
+in children with frequent hypoglycemia
+or hypoglycemia unawareness.
+• Postprandial blood glucose values
+should be measured when there is a
+discrepancy between preprandial blood
+glucose values and A1C levels and to as-
+sess preprandial insulin doses in those
+on basal-bolus or pump plans.
+Autoimmune Conditions
+Recommendation
+14.28 Assess for additional autoim-
+mune conditions soon after the di-
+agnosis of type 1 diabetes and if
+clinically relevant. B
+Because of the increased frequency of
+other autoimmune diseases in type 1
+diabetes, screening for thyroid dysfunc-
+tion and celiac disease should be consid-
+ered (118–122). Periodic screening in
+asymptomatic individuals has been rec-
+ommended, but the optimal frequency
+of screening is unclear.
+Although much less common than thy-
+roid dysfunction and celiac disease, other
+autoimmune conditions, such as Addison
+disease (primary adrenal insufﬁciency),
+autoimmune hepatitis, autoimmune gas-
+tritis, dermatomyositis, and myasthenia
+gravis, occur more commonly in the popu-
+lation with type 1 diabetes than in the
+general pediatric population and should
+be assessed and monitored as clinically in-
+dicated. In addition, relatives of youth
+with type 1 diabetes should be offered
+testing for islet autoantibodies through re-
+search studies (e.g., TrialNet) and national
+programs for early diagnosis of preclinical
+type 1 diabetes (stages 1 and 2).
+Thyroid Disease
+Recommendations
+14.29 Consider testing children with
+type 1 diabetes for antithyroid per-
+oxidase and antithyroglobulin anti-
+bodies soon after diagnosis. B
+14.30 Measure thyroid-stimulating
+hormone concentrations at diagnosis
+when clinically stable or soon after op-
+timizing glycemia. If normal, suggest
+rechecking every 1–2 years or sooner
+if the youth has positive thyroid anti-
+bodies or develops symptoms or signs
+suggestive of thyroid dysfunction, thy-
+romegaly, an abnormal growth rate, or
+unexplained glycemic variability. B
+Autoimmune thyroid disease is the most
+common autoimmune disorder associated
+with diabetes, occurring in 17–30% of indi-
+viduals with type 1 diabetes (119,123,124).
+At the time of diagnosis, 25% of children
+with type 1 diabetes have thyroid autoan-
+tibodies (125), the presence of which is
+predictive of thyroid dysfunction—most
+commonly hypothyroidism, although hy-
+perthyroidism occurs in 0.5% of people
+with type 1 diabetes (126,127). For thy-
+roid autoantibodies, a study from Sweden
+indicated that antithyroid peroxidase anti-
+bodies were more predictive than antith-
+yroglobulin
+antibodies
+in
+multivariate
+analysis (128). Thyroid function tests may
+be misleading (euthyroid sick syndrome) if
+performed at the time of diagnosis owing
+to the effect of previous hyperglycemia,
+ketosis or ketoacidosis, weight loss, etc.
+Therefore, if performed at diagnosis and
+slightly abnormal, thyroid function tests
+should be repeated soon after a period of
+metabolic stability and achievement of
+glycemic goals. Subclinical hypothyroidism
+may be associated with an increased risk
+of symptomatic hypoglycemia and dyslipi-
+demia (129,130) and a reduced linear
+growth rate. Hyperthyroidism alters glu-
+cose metabolism and usually causes dete-
+rioration of glycemia.
+Celiac Disease
+Recommendations
+14.31 Screen youth with type 1 diabe-
+tes for celiac disease by measuring IgA
+tissue transglutaminase (tTG) antibod-
+ies, with documentation of normal to-
+tal serum IgA levels, soon after the
+diagnosis of diabetes, or IgG tTG and
+deamidated gliadin antibodies if IgA is
+deﬁcient. B
+14.32 Repeat screening for celiac dis-
+ease within 2 years of diabetes diagno-
+sis and then again after 5 years and
+consider more frequent screening in
+youth who have symptoms or a ﬁrst-
+degree relative with celiac disease. B
+14.33 Individuals with conﬁrmed ce-
+liac disease should be placed on a
+gluten-free diet for treatment and to
+avoid complications. Youth and their
+caregivers should also have a consul-
+tation with a registered dietitian nu-
+tritionist experienced in managing
+both diabetes and celiac disease. B
+Celiac disease is an immune-mediated dis-
+order that occurs with increased frequency
+in people with type 1 diabetes (1.6–16.4%
+of individuals compared with 0.3–1% in
+the general population) (118,121,122,
+131–134). Screening people with type 1
+diabetes for celiac disease is further justi-
+ﬁed by its association with osteoporosis,
+iron deﬁciency, growth failure, and po-
+tential increased risk of retinopathy and
+albuminuria (135–137).
+Screening for celiac disease includes
+measuring serum levels of IgA and tissue
+transglutaminase (tTG) IgA antibodies,
+or, with IgA deﬁciency, screening can in-
+clude measuring tTG IgG antibodies or
+deamidated gliadin peptide IgG antibod-
+ies. Because most cases of celiac disease
+are diagnosed within the ﬁrst 5 years af-
+ter the diagnosis of type 1 diabetes,
+screening should be considered at the
+S290
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+time of diagnosis and repeated at 2 and
+then 5 years (132) or if clinical symptoms
+indicate, such as poor growth or in-
+creased hypoglycemia (135).
+Although celiac disease can be diag-
+nosed more than 10 years after diabe-
+tes diagnosis, there are insufﬁcient data
+after 5 years to determine the optimal
+screening frequency. Measurement of
+tTG antibody should be considered at
+other times in individuals with symptoms
+suggestive of celiac disease (132). Moni-
+toring for symptoms should include an as-
+sessment of linear growth and weight gain
+(135). A small-bowel biopsy in antibody-
+positive children is recommended to con-
+ﬁrm the diagnosis (138). European guide-
+lines on screening for celiac disease in
+children (not speciﬁc to children with
+type 1 diabetes) suggest that biopsy may
+not be necessary in symptomatic children
+with high antibody titers (i.e., >10 times
+the upper limit of normal) provided that
+further testing is performed (veriﬁcation
+of endomysial antibody positivity on a
+separate blood sample). Whether this
+approach may be appropriate for asymp-
+tomatic children in high-risk groups re-
+mains an open question, though evidence
+is emerging (139). It is also advisable to
+check for celiac disease–associated HLA
+types in individuals who are diagnosed
+without a small intestinal biopsy. In symp-
+tomatic children with type 1 diabetes and
+conﬁrmed celiac disease, gluten-free diets
+reduce symptoms and rates of hypoglyce-
+mia (140). The challenging eating plan
+restrictions associated with having both
+type 1 diabetes and celiac disease place a
+signiﬁcant burden on individuals. There-
+fore, a biopsy to conﬁrm the diagnosis of
+celiac disease is recommended, especially
+in asymptomatic children, before estab-
+lishing a diagnosis of celiac disease and
+endorsing signiﬁcant eating plan changes.
+Management of Cardiovascular Risk
+Factors
+Hypertension Screening
+Recommendation
+14.34 Blood pressure should be mea-
+sured at every routine visit. In youth
+with high blood pressure (blood pres-
+sure $90th percentile for age, sex,
+and height or, in adolescents aged
+$13 years, blood pressure $120/80
+mmHg) on three separate measure-
+ments, ambulatory blood pressure mon-
+itoring should be strongly considered. B
+Hypertension Treatment
+Recommendations
+14.35 Treatment of elevated blood
+pressure (deﬁned as 90th to <95th
+percentile for age, sex, and height or, in
+adolescents aged $13 years, 120–129/
+<80 mmHg) is lifestyle modiﬁcation fo-
+cused on healthy nutrition, physical ac-
+tivity, sleep, and, if appropriate, weight
+management. C
+14.36 After excluding other causes, in
+addition to lifestyle modiﬁcation, ACE
+inhibitors or angiotensin receptor block-
+ers should be started for treatment
+of conﬁrmed hypertension (deﬁned as
+blood pressure consistently $95th per-
+centile for age, sex, and height or, in
+adolescents aged $13 years, $130/80
+mmHg). Due to the potential terato-
+genic effects, individuals of childbear-
+ing age should receive reproductive
+counseling, and ACE inhibitors and an-
+giotensin receptor blockers should be
+avoided in individuals of childbearing
+age who are not using reliable contra-
+ception. B
+14.37 The goal of treatment is blood
+pressure <90th percentile for age, sex,
+and height or, in adolescents aged
+$13 years, <130/80 mmHg. C
+Blood pressure measurements should be
+performed using the appropriate size cuff
+with the youth seated and relaxed. Ele-
+vated blood pressure should be conﬁrmed
+on at least three separate days, and ambu-
+latory blood pressure monitoring should
+be considered. Evaluation should proceed
+as clinically indicated (141,142). Treatment
+is generally initiated with an ACE inhibitor,
+but an angiotensin receptor blocker can be
+used if the ACE inhibitor is not tolerated
+(e.g., due to cough) (143).
+Dyslipidemia Screening
+Recommendations
+14.38 Initial lipid proﬁle should be
+performed soon after diagnosis, prefer-
+ably after glycemia has improved and
+age is $2 years. If initial LDL choles-
+terol is #100 mg/dL (#2.6 mmol/L),
+subsequent testing should be per-
+formed at 9–11 years of age. B Initial
+testing may be done with a nonfasting
+lipid level with conﬁrmatory testing
+with a fasting lipid panel.
+14.39 If LDL cholesterol values are within
+the accepted risk level (<100 mg/dL
+[<2.6 mmol/L]), a lipid proﬁle repeated
+every 3 years is reasonable. E
+Dyslipidemia Treatment
+Recommendations
+14.40 If lipids are abnormal, initial
+therapy should consist of optimizing
+glycemia and MNT to limit the amount
+of calories from fat to 25–30% and sat-
+urated fat to <7%, limit cholesterol to
+<200 mg/day, avoid trans fats, and
+aim for 10% calories from monoun-
+saturated fats. A
+14.41 Consider age-approved statins,
+in addition to
+MNT
+and lifestyle
+changes, for youth with type 1 diabetes
+who have LDL cholesterol $130 mg/dL
+($3.4 mmol/L). E Individuals of child-
+bearing age should receive reproductive
+counseling, and lipid-lowering medica-
+tions should be avoided in most individ-
+uals of childbearing age who are not
+using reliable contraception. B
+14.42 The goal of therapy is an
+LDL cholesterol value <100 mg/dL
+(<2.6 mmol/L). E
+Population-based studies estimate that
+14–45% of children with type 1 diabetes
+have two or more atherosclerotic cardio-
+vascular disease risk factors (144–146),
+and the prevalence of cardiovascular dis-
+ease (CVD) risk factors increase with age
+(146) and among racial and ethnic mi-
+noritized groups (33), with girls having a
+higher risk burden than boys (145).
+Pathophysiology. The atherosclerotic pro-
+cess begins in childhood, and although ath-
+erosclerotic cardiovascular disease events
+are not expected to occur during child-
+hood, observations using a variety of meth-
+odologies show that youth with type 1
+diabetes may have subclinical CVD within
+the ﬁrst decade of diagnosis (147–149).
+Studies of carotid intima media thickness
+have yielded inconsistent results (142,143).
+Screening. Diabetes predisposes the indi-
+vidual to the development of accelerated
+arteriosclerosis. Lipid evaluation for these
+individuals contributes to risk assessment
+and identiﬁes an important proportion of
+those with dyslipidemia. Therefore, initial
+screening should be done soon after di-
+agnosis. If the initial screen is normal,
+subsequent screening may be done at
+9–11 years of age, which is a stable time
+diabetesjournals.org/care
+Children and Adolescents
+S291
+©AmericanDiabetesAssociation
+
+for lipid assessment in children (150).
+Children with a primary lipid disorder
+(e.g., familial hyperlipidemia) should be
+referred to a lipid specialist. Non-HDL
+cholesterol level has been identiﬁed as
+a signiﬁcant predictor of the presence
+of atherosclerosis—as powerful as any
+other lipoprotein cholesterol measure in
+children and adolescents. For both chil-
+dren and adults, non-HDL cholesterol
+level seems to be more predictive of per-
+sistent dyslipidemia and, therefore, ath-
+erosclerosis and future events than total
+cholesterol, LDL cholesterol, or HDL cho-
+lesterol level alone. A major advantage
+(151) of non-HDL cholesterol is that it
+can be accurately calculated in a nonfast-
+ing state and therefore is practical to ob-
+tain in clinical practice as a screening test
+(152). Youth with type 1 diabetes have
+a high prevalence of lipid abnormalities
+(144,151). Even if normal, screening
+should be repeated within 3 years, as A1C
+and other cardiovascular risk factors can
+change dramatically during adolescence
+(153).
+Treatment. Pediatric lipid guidelines pro-
+vide some guidance relevant to children
+with type 1 diabetes and secondary dysli-
+pidemia (142,154,155); however, there
+are few studies on modifying lipid levels
+in children with type 1 diabetes. A 6-month
+trial of nutritional counseling produced a
+signiﬁcant improvement in lipid levels
+(156); likewise, a lifestyle intervention trial
+with 6 months of exercise in adolescents
+demonstrated improvement in lipid levels
+(157). Data from the SEARCH for Diabetes
+in Youth (SEARCH) study show that im-
+proved glucose over a 2-year period is asso-
+ciated with a more favorable lipid proﬁle;
+however, improved glycemia alone will not
+normalize lipids in youth with type 1 diabe-
+tes and dyslipidemia (158).
+Although intervention data are sparse,
+the American Heart Association catego-
+rizes children with type 1 diabetes in the
+highest tier for cardiovascular risk and rec-
+ommends both lifestyle and pharmaco-
+logic treatment for those with elevated
+LDL cholesterol levels (159,160). Initial
+therapy should include a nutrition plan
+that restricts saturated fat to 7% of total
+calories and dietary cholesterol to 200 mg/
+day (150). Data from randomized clinical
+trials in children as young as 7 months of
+age indicate that this nutrition plan is safe
+and does not interfere with normal growth
+and development.
+Long-term safety and cardiovascular
+outcome efﬁcacy of statin therapy have
+been established for children with famil-
+ial hypercholesterolemia (161). At the
+time of this writing, rosuvastatin is indi-
+cated for children as young as 6 years
+old (162). Statins should be avoided in
+individuals of childbearing age who are
+not using reliable contraception (see
+Section 15, “Management of Diabetes
+in Pregnancy,” for more information).
+The multicenter, randomized, placebo-
+controlled Adolescent Type 1 Diabetes
+Cardio-Renal Intervention Trial (AdDIT)
+provides safety data on pharmacologic
+treatment with an ACE inhibitor and
+statin in adolescents with type 1 diabe-
+tes (142).
+Microvascular Complications
+Nephropathy Screening
+Recommendation
+14.43 Annual screening for albumin-
+uria with a random (morning sample
+preferred to avoid effects of exer-
+cise) spot urine sample for albumin-
+to-creatinine ratio should be consid-
+ered at puberty or at age >10 years,
+whichever is earlier, once the youth
+has had diabetes for 5 years. B
+Nephropathy Treatment
+Recommendation
+14.44 An ACE inhibitor or an angioten-
+sin receptor blocker, titrated to nor-
+malization of albumin excretion, may
+be considered when elevated urinary
+albumin-to-creatinine ratio (>30 mg/g)
+is documented (two of three urine
+samples obtained over a 6-month inter-
+val following efforts to improve glyce-
+mia and normalize blood pressure). E
+Due to the potential teratogenic ef-
+fects, individuals of childbearing age
+should receive reproductive counseling,
+and ACE inhibitors and angiotensin re-
+ceptor blockers should be avoided in in-
+dividuals of childbearing age who are
+not using reliable contraception. B
+Data from 7,549 participants <20 years
+of age in the T1D Exchange clinic regis-
+try emphasize the importance of meet-
+ing glycemic and blood pressure goals,
+particularly as diabetes duration increases,
+to reduce the risk of diabetic kidney dis-
+ease. The
+data
+also
+underscore
+the
+importance of routine screening to ensure
+early diagnosis and timely treatment of al-
+buminuria (163). An estimation of glomer-
+ular ﬁltration rate (GFR), calculated with
+GFR-estimating equations using serum cre-
+atinine, height, age, and sex (164), should
+be considered at baseline and repeated as
+indicated based on clinical status, age, dia-
+betes duration, and therapies. Improved
+methods are needed to screen for early
+GFR loss, since estimated GFR is inaccurate
+at GFR >60 mL/min/1.73 m2 (164,165).
+The AdDITstudy in adolescents with type 1
+diabetes demonstrated the safety of ACE
+inhibitor treatment, but the treatment did
+not change the albumin-to-creatinine ratio
+over the course of the study (142).
+Retinopathy
+Recommendations
+14.45 An initial dilated and compre-
+hensive eye examination is recom-
+mended once youth have had type 1
+diabetes for 3–5 years, provided they
+are aged $11 years or puberty has
+started, whichever is earlier. B
+14.46 After the initial examination, re-
+peat dilated and comprehensive eye
+examination every 2 years. Less fre-
+quent examinations, every 4 years,
+may be acceptable on the advice of an
+eye care professional and based on
+risk factor assessment, including a his-
+tory of A1C <8% (<64 mmol/mol). B
+14.47 Programs that use retinal pho-
+tography (with remote reading or use
+of a validated assessment tool) to im-
+prove access to diabetic retinopathy
+screening can be appropriate screening
+strategies for diabetic retinopathy. Such
+programs need to provide pathways for
+timely referral for a comprehensive eye
+examination when indicated. B
+Retinopathy (like albuminuria) most com-
+monly occurs after the onset of puberty
+and after 5–10 years of diabetes duration
+(166). It is currently recognized that there
+is a low risk of development of vision-
+threatening retinal lesions prior to 12 years
+of age (167,168). A 2019 publication based
+on the follow-up of the DCCT adolescent
+cohort supports a lower frequency of
+eye examinations than previously recom-
+mended, particularly in adolescents with
+A1C closer to the goal range (169,170).
+Autonomous artiﬁcial intelligence screen-
+ing for diabetic retinopathy has been
+shown to increase access to this routine
+S292
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+health maintenance (171). Referrals should
+be made to eye care professionals with ex-
+pertise in diabetic retinopathy and experi-
+ence in counseling pediatric individuals
+and families on the importance of preven-
+tion, early detection, and intervention.
+Neuropathy
+Recommendation
+14.48 Consider an annual comprehen-
+sive foot exam at the start of puberty or
+at age $10 years, whichever is earlier,
+once the youth has had type 1 diabetes
+for 5 years. The examination should
+include inspection, assessment of foot
+pulses, pinprick, and 10-g monoﬁlament
+sensation tests, testing of vibration sen-
+sation using a 128-Hz tuning fork, and
+ankle reﬂex tests. B
+Diabetic neuropathy rarely occurs in pre-
+pubertal children or after only 1–2 years of
+diabetes (166), although data suggest a
+prevalence of distal peripheral neuropathy
+of 7% in 1,734 youth with type 1 diabetes
+and association with the presence of CVD
+risk factors (172,173). A comprehensive
+foot exam, including inspection, palpation
+of dorsalis pedis and posterior tibial pulses,
+and determination of proprioception, vi-
+bration, and monoﬁlament sensation,
+should be performed annually along with
+an assessment of symptoms of neuro-
+pathic pain (173). Foot inspection can be
+performed at each visit to educate youth
+regarding the importance of foot care (see
+Section 12, “Retinopathy, Neuropathy, and
+Foot Care”).
+TYPE 2 DIABETES
+For information on risk-based screening for
+type 2 diabetes and prediabetes in youth,
+please refer to Section 2, “Diagnosis and
+Classiﬁcation of Diabetes.” For additional
+support for these recommendations, see
+the ADA position statement “Evaluation
+and Management of Youth-Onset Type 2
+Diabetes” (3).
+The prevalence of type 2 diabetes in
+youth has continued to increase over the
+past 20 years (4).The CDC published pro-
+jections for type 2 diabetes prevalence
+using the SEARCH database. Assuming a
+2.3% annual increase, the prevalence in
+those under 20 years of age will quadru-
+ple in 40 years (174,175).
+Evidence suggests that type 2 diabetes
+in youth is different not only from type 1
+diabetes but also from type 2 diabetes in
+adults and has unique features, such as a
+more rapidly progressive decline in b-cell
+function and accelerated development of
+diabetes complications (3,176). Long-term
+follow-up data from the Treatment Op-
+tions for Type 2 Diabetes in Adolescents
+and Youth (TODAY) study reported most
+individuals with type 2 diabetes diagnosed
+as youth had microvascular complications
+by young adulthood (177).Type 2 diabetes
+disproportionately impacts youth from
+historically marginalized communities and
+can occur in complex psychosocial and
+cultural environments, which may make it
+difﬁcult to implement and sustain healthy
+lifestyle changes and self-management
+behaviors (9,178–181). Additional risk
+factors associated with type 2 diabetes
+in youth include obesity and excess adi-
+posity (182), family history of diabetes
+possibly mediated by shared genetics,
+lifestyle, and environmental factors (183),
+female sex, maternal gestational diabetes
+mellitus (184), and adverse social determi-
+nants of health (176).
+As with type 1 diabetes, youth with
+type 2 diabetes spend much of the day
+in school. Therefore, close communica-
+tion with and the cooperation of school
+personnel are essential for optimal dia-
+betes management and safety and max-
+imal academic opportunities.
+Screening and Diagnosis
+Recommendations
+14.49 Risk-based screening for predia-
+betes and/or type 2 diabetes should
+be considered after the onset of pu-
+berty or $10 years of age, whichever
+occurs earlier, in youth with over-
+weight (BMI $85th percentile) or obe-
+sity (BMI $95th percentile) and who
+have one or more additional risk fac-
+tors for diabetes (see Table 2.5 for evi-
+dence grading of other risk factors).
+14.50 If screening is normal, repeat
+screening at a minimum of 2-year in-
+tervals E or more frequently if BMI is
+increasing. C
+14.51 Fasting plasma glucose, 2-h
+plasma glucose during a 75-g oral glu-
+cose tolerance test, and A1C can be
+used to test for prediabetes or diabe-
+tes in children and adolescents. B
+14.52 Children and adolescents with
+overweight or obesity in whom the
+diagnosis of type 2 diabetes is being
+considered should have a panel of
+pancreatic autoantibodies tested to ex-
+clude the possibility of autoimmune
+type 1 diabetes. B
+In recent years, incidence and prevalence
+of type 2 diabetes in adolescents have in-
+creased dramatically, especially in histori-
+cally marginalized communities (185). A
+few studies suggest oral glucose tolerance
+tests or fasting plasma glucose values as
+more suitable diagnostic tests than A1C in
+the pediatric population, especially among
+certain ethnicities (186), while fasting glu-
+cose alone may overdiagnose diabetes in
+children (187,188). In addition, many of
+these studies do not recognize that diabe-
+tes diagnostic criteria are based on long-
+term health outcomes, and validations
+are not currently available in the pediatric
+population (189). An analysis of National
+Health and Nutrition Examination Survey
+(NHANES) data suggests using A1C for
+screening of high-risk youth (190). The
+ADA acknowledges the limited data sup-
+porting A1C for diagnosing type 2 diabetes
+in children and adolescents. Although A1C
+is not recommended for diagnosis of dia-
+betes in children with cystic ﬁbrosis or
+symptoms suggestive of acute onset of
+type 1 diabetes, and only A1C assays with-
+out interference are appropriate for chil-
+dren with hemoglobinopathies, the ADA
+continues to recommend A1C for diagno-
+sis of type 2 diabetes in this population
+(186).
+Diagnostic Challenges
+Given the current obesity epidemic, dis-
+tinguishing between type 1 and type 2
+diabetes in children can be difﬁcult.
+Overweight and obesity are common in
+children with type 1 diabetes (34), and
+diabetes-associated autoantibodies and
+ketosis may be present in pediatric indi-
+viduals with clinical features of type 2 dia-
+betes (including obesity and acanthosis
+nigricans) (187). The presence of islet
+autoantibodies has been associated with
+faster progression to insulin deﬁciency
+(187). At the onset of diabetes, DKA oc-
+curs in 11% of youth aged 10–19 years
+with type 2 diabetes (191). Although un-
+common, type 2 diabetes has been ob-
+served in prepubertal children under the
+age of 10 years, thus it should be part of
+the differential in children with suggestive
+symptoms (192). Finally, obesity contrib-
+utes to the development of type 1 diabetes
+in some individuals (193), which further
+diabetesjournals.org/care
+Children and Adolescents
+S293
+©AmericanDiabetesAssociation
+
+blurs the lines between diabetes types.We
+must acknowledge that people with type 1
+diabetes can also experience weight gain
+and insulin resistance. However, accurate
+diagnosis is critical, as treatment plans, ed-
+ucational approaches, nutrition advice,
+and outcomes differ markedly between
+individuals with predominantly insulin
+resistance and absolute insulinopenia
+phenotypes. The signiﬁcant diagnostic dif-
+ﬁculties posed by maturity-onset diabetes
+of the young are discussed in Section 2,
+“Diagnosis and Classiﬁcation of Diabetes.”
+In addition, there are rare and atypical dia-
+betes cases that represent a challenge for
+clinicians and researchers.
+Management
+Lifestyle Management
+Recommendations
+14.53 All youth with type 2 diabe-
+tes and their families should receive
+comprehensive DSMES that is spe-
+ciﬁc to youth with type 2 diabetes
+and is culturally appropriate. B
+14.54 Youth with overweight or obesity
+and type 2 diabetes and their families
+should be provided with developmen-
+tally and culturally appropriate com-
+prehensive lifestyle programs that are
+integrated with diabetes management
+to achieve at least a 7–10% decrease
+in excess weight. B
+14.55 Given the necessity of long-
+term weight management for youth
+with type 2 diabetes, lifestyle interven-
+tion should be based on a chronic care
+model and offered in the context of di-
+abetes care. E
+14.56 Youth with prediabetes and
+type 2 diabetes, like all children and
+adolescents, should be encouraged
+to participate in at least 60 min of
+moderate to vigorous physical activity
+daily (with muscle and bone strength
+training at least 3 days/week) B and to
+decrease sedentary recreational screen
+time. C
+14.57 Nutrition for youth with predi-
+abetes and type 2 diabetes, like for
+all children and adolescents, should
+focus on key nutrition principles (i.e.,
+eat more nonstarchy vegetables,
+whole fruits, legumes, whole grains,
+nuts and seeds, and low-fat dairy
+products and eat less meat, sugar-
+sweetened beverages, sweets, reﬁned
+grains, and processed or ultraprocessed
+foods). B
+Glycemic Goals
+Recommendations
+14.58 Real-time CGM or intermittently
+scanned CGM should be offered for
+diabetes management in youth with
+type 2 diabetes on multiple daily injec-
+tions or insulin pumps who are capable
+of using the device safely (either by
+themselves or with a caregiver). The
+choice of device should be made based
+on an individual’s and family’s circum-
+stances, desires, and needs. E
+14.59 Glycemic status should be as-
+sessed at least every 3 months. E
+14.60 Consider setting an A1C goal
+of <6.5% (<48 mmol/mol) for most
+children and adolescents with type 2
+diabetes who have a low risk of hy-
+poglycemia. For those at higher risk
+of hypoglycemia, A1C goals should
+be individualized as clinically appro-
+priate. C
+Pharmacologic Management
+Recommendations
+14.61 Initiate pharmacologic therapy,
+in addition to behavioral counseling
+for healthful nutrition and physical ac-
+tivity changes, at diagnosis of type 2
+diabetes. A
+14.62 In individuals with incidentally
+diagnosed or metabolically stable dia-
+betes (A1C <8.5% [<69 mmol/mol]
+and asymptomatic), metformin is the
+initial
+pharmacologic
+treatment
+of
+choice if kidney function is normal. A
+14.63 Youth with marked hyperglyce-
+mia (blood glucose $250 mg/dL [$13.9
+mmol/L], A1C $8.5% [$69 mmol/mol])
+without acidosis at diagnosis who are
+symptomatic with polyuria, polydipsia,
+nocturia, and/or weight loss should be
+treated initially with long-acting insulin
+while metformin is initiated and ti-
+trated. B
+14.64 Initiate subcutaneous or in-
+travenous insulin treatment in indi-
+viduals with ketoacidosis to rapidly
+correct the hyperglycemia and the
+metabolic derangement. Once aci-
+dosis is resolved, metformin should
+be initiated while subcutaneous in-
+sulin therapy is continued. A
+14.65 In individuals presenting with
+severe hyperglycemia (blood glucose
+$600 mg/dL [$33.3 mmol/L]), consider
+assessment for hyperglycemic hyperos-
+molar state. A
+14.66 If glycemic goals are no lon-
+ger met with metformin (with or
+without long-acting insulin), gluca-
+gon-like peptide 1 (GLP-1) receptor
+agonist therapy and/or empagliﬂo-
+zin should be considered in children
+10 years of age or older. A
+14.67 When choosing glucose-lower-
+ing or other medications for youth
+with overweight or obesity and type 2
+diabetes, consider medication-taking
+behavior and the medications’ effect
+on weight. E
+14.68 For youth not meeting glycemic
+goals, consider maximizing noninsulin
+therapies (metformin, a GLP-1 receptor
+agonist, and empagliﬂozin) before initi-
+ating and/or the intensifying insulin
+therapy plan. E
+14.69 In individuals initially treated
+with insulin and metformin and/or
+other glucose-lowering medications who
+are meeting glucose goals based on
+blood glucose monitoring or CGM, insu-
+lin can be tapered over 2–6 weeks by
+decreasing the insulin dose 10–30%
+every few days. B
+Treatment of youth-onset type 2 diabetes
+should
+include
+lifestyle
+management,
+DSMES, and pharmacologic treatment. Ini-
+tial treatment of youth with obesity and
+diabetes must consider that diabetes type
+is often uncertain in the ﬁrst few weeks of
+treatment due to overlap in presentation
+and that a substantial percentage of youth
+with type 2 diabetes will present with clini-
+cally signiﬁcant ketoacidosis (194). There-
+fore, initial therapy should address the
+hyperglycemia and associated metabolic
+derangements irrespective of ultimate dia-
+betes type, with adjustment of therapy
+once metabolic compensation has been
+established and subsequent information,
+such as islet autoantibody results, be-
+comes available. Figure 14.1 provides an
+approach to the initial treatment of new-
+onset diabetes in youth with overweight
+or obesity with clinical suspicion of type 2
+diabetes.
+Glycemic goals should be individual-
+ized, taking into consideration the long-
+term health beneﬁts of more stringent
+goals and risk for adverse effects, such
+as hypoglycemia. A lower A1C goal of
+<6.5% in youth with type 2 diabetes
+compared with <7% recommended in
+type 1 diabetes is justiﬁed by a lower
+risk of hypoglycemia and higher risk of
+S294
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+complications in youth with type 2 dia-
+betes (177,195–199).
+Self-management in pediatric diabetes
+involves both the youth and their parents
+or adult caregivers. Individuals and their
+families should receive education and sup-
+port for healthful nutrition and physical
+activity, such as a balanced meal plan,
+achieving and maintaining a healthy
+weight, and regular physical activity.
+Physical activity should include aerobic,
+muscle-strengthening, and bone-strength-
+ening activities (24). A family-centered
+approach to nutrition and lifestyle modiﬁ-
+cation is essential in children and adoles-
+cents with type 2 diabetes, and nutrition
+recommendations should be culturally ap-
+propriate and sensitive to family resources
+(see Section 5, “Facilitating Positive Health
+Behaviors and Well-being to Improve
+Health Outcomes”). Given the complex so-
+cial and environmental context surrounding
+youth with type 2 diabetes, individual-level
+lifestyle interventions may not be sufﬁcient
+to address the complex interplay of family
+dynamics, behavioral health, community
+readiness, and the broader environmental
+system (3).
+An interprofessional diabetes team,
+including a physician, diabetes care and
+education specialist (CDCES), registered
+dietitian nutritionist, and behavioral health
+specialist or social worker, is essential. In ad-
+dition to achieving glycemic goals and
+self-management education (200–202),
+initial treatment must include manage-
+ment of comorbidities such as obesity,
+dyslipidemia, hypertension, and micro-
+vascular complications.
+Current pharmacologic treatment options
+for youth-onset type 2 diabetes are lim-
+ited to four approved drug classes: insulin,
+metformin, glucagon-like peptide 1 (GLP-1)
+receptor agonists, and sodium–glucose
+cotransporter 2 inhibitors. Presentation
+with ketoacidosis or marked ketosis re-
+quires a period of insulin therapy until
+fasting and postprandial glycemia have
+been restored to normal or near-normal
+levels. Insulin pump therapy may be con-
+sidered as an option for those on long-
+term multiple daily injections who are able
+to safely manage the device. Initial treat-
+ment should also be with insulin when the
+distinction between type 1 diabetes and
+type 2 diabetes is unclear and in individuals
+who have random blood glucose concen-
+trations $250 mg/dL ($13.9 mmol/L)
+and/or A1C $8.5% ($69 mmol/mol)
+(203). Metformin therapy should be added
+after resolution of ketosis or ketoacidosis.
+When initial insulin treatment is not re-
+quired, initiation of metformin is recom-
+mended as ﬁrst-line therapy. The TODAY
+study found that metformin alone pro-
+vided durable glycemic management (A1C
+For new-onset diabetes in youth with overweight or obesity with clinical suspicion of
+type 2 diabetes, initiate lifestyle management and diabetes education 
+• Metformin
+ • Titrate up to 2,000 mg per day as 
+tolerated
+• Metformin
+ • Titrate up to 2,000 mg 
+per day as tolerated
+• Long-acting insulin: start at 0.5 units/kg/day 
+and titrate every 23 days based on BGM
+• Manage DKA or HHS
+• Intravenous insulin until acidosis resolves, 
+then subcutaneous, as for type 1 diabetes 
+until results of antibody testing are known
+Pancreatic autoantibodies
+A1C 8.5%
+No acidosis or ketosis
+A1C 8.5% 
+No acidosis with or without ketosis
+Acidosis and/or DKA and/or HHS
+NEGATIVE
+A1C goals not met
+• Continue or start metformin
+• If on insulin, titrate guided by glucose 
+values
+• Continue or initiate MDI insulin or pump 
+therapy, as for type 1 diabetes
+• Discontinue metformin
+• Continue metformin
+• Consider adding GLP1 receptor agonist or SGLT2 inhibitor 
+approved for youth with type 2 diabetes
+• Consider prioritizing and maximizing noninsulin medications to 
+minimize weight gain before escalating insulin doses
+• Titrate or initiate insulin therapy; if using long-acting insulin only 
+and glycemic goal are not met with escalating doses, add prandial 
+insulin; total daily insulin dose may exceed 1 unit/kg/day
+POSITIVE
+Figure 14.1—Management of new-onset diabetes in youth with overweight or obesity with clinical suspicion of type 2 diabetes. A1C 8.5% =
+69 mmol/mol. BGM, blood glucose monitoring; CGM, continuous glucose monitoring; DKA, diabetic ketoacidosis; GLP-1, glucagon-like peptide 1; HHS,
+hyperosmolar hyperglycemic state; MDI, multiple daily injections; SGLT2, sodium–glucose cotransporter 2. Adapted from the ADA position statement
+“Evaluation and Management of Youth-Onset Type 2 Diabetes” (3).
+diabetesjournals.org/care
+Children and Adolescents
+S295
+©AmericanDiabetesAssociation
+
+#8% [#64 mmol/mol] for 6 months) in
+approximately half of the subjects (204).
+The Restoring Insulin Secretion (RISE)
+Consortium study did not demonstrate
+differences in measures of glucose or
+b-cell function preservation between
+metformin and insulin, but there was
+more weight gain with insulin (205).
+To date, the TODAY study is the only
+trial combining lifestyle and metformin
+therapy in youth with type 2 diabetes; the
+combination did not perform better than
+metformin alone in achieving durable gly-
+cemic levels (204).
+Randomized controlled trials in youth
+have shown that GLP-1 receptor agonists
+are safe and effective for decreasing A1C
+(206–210) and promoting weight loss at
+higher doses approved for obesity (211).
+Use of GLP-1 receptor agonists can in-
+crease the frequency of gastrointestinal
+side effects and should not be used in in-
+dividuals with a family history of medul-
+lary thyroid cancer.
+In addition to GLP-1 receptor agonists,
+sodium–glucose cotransporter-2 inhibitors
+are well-studied drugs in adults with type 2
+diabetes, and empagliﬂozin is now ap-
+proved for use in youth with type 2 diabe-
+tes. In a recent multicenter double-blind,
+placebo-controlled trial, 158 children with
+type 2 diabetes aged between 10 and
+17 years were randomized to 10 mg empa-
+gliﬂozin, 5 mg linagliptin, or placebo. Partic-
+ipants in the empagliﬂozin group who did
+not have A1C below 7.0% by week 12
+underwent a second double-blinded ran-
+domization at week 14 to either remain on
+10 mg of empagliﬂozin or increase their
+dose to 25 mg. In the empagliﬂozin pooled
+group compared with the placebo group,
+there was a signiﬁcant reduction in A1C of
+0.84% (P = 0.012).There were no episodes
+of severe hypoglycemia during the study
+(212).
+Blood glucose monitoring plans should
+be individualized, taking into consider-
+ation the pharmacologic treatment of the
+person. Although data on CGM in youth
+with type 2 diabetes are sparse (213,214),
+CGM could be considered in individuals
+requiring frequent blood glucose monitor-
+ing for diabetes management.
+Metabolic Surgery
+Recommendations
+14.70 Metabolic surgery may be con-
+sidered for the treatment of adolescents
+with type 2 diabetes who have class 2
+obesity or higher (BMI >35 kg/m2 or
+>120% of 95th percentile for age and
+sex, whichever is lower) and who have
+elevated A1C and/or serious comorbid-
+ities despite lifestyle and pharmacologic
+intervention. A
+14.71 Metabolic surgery should be
+performed only by an experienced sur-
+geon working as part of a well-organized
+and engaged interprofessional team,
+including a surgeon, endocrinologist,
+registered dietitian nutritionist, behav-
+ioral health specialist, and nurse. A
+The results of weight loss and lifestyle
+interventions for obesity in children and
+adolescents have been disappointing, and
+treatment options as adjuncts to lifestyle
+therapy are limited. Recent U.S. Food and
+Drug Administration–approved medications
+for youth ages 12 years and older include
+phentermine and topiramate extended-
+release capsules and GLP-1 receptor ago-
+nists (211,215–217). Over the last decade,
+weight loss surgery has been increasingly
+performed in adolescents with obesity.
+Small retrospective analyses and a prospec-
+tive multicenter, nonrandomized study sug-
+gest that bariatric or metabolic surgery
+have beneﬁts in adolescents with obesity
+and type 2 diabetes like those observed in
+adults. Early follow-up studies indicate that
+adolescents experience similar degrees of
+weight loss compared with adults and even
+higher rates of type 2 diabetes and hyper-
+tension remission (218). A secondary data
+analysis from the Teen-Longitudinal Assess-
+ment of Bariatric Surgery (Teen-LABS) and
+TODAY studies suggests surgical treatment
+of adolescents with severe obesity and
+type 2 diabetes is associated with improved
+glycemia compared with the agents used in
+the TODAY study (219); however, no ran-
+domized trials have compared the effective-
+ness and safety of surgery with those of
+conventional treatment options in adoles-
+cents and particularly with the vertical
+sleeve gastrectomy, which is the most
+widely performed metabolic surgery in
+adolescents (220). The guidelines used as
+an indication for metabolic surgery in ado-
+lescents generally include class 2 obesity
+or higher (BMI >35 kg/m2 or >120% of
+95th percentile for age and sex, whichever
+is lower, with comorbidities) or BMI
+>40 kg/m2 with or without comorbidities
+(221–227). A number of groups, including
+the Pediatric Bariatric Study Group and
+Teen-LABS study, have demonstrated the
+effectiveness of metabolic surgery in ado-
+lescents (221–225). However, long-term
+data on the rates of complications, reopera-
+tions, nutritional deﬁciencies, and diabetes
+recurrence are still needed.
+Prevention and Management of
+Diabetes Complications
+Hypertension
+Recommendations
+14.72 Blood pressure should be mea-
+sured at every clinic visit. In youth with
+high blood pressure (blood pressure
+$ 90th percentile for age, sex, and
+height or, in adolescents aged $13 years,
+$120/80 mmHg) on three separate
+measurements, ambulatory blood pres-
+sure monitoring should be strongly con-
+sidered. B
+14.73 After excluding secondary hyper-
+tension, treatment of elevated blood
+pressure (deﬁned as 90th to <95th per-
+centile for age, sex, and height or, in
+adolescents aged $13 years, 120–129/
+<80 mmHg) is lifestyle modiﬁcation fo-
+cused on healthy nutrition, physical ac-
+tivity, sleep, and, if appropriate, weight
+management. C
+14.74 In addition to lifestyle modiﬁca-
+tion, ACE inhibitors or angiotensin re-
+ceptor blockers should be started for
+treatment of conﬁrmed hypertension
+(deﬁned as blood pressure consis-
+tently $95th percentile for age, sex,
+and height or, in adolescents aged
+$13 years, $130/80 mmHg). Due to
+the potential teratogenic effects, indi-
+viduals of childbearing age should
+receive reproductive counseling, and
+ACE inhibitors and angiotensin recep-
+tor blockers should be avoided in indi-
+viduals of childbearing age who are
+not using reliable contraception. B
+14.75 The goal of treatment is blood
+pressure <90th percentile for age, sex,
+and height or, in adolescents aged
+$13 years, <130/80 mmHg. C
+Nephropathy
+Recommendations
+14.76 Urine albumin-to-creatinine ra-
+tio should be obtained at the time of
+diagnosis and annually thereafter. An
+elevated urine albumin-to-creatinine
+ratio (>30 mg/g creatinine) should be
+conﬁrmed on two of three samples. B
+S296
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+14.77 Estimated glomerular ﬁltration
+rate (GFR) should be determined at
+the time of diagnosis and annually
+thereafter. E
+14.78 In youth with diabetes and hy-
+pertension, either an ACE inhibitor or
+an angiotensin receptor blocker is rec-
+ommended for those with modestly
+elevated urinary albumin-to-creatinine
+ratio (30–299 mg/g creatinine) and
+should be considered for those with
 urinary
-tract
-infections.
-Accessed 14 August 2024. Available from https://
-www.fda.gov/drugs/drug-safety-and-availability/
-fda-revises-labels-sglt2-inhibitors-diabetes-include-
-warnings-about-too-much-acid-blood-and-serious
-#::text=To%20lessen%20the%20risk%20of,
-issued%20on%20May%2015%2C%202015%20
-111. Ozoran H, Matheou M, Dyson P, Karpe F,
-Tan GD. Type 1 diabetes and low carbohydrate
-diets-deﬁning the degree of nutritional ketosis.
-Diabet Med 2023;40:e15178
-112. Attaye I,Warmbrunn MV, Boot ANAF, et al. A
-systematic review and meta-analysis of dietary
-interventions
-modulating
-gut
-microbiota
-and
-cardiometabolic diseases-striving for new standards
-in microbiome studies. Gastroenterology 2022;
-162:1911–1932
-113. Partula V, Deschasaux M, Druesne-Pecollo N,
-et al.; Milieu Interieur Consortium. Associations
-between consumption of dietary ﬁbers and the
-risk of cardiovascular diseases, cancers, type 2
-diabetes,
-and
-mortality
+albumin-to-creatinine
+ratio
+>300 mg/g creatinine and/or esti-
+mated GFR <60 mL/min/1.73 m2. E
+Due to the potential teratogenic ef-
+fects, individuals of childbearing age
+should receive reproductive counsel-
+ing, and ACE inhibitors and angiotensin
+receptor blockers should be avoided
+in individuals of childbearing age
+who are not using reliable contracep-
+tion. B
+14.79 For youth with nephropathy,
+continue monitoring (yearly and/or
+as indicated by urinary albumin-to-
+creatinine ratio and estimated GFR)
+to detect disease progression. E
+14.80 Referral to nephrology is rec-
+ommended in case of uncertainty of
+etiology, worsening urinary albumin-
+to-creatinine ratio, or decrease in esti-
+mated GFR. E
+Neuropathy
+Recommendations
+14.81 Youth with type 2 diabetes
+should be screened for the presence
+of neuropathy by foot examination at
+diagnosis and annually. The examina-
+tion should include inspection, assess-
+ment of foot pulses, pinprick and 10-g
+monoﬁlament sensation tests, testing
+of vibration sensation using a 128-Hz
+tuning fork, and ankle reﬂex tests. C
+14.82
+Prevention
+of
+neuropathy
+should focus on achieving glycemic
+goals. C
+Retinopathy
+Recommendations
+14.83 Screening for retinopathy should
+be performed by dilated fundoscopy at
+or soon after diagnosis and annually
+thereafter. C
+14.84 Optimizing glycemia is recom-
+mended to decrease the risk or slow
+the progression of retinopathy. B
+14.85
+Less
+frequent
+examination
+(every 2 years) may be considered if
+achieving glycemic goals and a normal
+eye exam. C
+14.86 Programs that use retinal pho-
+tography (with remote reading or use
+of a validated assessment tool) to im-
+prove access to diabetic retinopathy
+screening can be appropriate screen-
+ing strategies for diabetic retinopathy.
+Such programs need to provide path-
+ways for timely referral for a com-
+prehensive eye examination when
+indicated. E
+Metabolic Dysfunction–Associated
+Steatotic Liver Disease Recommendations
+Recommendations
+14.87 Evaluation of youth with type 2
+diabetes for metabolic dysfunction–
+associated steatotic liver disease (by
+measuring AST and ALT) should be done
+at diagnosis and annually thereafter. B
+14.88 Referral to gastroenterology
+should be considered for persistently
+elevated or worsening transami-
+nases. B
+Obstructive Sleep Apnea
+Recommendation
+14.89 Screening for symptoms of
+sleep apnea should be done at
+each visit, and referral to a pediat-
+ric sleep specialist for evaluation
+and a polysomnogram, if indicated,
+is recommended. Obstructive sleep
+apnea should be treated when
+documented. B
+Polycystic Ovary Syndrome
+Recommendations
+14.90 Evaluate for polycystic ovary
+syndrome in female adolescents with
+type 2 diabetes, including laboratory
+studies, when indicated. B
+14.91 Metformin, in addition to life-
+style modiﬁcation, is likely to improve
+the menstrual cyclicity and hyperan-
+drogenism in female individuals with
+type 2 diabetes. E
+Cardiovascular Disease
+Recommendation
+14.92 Intensive lifestyle interventions
+focusing on weight loss, dyslipidemia,
+hypertension, and dysglycemia are im-
+portant to prevent overt macrovascu-
+lar disease in early adulthood. E
+Dyslipidemia
+Recommendations
+14.93 Lipid screening should be per-
+formed initially after optimizing gly-
+cemia and annually thereafter. B
+14.94 Optimal goals are LDL choles-
+terol <100 mg/dL (<2.6 mmol/L),
+HDL cholesterol >35 mg/dL (>0.91
+mmol/L), and triglycerides <150 mg/dL
+(<1.7 mmol/L). E
+14.95 If lipids are abnormal, initial
+therapy should consist of optimizing
+glycemia and medical nutritional ther-
+apy to limit the amount of calories from
+fat to 25–30% and saturated fat to
+<7%, limit cholesterol to <200 mg/day,
+avoid trans fats, and aim for 10% cal-
+ories from monounsaturated fats for el-
+evated LDL. For elevated triglycerides,
+MNT should also focus on decreasing
+carbohydrate intake and increasing die-
+tary n-3 fatty acids in addition to the
+above changes. A
+14.96 If LDL cholesterol remains
+>130 mg/dL (>3.4 mmol/L) after
+6 months of dietary intervention, ini-
+tiate therapy with statin, with a goal
+of LDL <100 mg/dL (<2.6 mmol/L).
+Due to the potential teratogenic ef-
+fects, individuals of childbearing age
+should receive reproductive counsel-
+ing, and statins should be avoided in
+individuals of childbearing age who
+are not using reliable contraception. B
+14.97 If triglycerides are >400 mg/dL
+(>4.7 mmol/L) fasting or >1,000 mg/dL
+(>11.6 mmol/L) nonfasting, optimize
+glycemia and begin ﬁbrate, with a goal
+of <400 mg/dL (<4.7 mmol/L) fasting
+to reduce risk for pancreatitis. C
+Cardiac Function Testing
+Recommendation
+14.98 Routine screening for heart dis-
+ease with electrocardiogram, echocar-
+diogram, or stress testing is not re-
+commended in asymptomatic youth
+with type 2 diabetes. B
+Comorbidities may already be present
+at the time of diagnosis of type 2 diabe-
+tes in youth (176,228). Therefore, blood
+pressure measurement, a fasting lipid
+diabetesjournals.org/care
+Children and Adolescents
+S297
+©AmericanDiabetesAssociation
+
+panel, assessment of random urine
+albumin-to-creatinine ratio, foot exami-
+nation for neuropathy, and a dilated eye
+examination should be performed at di-
+agnosis. Additional medical conditions
+that may need to be addressed include
+polycystic ovary disease and other co-
+morbidities associated with pediatric
+obesity, such as sleep apnea, hepatic
+steatosis, orthopedic complications, and
+psychosocial concerns. The ADA position
+statement “Evaluation and Management
+of Youth-Onset Type 2 Diabetes” (3)
+provides guidance on the prevention,
+screening, and treatment of type 2 dia-
+betes and its comorbidities in children
+and adolescents.
+Youth-onset type 2 diabetes is associ-
+ated with signiﬁcant microvascular and
+macrovascular risk burden and a substan-
+tial increase in the risk of cardiovascular
+morbidity and mortality at an earlier age
+than in those diagnosed later in life (177,
+229).The higher complication risk in earlier-
+onset type 2 diabetes is likely related to
+prolonged lifetime exposure to hyperglyce-
+mia and other atherogenic risk factors, in-
+cluding insulin resistance, dyslipidemia,
+hypertension, and chronic inﬂammation.
+There is a low riskof hypoglycemia in youth
+with type 2 diabetes, even if they are being
+treated with insulin (230), and there are
+high rates of complications (196–198,230).
+These diabetes comorbidities also appear
+to be higher than those in youth with
+type 1 diabetes despite shorter diabetes
+duration and lower A1C (228). In addition,
+the progression of vascular abnormalities
+appears to be more pronounced in youth-
+onset type 2 diabetes than with type 1 di-
+abetes of similar duration, including ische-
+mic heart disease and stroke (229).
+In youth with type 2 diabetes and
+polycystic ovary syndrome, oral contra-
+ceptives are appropriate agents.
+Psychosocial Factors
+Recommendations
+14.99 Health care professionals should
+screen for food insecurity, housing sta-
+bility, health literacy, ﬁnancial barriers,
+and social or community support and
+apply that information to treatment
+decisions. E
+14.100 Use age-appropriate standard-
+ized and validated tools to screen for
+diabetes distress, depressive symp-
+toms, and behavioral health concerns
+in youth with type 2 diabetes, with
+attention to symptoms of depression
+and disordered eating, and refer to
+a qualiﬁed behavioral health profes-
+sional when indicated. B
+14.101 Starting at puberty, precon-
+ception counseling should be incorpo-
+rated into routine diabetes clinic visits
+for all individuals of childbearing po-
+tential because of the adverse preg-
+nancy outcomes in this population. A
+Most youth with type 2 diabetes come
+from historically marginalized communi-
+ties, have low socioeconomic status, and
+often experience multiple psychosocial
+stressors (9,40,42,231). Consideration of
+the sociocultural context and efforts to
+personalize diabetes management are of
+critical importance to minimize barriers
+to care, enhance participation, and maxi-
+mize response to treatment. Screening
+for food insecurity, housing stability, and
+other barriers related to the social deter-
+minants of health should be part of rou-
+tine pediatric diabetes care (232). Please
+see Section 1, “Improving Care and
+Promoting Health in Populations,” for fur-
+ther information on how to screen and
+address social determinants of health–re-
+lated barriers.
+Evidence about psychosocial concerns
+in youth with type 2 diabetes is limited
+(233–236), but given the sociocultural
+context for many youth, combined with
+the medical burden and obesity associ-
+ated with type 2 diabetes, continuous
+monitoring of behavioral health is recom-
+mended. Symptoms of depression and
+disordered eating are common and asso-
+ciated with higher A1C (41,233,237,238).
+Early detection of psychological and be-
+havioral concerns can facilitate effective
+treatment options to improve psychoso-
+cial well-being and support diabetes (42).
+When psychological symptoms are identi-
+ﬁed, referral to a behavioral health profes-
+sional, ideally with experience in pediatric
+diabetes, may be warranted. Although far
+less research has been done on psycholog-
+ical and behavioral interventions for youth
+with type 2 diabetes than for youth with
+type 1 diabetes, behavioral professionals
+can provide behavioral health care services
+to support youth with type 2 diabetes
+(50–52). Many of the medications pre-
+scribed for diabetes and psychiatric disor-
+ders are associated with weight gain and
+can increase concerns about eating, body
+shape, and weight (239,240).
+The TODAY study documented high
+rates of maternal complications during
+pregnancy and low rates of preconception
+counseling and contraception use in youth
+with type 2 diabetes (241). Preconception
+counseling tailored for adolescents with
+diabetes (including type 2 diabetes) has
+sustained behavioral beneﬁts (65).
+SUBSTANCE USE IN PEDIATRIC
+DIABETES
+Tobacco, Electronic Cigarettes,
+Alcohol, and Cannabis
+Recommendations
+14.102 Adolescents and young adults
+should be screened for tobacco or nic-
+otine, electronic cigarettes, substance
+use, and alcohol use at diagnosis and
+regularly thereafter. C
+14.103 Elicit a smoking history at ini-
+tial and follow-up diabetes visits; dis-
+courage smoking in youth who do
+not smoke and encourage smoking
+cessation in those who do smoke. A
+14.104 Electronic cigarette use or
+vaping should be discouraged. A
+14.105 Advise all youth with diabe-
+tes not to use cannabis recreation-
+ally in any form. E
+The adverse health effects of smoking
+and use of tobacco products are well rec-
+ognized with respect to future cancer and
+CVD risk. Despite this, smoking rates are
+signiﬁcantly higher among youth with dia-
+betes than among youth without diabetes
+(242). In youth with diabetes, it is impor-
+tant to avoid additional CVD risk factors.
+Smoking increases the risk of the onset of
+albuminuria; therefore, smoking avoid-
+ance is important to prevent both micro-
+vascular and macrovascular complications
+(150). Discouraging use of tobacco prod-
+ucts, including electronic cigarettes (243,
+244), is an important part of routine diabe-
+tes care. Individuals with diabetes should
+be advised to avoid vaping and using elec-
+tronic cigarettes, either as a way to stop
+smoking tobacco or as a recreational drug.
+In younger children, it is important to as-
+sess exposure to cigarette smoke in the
+home because of the adverse effects of
+secondhand smoke and to discourage
+youth from ever smoking.
+As alcohol use has implications for gly-
+cemic management and safety in youth
+and young adults with diabetes, efforts
+are warranted to reduce alcohol use and
+S298
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+increase education about the risks of alco-
+hol use and strategies to minimize risks. A
+psychoeducational intervention for adoles-
+cents with chronic medical conditions, in-
+cluding type 1 diabetes, has demonstrated
+beneﬁts for knowledge, perceived beneﬁts,
+and reduced use (245). See also Section 5,
+“Facilitating Positive Health Behaviors and
+Well-being to Improve Health Outcomes.”
+Finally, increased legalization and multi-
+ple formulations of cannabis products have
+resulted in increased use of these products
+among youth and young adults. In 2022,
+30.7% of 12th graders reported using can-
+nabis in the past year and 6.3% reported
+using it daily over the past 30 days (246).
+Cannabis users with type 1 diabetes are at
+increased risk for hyperglycemic ketosis
+due to cannabis hyperemesis syndrome
+(severe nausea, abdominal pain, and vom-
+iting) (247). For youth with type 1 diabetes
+presenting with a hyperglycemic emer-
+gency, health care professionals should
+consider cannabis hyperemesis syndrome
+in individuals with pH $7.4 and bicarbon-
+ate >15 mmol/L in the presence of ketosis
+(247). Routine diabetes care should dis-
+courage the use of recreational cannabis
+in all forms. See Section 5, “Facilitating
+Positive Health Behaviors and Well-being
+to Improve Health Outcomes,” for more in-
+formation about smoking cessation, to-
+bacco, electronic cigarettes, and cannabis
+in people with diabetes.
+TRANSITION FROM PEDIATRIC TO
+ADULT CARE
+Recommendations
+14.106 Diabetes care teams should
+implement transition preparation pro-
+grams for youth beginning in early ad-
+olescence and, at the latest, at least
+1 year before the anticipated transfer
+from pediatric to adult health care. E
+14.107 Interprofessional adult and
+pediatric health care teams should
+provide support and resources for
+adolescents, young adults, and their
+families prior to and during the trans-
+fer process from pediatric to adult
+health care. C
+14.108 Pediatric diabetes specialists
+should partner with youth with diabe-
+tes and their caregivers to engage in
+shared decision-making for the timing
+of transfer to an adult diabetes spe-
+cialist. There is no age-speciﬁc cutoff
+for youth with diabetes to transfer to
+an adult diabetes specialist. E
+Care and close supervision of diabetes
+management are increasingly shifted from
+parents and other adults to the youth
+with type 1 or type 2 diabetes throughout
+childhood and adolescence.The shift from
+pediatric to adult health care professio-
+nals, however, often occurs abruptly as
+the older teen enters the next develop-
+mental stage, referred to as emerging
+adulthood (248), which is a critical period
+for young people who have diabetes. Dur-
+ing this period of major life transitions,
+youth may begin to move out of their pa-
+rents’ or caregivers’ homes and become
+increasingly responsible for their diabetes
+care. Their new responsibilities include
+self-management of their diabetes, mak-
+ing medical appointments, and ﬁnancing
+health care once they are no longer cov-
+ered by their parents’ health insurance
+plans (ongoing coverage until age 26 years
+is currently available under provisions of
+the U.S. Affordable Care Act). In addition
+to lapses in health care, this is also a pe-
+riod associated with deterioration in gly-
+cemic stability; increased occurrence of
+acute complications; psychosocial, emo-
+tional, and behavioral challenges; and
+the emergence of chronic complications
+(249,250). The transfer period from pedi-
+atric to adult care is prone to fragmenta-
+tion in health care delivery, which may
+adversely impact health care quality, cost,
+and outcomes (251). Worsening diabetes
+health outcomes during the transition to
+adult care and early adulthood have been
+documented (252,253).
+Comprehensive and coordinated plan-
+ning that begins in early adolescence is
+necessary to facilitate a seamless transition
+from pediatric to adult health care (249,
+254). Research on effective interventions
+to promote successful transition to adult
+care is limited, although there are promising
+developments that may improve atten-
+dance at follow-up appointments and lower
+hospitalizations (255,256). Use of transition
+coordinators, technology to support com-
+munication with young adults, and other in-
+terventions may be useful in addressing the
+identiﬁed needs and preferences of young
+adults for transition (257) and in supporting
+successful establishment in adult care set-
+tings (258–261). Given the behavioral, psy-
+chosocial, and developmental factors that
+relate to this transition, diabetes care teams
+addressing transition should include
+physicians, certiﬁed diabetes care and
+education specialists, nurses, behavioral
+health professionals, registered dietitian
+nutritionists, and social workers (50,262).
+Resources to enhance social and peer
+support during the transition process may
+also be valuable (263). A comprehensive
+discussion regarding the challenges faced
+during this period, including speciﬁc recom-
+mendations, is found in the ADA position
+statement “Diabetes Care for Emerging
+Adults: Recommendations for Transition
+From Pediatric to Adult Diabetes Care Sys-
+tems” (249). Ultimately, there is no age cut-
+off for youth with diabetes to transfer to
+adult diabetes care. The decision to trans-
+fer should be a collaborative process in
+which the youth with diabetes, their care-
+givers, and pediatric diabetes specialists
+discuss their readiness, preferences, and
+concerns to ensure that the transfer aligns
+with their needs and circumstances (256).
+The Endocrine Society, in collabora-
+tion with the ADA and other organiza-
+tions, has developed transition tools for
+clinicians and youth and families (254).
+References
+1. Centers for Disease Control and Prevention.
+U.S. COVID-19 Vaccine Product Information. 2024.
+2024. Accessed 31 August 2024. Available from
+https://www.cdc.gov/vaccines/hcp/index.html
+2. Chiang JL, Maahs DM, Garvey KC, et al.Type 1
+diabetes in children and adolescents: a position
+statement by the American Diabetes Association.
+Diabetes Care 2018;41:2026–2044
+3. Arslanian S, Bacha F, Grey M, Marcus MD,
+White NH, Zeitler P. Evaluation and management of
+youth-onset type 2 diabetes: a position statement
+by the American Diabetes Association. Diabetes
+Care 2018;41:2648–2668
+4. Lawrence JM, Divers J, Isom S, et al.; SEARCH
+for Diabetes in Youth Study Group. Trends in
+prevalence of type 1 and type 2 diabetes in
+children and adolescents in the US, 2001-2017.
+JAMA 2021;326:717–727
+5. Leslie RD, Evans-Molina C, Freund-Brown J,
+et al. Adult-onset type 1 diabetes: current
+understanding and challenges. Diabetes Care 2021;
+44:2449–2456
+6. Barnea-Goraly N, Raman M, Mazaika P, et al.;
+Diabetes Research in Children Network (DirecNet).
+Alterations in white matter structure in young
+children with type 1 diabetes. Diabetes Care 2014;
+37:332–340
+7. Cameron FJ, Scratch SE, Nadebaum C, et al.;
+DKA Brain Injury Study Group. Neurological
+consequences of diabetic ketoacidosis at initial
+presentation of type 1 diabetes in a prospective
+cohort study of children. Diabetes Care 2014;37:
+1554–1562
+8. Markowitz
+JT,
+Garvey
+KC,
+Laffel
+LMB.
+Developmental changes in the roles of patients
+and families in type 1 diabetes management.
+Curr Diabetes Rev 2015;11:231–238
+9. Liu LL, Lawrence JM, Davis C, et al.; SEARCH
+for Diabetes in Youth Study Group. Prevalence of
+overweight and obesity in youth with diabetes in
+USA: the SEARCH for Diabetes in Youth study.
+Pediatr Diabetes 2010;11:4–11
+diabetesjournals.org/care
+Children and Adolescents
+S299
+©AmericanDiabetesAssociation
+
+10. Driscoll KA, Volkening LK, Haro H, et al. Are
+children with type 1 diabetes safe at school?
+Examining parent perceptions. Pediatr Diabetes
+2015;16:613–620
+11. Cogen F, Rodriguez H, March CA, et al.
+Diabetes care in the school setting: a statement
+of the American Diabetes Association. Diabetes
+Care 2024;47:2050–2061
+12. Mehta SN, Volkening LK, Anderson BJ, et al.;
+Family Management of Childhood Diabetes
+Study Steering Committee. Dietary behaviors
+predict glycemic control in youth with type 1
+diabetes. Diabetes Care 2008;31:1318–1320
+13. Bell KJ, Smart CE, Steil GM, Brand-Miller JC,
+King B, Wolpert HA. Impact of fat, protein, and
+glycemic index on postprandial glucose control in
+type 1 diabetes: implications for intensive diabetes
+management in the continuous glucose mo-
+nitoring era. Diabetes Care 2015;38:1008–1015
+14. Smith TA, Marlow AA, King BR, Smart CE.
+Insulin strategies for dietary fat and protein in
+type 1 diabetes: a systematic review. Diabet Med
+2021;38:e14641
+15. Paterson MA, Smart CEM, Lopez PE, et al.
+Increasing the protein quantity in a meal results
 in
-the
-prospective
-NutriNet-Sante cohort. Am J Clin Nutr 2020;112:
-195–207
-114. Reynolds AN, Akerman AP, Mann J. Dietary
-ﬁbre and whole grains in diabetes management:
-systematic review and meta-analyses. PLoS Med
-2020;17:e1003053
-115. Qi X, Chiavaroli L, Lee D, et al. Effect of
-important food sources of fructose-containing
-sugars on inﬂammatory biomarkers: a systematic
-review and meta-analysis of controlled feeding
-trials. Nutrients 2022;14:14
-116. Zafar MI, Mills KE, Zheng J, et al. Low-
-glycemic index diets as an intervention for
-diabetes: a systematic review and meta-analysis.
-Am J Clin Nutr 2019;110:891–902
-117. Vega-Lopez S, Venn BJ, Slavin JL. Relevance
-of the glycemic index and glycemic load for body
-weight, diabetes, and cardiovascular disease.
-Nutrients 2018;10:1361
-118. Jenkins DJA, Willett WC, Yusuf S, et al.;
-Clinical Nutrition & Risk Factor Modiﬁcation
-Centre Collaborators. Association of glycaemic
-index and glycaemic load with type 2 diabetes,
-cardiovascular disease, cancer, and all-cause
-mortality: a meta-analysis of mega cohorts of
-more than 100000 participants. Lancet Diabetes
-Endocrinol 2024;12:107–118
-119. Thomas D, Elliott EJ. Low glycaemic index,
-or low glycaemic load, diets for diabetes mellitus.
-Cochrane Database Syst Rev 2009:CD006296
-120. Smith TA, Smart CE, Howley PP, Lopez PE,
-King BR. For a high fat, high protein breakfast,
-preprandial administration of 125% of the insulin
-dose improves postprandial glycaemic excursions
-in people with type 1 diabetes using multiple
-daily injections: A cross-over trial. Diabet Med
-2021;38:e14512
-121. Bell KJ, Fio CZ, Twigg S, et al. Amount and
-type of dietary fat, postprandial glycemia, and
-insulin requirements in type 1 diabetes: a
-randomized within-subject trial. Diabetes Care
-2020;43:59–66
-122. Furthner D, Lukas A, Schneider AM, et al.
-The role of protein and fat intake on insulin
-therapy in glycaemic control of paediatric type 1
-diabetes: a systematic review and research gaps.
-Nutrients 2021;13:3558
-S116
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-123. Al Balwi R, Al Madani W, Al Ghamdi A.
-Efﬁcacy of insulin dosing algorithms for high-fat
-high-protein mixed meals to control postprandial
-glycemic excursions in people living with type 1
-diabetes: a systematic review and meta-analysis.
-Pediatr Diabetes 2022;23:1635–1646
-124. Bell KJ, Toschi E, Steil GM, Wolpert HA.
-Optimized mealtime insulin dosing for fat and
-protein in type 1 diabetes: application of a
-model-based approach to derive insulin doses for
-open-loop diabetes management. Diabetes Care
-2016;39:1631–1634
-125. Metwally M, Cheung TO, Smith R, Bell KJ.
-Insulin pump dosing strategies for meals varying
-in fat, protein or glycaemic index or grazing-style
-meals in type 1 diabetes: a systematic review.
-Diabetes Res Clin Pract 2021;172:108516
-126. Phillip M, Nimri R, Bergenstal RM, et al.
-Consensus recommendations for the use of
-automated insulin delivery technologies in clinical
-practice. Endocr Rev 2023;44:254–280
-127. Lesser LI. In adults at CV risk, Medi-
-terranean-style or low-fat dietary programs vs.
-minimal interventions reduce all-cause mortality.
-Ann Intern Med 2023;176:JC78
-128. Ley SH, Hamdy O, Mohan V, Hu FB.
-Prevention and management of type 2 diabetes:
-dietary components and nutritional strategies.
-Lancet 2014;383:1999–2007
-129. Jiang S, Fang J, Li W. Protein restriction for
-diabetic kidney disease. Cochrane Database Syst
-Rev 2023;1:CD014906
-130. Viguiliouk E, Stewart SE, Jayalath VH, et al.
-Effect of replacing animal protein with plant protein
-on glycemic control in diabetes: a systematic review
-and meta-analysis of randomized controlled trials.
-Nutrients 2015;7:9804–9824
-131. Lamberg-Allardt C, B€arebring L, Arnesen EK,
-et al. Animal versus plant-based protein and risk of
-cardiovascular disease and type 2 diabetes: a
-systematic review of randomized controlled trials
-and prospective cohort studies. Food Nutr Res
-2023;67
-132. Sullivan VK, Kim H, Caulﬁeld LE, Steffen LM,
-Selvin E, Rebholz CM. Plant-based dietary patterns
-and incident diabetes in the Atherosclerosis Risk in
-Communities (ARIC) study. Diabetes Care 2024;47:
-803–809
-133. Willett W, Rockstr€om J, Loken B, et al. Food
-in the Anthropocene: the EAT-Lancet Commission
-on healthy diets from sustainable food systems.
-Lancet 2019;393:447–492
-134. Estruch R, Ros E, Salas-Salvado J, et al.;
-PREDIMED Study Investigators. Primary prevention
-of cardiovascular disease with a mediterranean
-diet supplemented with extra-virgin olive oil or
-nuts. N Engl J Med 2018;378:e34
-135. Forouhi NG, Imamura F, Sharp SJ, et al.
-Association of plasma phospholipid n-3 and n-6
-polyunsaturated fatty acids with type 2 diabetes:
-the EPIC-InterAct case-cohort study. PLoS Med
-2016;13:e1002094
-136. Wang DD, Li Y, Chiuve SE, et al. Association
-of speciﬁc dietary fats with total and cause-speciﬁc
-mortality. JAMA Intern Med 2016;176:1134–1145
-137. Sebastian SA, Padda I, Johal G. Long-term
-impact of mediterranean diet on cardiovascular
-disease prevention: a systematic review and
-meta-analysis of randomized controlled trials.
-Curr Probl Cardiol 2024;49:102509
-138. Kirkpatrick CF, Sikand G, Petersen KS, et al.
-Nutrition interventions for adults with dyslipidemia:
-a clinical perspective from the National Lipid
-Association. J Clin Lipidol 2023;17:428–451
-139. Karam G, Agarwal A, Sadeghirad B, et al.
-Comparison of seven popular structured dietary
-programmes and risk of mortality and major
-cardiovascular events in patients at increased
-cardiovascular risk: systematic review and network
-meta-analysis. BMJ 2023;380:e072003
-140. Rosqvist F, Kullberg J, Ståhlman M, et al.
-Overeating saturated fat promotes fatty liver and
-ceramides compared with polyunsaturated fat: a
-randomized trial. J Clin Endocrinol Metab 2019;
-104:6207–6219
-141. Schwab
-U,
-Reynolds
-AN,
-Sallinen
-T,
-Rivellese AA, Riserus U. Dietary fat intakes and
-cardiovascular disease risk in adults with type 2
-diabetes: a systematic review and meta-analysis.
-Eur J Nutr 2021;60:3355–3363
-142. Sacks FM, Lichtenstein AH, Wu JHY, et al.;
-American Heart Association. Dietary fats and
-cardiovascular disease: a presidential advisory
-from the American Heart Association. Circulation
-2017;136:e1–e23
-143. Bosch J, Gerstein HC, Dagenais GR, et al.;
-ORIGIN Trial Investigators. n-3 fatty acids and
-cardiovascular outcomes in patients with dys-
-glycemia. N Engl J Med 2012;367:309–318
-144. Wheeler ML, Dunbar SA, Jaacks LM, et al.
-Macronutrients, food groups, and eating patterns
-in the management of diabetes: a systematic
-review of the literature, 2010. Diabetes Care
-2012;35:434–445
-145. Brown TJ, Brainard J, Song F, Wang X,
-Abdelhamid A, Hooper L, PUFAH Group. Omega-3,
-omega-6, and total dietary polyunsaturated fat for
-prevention and treatment of type 2 diabetes
-mellitus: systematic review and meta-analysis of
-randomised controlled trials. BMJ 2019;366:l4697
-146. Bowman L, Mafham M, Wallendszus K,
-et al.; ASCEND Study Collaborative Group. Effects
-of n-3 fatty acid supplements in diabetes
-mellitus. N Engl J Med 2018;379:1540–1550
-147. Bhatt DL, Steg PG, Miller M, et al.; REDUCE-IT
-Investigators. Cardiovascular risk reduction with
-icosapent ethyl for hypertriglyceridemia. N Engl J
-Med 2019;380:11–22
-148. Hodson EM, Cooper TE. Altered dietary salt
-intake for preventing diabetic kidney disease and
-its progression. Cochrane Database Syst Rev
-2023;1:CD006763
-149. Han S, Cheng D, Liu N, Kuang H. The
-relationship
-between
-diabetic
-risk
-factors,
-diabetic complications and salt intake. J Diabetes
-Complications 2018;32:531–537
-150. Morales-Alvarez
-MC,
-Nissaisorakarn
-V,
-Appel LJ, et al. Effects of reduced dietary sodium
-and the DASH diet on GFR: the DASH-sodium
-trial. Kidney360 2024;5:569–576
-151. Hannon BA, Fairﬁeld WD, Adams B, Kyle T,
-Crow M, Thomas DM. Use and abuse of dietary
-supplements in persons with diabetes. Nutr
-Diabetes 2020;10:14
-152. Kazemi A, Ryul Shim S, Jamali N, et al.
-Comparison
-of
-nutritional
-supplements
-for
-glycemic control in type 2 diabetes: a systematic
-review and network meta-analysis of randomized
-trials. Diabetes Res Clin Pract 2022;191:110037
-153. National Center for Complementary and
-Integrative Health. Dietary and herbal supplements.
-Accessed 13 August 2024. Available from https://
-www.nccih.nih.gov/health/dietary-and-herbal-
-supplements
-154. U.S. Food and Drug Administration. Dietary
-supplements. Accessed 13 August 2024. Available
-from https://www.fda.gov/food/dietary-supplements
-155. Dwyer JT, Coates PM, Smith MJ. Dietary
-supplements: regulatory challenges and research
-resources. Nutrients 2018;10:10
-156. U.S. Food and Drug Administration. Dietary
-supplement ingredient directory. Accessed 13
-August 2024. Available from https://www.fda.
-gov/food/dietary-supplements/dietary-supplement-
-ingredient-directory
-157. Mangione CM, Barry MJ, Nicholson WK,
-et al.; US Preventive Services Task Force.Vitamin,
-mineral, and multivitamin supplementation to
-prevent cardiovascular disease and cancer: US
-Preventive Services Task Force recommendation
-statement. JAMA 2022;327:2326–2333
-158. Pittas AG, Kawahara T, Jorde R, et al.
-Vitamin D and risk for type 2 diabetes in people
-with prediabetes: a systematic review and meta-
-analysis of individual participant data from 3
-randomized clinical trials. Ann Intern Med 2023;
-176:355–363
-159. Dawson-Hughes B, Staten MA, Knowler WC,
-et al. Intratrial exposure to vitamin D and new-
-onset diabetes among adults with prediabetes: a
-secondary analysis from the Vitamin D and Type 2
-Diabetes (D2d) study. Diabetes Care 2020;43:2916-
-2922
-160. Barbarawi M, Zayed Y, Barbarawi O, et al.
-Effect of vitamin D supplementation on the
-incidence of diabetes mellitus. J Clin Endocrinol
-Metab 2020;105:dgaa335
-161. Barbarawi M, Kheiri B, Zayed Y, et al.
-Vitamin D supplementation and cardiovascular
-disease risks in more than 83,000 individuals in
-21 randomized clinical trials: a meta-analysis.
-JAMA Cardiol 2019;4:765–776
-162. Jayedi A, Daneshvar M, Jibril AT, et al. Serum
-25(OH)D concentration, vitamin D supplementation,
-and risk of cardiovascular disease and mortality in
-patients with type 2 diabetes or prediabetes: a
-systematic review and dose-response meta-analysis.
-Am J Clin Nutr 2023;118:697–707
-163. Dadon Y, Hecht Sagie L, Mimouni FB, Arad I,
-Mendlovic J. Vitamin D and insulin-dependent
-diabetes: a systematic review of clinical trials.
-Nutrients 2024;16
-164. Moridpour AH, Kavyani Z, Khosravi S, et al.
-The effect of cinnamon supplementation on
-glycemic control in patients with type 2 diabetes
-mellitus: an updated systematic review and dose-
-response meta-analysis of randomized controlled
-trials. Phytother Res 2024;38:117–130
-165. Khattab R, Albannawi M, Alhajjmohammed
-D, et al. Metformin-induced vitamin B12 deﬁciency
-among type 2 diabetes mellitus’ patients: a
-systematic review. Curr Diabetes Rev 2023;19:
-e180422203716
-166. National Institutes of Health Ofﬁce of Dietary
-Supplements. Multivitamin/mineral supplements:
-fact sheet for health professionals. Accessed 13
-August 2024. Available from https://ods.od.nih
-.gov/factsheets/MVMS-HealthProfessional/
-167. World Health Organization. No level of
-alcohol consumption is safe for our health.
-Accessed 13 August 2024. Available from https://
-www.who.int/europe/news/item/04-01-2023-no-
-level-of-alcohol-consumption-is-safe-for-our-health
-168. Anderson BO, Berdzuli N, Ilbawi A, et al.
-Health and cancer risks associated with low
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S117
-©AmericanDiabetesAssociation
-levels of alcohol consumption. Lancet Public
-Health 2023;8:e6–e7
-169. de
-Souza
-ABC,
-Correa-Giannella
-MLC,
-Gomes MB, Negrato CA, Nery M. Epidemiology
-and risk factors of hypoglycemia in subjects with
-type 1 diabetes in Brazil: a cross-sectional, multi-
-center study. Arch Endocrinol Metab 2022;66:
-784–791
-170. Llamosas-Falcon L, Rehm J, Bright S, et al.
-The relationship between alcohol consumption,
-BMI, and type 2 diabetes: a systematic review
-and dose-response meta-analysis. Diabetes Care
-2023;46:2076–2083
-171. Krittanawong C, Isath A, Rosenson RS, et al.
-Alcohol consumption and cardiovascular health.
-Am J Med 2022;135:1213–1230.e3
-172. Weitzman ER, Wisk LE, Minegishi M, et al.
-Effects of a patient-centered intervention to reduce
-alcohol use among youth with chronic medical
-conditions. J Adolesc Health 2022;71:S24–S33
-173. National Agricultural Library, U.S. Department
-of Agriculture. Nutritive and nonnutritive sweetener.
-Accessed 13 August 2024. Available from https://
-www.nal.usda.gov/human-nutrition-and-food-safety/
-food-composition/sweeteners
-174. Arnett DK, Blumenthal RS, Albert MA, et al.
-ACC/AHA guideline on the primary prevention of
-cardiovascular disease: a report of the American
-College of Cardiology/American Heart Association
-Task Force on Clinical Practice Guidelines.
-Circulation 2019;140:e596–e646
-175. Lohner S, Kuellenberg de Gaudry D, Toews I,
-Ferenci T, Meerpohl JJ. Non-nutritive sweeteners
-for diabetes mellitus. Cochrane Database Syst Rev
-2020;5:CD012885
-176. Zhang R, Noronha JC, Khan TA, et al. The
-effect of non-nutritive sweetened beverages on
-postprandial glycemic and endocrine responses:
-a systematic review and network meta-analysis.
-Nutrients 2023;15:15
-177. Sylvetsky AC, Chandran A, Talegawkar SA,
-Welsh JA, Drews K, El Ghormli L. Consumption of
-beverages containing low-calorie sweeteners,
-diet, and cardiometabolic health in youth with
-type 2 diabetes. J Acad Nutr Diet 2020;120:
-1348–1358.e6
-178. Golzan SA, Movahedian M, Haghighat N,
-Asbaghi O, Hekmatdoost A. Association between
-non-nutritive sweetener consumption and liver
-enzyme levels in adults: a systematic review and
-meta-analysis of randomized clinical trials. Nutr
-Rev 2023;81:1105–1117
-179. Miller PE, Perez V. Low-calorie sweeteners
-and body weight and composition: a meta-
-analysis of randomized controlled trials and
-prospective cohort studies. Am J Clin Nutr 2014;
-100:765–777
-180. Rogers PJ, Hogenkamp PS, de Graaf C, et al.
-Does low-energy sweetener consumption affect
-energy intake and body weight? A systematic
-review, including meta-analyses, of the evidence
-from human and animal studies. Int J Obes
-(Lond) 2016;40:381–394
-181. Laviada-Molina H, Molina-Segui F, Perez-
-Gaxiola G, et al. Effects of nonnutritive sweeteners
-on body weight and BMI in diverse clinical
-contexts: systematic review and meta-analysis.
-Obes Rev 2020;21:e13020
-182. Azad MB, Abou-Setta AM, Chauhan BF, et al.
-Nonnutritive sweeteners and cardio-metabolic
-health: a systematic review and meta-analysis of
-randomized controlled trials and prospective
-cohort studies. CMAJ 2017;189:E929–E939
-183. Lee JJ, Khan TA, McGlynn N, et al. Relation
-of change or substitution of low- and no-calorie
-sweetened
-beverages
-with
-cardiometabolic
-outcomes: a systematic review and meta-analysis
-of prospective cohort studies. Diabetes Care 2022;
-45:1917–1930
-184. Mattes
-RD,
-Popkin
-BM.
-Nonnutritive
-sweetener consumption in humans: effects on
-appetite and food intake and their putative
-mechanisms. Am J Clin Nutr 2009;89:1–14
-185. McGlynn ND, Khan TA, Wang L, et al.
-Association of low- and no-calorie sweetened
-beverages as a replacement for sugar-sweetened
-beverages with body weight and cardiometabolic
-risk: a systematic review and meta-analysis.
-JAMA Netw Open 2022;5:e222092
-186. Gostoli S, Raimondi G, Popa AP, Giovannini
-M, Benasi G, Rafanelli C. Behavioral lifestyle
-interventions for weight loss in overweight or
-obese patients with type 2 diabetes: a systematic
-review of the literature. Curr Obes Rep 2024;
-13:224–241
-187. Balk EM, Earley A, Raman G, Avendano EA,
-Pittas AG, Remington PL. Combined diet and
-physical activity promotion programs to prevent
-type 2 diabetes among persons at increased risk:
-a systematic review for the community pre-
-ventive services task force. Ann Intern Med
-2015;163:437–451
-188. Garvey WT, Ryan DH, Bohannon NJV, et al.
-Weight-loss therapy in type 2 diabetes: effects of
-phentermine and topiramate extended release.
-Diabetes Care 2014;37:3309–3316
-189. Kahan S, Fujioka K. Obesity pharmacotherapy
-in patients with type 2 diabetes. Diabetes Spectr
-2017;30:250–257
-190. Jeon CY, Lokken RP, Hu FB, van Dam RM.
-Physical activity of moderate intensity and risk of
-type 2 diabetes: a systematic review. Diabetes
-Care 2007;30:744–752
-191. Rebello CJ, Zhang D, Kirwan JP, et al. Effect
-of exercise training on insulin-stimulated glucose
-disposal: a systematic review and meta-analysis
-of randomized controlled trials. Int J Obes (Lond)
-2023;47:348–357
-192. Singh N, Stewart RAH, Benatar JR. Intensity
-and duration of lifestyle interventions for long-
-term weight loss and association with mortality:
-a meta-analysis of randomised trials. BMJ Open
-2019;9:e029966
-193. Lean ME, Leslie WS, Barnes AC, et al.
-Primary care-led weight management for re-
-mission of type 2 diabetes (DiRECT): an open-
-label, cluster-randomised trial. Lancet 2018;391:
-541–551
-194. Wing RR, Lang W, Wadden TA, et al.; Look
-AHEAD Research Group. Beneﬁts of modest
-weight loss in improving cardiovascular risk factors
-in overweight and obese individuals with type 2
-diabetes. Diabetes Care 2011;34:1481–1486
-195. Aukan MI, Coutinho S, Pedersen SA, Simpson
-MR, Martins C. Differences in gastrointestinal hor-
-mones and appetite ratings between individuals
-with and without obesity-a systematic review and
-meta-analysis. Obes Rev 2023;24:e13531
-196. Wing RR; Look AHEAD Research Group. Does
-lifestyle intervention improve health of adults with
-overweight/obesity and type 2 diabetes? Findings
-from the Look AHEAD randomized trial. Obesity
-(Silver Spring) 2021;29:1246–1258
-197. Garvey WT. Long-term health beneﬁts of
-intensive lifestyle intervention in the Look AHEAD
-study. Obesity (Silver Spring) 2021;29:1242–1243
-198. Davies M, Færch L, Jeppesen OK, et al.;
-STEP 2 Study Group. Semaglutide 2·4 mg once a
-week in adults with overweight or obesity, and
-type 2 diabetes (STEP 2): a randomised, double-
-blind, double-dummy, placebo-controlled, phase
-3 trial. Lancet 2021;397:971–984
-199. Jastreboff AM, Aronne LJ, Ahmad NN,
-et al.; SURMOUNT-1 Investigators. Tirzepatide
-once weekly for the treatment of obesity. N Engl
-J Med 2022;387:205–216
-200. Garvey WT, Frias JP, Jastreboff AM, et al.;
-SURMOUNT-2 investigators. Tirzepatide once
-weekly for the treatment of obesity in people
-with type 2 diabetes (SURMOUNT-2): a double-
-blind, randomised, multicentre, placebo-controlled,
-phase 3 trial. Lancet 2023;402:613–626
-201. Sj€ostr€om L, Peltonen M, Jacobson P, et al.
-Association of bariatric surgery with long-term
-remission of type 2 diabetes and with microvascular
-and macrovascular complications. JAMA 2014;311:
-2297–2304
-202. Cefalu WT, Leiter LA, de Bruin TWA, Gause-
-Nilsson I, Sugg J, Parikh SJ. Dapagliﬂozin’s effects
-on glycemia and cardiovascular risk factors in
-high-risk patients with type 2 diabetes: a
-24-week, multicenter, randomized, double-blind,
-placebo-controlled study with a 28-week extension.
-Diabetes Care 2015;38:1218–1227
-203. Perreault L, Kramer ES, Smith PC, Schmidt
-D, Argyropoulos C. A closer look at weight loss
-interventions in primary care: a systematic
-review and meta-analysis. Front Med (Lausanne)
-2023;10:1204849
-204. Farhat G, Mellor DD, Sattar N, Harvie M,
-Issa B, Rutter MK. Effectiveness of lifestyle
-interventions/culturally bespoke programmes in
-South Asian ethnic groups targeting weight loss
-for prevention and/or remission of type 2
-diabetes: a systematic review and meta-analysis
-of intervention trials. J Hum Nutr Diet 2024;
-37:550–563
-205. Prinz N, Schwandt A, Becker M, et al.
-Trajectories of body mass index from childhood
-to young adulthood among patients with type 1
-diabetes-a longitudinal group-based modeling
-approach based on the DPV Registry. J Pediatr
-2018;201:78–85.e4 e74
-206. Lipman TH, Levitt Katz LE, Ratcliffe SJ, et al.
-Increasing incidence of type 1 diabetes in youth:
-twenty years of the Philadelphia Pediatric Diabetes
-Registry. Diabetes Care 2013;36:1597–1603
-207. Park J, Ntelis S, Yunasan E, et al. Glucagon-
-like peptide 1 analogues as adjunctive therapy for
-patients with type 1 diabetes: an updated sys-
-tematic review and meta-analysis. J Clin Endocrinol
-Metab 2023;109:279–292
-208. Franz MJ, Boucher JL, Rutten-Ramos S,
-VanWormer JJ. Lifestyle weight-loss intervention
-outcomes in overweight and obese adults with
-type 2 diabetes: a systematic review and meta-
-analysis of randomized clinical trials. J Acad Nutr
-Diet 2015;115:1447–1463
-209. Sumithran P, Prendergast LA, Delbridge E,
-et al. Long-term persistence of hormonal ada-
-ptations to weight loss. N Engl J Med 2011;
-365:1597–1604
-210. Li L, Soll D, Leupelt V, Spranger J, Mai K.
-Weight
-loss-induced
-improvement
-of
-body
-weight and insulin sensitivity is not ampliﬁed by
-S118
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-a subsequent 12-month weight maintenance
-intervention but is predicted by adaption of
-adipose atrial natriuretic peptide system: 48-
-month results of a randomized controlled trial.
-BMC Med 2022;20:238
-211. Tomah S, Zhang H, Al-Badri M, et al. Long-
-term effect of intensive lifestyle intervention on
-cardiometabolic risk factors and microvascular
-complications in patients with diabetes in real-
-world clinical practice: a 10-year longitudinal
-study. BMJ Open Diabetes Res Care 2023;11
-212. Ekong G, Kavookjian J. Motivational inter-
-viewing and outcomes in adults with type 2
-diabetes: a systematic review. Patient Educ Couns
-2016;99:944–952
-213. Nip ASY, Reboussin BA, Dabelea D, et al.;
-SEARCH for Diabetes in Youth Study Group.
-Disordered eating behaviors in youth and young
-adults with type 1 or type 2 diabetes receiving
-insulin therapy: the SEARCH for Diabetes in Youth
-study. Diabetes Care 2019;42:859–866
-214. Jamshed H, Steger FL, Bryan DR, et al.
-Effectiveness of early time-restricted eating for
-weight loss, fat loss, and cardiometabolic health
-in adults with obesity: a randomized clinical trial.
-JAMA Intern Med 2022;182:953–962
-215. Lowe DA, Wu N, Rohdin-Bibby L, et al.
-Effects of time-restricted eating on weight loss
-and other metabolic parameters in women and
-men with overweight and obesity: the TREAT
-randomized clinical trial. JAMA Intern Med 2020;
-180:1491–1499
-216. Schroor MM, Joris PJ, Plat J, Mensink RP.
-Effects of intermittent energy restriction compared
-with those of continuous energy restriction on
-body composition and cardiometabolic risk
-markers - a systematic review and meta-analysis of
-randomized controlled trials in adults. Adv Nutr
-2024;15:100130
-217. Pappachan JM. In T2DM with obesity, time-
-restricted eating increased weight loss and
-reduced HbA1c level at 6 mo. Ann Intern Med
-2024;177:JC16
-218. Varady KA, Cienfuegos S, Ezpeleta M, Gabel
-K. Clinical application of intermittent fasting for
-weight loss: progress and future directions. Nat
-Rev Endocrinol 2022;18:309–321
-219. Ye W, Xu L,Ye Y, et al.The efﬁcacy and safety
-of meal replacement in patients with type 2
-diabetes: a systematic review and meta-analysis. J
-Clin Endocrinol Metab 2023;
-220. Murphy
-E,
-Finucane
-FM.
-Structured
-lifestyle modiﬁcation as an adjunct to obesity
-pharmacotherapy: there is much to learn. Int J
-Obes (Lond) 2024;
-221. Lean MEJ, Leslie WS, Barnes AC, et al.
-Durability of a primary care-led weight-management
-intervention for remission of type 2 diabetes: 2-year
-results of the DiRECTopen-label, cluster-randomised
-trial. Lancet Diabetes Endocrinol 2019;7:344–355
-222. Raben A, Vestentoft PS, Brand-Miller J,
-et al. The PREVIEW intervention study: results
-from a 3-year randomized 2 x 2 factorial
-multinational trial investigating the role of
-protein, glycaemic index and physical activity for
-prevention of type 2 diabetes. Diabetes Obes
-Metab 2021;23:324–337
-223. Henry CJ, Kaur B, Quek RYC. Chrono-
-nutrition in the management of diabetes. Nutr
-Diabetes 2020;10:6
-224. Liu J, Yi P, Liu F. The effect of early time-
-restricted eating vs later time-restricted eating
-on weight loss and metabolic health. J Clin
-Endocrinol Metab 2023;108:1824–1834
-225. Wang L, Ma Q, Fang B, et al. Shift work is
-associated with an increased risk of type 2
-diabetes and elevated RBP4 level: cross sectional
-analysis from the OHSPIW cohort study. BMC
-Public Health 2023;23:1139
-226. Al-Arouj M, Assaad-Khalil S, Buse J, et al.
-Recommendations for management of diabetes
-during Ramadan: update 2010. Diabetes Care
-2010;33:1895–1902
-227. Grajower MM. Management of diabetes
-mellitus on Yom Kippur and other Jewish fast
-days. Endocr Pract 2008;14:305–311
-228. Gupta N, Gusdorf J. Guidance for physicians
-on the Yom Kippur fast. Georgetown Medical
-Review 2023;7
-229. Saboo
-B,
-Joshi
-S,
-Shah
-SN,
-et
-al.
-Management of diabetes during fasting and
-feasting in India. J Assoc Physicians India 2019;
-67:70–77
-230. Hassanein M, Afandi B,Yakoob Ahmedani M,
-et al. Diabetes and Ramadan: practical guidelines
-2021. Diabetes Res Clin Pract 2022;185:109185
-231. Deeb A, Babiker A, Sedaghat S, et al. ISPAD
-Clinical Practice Consensus Guidelines 2022:
-Ramadan and other religious fasting by young
-people with diabetes. Pediatr Diabetes 2022;23:
-1512–1528
-232. Noor SK, Alutol MT, FadAllah FSA, et al. Risk
-factors associated with fasting during Ramadan
-among individuals with diabetes according to
-IDF-DAR risk score in Atbara city, Sudan: cross-
-sectional hospital-based study. Diabetes Metab
-Syndr 2023;17:102743
-233. Mohammed N, Buckley A, Siddiqui M, et al.
-Validation of the new IDF-DAR risk assessment
-tool for Ramadan fasting in patients with
-diabetes. Diabetes Metab Syndr 2023;17:102754
-234. Alfadhli EM, Alharbi TS, Alrotoie AM, et al.
-Validity of the International Diabetes Federation
-risk stratiﬁcation score of Ramadan fasting in
-individuals with diabetes mellitus. Saudi Med J
-2024;45:86–92
-235. Shamsi N, Naser J, Humaidan H, et al.
-Veriﬁcation of 2021 IDF-DAR risk assessment tool
-for fasting Ramadan in patients with diabetes
-attending primary health care in the Kingdom of
-Bahrain: the DAR-BAH study. Diabetes Res Clin
-Pract 2024;211:111661
-236. Hassanein M, Hussein Z, Shaltout I, et al.
-The DAR 2020 global survey: Ramadan fasting
-during COVID 19 pandemic and the impact of
-older age on fasting among adults with type 2
-diabetes. Diabetes Res Clin Pract 2021;173:
-108674
-237. Yousuf S, Syed A, Ahmedani MY. To explore
-the association of Ramadan fasting with sym-
-ptoms of depression, anxiety, and stress in
-people with diabetes. Diabetes Res Clin Pract
-2021;172:108545
-238. Hassanein M, Bashier A, Randeree H, et al.
-Use of SGLT2 inhibitors during Ramadan: an
-expert panel statement. Diabetes Res Clin Pract
-2020;169:108465
-239. Hassanein M, Abdelgadir E, Bashier A, et al.
-The role of optimum diabetes care in form of
-Ramadan focused diabetes education, ﬂash
-glucose monitoring system and pre-Ramadan
-dose adjustments in the safety of Ramadan
-fasting in high risk patients with diabetes.
-Diabetes Res Clin Pract 2019;150:288–295
-240. Afandi B, Hassanein M, Roubi S, Nagelkerke
-N. The value of continuous glucose monitoring
-and self-monitoring of blood glucose in patients
-with gestational diabetes mellitus during Ramadan
-fasting. Diabetes Res Clin Pract 2019;151:260–264
-241. World Health Organization. Malnutrition.
-Accessed 13 August 2024. Available from https://
-www.who.int/news-room/fact-sheets/detail/
-malnutrition
-242. Yuan
-S,
-Larsson
-SC.
-Epidemiology
-of
-sarcopenia: Prevalence, risk factors, and con-
-sequences. Metabolism 2023;144:155533
-243. Feng L, Gao Q, Hu K, et al. Prevalence and
-risk factors of sarcopenia in patients with diabetes:
-a meta-analysis. J Clin Endocrinol Metab 2022;
-107:1470–1483
-244. Today’s Dietitian: The Magazine for Nutrition
-Professionals.The new weight management meds.
-Accessed 13 August 2024. Available from https://
-www.todaysdietitian.com/newarchives/1123p24.
-shtml
-245. Neeland IJ, Linge J, Birkenfeld AL. Changes
-in lean body mass with glucagon-like peptide-1-
-based therapies and mitigation strategies. Dia-
-betes Obes Metab 2024;26 Suppl 4:16–27
-246. Jawara D, Ufearo DM, Murtha JA, et al.
-Racial disparities in selected micronutrient deﬁ-
-ciencies after bariatric surgery: a systematic
-review. Surg Obes Relat Dis 2024;20:283–290
-247. Mellen RH, Girotto OS, Marques EB, et al.
-Insights into pathogenesis, nutritional and drug
-approach in sarcopenia: a systematic review.
-Biomedicines 2023;11:11
-248. Locatelli JC, Costa JG, Haynes A, et al.
-Incretin-based weight loss pharmacotherapy: can
-resistance exercise optimize changes in body
-composition? Diabetes Care 2024;47;1718–1730
-249. BAPEN. Introducing ’MUST’. Accessed 13
-September 2024. Available from https://www.
-bapen.org.uk/must-and-self-screening/introducing-
-must/
-250. Lau S, Pek K, Chew J, et al. The Simpliﬁed
-Nutritional Appetite Questionnaire (SNAQ) as a
-screening tool for risk of malnutrition: optimal
-cutoff, factor structure, and validation in healthy
-community-dwelling older adults. Nutrients 2020;
-12:12
-251. Yu SCY, Khow KSF, Jadczak AD, Visvanathan
-R. Clinical screening tools for sarcopenia and its
-management. Curr Gerontol Geriatr Res 2016;
-2016:5978523
-252. Economic Research Service, U.S. Department
-of Agriculture. Household Food Security in the
-United States in 2022 (Economic Research Report
-No. ERR-325). Accessed 13 August 2024. Available
-from
-https://www.ers.usda.gov/publications/pub-
-details/?pubid=107702
-253. Whitehouse CR, Akyirem S, Petoskey C, et al.
-A systematic review of interventions that address
-food insecurity for persons with prediabetes or
-diabetes using the RE-AIM framework. Sci Diabetes
-Self Manag Care 2024;50:141–166
-254. Hager ER, Quigg AM, Black MM, et al.
-Development and validity of a 2-item screen to
-identify families at risk for food insecurity.
-Pediatrics 2010;126:e26–e32
-255. 2018 Physical Activity Guidelines Advisory
-Committee. 2018 Physical Activity Guidelines
-Advisory Committee Scientiﬁc Report.Washington
-DC, U.S. Department of Health and Human
-Services, 2018
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S119
-©AmericanDiabetesAssociation
-256. Bazargan-Hejazi S, Arroyo JS, Hsia S, Brojeni
-NR, Pan D. A racial comparison of differences
-between self-reported and objectively measured
-physical activity among US adults with diabetes.
-Ethn Dis 2017;27:403–410
-257. Khunti K, Grifﬁn S, Brennan A, et al.
-Behavioural interventions to promote physical
-activity in a multiethnic population at high risk of
-diabetes: PROPELS three-arm RCT. Health Technol
-Assess 2021;25:1–190
-258. Bootwong P, Intarut N. The effects of text
-messages for promoting physical activities in
-prediabetes: a randomized controlled trial.
-Telemed J E Health 2022;28:896–903
-259. Sluik D, Buijsse B, Muckelbauer R, et al.
-Physical activity and mortality in individuals with
-diabetes mellitus: a prospective study and meta-
-analysis. Arch Intern Med 2012;172:1285–1295
-260. Tikkanen-Dolenc H, Waden J, Forsblom C,
-et al.; FinnDiane Study Group. Physical activity
-reduces risk of premature mortality in patients
-with type 1 diabetes with and without kidney
-disease. Diabetes Care 2017;40:1727–1732
-261. Peters AL, Laffel L. The American Diabetes
-Association/JDRF Type 1 Diabetes Sourcebook.
-Arlington, VA, American Diabetes Association,
-2013
-262. Ostman C, Jewiss D, King N, Smart NA.
-Clinical outcomes to exercise training in type 1
-diabetes: a systematic review and meta-analysis.
-Diabetes Res Clin Pract 2018;139:380–391
-263. Boule NG, Haddad E, Kenny GP, Wells GA,
-Sigal RJ. Effects of exercise on glycemic control
-and body mass in type 2 diabetes mellitus: a
-meta-analysis of controlled clinical trials. JAMA
-2001;286:1218–1227
-264. Martland R, Mondelli V, Gaughran F,
-Stubbs B. Can high-intensity interval training
-improve physical and mental health outcomes? A
-meta-review of 33 systematic reviews across the
-lifespan. J Sports Sci 2020;38:430–469
-265. Pandey A, Patel KV, Bahnson JL, et al.; Look
-AHEAD Research Group. Association of intensive
-lifestyle intervention, ﬁtness, and body mass
-index with risk of heart failure in overweight or
-obese adults with type 2 diabetes mellitus: an
-analysis from the Look AHEAD trial. Circulation
-2020;141:1295–1306
-266. Rejeski WJ, Ip EH, Bertoni AG, et al.; Look
-AHEAD Research Group. Lifestyle change and
-mobility in obese adults with type 2 diabetes. N
-Engl J Med 2012;366:1209–1217
-267. Colberg SR, Sigal RJ, Yardley JE, et al.
-Physical activity/exercise and diabetes: a position
-statement of the American Diabetes Association.
-Diabetes Care 2016;39:2065–2079
-268. Frediani JK, Bienvenida AF, Li J, Higgins MK,
-Lobelo F. Physical ﬁtness and activity changes
-after a 24-week soccer-based adaptation of the
-U.S diabetes prevention program intervention in
-Hispanic men. Prog Cardiovasc Dis 2020;63:
-775–785
-269. Taylor JD, Fletcher JP, Tiarks J. Impact of
-physical therapist-directed exercise counseling
-combined with ﬁtness center-based exercise
-training on muscular strength and exercise
-capacity in people with type 2 diabetes: a
-randomized clinical trial. Phys Ther 2009;89:
-884–892
-270. Janssen I, Leblanc AG. Systematic review of
-the health beneﬁts of physical activity and ﬁtness
-in school-aged children and youth. Int J Behav
-Nutr Phys Act 2010;7:40
-271. Savoye M, Caprio S, Dziura J, et al. Reversal
-of early abnormalities in glucose metabolism in
-obese youth: results of an intensive lifestyle
-randomized controlled trial. Diabetes Care 2014;
-37:317–324
-272. Patience M, Janssen X, Kirk A, et al.
-24-Hour movement behaviours (physical activity,
-sedentary behaviour and sleep) association with
-glycaemic control and psychosocial outcomes in
-adolescents with type 1 diabetes: a systematic
-review of quantitative and qualitative studies. Int
-J Environ Res Public Health 2023;20:4363
-273. Riddell MC, Gallen IW, Smart CE, et al.
-Exercise management in type 1 diabetes: a
-consensus statement. Lancet Diabetes Endocrinol
-2017;5:377–390
-274. Anderson BJ, Laffel LM, Domenger C, et al.
-Factors associated with diabetes-speciﬁc health-
-related quality of life in youth with type 1
-diabetes: the global TEENs study. Diabetes Care
-2017;40:1002–1009
-275. Adolfsson P, Riddell MC, Taplin CE, et al.
-ISPAD Clinical Practice Consensus Guidelines 2018:
-exercise in children and adolescents with diabetes.
-Pediatr Diabetes 2018;19 Suppl 27:205–226
-276. Gortmaker SL, Must A, Sobol AM, Peterson
-K, Colditz GA, Dietz WH. Television viewing as a
-cause of increasing obesity among children in the
-United States, 1986-1990. Arch Pediatr Adolesc
-Med 1996;150:356–362
-277. de Jong E, Visscher TLS, HiraSing RA,
-Heymans MW, Seidell JC, Renders CM. Association
-between TV viewing, computer use and over-
-weight, determinants and competing activities of
-screen time in 4- to 13-year-old children. Int J Obes
-(Lond) 2013;37:47–53
-278. Armstrong M, Colberg SR, Sigal RJ. Where
-to start? Physical assessment, readiness, and
-exercise recommendations for people with type 1
-or type 2 diabetes. Diabetes Spectr 2023;36:
-105–113
-279. Jelleyman C, Yates T, O’Donovan G, et al.
-The effects of high-intensity interval training on
-glucose regulation and insulin resistance: a meta-
-analysis. Obes Rev 2015;16:942–961
-280. Little JP, Gillen JB, Percival ME, et al. Low-
-volume high-intensity interval training reduces
-hyperglycemia and increases muscle mitochondrial
-capacity in patients with type 2 diabetes. J Appl
-Physiol (1985) 2011;111:1554–1560
-281. Bohn B, Herbst A, Pfeifer M, et al.; DPV
-Initiative. Impact of physical activity on glycemic
-control and prevalence of cardiovascular risk
-factors in adults with type 1 diabetes: a cross-
-sectional multicenter study of 18,028 patients.
-Diabetes Care 2015;38:1536–1543
-282. U.S. Department of Health and Human
-Services. Physical Activity Guidelines for Americans.
-2nd ed. Accessed 12 September 2024. Available
-from
-https://health.gov/sites/default/ﬁles/2019-
-09/Physical_Activity_Guidelines_2nd_edition.pdf
-283. Jiahao L, Jiajin L, Yifan L. Effects of
-resistance training on insulin sensitivity in the
-elderly: a meta-analysis of randomized controlled
-trials. J Exerc Sci Fit 2021;19:241–251
-284. Fan T, Lin M-H, Kim K. Intensity differences
-of resistance training for type 2 diabetic patients:
-a systematic review and meta-analysis. Health-
-care (Basel) 2023;11:11
-285. Jensen SBK, Blond MB, Sandsdal RM, et al.
-Healthy weight loss maintenance with exercise,
-GLP-1
-receptor
-agonist,
-or
-both
-combined
-followed by one year without treatment: a post-
-treatment analysis of a randomised placebo-
-controlled trial. EClinicalMedicine 2024;69:102475
-286. Katzmarzyk
-PT,
-Church
-TS,
-Craig
-CL,
-Bouchard C. Sitting time and mortality from all
-causes, cardiovascular disease, and cancer. Med
-Sci Sports Exerc 2009;41:998–1005
-287. Dempsey PC, Larsen RN, Sethi P, et al.
-Beneﬁts for type 2 diabetes of interrupting
-prolonged sitting with brief bouts of light walking
-or simple resistance activities. Diabetes Care
-2016;39:964–972
-288. Campbell MD, Alobaid AM, Hopkins M,
-et al. Interrupting prolonged sitting with frequent
-short bouts of light-intensity activity in people
-with type 1 diabetes improves glycaemic control
-without increasing hypoglycaemia: the SIT-LESS
-randomised controlled trial. Diabetes Obes Metab
-2023;25:3589–3598
-289. Wang Y, Lee D-C, Brellenthin AG, et al.
-Leisure-time running reduces the risk of incident
-type 2 diabetes. Am J Med 2019;132:1225–1232
-290. Schellenberg ES, Dryden DM, Vandermeer
-B, Ha C, Korownyk C. Lifestyle interventions for
-patients with and at risk for type 2 diabetes: a
-systematic review and meta-analysis. Ann Intern
-Med 2013;159:543–551
-291. Pai L-W, Li T-C, Hwu Y-J, Chang S-C, Chen L-
-L, Chang P-Y. The effectiveness of regular leisure-
-time physical activities on long-term glycemic
-control in people with type 2 diabetes: a
-systematic review and meta-analysis. Diabetes
-Res Clin Pract 2016;113:77–85
-292. Cui J,Yan J-H,Yan L-M, Pan L, Le J-J, Guo Y-Z.
-Effects of yoga in adults with type 2 diabetes
-mellitus: a meta-analysis. J Diabetes Investig 2017;
-8:201–209
-293. Lee MS, Jun JH, Lim H-J, Lim H-S. A
-systematic review and meta-analysis of tai chi for
-treating type 2 diabetes. Maturitas 2015;80:14–23
-294. Rees JL, Johnson ST, Boule NG. Aquatic
-exercise for adults with type 2 diabetes: a meta-
-analysis. Acta Diabetol 2017;54:895–904
-295. Mohammad Rahimi GR, Aminzadeh R,
-Azimkhani A, Saatchian V. The effect of exercise
-interventions to improve psychosocial aspects
-and glycemic control in type 2 diabetic patients: a
-systematic review and meta-analysis of randomized
-controlled trials. Biol Res Nurs 2022;24:10–23
-296. Church TS, Blair SN, Cocreham S, et al.
-Effects of aerobic and resistance training on
-hemoglobin A1c levels in patients with type 2
-diabetes: a randomized controlled trial. JAMA
-2010;304:2253–2262
-297. Kanaley JA, Colberg SR, Corcoran MH, et al.
-Exercise/physical activity in individuals with type 2
-diabetes:
-a
-consensus
-statement
-from
-the
-American College of Sports Medicine. Med Sci
-Sports Exerc 2022;54:353–368
-298. Gillen JB, Little JP, Punthakee Z, Tarnopolsky
-MA, Riddell MC, Gibala MJ. Acute high-intensity
-interval exercise reduces the postprandial glucose
-response and prevalence of hyperglycaemia in
-patients with type 2 diabetes. Diabetes Obes
-Metab 2012;14:575–577
-299. Riddell MC, Peters AL. Exercise in adults
-with type 1 diabetes mellitus. Nat Rev Endocrinol
-2023;19:98–111
-S120
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-300. Grace A, Chan E, Giallauria F, Graham PL,
-Smart NA. Clinical outcomes and glycaemic
-responses to different aerobic exercise training
-intensities in type II diabetes: a systematic review
-and meta-analysis. Cardiovasc Diabetol 2017;16:37
-301. Aronson R, Brown RE, Li A, Riddell MC.
-Optimal insulin correction factor in post-high-
-intensity exercise hyperglycemia in adults with
-type 1 diabetes: the FIT study. Diabetes Care
-2019;42:10–16
-302. Bax JJ, Young LH, Frye RL, Bonow RO,
-Steinberg HO, Barrett EJ, ADA. Screening for
-coronary artery disease in patients with diabetes.
-Diabetes Care 2007;30:2729–2736
-303. Moser O, Riddell MC, Eckstein ML, et al.
+dose-dependent
+effects
+on
+postprandial
+glucose levels in individuals with type 1 diabetes
+mellitus. Diabet Med 2017;34:851–854
+16. Paterson MA, King BR, Smart CEM, Smith T,
+Rafferty J, Lopez PE. Impact of dietary protein on
+postprandial
+glycaemic
+control
+and
+insulin
+requirements in type 1 diabetes: a systematic
+review. Diabet Med 2019;36:1585–1599
+17. Smith TA, Blowes AA, King BR, Howley PP,
+Smart CE. Families’ reports of problematic foods,
+management strategies and continuous glucose
+monitoring in type 1 diabetes: a cross-sectional
+study. Nutr Diet 2021;78:449–457
+18. Steiman De Visser H, Fast I, Brunton N, et al.
+Cardiorespiratory ﬁtness and physical activity in
+pediatric diabetes: a systemic review and meta-
+analysis. JAMA Netw Open 2024;7:e240235
+19. Riddell MC, Gallen IW, Smart CE, et al.
+Exercise management in type 1 diabetes: a con-
+sensus statement. Lancet Diabetes Endocrinol 2017;
+5:377–390
+20. Colberg SR, Sigal RJ, Yardley JE, et al. Physical
+activity/exercise and diabetes: a position statement
+of the American Diabetes Association. Diabetes
+Care 2016;39:2065–2079
+21. Moser O, Riddell MC, Eckstein ML, et al.
 Glucose management for exercise using continuous
-glucose monitoring (CGM) and intermittently
+glucose
+monitoring
+(CGM)
+and
+intermittently
 scanned CGM (isCGM) systems in type 1 diabetes:
-position statement of the European Association
-for the Study of Diabetes (EASD) and of the
+position statement of the European Association for
+the
+Study
+of
+Diabetes
+(EASD)
+and
+of
+the
 International Society for Pediatric and Adolescent
 Diabetes (ISPAD) endorsed by JDRF and supported
 by the American Diabetes Association (ADA).
 Diabetologia 2020;63:2501–2520
-304. Rietz M, Lehr A, Mino E, et al. Physical activity
-and risk of major diabetes-related complications in
-individuals with diabetes: a systematic review and
-meta-analysis of observational studies. Diabetes
-Care 2022;45:3101–3111
-305. Colberg SR. Exercise and Diabetes: A
-Clinician’s Guide to Prescribing Physical Activity.
-Arlington, VA, American Diabetes Association,
-2013
-306. Hulshof CM, van Netten JJ, Pijnappels M,
-Bus SA. The role of foot-loading factors and their
-associations with ulcer development and ulcer
-healing in people with diabetes: a systematic
-review. J Clin Med 2020;9
-307. Lemaster
-JW,
-Reiber
-GE,
-Smith
-DG,
-Heagerty PJ, Wallace C. Daily weight-bearing
-activity does not increase the risk of diabetic foot
-ulcers. Med Sci Sports Exerc 2003;35:1093–1099
-308. Smith AG, Russell J, Feldman EL, et al.
-Lifestyle intervention for pre-diabetic neuropathy.
-Diabetes Care 2006;29:1294–1299
-309. Spallone V, Ziegler D, Freeman R, et al.;
-Toronto Consensus Panel on Diabetic Neuropathy.
-Cardiovascular autonomic neuropathy in diabetes:
-clinical impact, assessment, diagnosis, and man-
-agement. Diabetes Metab Res Rev 2011;27:639–
-653
-310. Pop-Busui R, Evans GW, Gerstein HC, et al.;
-Action to Control Cardiovascular Risk in Diabetes
-Study
-Group.
-Effects
-of
-cardiac
-autonomic
-dysfunction on mortality risk in the Action to
-Control Cardiovascular Risk in Diabetes (ACCORD)
-trial. Diabetes Care 2010;33:1578–1584
-311. National
-Center
-for
-Chronic
-Disease
-Prevention and Health Promotion (US) Ofﬁce on
-Smoking and Health. Reports of the Surgeon
-General. In The Health Consequences of Smoking—
-50 Years of Progress: A Report of the Surgeon
-General. Atlanta, GA, U.S. Centers for Disease
-Control and Prevention, 2014
-312. Durlach V, Verges B, Al-Salameh A, et al.
-Smoking and diabetes interplay: a comprehensive
-review and joint statement. Diabetes Metab
-2022;48:101370
-313. Sliwinska-Mosson M, Milnerowicz H. The
-impact of smoking on the development of
-diabetes and its complications. Diab Vasc Dis Res
-2017;14:265–276
-314. Kar
-D,
-Gillies
-C,
-Zaccardi
-F,
-et
-al.
-Relationship of cardiometabolic parameters in
-non-smokers, current smokers, and quitters in
-diabetes: a systematic review and meta-analysis.
-Cardiovasc Diabetol 2016;15:158
-315. Pan A, Wang Y, Talaei M, Hu FB. Relation of
-smoking with total mortality and cardiovascular
-events among patients with diabetes mellitus: a
-meta-analysis and systematic review. Circulation
-2015;132:1795–1804
-316. Pan A, Wang Y, Talaei M, Hu FB, Wu T.
-Relation of active, passive, and quitting smoking
-with incident type 2 diabetes: a systematic review
-and meta-analysis. Lancet Diabetes Endocrinol
-2015;3:958–967
-317. U.S. Department of Health and Human
-Services. Smoking cessation: a report of the
-Surgeon General. 2020. Accessed 13 August
-2024. Available from https://www.hhs.gov/sites/
-default/ﬁles/2020-cessation-sgr-full-report.pdf
-318. Loretan CG, Cornelius ME, Jamal A, Cheng
-YJ, Homa DM. Cigarette smoking among US
-adults with selected chronic diseases associated
-with smoking, 2010-2019. Prev Chronic Dis
-2022;19:E62
-319. Rigotti NA, Kruse GR, Livingstone-Banks J,
-Hartmann-Boyce J. Treatment of tobacco smoking:
-a review. JAMA 2022;327:566–577
-320. Krist AH, Davidson KW, Mangione CM,
-et al.; US Preventive Services Task Force.
-Interventions for tobacco smoking cessation in
-adults, including pregnant persons: US Pre-
-ventive Services Task Force recommendation
-statement. JAMA 2021;325:265–279 US
-321. Rojewski AM, Palmer AM, Baker NL, Toll
-BA. Smoking cessation pharmacotherapy efﬁcacy
-in comorbid medical populations: secondary
-analysis of the Evaluating Adverse Events in
-a Global Smoking Cessation Study (EAGLES)
-randomized clinical trial. Nicotine Tob Res 2024;
-26:31–38
-322. Leone FT, Zhang Y, Evers-Casey S, et al.
-Initiating pharmacologic treatment in tobacco-
-dependent adults. an ofﬁcial American Thoracic
-Society clinical practice guideline. Am J Respir Crit
-Care Med 2020;202:e5–e31
-323. Tian J, Venn A, Otahal P, Gall S. The
-association between quitting smoking and weight
-gain: a systematic review and meta-analysis of
-prospective cohort studies. Obes Rev 2015;16:
-883–901
-324. Voulgari C, Katsilambros N, Tentolouris N.
-Smoking
-cessation
-predicts
-amelioration
-of
-microalbuminuria in newly diagnosed type 2
-diabetes mellitus: a 1-year prospective study.
-Metabolism 2011;60:1456–1464
-325. Asthana S, Labani S, Kailash U, Sinha DN,
-Mehrotra R. Association of smokeless tobacco
-use and oral cancer: a systematic global review
-and meta-analysis. Nicotine Tob Res 2019;21:
-1162–1171
-326. Piano MR, Benowitz NL, Fitzgerald GA,
-et al.; American Heart Association Council on
-Cardiovascular Nursing. Impact of smokeless
-tobacco products on cardiovascular disease:
-implications for policy, prevention, and treat-
-ment: a policy statement from the American
-Heart Association. Circulation 2010;122:1520–
-1544
-327. Huerta TR, Walker DM, Mullen D, Johnson
-TJ, Ford EW. Trends in E-cigarette awareness and
-perceived harmfulness in the U.S. Am J Prev Med
-2017;52:339–346
-328. Kiernan E, Click ES, Melstrom P, et al.; Lung
-Injury Response Clinical Task Force; Lung Injury
-Response Clinical Working Group. A brief over-
-view of the national outbreak of e-cigarette, or
-vaping, product use-associated lung injury and
-the primary causes. Chest 2021;159:426–431
-329. Darville A, Hahn EJ. E-cigarettes and ather-
-osclerotic cardiovascular disease: what clinicians
-and researchers need to know. Curr Atheroscler
-Rep 2019;21:15
-330. Pierce JP, Benmarhnia T, Chen R, et al. Role
-of e-cigarettes and pharmacotherapy during
-attempts to quit cigarette smoking: the PATH
-study 2013-16. PLoS One 2020;15:e0237938
-331. Chen R, Pierce JP, Leas EC, et al. Use of
-electronic cigarettes to aid long-term smoking
-cessation in the United States: prospective
-evidence from the PATH cohort study. Am J
-Epidemiol 2020;189:1529–1537
-332. Assaf
-RD,
-Gorbach
-PM,
-Cooper
-ZD.
-Changes in medical and non-medical cannabis
-use among United States adults before and
-during the COVID-19 pandemic. Am J Drug
-Alcohol Abuse 2022;48:321–327
-333. Hasin D, Walsh C.Trends over time in adult
-cannabis use: a review of recent ﬁndings. Curr
-Opin Psychol 2021;38:80–85
-334. Jadoon KA, Ratcliffe SH, Barrett DA, et al.
-Efﬁcacy and safety of cannabidiol and tetra-
-hydrocannabivarin on glycemic and lipid
-parameters in patients with type 2 diabetes: a
-randomized, double-blind, placebo-controlled,
-parallel group pilot Study. Diabetes Care 2016;
-39:1777–1786
-335. Freeman TP, Craft S, Wilson J, et al.
-Changes in delta-9-tetrahydrocannabinol (THC)
-and cannabidiol (CBD) concentrations in cannabis
-over time: systematic review and meta-analysis.
-Addiction 2021;116:1000–1010
-336. U.S. Food and Drug Administration. 5 things
-to know about delta-8 tetrahydrocannabinol-
-delta-8 THC. 2022. Accessed 13 August 2024.
-Available from https://www.fda.gov/consumers/
-consumer-updates/5-things-know-about-delta-8-
-tetrahydrocannabinol-delta-8-thc
-337. Akturk HK, Taylor DD, Camsari UM, Rewers
-A, Kinney GL, Shah VN. Association between
-cannabis use and risk for diabetic ketoacidosis in
-adults with type 1 diabetes. JAMA Intern Med
-2019;179:115–118
-338. Kinney GL, Akturk HK,Taylor DD, Foster NC,
-Shah VN. Cannabis use is associated with
-increased risk for diabetic ketoacidosis in adults
-with type 1 diabetes: ﬁndings from the T1D
-Exchange clinic registry. Diabetes Care 2020;43:
-247–249
-339. Akturk HK, Snell-Bergeon J, Kinney GL,
-Champakanath A, Monte A, Shah VN. Differentiating
-diabetic ketoacidosis and hyperglycemic ketosis due
-to cannabis hyperemesis syndrome in adults with
-type 1 diabetes. Diabetes Care 2022;45:481–483
-340. Reid RD, Malcolm J, Wooding E, et al.
-Prospective, cluster-randomized trial to implement
-the Ottawa model for smoking cessation in
-diabetes education programs in Ontario, Canada.
-Diabetes Care 2018;41:406–412
-341. Hood KK, Rohan JM, Peterson CM, Drotar
-D. Interventions with adherence-promoting com-
-ponents in pediatric type 1 diabetes: meta-analysis
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S121
-©AmericanDiabetesAssociation
-of their impact on glycemic control. Diabetes Care
-2010;33:1658–1664
-342. Asche C, LaFleur J, Conner C. A review of
-diabetes treatment adherence and the asso-
-ciation with clinical and economic outcomes. Clin
-Ther 2011;33:74–109
-343. Berhe KK, Gebru HB, Kahsay HB. Effect of
-motivational interviewing intervention on HgbA1C
-and depression in people with type 2 diabetes
-mellitus (systematic review and meta-analysis).
-PLoS One 2020;15:e0240839
-344. Liang W, Lo SHS, Tola YO, Chow KM. The
-effectiveness of self-management programmes
-for people with type 2 diabetes receiving insulin
-injection: a systematic review and meta-analysis.
-Int J Clin Pract 2021;75:e14636
-345. Gray KE, Hoerster KD, Taylor L, Krieger J,
-Nelson KM. Improvements in physical activity
-and some dietary behaviors in a community
-health worker-led diabetes self-management
-intervention for adults with low incomes: results
-from a randomized controlled trial. Transl Behav
-Med 2021;11:2144–2154
-346. Van Rhoon L, Byrne M, Morrissey E, Murphy J,
-McSharry J. A systematic review of the behaviour
-change techniques and digital features in technology-
-driven type 2 diabetes prevention interventions. Digit
-Health 2020;6:2055207620914427
-347. Patton
-SR,
-Cushing
-CC,
-Lansing
-AH.
-Applying behavioral economics theories to inter-
-ventions for persons with diabetes. Curr Diab Rep
-2022;22:219–226
-348. Avery L, Flynn D, van Wersch A, Sniehotta
-FF,Trenell MI. Changing physical activity behavior
-in type 2 diabetes: a systematic review and meta-
-analysis of behavioral interventions. Diabetes
-Care 2012;35:2681–2689
-349. Hilliard
-ME,
-Powell
-PW,
-Anderson
-BJ.
-Evidence-based behavioral interventions to promote
-diabetes management in children, adolescents, and
-families. Am Psychol 2016;71:590–601
-350. Lake
-AJ,
-Bo
-A,
-Hadjiconstantinou
-M.
-Developing and evaluating behaviour change
-interventions for people with younger-onset type 2
-diabetes: lessons and recommendations from
-existing programmes. Curr Diab Rep 2021;21:59
-351. Berlin KS, Klages KL, Banks GG, et al.
-Toward the development of a culturally humble
-intervention to improve glycemic control and
-quality of life among adolescents with type-1
-diabetes and their families. Behav Med 2021;
-47:99–110
-352. Nicolucci A, Haxhi J, D’Errico V, et al.; Italian
-Diabetes and Exercise Study 2 (IDES_2) Investi-
-gators. Effect of a behavioural intervention for
-adoption and maintenance of a physically active
-lifestyle on psychological well-being and quality
-of life in patients with type 2 diabetes: the
-IDES_2 randomized clinical trial. Sports Med
-2022;52:643–654
-353. Crowley MJ, Tarkington PE, Bosworth HB,
-et al. Effect of a comprehensive telehealth
-intervention vs telemonitoring and care co-
-ordination in patients with persistently poor type 2
-diabetes control: a randomized clinical trial. JAMA
-Intern Med 2022;182:943–952
-354. Harris MA, Freeman KA, Duke DC. Seeing is
-believing: using Skype to improve diabetes
-outcomes in youth. Diabetes Care 2015;38:1427–
-1434
-355. Kaczmarek T, Kavanagh DJ, Lazzarini PA,
-Warnock J, Van Netten JJ. Training diabetes
-healthcare practitioners in motivational inter-
-viewing: a systematic review. Health Psychol Rev
-2022;16:430–449
-356. Bell KJ, Barclay AW, Petocz P, Colagiuri S,
-Brand-Miller
-JC.
-Efﬁcacy
-of
-carbohydrate
-counting in type 1 diabetes: a systematic review
-and meta-analysis. Lancet Diabetes Endocrinol
-2014;2:133–140
-357. McVoy M, Hardin H, Fulchiero E, et al.
-Mental health comorbidity and youth onset type 2
-diabetes: a systematic review of the literature. Int J
-Psychiatry Med 2023;58:37–55
-358. Naicker K, Johnson JA, Skogen JC, et al.
-Type 2 diabetes and comorbid symptoms of
-depression and anxiety: longitudinal associations
-with mortality risk. Diabetes Care 2017;40:352–
-358
-359. Anderson RJ, Grigsby AB, Freedland KE,
-et al. Anxiety and poor glycemic control: a meta-
-analytic review of the literature. Int J Psychiatry
-Med 2002;32:235–247
-360. Anderson RJ, Freedland KE, Clouse RE,
-Lustman
-PJ. The
-prevalence
-of
-comorbid
-depression in adults with diabetes: a meta-
-analysis. Diabetes Care 2001;24:1069–1078
-361. Nicolucci A, Kovacs Burns K, Holt RIG, et al.;
-DAWN2 Study Group. Diabetes Attitudes, Wishes
+22. Shorey S, Ng ED, Law EC,Wong JCM, Loke KY,
+Tam
+WWS.
+Physical
+activity
 and
-Needs
-second
-study
-(DAWN2):
-cross-
-national benchmarking of diabetes-related psy-
-chosocial outcomes for people with diabetes.
-Diabet Med 2013;30:767–777
-362. Guerrero Fernandez de Alba I, Gimeno-
-Miguel A, Poblador-Plou B, et al. Association
-between mental health comorbidity and health
-outcomes in type 2 diabetes mellitus patients. Sci
-Rep 2020;10:19583
-363. Gonzalvo JD, Hamm J, Eaves S, et al. A
-practical approach to mental health for the
-diabetes educator. AADE in Practice 2019;7:29–44
-364. Robinson DJ, Coons M, Haensel H, Vallis M,
-Yale
-J-F;
-Diabetes
-Canada
-Clinical
-Practice
-Guidelines Expert Committee. Diabetes and mental
-health. Can J Diabetes 2018;42 Suppl 1:S130–S141
-365. Cho
-M-K,
-Kim
-MY.
-Self-management
-nursing
-intervention
-for
-controlling
+nutrition
+interventions for type 1 diabetes: a meta-analysis.
+Pediatrics 2022;150:e2022056540
+23. Zaharieva DP, Morrison D, Paldus B, Lal RA,
+Buckingham BA, O’Neal DN. Practical aspects and
+exercise safety beneﬁts of automated insulin
+delivery systems in type 1 diabetes. Diabetes
+Spectr 2023;36:127–136
+24. U.S. Department of Health and Human
+Services. Physical Activity Guidelines for Americans.
+Accessed 31 August 2024. Available from https://
+health.gov/our-work/nutrition-physical-activity/
+physical-activity-guidelines
+25. Sherr JL, Bergford S, Gal RL, et al. Exploring
+factors that inﬂuence postexercise glycemia in youth
+with type 1 diabetes in the real world: the Type 1
+Diabetes Exercise Initiative Pediatric (T1DEXIP) study.
+Diabetes Care 2024;47:849–857
+26. Riddell MC, Gal RL, Bergford S, et al. The
+acute effects of real-world physical activity on
+glycemia in adolescents with type 1 diabetes: the
+Type 1 Diabetes Exercise Initiative Pediatric
+(T1DEXIP) study. Diabetes Care 2024;47:132–139
+27. Eckstein ML,Weilguni B,Tauschmann M, et al.
+Time in range for closed-loop systems versus
+standard of care during physical exercise in people
+with type 1 diabetes: a systematic review and
+meta-analysis. J Clin Med 2021;10:2445
+28. Da Prato G, Pasquini S, Rinaldi E, et al.
+Accuracy of CGM systems during continuous and
+interval exercise in adults with type 1 diabetes. J
+Diabetes Sci Technol 2022;16:1436–1443
+29. Moser O, Mader JK, Tschakert G, et al.
+Accuracy
+of
+continuous
 glucose
-among diabetes: a systematic review and meta-
-analysis. Int J Environ Res Public Health 2021;
-18:12750
-366. Majidi
-S,
-Reid
-MW,
-Fogel
-J,
-et
-al.
-Psychosocial outcomes in young adolescents
-with type 1 diabetes participating in shared
-medical appointments. Pediatr Diabetes 2021;22:
-787–795
-367. Phillips S, Culpepper J, Welch M, et al. A
-multidisciplinary diabetes clinic improves clinical
-and behavioral outcomes in a primary care
-setting. J Am Board Fam Med 2021;34:579–589
-368. Ali MK, Chwastiak L, Poongothai S, et al.;
-INDEPENDENT Study Group. Effect of a colla-
-borative care model on depressive symptoms and
-glycated hemoglobin, blood pressure, and serum
-cholesterol among patients with depression and
-diabetes in india: the INDEPENDENT randomized
-clinical trial. JAMA 2020;324:651–662
-369. Rechenberg
-K,
-Koerner
-R.
-Cognitive
-behavioral therapy in adolescents with type 1
-diabetes: an integrative review. J Pediatr Nurs
-2021;60:190–197
-370. McMorrow R, Hunter B, Hendrieckx C,
-et al. Effect of routinely assessing and addressing
-depression and diabetes distress on clinical
-outcomes among adults with type 2 diabetes: a
-systematic review. BMJ Open 2022;12:e054650
-371. Harkness E, Macdonald W, Valderas J,
-Coventry P, Gask L, Bower P. Identifying psy-
-chosocial
-interventions
-that
-improve
-both
-physical and mental health in patients with
-diabetes: a systematic review and meta-analysis.
-Diabetes Care 2010;33:926–930
-372. Radcliff TA, C^ote MJ,Whittington MD, et al.
-Cost-effectiveness of three doses of a behavioral
-intervention to prevent or delay type 2 diabetes
-in rural areas. J Acad Nutr Diet 2020;120:
-1163–1171
-373. Corathers S, Williford DN, Kichler J, et al.
-Implementation of psychosocial screening into
-diabetes clinics: experience from the Type 1
-Diabetes Exchange Quality Improvement Network.
-Curr Diab Rep 2023;23:19–28
-374. Mulvaney SA, Mara CA, Kichler JC, et al. A
-retrospective multisite examination of depression
-screening practices, scores, and correlates in
-pediatric diabetes care. Transl Behav Med 2021;
-11:122–131
-375. Monaghan M, Mara CA, Kichler JC, et al.
+monitoring
+(CGM) during continuous and high-intensity
+interval exercise in patients with type 1 diabetes
+mellitus. Nutrients 2016;8:489
+30. Bally L, Zueger T, Pasi N, Carlos C, Paganini D,
+Stettler
+C.
+Accuracy of continuous glucose
+monitoring during differing exercise conditions.
+Diabetes Res Clin Pract 2016;112:1–5
+31. Ajcevic M, Candido R, Assaloni R, Accardo A,
+Francescato MP. Personalized approach for the
+management of exercise-related glycemic im-
+balances in type 1 diabetes: comparison with
+reference method. J Diabetes Sci Technol 2021;
+15:1153–1160
+32. Baker LB, Rollo I, Stein KW, Jeukendrup AE.
+Acute effects of carbohydrate supplementation
+on intermittent sports performance. Nutrients
+2015;7:5733–5763
+33. Redondo MJ, Libman I, Cheng P, et al.;
+Pediatric
+Diabetes
+Consortium.
+Racial/ethnic
+minority youth with recent-onset type 1 diabetes
+have poor prognostic factors. Diabetes Care 2018;
+41:1017–1024
+34. DuBose SN, Hermann JM, Tamborlane WV,
+et al.; Type 1 Diabetes Exchange Clinic Network
+and Diabetes Prospective Follow-up Registry.
+Obesity in youth with type 1 diabetes in
+Germany, Austria, and the United States. J
+Pediatr 2015;167:627–632
+35. Corbin KD, Driscoll KA, Pratley RE, Smith SR,
+Maahs DM, Mayer-Davis EJ; Advancing Care for
+Type 1 Diabetes and Obesity Network (ACT1ON).
+Obesity in type 1 diabetes: pathophysiology,
+clinical impact, and mechanisms. Endocr Rev
+2018;39:629–663
+36. Redondo MJ, Foster NC, Libman IM, et al.
+Prevalence of cardiovascular risk factors in youth
+with type 1 diabetes and elevated body mass
+index. Acta Diabetol 2016;53:271–277
+37. Lawlor MT, Evert AB, Hanson JH, et al.;
+American Association of Diabetes Educators.
+Management of children with diabetes in the
+school setting. Diabetes Educ 2018;44:51–56
+38. March C, Sherman J, Bannuru RR, et al. Care
+of young children with diabetes in the childcare
+and community setting: a statement of the
+American Diabetes Association. Diabetes Care
+2023;46:2102–2111
+39. Hilliard ME, De Wit M,Wasserman RM, et al.
+Screening and support for emotional burdens of
+youth with type 1 diabetes: strategies for
+diabetes care providers. Pediatr Diabetes 2018;
+19:534–543
+40. Hill-Briggs F, Adler NE, Berkowitz SA, et al.
+Social determinants of health and diabetes: a
+scientiﬁc review. Diabetes Care 2020;44:258–279
+41. Monaghan M, Mara CA, Kichler JC, et al.
 Multisite examination of depression screening
 scores and correlates among adolescents and
 young adults with type 2 diabetes. Can J Diabetes
 2021;45:411–416
-376. Brodar KE, Davis EM, Lynn C, et al.
-Comprehensive
-psychosocial
-screening
-in
-a
-pediatric diabetes clinic. Pediatr Diabetes 2021;22:
-656–666
-377. Myers AK, Grannemann BD, Lingvay I,Trivedi
-MH. Brief report: depression and history of suicide
-attempts in adults with new-onset type 2 diabetes.
-Psychoneuroendocrinology 2013;38:2810–2814
-378. Majidi S, O’Donnell HK, Stanek K, Youngkin
-E, Gomer T, Driscoll KA. Suicide risk assessment in
-youth and young adults with type 1 diabetes.
-Diabetes Care 2020;43:343–348
-379. Barnard-Kelly KD, Naranjo D, Majidi S, et al.
-Suicide and self-inﬂicted injury in diabetes: a
-balancing act. J Diabetes Sci Technol 2020;14:
-1010–1016
-380. Hill RM, Gallagher KAS, Eshtehardi SS,
-Uysal S, Hilliard ME. Suicide risk in youth and
-young adults with type 1 diabetes: a review of
-the literature and clinical recommendations for
-prevention. Curr Diab Rep 2021;21:51
-381. Huang C-J, Huang Y-T, Lin P-C, Hsieh H-M,
-Yang Y-H. Mortality and suicide related to major
-depressive disorder before and after type 2
-diabetes mellitus. J Clin Psychiatry 2022;83
-382. Barry MJ, Nicholson WK, Silverstein M, et al.;
-US Preventive Services Task Force. Screening for
-depression and suicide risk in adults: US Preventive
-Services Task Force recommendation statement.
-JAMA 2023;329:2057–2067
-383. Mangione CM, Barry MJ, Nicholson WK,
+42. Young-Hyman D, de Groot M, Hill-Briggs F,
+Gonzalez JS, Hood K, Peyrot M. Psychosocial care
+for people with diabetes: a position statement of
+the American Diabetes Association. Diabetes
+Care 2016;39:2126–2140
+43. Evans MA, Weil LEG, Shapiro JB, et al.
+Psychometric properties of the parent and child
+problem areas in diabetes measures. J Pediatr
+Psychol 2019;44:703–713
+44. Mangione CM, Barry MJ, Nicholson WK,
 et al.; US Preventive Services Task Force.
 Screening for depression and suicide risk in
 children and adolescents: US Preventive Services
-Task Force recommendation statement. JAMA
-2022;328:1534–1542 US
-384. Marker AM, Patton SR, Clements MA, Egan
-AE, McDonough RJ. Adjusted cutoff scores increase
-sensitivity of depression screening measures in
-adolescents with type 1 diabetes. Diabetes Care
-2022;45:2501–2508
-385. Weissberg-Benchell J, Shapiro JB. A review
-of interventions aimed at facilitating successful
-transition planning and transfer to adult care
-S122
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-among youth with chronic illness. Pediatr Ann
-2017;46:e182–e187
-386. O’Gurek DT, Henke C. A practical approach
-to screening for social determinants of health.
-Fam Pract Manag 2018;25:7–12
-387. Zhang H, Zhang Q, Luo D, et al. The effect
-of family-based intervention for adults with
-diabetes on HbA1c and other health-related
-outcomes: systematic review and meta-analysis.
-J Clin Nurs 2022;31:1488–1501
-388. Oyedeji AD, Ullah I, Weich S, Bentall R,
-Booth A. Effectiveness of non-specialist delivered
-psychological interventions on glycemic control
-and mental health problems in individuals with
-type 2 diabetes: a systematic review and meta-
-analysis. Int J Ment Health Syst 2022;16:9
-389. Beverly EA, Hultgren BA, Brooks KM, Ritholz
-MD, Abrahamson MJ, Weinger K. Understanding
-physicians’ challenges when treating type 2
-diabetic patients’ social and emotional difﬁculties:
-a
-qualitative
-study.
-Diabetes
-Care
-2011;34:
-1086–1088
-390. Li Y, Storch EA, Ferguson S, Li L, Buys N, Sun
-J. The efﬁcacy of cognitive behavioral therapy-
-based intervention on patients with diabetes: a
-meta-analysis. Diabetes Res Clin Pract 2022;189:
-109965
-391. Vlachou
-E,
-Ntikoudi
-A,
-Owens
-DA,
-Nikolakopoulou M, Chalimourdas T, Cauli O.
-Effectiveness of cognitive behavioral therapy-
-based interventions on psychological symptoms
-in adults with type 2 diabetes mellitus: an update
-review of randomized controlled trials. J Diabetes
-Complications 2022;36:108185
-392. Ni Y-X, Ma L, Li J-P. Effects of mindfulness-
-based intervention on glycemic control and
-psychological outcomes in people with diabetes:
-a systematic review and meta-analysis. J Diabetes
-Investig 2021;12:1092–1103
-393. Hood KK, Iturralde E, Rausch J, Weissberg-
-Benchell J. Preventing diabetes distress in adole-
-scents with type 1 diabetes: results 1 year after
-participation in the STePS program. Diabetes Care
-2018;41:1623–1630
-394. Weissberg-Benchell J, Shapiro JB, Bryant
-FB, Hood KK. Supporting Teen Problem-Solving
-(STEPS) 3 year outcomes: preventing diabetes-
-speciﬁc
-emotional
-distress
+Task Force Recommendation Statement. JAMA
+2022;328:1534–1542
+45. Mangione CM, Barry MJ, Nicholson WK, et al.;
+US Preventive Services Task Force. Screening for
+anxiety in children and adolescents: US Preventive
+Services Task Force Recommendation Statement.
+JAMA 2022;328:1438–1444
+46. Gonder-Frederick L, Nyer M, Shepard JA,
+Vajda K, Clarke W. Assessing fear of hypoglycemia
+in children with type 1 diabetes and their
+parents. Diabetes Manag (Lond) 2011;1:627–639
+47. Pursey KM, Hart M, Jenkins L, McEvoy M,
+Smart
+CE.
+Screening
 and
-depressive
-symptoms in adolescents with type 1 diabetes. J
-Consult Clin Psychol 2020;88:1019–1031
-395. Laffel LMB, Vangsness L, Connell A, Goebel-
+identiﬁcation
+of
+disordered eating in people with type 1 diabetes:
+a systematic review. J Diabetes Complications
+2020;34:107522
+48. Wisting L, Frøisland DH, Skrivarhaug T, Dahl-
+Jørgensen K, Rø O. Disturbed eating behavior and
+omission of insulin in adolescents receiving
+intensiﬁed
+insulin
+treatment:
+a
+nationwide
+population-based study. Diabetes Care 2013;36:
+3382–3387
+49. Inverso H, Moore HR, Lupini F, et al.
+Mindfulness-based interventions: focus on pe-
+diatric type 1 and type 2 diabetes. Curr Diab Rep
+2022;22:493–500
+50. Kichler JC, Harris MA, Weissberg-Benchell J.
+Contemporary roles of the pediatric psychologist
+in diabetes care. Curr Diabetes Rev 2015;11:
+210–221
+51. Winkley K, Upsher R, Stahl D, et al.
+Psychological interventions to improve self-
+management of type 1 and type 2 diabetes: a
+systematic review. Health Technol Assess 2020;
+24:1–232
+52. Hilliard ME, Powell PW, Anderson BJ. Evidence-
+based behavioral interventions to promote diabetes
+management in children, adolescents, and families.
+Am Psychol 2016;71:590–601
+53. Katz ML, Volkening LK, Butler DA, Anderson
+BJ, Laffel LM. Family-based psychoeducation and
+Care Ambassador intervention to improve glycemic
+control in youth with type 1 diabetes: a randomized
+trial. Pediatr Diabetes 2014;15:142–150
+54. Laffel LMB, Vangsness L, Connell A, Goebel-
 Fabbri A, Butler D, Anderson BJ. Impact of
 ambulatory, family-focused teamwork intervention
-on glycemic control in youth with type 1 diabetes. J
-Pediatr 2003;142:409–416
-396. Wysocki T, Harris MA, Buckloh LM, et al.
-Effects of behavioral family systems therapy for
-diabetes on adolescents’ family relationships,
-treatment adherence, and metabolic control. J
-Pediatr Psychol 2006;31:928–938
-397. Yap JM, Tantono N, Wu VX, Klainin-Yobas P.
-Effectiveness of technology-based psychosocial
-interventions on diabetes distress and health-
-relevant outcomes among type 2 diabetes
-mellitus: a systematic review and meta-analysis. J
-Telemed Telecare 2021;30:262–284
-398. Bisno DI, Reid MW, Fogel JL, Pyatak EA,
-Majidi S, Raymond JK. Virtual group appointments
-reduce distress and improve care management in
-young adults with type 1 diabetes. J Diabetes Sci
-Technol 2022;16:1419–1427
-399. Hagger V, Hendrieckx C, Sturt J, Skinner TC,
-Speight J. Diabetes distress among adolescents
-with type 1 diabetes: a systematic review. Curr
-Diab Rep 2016;16:9
-400. Fisher L, Hessler D, Polonsky W, Strycker L,
-Masharani U, Peters A. Diabetes distress in adults
-with type 1 diabetes: prevalence, incidence and
-change over time. J Diabetes Complications 2016;
-30:1123–1128
-401. Hagger V, Hendrieckx C, Cameron F,
-Pouwer F, Skinner TC, Speight J. Diabetes distress
-is more strongly associated with HbA1c than
-depressive symptoms in adolescents with type 1
-diabetes: results from Diabetes MILES Youth-
-Australia. Pediatr Diabetes 2018;19:840–847
-402. Wasserman RM, Eshtehardi SS, Anderson
-BJ, Weissberg-Benchell JA, Hilliard ME. Proﬁles of
-depressive symptoms and diabetes distress in
-preadolescents with type 1 diabetes. Can J
-Diabetes 2021;45:436–443
-403. Fisher L, Hessler DM, Polonsky WH, Mullan
-J.When is diabetes distress clinically meaningful?
-Establishing cut points for the Diabetes Distress
-Scale. Diabetes Care 2012;35:259–264
-404. Fisher L, Polonsky WH, Perez-Nieves M,
-Desai U, Strycker L, Hessler D. A new perspective
-on diabetes distress using the type 2 diabetes
-distress assessment system (T2-DDAS): prevalence
-and change over time. J Diabetes Complications
-2022;36:108256
-405. Aikens JE. Prospective associations between
-emotional distress and poor outcomes in type 2
-diabetes. Diabetes Care 2012;35:2472–2478
-406. Hernar I, Cooper JG, Nilsen RM, et al. Diabetes
-distress and associations with demographic and
-clinical variables: a nationwide population-based
-registry study of 10,186 adults with type 1 diabetes
-in Norway. Diabetes Care 2024;47:126–131
-407. Gonzalez JS, Krause-Steinrauf H, Bebu I,
-et
-al.;
-GRADE
-Research
-Group.
-Emotional
-distress, self-management, and glycemic control
-among participants enrolled in the glycemia
-reduction approaches in diabetes: a comparative
-effectiveness (GRADE) study. Diabetes Res Clin
-Pract 2023;196:110229
-408. Liu X, Haagsma J, Sijbrands E, et al. Anxiety
-and depression in diabetes care: longitudinal
-associations with health-related quality of life. Sci
-Rep 2020;10:8307
-409. Guo X,Wu S, Tang H, et al. The relationship
-between
-stigma
-and
-psychological
-distress
-among people with diabetes: a meta-analysis.
-BMC Psychol 2023;11:242
-410. Akyirem S, Ekpor E, Namumbejja Abwoye D,
-Batten J, Nelson LE. Type 2 diabetes stigma and
-its association with clinical, psychological, and
-behavioral outcomes: a systematic review and
-meta-analysis. Diabetes Res Clin Pract 2023;202:
-110774
-411. Hamilton K, Forde R, Due-Christensen M,
-et al. Which diabetes speciﬁc patient reported
-outcomes should be measured in routine care? A
-systematic review to inform a core outcome set
-for adults with type 1 and 2 diabetes mellitus:
-the European Health Outcomes Observatory
-(H2O) programme. Patient Educ Couns 2023;116:
-107933
-412. Michot AP, Evans TL, Vasudevan MM, et al.
-The case for screening for diabetes distress,
-depression, and anxiety. J Health Psychol 2024:
-13591053241241841
-413. Fisher L, Polonsky WH, Hessler D. Addressing
-diabetes distress in clinical care: a practical guide.
-Diabet Med 2019;36:803–812
-414. Sturt J, Dennick K, Hessler D, Hunter BM,
-Oliver J, Fisher L. Effective interventions for
-reducing diabetes distress: systematic review and
-meta-analysis. International Diabetes Nursing
-2015;12:40–55
-415. Ngan HY, Chong YY, Chien WT. Effects of
-mindfulness- and acceptance-based interventions
-on diabetes distress and glycaemic level in people
-with type 2 diabetes: Systematic review and meta-
-analysis. Diabet Med 2021;38:e14525
-416. Roddy MK, Spieker AJ, Nelson LA, et al.Well-
-being outcomes of a family-focused intervention
-for persons with type 2 diabetes and support
-persons: main, mediated, and subgroup effects
-from the FAMS 2.0 RCT. Diabetes Res Clin Pract
-2023;204:110921
-417. Hessler DM, Fisher L, Guzman S, et al.
-EMBARK: a randomized, controlled trial comparing
-three approaches to reducing diabetes distress and
-improving HbA1c in adults with type 1 diabetes.
-Diabetes Care 2024;47:1370–1378
-418. Wicaksana AL, Apriliyasari RW, Tsai P-S.
-Effect of self-help interventions on psychological,
-glycemic, and behavioral outcomes in patients
-with diabetes: a meta-analysis of randomized
-controlled trials. Int J Nurs Stud 2024;149:104626
-419. Fisher L, Hessler D, Glasgow RE, et al.
-REDEEM: a pragmatic trial to reduce diabetes
-distress. Diabetes Care 2013;36:2551–2558
-420. Tay JHT, Jiang Y, Hong J, He H, Wang W.
-Effectiveness
-of
-lay-led,
-group-based
-self-
-management interventions to improve glycated
-hemoglobin (HbA1c), self-efﬁcacy, and emergency
-visit rates among adults with type 2 diabetes: a
-systematic review and meta-analysis. Int J Nurs
-Stud 2021;113:103779
-421. DiNardo MM, Greco C, Phares AD, et al.
-Effects of an integrated mindfulness intervention
-for veterans with diabetes distress: a randomized
-controlled trial. BMJ Open Diabetes Res Care
-2022;10
-422. Lutes LD, Cummings DM, Littlewood K, et al.
-A
-tailored
-cognitive-behavioural
-intervention
-produces comparable reductions in regimen-
-related distress in adults with type 2 diabetes
-regardless of insulin use: 12-month outcomes from
-the COMRADE trial. Can J Diabetes 2020;44:
-530–536
-423. Friis
-AM,
-Johnson
-MH,
-Cutﬁeld
-RG,
-Consedine NS. Kindness matters: a randomized
-controlled trial of a mindful self-compassion
-intervention improves depression, distress, and
-HbA1c among patients with diabetes. Diabetes
-Care 2016;39:1963–1971
-424. Godoi A, Reis Marques I, Padr~ao EMH,
-et al. Glucose control and psychosocial outcomes
-with use of automated insulin delivery for 12 to
-96 weeks in type 1 diabetes: a meta-analysis of
-randomised controlled trials. Diabetol Metab
-Syndr 2023;15:190
-425. Smith KJ, Beland M, Clyde M, et al.
-Association of diabetes with anxiety: a systematic
-review and meta-analysis. J Psychosom Res 2013;
-74:89–99
-426. Li C, Barker L, Ford ES, Zhang X, Strine TW,
-Mokdad AH. Diabetes and anxiety in US adults:
-ﬁndings from the 2006 Behavioral Risk Factor
-Surveillance System. Diabet Med 2008;25:878–
-881
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S123
-©AmericanDiabetesAssociation
-427. Gonder-Frederick LA, Schmidt KM, Vajda
-KA,
-et al.
-Psychometric
-properties of
-the
-hypoglycemia fear survey-ii for adults with type 1
-diabetes. Diabetes Care 2011;34:801–806
-428. Wild
-D,
-von
-Maltzahn
-R,
-Brohan
-E,
-Christensen T, Clauson P, Gonder-Frederick L. A
-critical review of the literature on fear of hypo-
-glycemia in diabetes: implications for diabetes
-management and patient education. Patient Educ
-Couns 2007;68:10–15
-429. Alazmi A, Bashiru MB, Viktor S, Erjavec M.
-Psychological variables and lifestyle in children
-with
-type1 diabetes
-and their
-parents: a
-systematic review. Clin Child Psychol Psychiatry
-2023;29:1174–1194
-430. Zhang L, Xu H, Liu L, et al. Related factors
-associated with fear of hypoglycemia in parents of
-children and adolescents with type 1 diabetes - a
-systematic review. J Pediatr Nurs 2022;66:125–135
-431. Zambanini A, Newson RB, Maisey M, Feher
-MD. Injection related anxiety in insulin-treated
-diabetes. Diabetes Res Clin Pract 1999;46:239–
-246
-432. American Psychiatric Association. Diagnostic
-and Statistical Manual of Mental Disorders: DSM-5.
-Washington, DC, American Psychiatric Association,
-2013
-433. Mollema ED, Snoek FJ, Ader HJ, Heine RJ,
-van der Ploeg HM. Insulin-treated diabetes
-patients with fear of self-injecting or fear of self-
-testing: psychological comorbidity and general
-well-being. J Psychosom Res 2001;51:665–672
-434. Kemp CG, Johnson LCM, Sagar R, et al.
-Effect of a collaborative care model on anxiety
-symptoms among patients with depression and
-diabetes in India: the INDEPENDENT randomized
-clinical trial. Gen Hosp Psychiatry 2022;74:39–45
-435. Abbas Q, Latif S, Ayaz Habib H, et al.
-Cognitive behavior therapy for diabetes distress,
-depression, health anxiety, quality of life and
-treatment adherence among patients with type-II
-diabetes mellitus: a randomized control trial. BMC
-Psychiatry 2023;23:86
-436. Visser MM, Charleer S, Fieuws S, et al.
-Effect of switching from intermittently scanned
-to real-time continuous glucose monitoring in
-adults with type 1 diabetes: 24-month results
-from the randomised ALERTT1 trial. Lancet
-Diabetes Endocrinol 2023;11:96–108
-437. Talbo MK, Katz A, Hill L, Peters TM, Yale J-F,
-Brazeau A-S. Effect of diabetes technologies on
-the fear of hypoglycaemia among people living
-with type 1 diabetes: a systematic review and
-meta-analysis. EClinicalMedicine 2023;62:102119
-438. Martyn-Nemeth P, Duffecy J, Quinn L, et al.
-FREE: A randomized controlled feasibility trial of
-a cognitive behavioral therapy and technology-
-assisted intervention to reduce fear of hypo-
-glycemia in young adults with type 1 diabetes. J
-Psychosom Res 2024;181:111679
-439. de Groot M, Crick KA, Long M, Saha C,
-Shubrook JH. Lifetime duration of depressive
-disorders in patients with type 2 diabetes.
-Diabetes Care 2016;39:2174–2181
-440. Rubin RR, Ma Y, Marrero DG, et al.;
-Diabetes Prevention Program Research Group.
-Elevated depression symptoms, antidepressant
-medicine use, and risk of developing diabetes
-during the diabetes prevention program. Diabetes
-Care 2008;31:420–426
-441. Chen Z,Wang J, Carru C, Coradduzza D, Li Z.
-The prevalence of depression among parents of
-children/adolescents with type 1 diabetes: a
-systematic
-review
-and
-meta-analysis.
-Front
-Endocrinol (Lausanne) 2023;14:1095729
-442. Clouse RE, Lustman PJ, Freedland KE,
-Grifﬁth LS, McGill JB, Carney RM. Depression and
-coronary heart disease in women with diabetes.
-Psychosom Med 2003;65:376–383
-443. Rosas CE, Talavera GA, Roesch SC, et al.
-Randomized trial of an integrated care intervention
-among Latino adults: sustained effects on diabetes
-management.Transl Behav Med 2024;14:310–318
-444. Cannon
-A,
-Handelsman
-Y,
-Heile
-M,
-Shannon M. Burden of illness in type 2 diabetes
-mellitus. J Manag Care Spec Pharm 2018;24:
-S5–S13
-445. Atlantis E, Fahey P, Foster J. Collaborative
-care for comorbid depression and diabetes: a
-systematic review and meta-analysis. BMJ Open
-2014;4:e004706
-446. Lu X, Yang D, Liang J, et al. Effectiveness of
-intervention program on the change of glycaemic
-control in diabetes with depression patients: a
-meta-analysis of randomized controlled studies.
-Prim Care Diabetes 2021;15:428–434
-447. Ellis D, Carcone AI, Templin T, et al.
-Moderating effect of depression on glycemic
-control in an ehealth intervention among Black
-youth with type 1 diabetes: ﬁndings from a
-multicenter randomized controlled trial. JMIR
-Diabetes 2024;9:e55165
-448. Li Y, Buys N, Ferguson S, et al.The evaluation
-of cognitive-behavioral therapy-based intervention
-on type 2 diabetes patients with comorbid
-metabolic syndrome: a randomized controlled
-trial. Diabetol Metab Syndr 2023;15:158
-449. Fisher V, Li WW, Malabu U.The effectiveness
-of mindfulness-based stress reduction (MBSR) on
-the mental health, HbA1C, and mindfulness of
-diabetes patients: a systematic review and meta-
-analysis of randomised controlled trials. Appl
-Psychol Health Well Being 2023;15:1733–1749
-450. Varela-Moreno
-E,
-Carreira
-Soler
-M,
-Guzman-Parra
-J,
-Jodar-Sanchez
-F,
-Mayoral-
-Cleries F, Anarte-Ortız MT. Effectiveness of
-ehealth-based psychological interventions for
-depression treatment in patients with type 1 or
-type 2 diabetes mellitus: a systematic review.
-Front Psychol 2021;12:746217
-451. Tavares Franquez R, Del Grossi Moura M,
-Cristina Ferreira McClung D, et al. E-health
-technologies for treatment of depression, anxiety
-and emotional distress in person with diabetes
-mellitus: a systematic review and meta-analysis.
-Diabetes Res Clin Pract 2023;203:110854
-452. Stewart JC, Patel JS, Polanka BM, et al.
-Effect of modernized collaborative care for
-depression on depressive symptoms and cardio-
-vascular disease risk biomarkers: eIMPACT ran-
-domized controlled trial. Brain Behav Immun
-2023;112:18–28
-453. Koning E, Grigolon RB, Breda V, et al. The
-effect of lifestyle interventions on depressive
-symptom severity in individuals with type-2 dia-
-betes: a meta-analysis of randomized controlled
-trials. J Psychosom Res 2023;173:111445
-454. Seddigh S, Bagheri S, ShariﬁN, Moravej H,
-Hadian Shirazi Z. The effect of yoga therapy
-directed by virtual training on depression of
-adolescent girls with type 1 diabetes: a ran-
-domized controlled trial. J Diabetes Metab Disord
-2023;22:1273–1281
-455. Saha CK, Shubrook JH, Guyton Hornsby W,
-et al. Program ACTIVE II: 6- and 12-month
-outcomes of a treatment approach for major
-depressive disorder in adults with type 2 diabetes.
-J Diabetes Complications 2024;38:108666
-456. Chen X, Zhao P, Wang W, Guo L, Pan Q. The
-antidepressant effects of GLP-1 receptor agonists:
-a systematic review and meta-analysis. Am J
-Geriatr Psychiatry 2024;32:117–127
-457. Pinhas-Hamiel O, Hamiel U, Levy-Shraga Y.
-Eating disorders in adolescents with type 1
-diabetes: challenges in diagnosis and treatment.
-World J Diabetes 2015;6:517–526
-458. Papelbaum M, Appolinario JC, Moreira
-RdO, Ellinger VCM, Kupfer R, Coutinho WF.
-Prevalence of eating disorders and psychiatric
-comorbidity in a clinical sample of type 2 dia-
-betes mellitus patients. Braz J Psychiatry 2005;
-27:135–138
-459. Niemel€a PE, Lepp€anen HA, Voutilainen A,
-et al. Prevalence of eating disorder symptoms
-in people with insulin-dependent-diabetes: a
-systematic review and meta-analysis. Eat Behav
-2024;53:101863
-460. Dean YE, Motawea KR, Aslam M, et al.
-Association between type 1 diabetes mellitus
-and eating disorders: a systematic review and
-meta-Analysis. Endocrinol Diabetes Metab 2024;
-7:e473
-461. Weinger
-K,
-Beverly
-EA.
-Barriers
-to
-achieving glycemic targets: who omits insulin and
-why? Diabetes Care 2010;33:450–452
-462. Hudson JI, Hiripi E, Pope HG, Kessler RC.
-The prevalence and correlates of eating disorders
-in the National Comorbidity Survey Replication.
-Biol Psychiatry 2007;61:348–358
-463. Martyn-Nemeth P, Quinn L, Hacker E, Park
-H, Kujath AS. Diabetes distress may adversely
-affect the eating styles of women with type 1
-diabetes. Acta Diabetol 2014;51:683–686
-464. Marks KP, Aalders J, Liu S, et al. Associations
-between disordered eating behaviors and HbA1c
-in young people with type 1 diabetes: a systematic
-review and meta-analysis. Curr Diabetes Rev
-2024;20:e220823220144
-465. Peterson CM, Fischer S, Young-Hyman D.
-Topical review: a comprehensive risk model for
-disordered eating in youth with type 1 diabetes. J
-Pediatr Psychol 2015;40:385–390
-466. Jones CJ, Read R, O’Donnell N, et al.
-PRIORITY trial: results from a feasibility randomised
-controlled trial of a psychoeducational intervention
-for parents to prevent disordered eating in
-children and young people with type 1 diabetes.
-Diabet Med 2024;41:e15263
-467. Wisting L, Haugvik S,Wennersberg AL, et al.
-A pilot study of a virtually delivered dissonance-
-based eating disorder prevention program for
-young women with type 1 diabetes: within-
-subject changes over 6-month follow-up. Eat
-Disord 2024:1–17
-468. Stice E, Wisting L, Desjardins CD, et al.
-Evaluation of a novel eating disorder prevention
-program for young women with type 1 diabetes:
-A preliminary randomized trial. Diabetes Res Clin
-Pract 2023;206:110997
-469. Zaremba N, Watson A, Kan C, et al.
-Multidisciplinary healthcare teams’ challenges
-and strategies in supporting people with type 1
-diabetes to recover from disordered eating.
-Diabet Med 2020;37:1992–2000
-S124
-Facilitating Positive Health Behaviors and Well-being
+S300
+Children and Adolescents
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
-470. Banting R, Randle-Phillips C. A systematic
-review of psychological interventions for comorbid
-type 1 diabetes mellitus and eating disorders.
-Diabetes Management 2018;8:1–18
-471. Priesterroth L, Grammes J, Clauter M,
-Kubiak T. Diabetes technologies in people with
-type 1 diabetes mellitus and disordered eating: a
-systematic review on continuous subcutaneous
-insulin infusion, continuous glucose monitoring
-and automated insulin delivery. Diabet Med
-2021;38:e14581
-472. van Bloemendaal L, IJzerman RG, Ten Kulve
-JS, et al. GLP-1 receptor activation modulates
-appetite- and reward-related brain areas in
-humans. Diabetes 2014;63:4186–4196
-473. Aoun L, Almardini S, Saliba F, et al. GLP-1
-receptor agonists: a novel pharmacotherapy for
-binge eating (binge eating disorder and bulimia
-nervosa)? A systematic review. J Clin Transl
-Endocrinol 2024;35:100333
-474. Suvisaari J, Per€al€a J, Saarni SI, et al. Type 2
-diabetes among persons with schizophrenia and
-other psychotic disorders in a general population
-survey. Eur Arch Psychiatry Clin Neurosci 2008;
-258:129–136
-475. American Diabetes Association; American
-Psychiatric Association; American Association of
-Clinical Endocrinologists; North American Asso-
-ciation for the Study of Obesity. Consensus devel-
-opment conference on antipsychotic drugs and
-obesity and diabetes. Diabetes Care 2004;27:
-596–601
-476. Mulligan
-K,
-McBain
-H,
-Lamontagne-
-Godwin F, et al. Barriers to effective diabetes
-management - a survey of people with severe
-mental illness. BMC Psychiatry 2018;18:165
-477. Kruse J, Schmitz N, Thefeld W, German
-National
-Health
-Interview
-and
-Examination
-Survey. On the association between diabetes and
-mental disorders in a community sample: results
-from the German National Health Interview and
-Examination Survey. Diabetes Care 2003;26:
-1841–1846
-478. Ojo O, Kalocsanyiova E, McCrone P, Elliott
-H, Milligan W, Gkaintatzi E. Non-pharmacological
-interventions for type 2 diabetes in people living
-with severe mental illness: results of a systematic
-review and meta-analysis. Int J Environ Res Public
-Health 2024;21
-479. Schnitzer K, Cather C, Zvonar V, et al. Patient
-experience and predictors of improvement in a
-group behavioral and educational intervention for
-individuals with diabetes and serious mental
-illness: mixed methods case study. J Particip Med
-2021;13:e21934
-480. Biessels GJ, Whitmer RA. Cognitive dys-
-function in diabetes: how to implement emerging
-guidelines. Diabetologia 2020;63:3–9
-481. Brands AMA, Biessels GJ, de Haan EHF,
-Kappelle LJ, Kessels RPC. The effects of type 1
-diabetes on cognitive performance: a meta-
-analysis. Diabetes Care 2005;28:726–735
-482. Carmichael OT, Neiberg RH, Dutton GR,
-et al. Long-term change in physiological markers
-and cognitive performance in type 2 diabetes:
-the Look AHEAD study. J Clin Endocrinol Metab
-2020;105:e4778-4791–e4791
-483. Jin C-Y, Yu S-W, Yin J-T, Yuan X-Y, Wang X-G.
-Corresponding risk factors between cognitive
-impairment and type 1 diabetes mellitus: a
-narrative review. Heliyon 2022;8:e10073
-484. Biessels GJ, Despa F. Cognitive decline and
-dementia in diabetes mellitus: mechanisms and
-clinical implications. Nat Rev Endocrinol 2018;
-14:591–604
-485. Munshi MN. Cognitive dysfunction in older
-adults with diabetes: what a clinician needs to
-know. Diabetes Care 2017;40:461–467
-486. Garcia-Argibay M, Li L, Du Rietz E, et al. The
-association between type 2 diabetes and attention-
-deﬁcit/hyperactivity disorder: a systematic review,
-meta-analysis, and population-based sibling study.
-Neurosci Biobehav Rev 2023;147:105076
-487. Ding K, Reynolds CM, Driscoll KA, Janicke DM.
-The relationship between executive functioning,
-type 1 diabetes self-management behaviors, and
-glycemic control in adolescents and young adults.
-Curr Diab Rep 2021;21:10
-488. Miller AL, Albright D, Bauer KW, et al. Self-
-regulation as a protective factor for diabetes
-distress and adherence in youth with type 1
-diabetes during the COVID-19 pandemic. J
-Pediatr Psychol 2022;47:873–882
-489. Feinkohl I, Aung PP, Keller M, et al.;
-Edinburgh
-Type
-2
+
+on glycemic control in youth with type 1 diabetes. J
+Pediatr 2003;142:409–416
+55. Hickling A, Dingle GA, Barrett HL, Cobham
+VE. Systematic review: diabetes family conﬂict in
+young people with type 1 diabetes. J Pediatr
+Psychol 2021;46:1091–1109
+56. Van Vleet M, Helgeson VS. Friend and peer
+relationships among youth with type 1 diabetes. In
+Behavioral diabetes: Social ecological perspectives for
+pediatric and adult populations. Cham, Switzerland,
+Springer Nature Switzerland AG, 2020, pp. 121–138.
+57. Chiang JL, Kirkman MS, Laffel LMB, Peters
+AL; Type 1 Diabetes Sourcebook Authors. Type 1
+diabetes through the life span: a position
+statement of the American Diabetes Association.
+Diabetes Care 2014;37:2034–2054
+58. Kucera M, Sullivan AL. The educational
+implications of type I diabetes mellitus: a review
+of research and recommendations for school
+psychological practice. Psychol Schools 2011;48:
+587–603
+59. Kuther TL. Medical decision-making and
+minors: issues of consent and assent. Adolescence
+2003;38:343–358
+60. Wysocki T, James L, Milkes A, et al.
+Electronically veriﬁed use of internet-based,
+multimedia decision aids by adolescents with
+type 1 diabetes and their caregivers. MDM Policy
+Pract 2018;3:2381468318769857
+61. Hannon TS, Moore CM, Cheng ER, et al.
+Codesigned
+shared
+decision-making
+diabetes
+management plan tool for adolescents with type 1
+diabetes mellitus and their parents: prototype
+development and pilot test. J Participat Med
+2018;10:e8
+62. Hannon TS, Yazel-Smith LG, Hatton AS, et al.
+Advancing diabetes management in adolescents:
+comparative effectiveness of mobile self-monitoring
+blood glucose technology and family-centered goal
+setting. Pediatr Diabetes 2018;19:776–781
+63. Pugh A, Ritholz MD, Beverly EA. Similarities
+and differences in diabetes diagnosis stories
+among adults with type 1 or type 2 diabetes in
+Appalachian Ohio. Clin Diabetes 2024;42:408–418
+64. Coleman DL, Rosoff PM. The legal authority
+of mature minors to consent to general medical
+treatment. Pediatrics 2013;131:786–793
+65. Charron-Prochownik D, Sereika SM, Becker
+D, et al. Long-term effects of the booster-
+enhanced READY-Girls preconception counseling
+program on intentions and behaviors for family
+planning in teens with diabetes. Diabetes Care
+2013;36:3870–3874
+66. American Diabetes Association. Reproductive
+Health for Teen Girls with Diabetes. Accessed 31
+August 2024. Available from https://diabetes.org/
+health-wellness/sexual-health/reproductive-health-
+teen-girls-diabetes
+67. Gerhardsson P, Schwandt A, Witsch M, et al.;
+SWEET Study Group. The SWEET Project 10-year
+benchmarking in 19 countries worldwide is
+associated with improved hba1c and increased use
+of diabetes technology in youth with type 1
+diabetes. Diabetes Technol Ther 2021;23:491–499
+68. Miller KM, Beck RW, Foster NC, Maahs DM.
+HbA1c levels in type 1 diabetes from early
+childhood to older adults: a deeper dive into the
+inﬂuence of technology and socioeconomic
+status on HbA1c in the T1D Exchange clinic
+registry ﬁndings. Diabetes Technol Ther 2020;22:
+645–650
+69. Diabetes Control and Complications Trial
+Research Group. Effect of intensive diabetes
+treatment on the development and progression
+of long-term complications in adolescents with
+insulin-dependent diabetes mellitus: Diabetes
+Control and Complications Trial. J Pediatr 1994;
+125:177–188
+70. White NH, Cleary PA, Dahms W, Goldstein D,
+Malone J, Tamborlane WV; Diabetes Control and
+Complications Trial (DCCT)/Epidemiology of Diabetes
+Interventions and Complications (EDIC) Research
+Group. Beneﬁcial effects of intensive therapy of
+diabetes during adolescence: outcomes after the
+conclusion of the Diabetes Control and Com-
+plications Trial (DCCT). J Pediatr 2001;139:
+804–812
+71. Carlsen S, Skrivarhaug T, Thue G, et al.
+Glycemic control and complications in patients
+with type 1 diabetes—a registry-based longitudinal
+study of adolescents and young adults. Pediatr
+Diabetes 2017;18:188–195
+72. Genuth SM, Backlund J-YC, Bayless M, et al.;
+DCCT/EDIC Research Group. Effects of prior
+intensive versus conventional therapy and history
+of glycemia on cardiac function in type 1 diabetes
+in the DCCT/EDIC. Diabetes 2013;62:3561–3569
+73. Writing Team for the Diabetes Control and
+Complications
+Trial/Epidemiology
+of
 Diabetes
-Study
-(ET2DS)
-Investigators. Severe hypoglycemia and cognitive
-decline in older people with type 2 diabetes: the
-Edinburgh type 2 diabetes study. Diabetes Care
-2014;37:507–515
-490. Strudwick SK, Carne C, Gardiner J, Foster JK,
-Davis EA, Jones TW. Cognitive functioning in
-children with early onset type 1 diabetes and
-severe hypoglycemia. J Pediatr 2005;147:680–685
-491. Mauras N, Buckingham B, White NH, et al.;
+Interventions and Complications Research Group.
+Sustained effect of intensive treatment of type 1
+diabetes mellitus on development and progression
+of diabetic nephropathy: the Epidemiology of
+Diabetes Interventions and Complications (EDIC)
+study. JAMA 2003;290:2159–2167
+74. Gubitosi-Klug RA, Sun W, Cleary PA, et al.;
+Writing Team for the DCCT/EDIC Research
+Group. Effects of prior intensive insulin therapy
+and risk factors on patient-reported visual
+function outcomes in the Diabetes Control and
+Complications Trial/Epidemiology of Diabetes
+Interventions and Complications (DCCT/EDIC)
+cohort. JAMA Ophthalmol 2016;134:137–145
+75. Orchard TJ, Nathan DM, Zinman B, et al.;
+Writing Group for the DCCT/EDIC Research
+Group. Association between 7 years of intensive
+treatment of type 1 diabetes and long-term
+mortality. JAMA 2015;313:45–53
+76. Mauras N, Buckingham B, White NH, et al.;
 Diabetes Research in Children Network (DirecNet).
 Impact of type 1 diabetes in the developing brain
 in children: a longitudinal study. Diabetes Care
 2021;44:983–992
-492. Tilvis RS, K€ah€onen-V€are MH, Jolkkonen J,
-Valvanne J, Pitkala KH, Strandberg TE. Predictors
-of cognitive decline and mortality of aged people
-over a 10-year period. J Gerontol A Biol Sci Med
-Sci 2004;59:268–274
-493. Chi H, Song M, Zhang J, Zhou J, Liu D.
-Relationship between acute glucose variability
-and cognitive decline in type 2 diabetes: a
-systematic review and meta-analysis. PLoS One
-2023;18:e0289782
-494. Jacobson AM, Ryan CM, Cleary PA, et al.;
-Diabetes Control and Complications Trial/EDIC
-Research Group. Biomedical risk factors for
-decreased
-cognitive
-functioning
-in
-type
-1
-diabetes: an 18 year follow-up of the Diabetes
-Control and Complications Trial (DCCT) cohort.
-Diabetologia 2011;54:245–255
-495. West RK, Ravona-Springer R, Schmeidler J,
-et al.The association of duration of type 2 diabetes
-with cognitive performance is modulated by long-
-term glycemic control. Am J Geriatr Psychiatry
-2014;22:1055–1059
-496. Tian S, Jiang J,Wang J, et al. Comparison on
-cognitive outcomes of antidiabetic agents for
-type 2 diabetes: a systematic review and network
-meta-analysis. Diabetes Metab Res Rev 2023;
-39:e3673
-497. Cai Y-H, Wang Z, Feng L-Y, Ni G-X. Effect of
-exercise on the cognitive function of older
-patients with type 2 diabetes mellitus: a sys-
-tematic review and meta-analysis. Front Hum
-Neurosci 2022;16:876935
-498. Anothaisintawee T, Reutrakul S, Van Cauter
-E, Thakkinstian A. Sleep disturbances compared to
-traditional risk factors for diabetes development:
-systematic review and meta-analysis. Sleep Med
-Rev 2016;30:11–24
-499. Cappuccio FP, D’Elia L, Strazzullo P, Miller
-MA. Quantity and quality of sleep and incidence
-of type 2 diabetes: a systematic review and
-meta-analysis. Diabetes Care 2010;33:414–420
-500. Zhang X, Zhang R, Cheng L, et al. The effect
-of sleep impairment on gestational diabetes
-mellitus: a systematic review and meta-analysis
-of cohort studies. Sleep Med 2020;74:267–277
-501. Monzon AD, Patton SR, Koren D. Childhood
-diabetes and sleep. Pediatr Pulmonol 2022;57:
-1835–1850
-502. Lee SWH, Ng KY, Chin WK. The impact of
-sleep amount and sleep quality on glycemic
-control in type 2 diabetes: a systematic review and
-meta-analysis. Sleep Med Rev 2017;31:91–101
-503. Al-Gadi IS, Streisand R, Tully C, et al. Up all
-night? Sleep disruption in parents of young
-children newly diagnosed with type 1 diabetes.
-Pediatr Diabetes 2022;23:815–819
-504. Macaulay GC, Boucher SE, Yogarajah A,
-Galland BC, Wheeler BJ. Sleep and night-time
-caregiving in parents of children and adolescents
-with type 1 diabetes mellitus - a qualitative study.
-Behav Sleep Med 2020;18:622–636
-505. Reutrakul S,Thakkinstian A, Anothaisintawee
-T, et al. Sleep characteristics in type 1 diabetes and
-associations with glycemic control: systematic
-review and meta-analysis. Sleep Med 2016;
-23:26–45
-506. Barone MTU, Menna-Barreto L. Diabetes and
-sleep: a complex cause-and-effect relationship.
-Diabetes Res Clin Pract 2011;91:129–137
-507. Denic-Roberts H, Costacou T, Orchard TJ.
-Subjective
-sleep
-disturbances
+77. Pourabbasi A, Tehrani-Doost M, Qavam SE,
+Arzaghi SM, Larijani B. Association of diabetes
+mellitus and structural changes in the central
+nervous system in children and adolescents: a
+systematic review. J Diabetes Metab Disord 2017;
+16:10
+78. Brown SA, Kovatchev BP, Raghinaru D, et al.;
+iDCL Trial Research Group. Six-month randomized,
+multicenter trial of closed-loop control in type 1
+diabetes. N Engl J Med 2019;381:1707–1717
+79. Bergenstal RM, Nimri R, Beck RW, et al. A
+comparison of two hybrid closed-loop systems in
+adolescents and young adults with type 1
+diabetes (FLAIR): a multicentre, randomised,
+crossover trial. Lancet 2021;397:208–219
+80. Breton MD, Kanapka LG, Beck RW, et al. A
+randomized trial of closed-loop control in children
+with type 1 diabetes. N Engl J Med 2020;383:
+836–845
+81. Dorando E, Haak T, Pieper D. Continuous
+glucose monitoring for glycemic control in
+children
 and
-glycemic
-control in adults with long-standing type 1
-diabetes:
-the
-Pittsburgh’s
-Epidemiology
-of
-Diabetes Complications study. Diabetes Res Clin
-Pract 2016;119:1–12
-508. Ogilvie RP, Patel SR. The epidemiology of
-sleep and diabetes. Curr Diab Rep 2018;18:82
-509. Schipper SBJ, Van Veen MM, Elders PJM,
-et al. Sleep disorders in people with type 2
-diabetes and associated health outcomes: a
-review of the literature. Diabetologia 2021;64:
-2367–2377
-510. Bener A, Al-Hamaq AOAA, Agan AF, €Ozt€urk
-M, €Omer A. The prevalence of restless legs
-syndrome
-and
-comorbid
-condition
-among
-patient with type 2 diabetic mellitus visiting
-primary healthcare. J Family Med Prim Care 2019;
-8:3814–3820
-511. Modarresnia L, Golgiri F, Madani NH,
-Emami Z, Tanha K. Restless legs syndrome in
-Iranian people with type 2 diabetes mellitus: the
-role in quality of life and quality of sleep. J Clin
-Sleep Med 2018;14:223–228
-512. Manodpitipong A, Saetung S, Nimitphong
-H, et al. Night-shift work is associated with
-poorer glycaemic control in patients with type 2
-diabetes. J Sleep Res 2017;26:764–772
-513. El Tayeb IM, El Saghier EOA, Ramadan BK.
-Impact of shift work on glycemic control in insulin
-treated diabetics Dar El Chefa Hospital, Egypt
-2014. Int J Diabetes Res 2014;3:15–21
-514. Itani O, Kaneita Y, Tokiya M, et al. Short
-sleep duration, shift work, and actual days taken
-off work are predictive life-style risk factors for
-new-onset metabolic syndrome: a seven-year
-cohort study of 40,000 male workers. Sleep Med
-2017;39:87–94
-diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S125
-©AmericanDiabetesAssociation
-515. Lecube A, Simo R, Pallayova M, et al.
-Pulmonary function and sleep breathing: two
-new targets for type 2 diabetes care. Endocr Rev
-2017;38:550–573
-516. Herth J, Sievi NA, Schmidt F, Kohler M.
-Effects of continuous positive airway pressure
-therapy on glucose metabolism in patients with
-obstructive sleep apnoea and type 2 diabetes: a
-systematic review and meta-analysis. Eur Respir
-Rev 2023;32
-517. O’Donnell C, Crilly S, O’Mahony A, et al.
-Continuous positive airway pressure but not GLP1-
-mediated weight loss improves early cardiovascular
-disease in obstructive sleep apnea: a randomized
-proof-of-concept study. Ann Am Thorac Soc 2024;
-21:464–473
-518. Malhotra A, Grunstein RR, Fietze I, et al.;
-SURMOUNT-OSA Investigators. Tirzepatide for
-the treatment of obstructive sleep apnea and
-obesity. N Engl J Med 2024;
-519. Tan X, van Egmond L, Chapman CD,
-Cedernaes J, Benedict C. Aiding sleep in type 2
-diabetes:
-therapeutic
-considerations.
-Lancet
-Diabetes Endocrinol 2018;6:60–68
-520. Carreon
-SA,
-Cao
-VT,
-Anderson
-BJ,
-Thompson DI, Marrero DG, Hilliard ME. ’I don’t
-sleep through the night’: qualitative study of
-sleep in type 1 diabetes. Diabet Med 2022;39:
-e14763
-521. Hood KK, Schneider-Utaka AK, Reed ZW,
-et al.; PEDAP Trial Study Group. Patient reported
-outcomes (PROs) and user experiences of young
-children with type 1 diabetes using t:slim X2
-insulin
-pump
+adolescents
+diagnosed
 with
-control-IQ
-technology.
-Diabetes Res Clin Pract 2024;208:111114
-522. Cobry EC, Hamburger E, Jaser SS. Impact of
-the hybrid closed-loop system on sleep and
-quality of life in youth with type 1 diabetes and
-their parents. Diabetes Technol Ther 2020;22:
-794–800
-523. Franceschi R, Mozzillo E, Di Candia F, et al. A
-systematic review on the impact of commercially
-available hybrid closed loop systems on psy-
-chological outcomes in youths with type 1 diabetes
-and their parents. Diabet Med 2023;40:e15099
-524. Kothari V, Cardona Z, Chirakalwasan N,
-Anothaisintawee T, Reutrakul S. Sleep interventions
-and glucose metabolism: systematic review and
-meta-analysis. Sleep Med 2021;78:24–35
-525. Groeneveld L, Beulens JW, Blom MT, et al.
-The effect of cognitive behavioral therapy for
-insomnia on sleep and glycemic outcomes in
-people with type 2 diabetes: a randomized
-controlled trial. Sleep Med 2024;120:44–52
-526. Li M, Li D, Tang Y, et al. Effect of diabetes
-sleep education for T2DM who sleep after
-midnight: a pilot study from China. Metab Syndr
-Relat Disord 2018;16:13–19
-527. Khandelwal D, Dutta D, Chittawar S, Kalra
-S. Sleep disorders in type 2 diabetes. Indian J
-Endocrinol Metab 2017;21:758–761
-528. McCarthy MM, Whittemore R, Gholson G,
-Grey M. Diabetes distress, depressive symptoms,
-and cardiovascular health in adults with type 1
-diabetes. Nurs Res 2019;68:445–452
-529. Lloyd CE, Pambianco G, Orchard TJ. Does
-diabetes-related distress explain the presence of
-depressive symptoms and/or poor self-care in
-individuals with Type 1 diabetes? Diabet Med
-2010;27:234–237
-530. Chatwin H, Broadley M, Hendrieckx C,
-et al.; Hypo-RESOLVE Consortium. The impact of
-hypoglycaemia on quality of life among adults
-with type 1 diabetes: results from “YourSAY:
-Hypoglycaemia.” J Diabetes Complications 2023;
-37:108232
-531. Trief PM, Xing D, Foster NC, et al.; T1D
-Exchange Clinic Network. Depression in adults in
-the T1D Exchange Clinic Registry. Diabetes Care
-2014;37:1563–1572
-532. Schram MT, Baan CA, Pouwer F. Depression
-and quality of life in patients with diabetes: a
-systematic review from the European depression
-in diabetes (EDID) research consortium. Curr
-Diabetes Rev 2009;5:112–119
-533. Schmitt A, McSharry J, Speight J, et al.
-Symptoms of depression and anxiety in adults
-with type 1 diabetes: associations with self-care
-behaviour, glycaemia and incident complications
-over four years - results from Diabetes MILES-
-Australia. J Affect Disord 2021;282:803–811
-534. Stahl-Pehe A, Selinski S, B€achle C, et al.
-Screening for generalized anxiety disorder (GAD)
-and associated factors in adolescents and young
-adults with type 1 diabetes: cross-sectional
-results of a Germany-wide population-based
-study. Diabetes Res Clin Pract 2022;184:109197
-535. Goebel-Fabbri AE, Fikkan J, Franko DL,
-Pearson K, Anderson BJ, Weinger K. Insulin
-restriction and associated morbidity and mortality
-in women with type 1 diabetes. Diabetes Care
-2008;31:415–419
-536. Araia E, King RM, Pouwer F, Speight J,
-Hendrieckx C. Psychological correlates of disordered
-eating in youth with type 1 diabetes: results from
-Diabetes MILES Youth-Australia. Pediatr Diabetes
-2020;21:664–672
-537. Galler A, Bollow E, Meusers M, et al.;
-German Federal Ministry of Education and
-Research (BMBF) Competence Network Diabetes
-Mellitus. Comparison of glycemic and metabolic
-control in youth with type 1 diabetes with and
-without antipsychotic medication: analysis from
-the
-nationwide
-German/Austrian
-Diabetes
-Survey (DPV). Diabetes Care 2015;38:1051–1057
-538. Cooper MN, Lin A, Alvares GA, de Klerk NH,
-Jones TW, Davis EA. Psychiatric disorders during
-early adulthood in those with childhood onset
-type 1 diabetes: rates and clinical risk factors from
-population-based follow-up. Pediatr Diabetes 2017;
-18:599–606
-539. Chan JKN, Wong CSM, Or PCF, Chen EYH,
-Chang WC. Risk of mortality and complications in
-patients with schizophrenia and diabetes mellitus:
-population-based cohort study. Br J Psychiatry
-2021;219:375–382
-540. Jacobson AM, Ryan CM, Braffett BH, et al.;
-DCCT/EDIC Research Group. Cognitive performance
-declines in older adults with type 1 diabetes: results
-from 32 years of follow-up in the DCCT and EDIC
-Study. Lancet Diabetes Endocrinol 2021;9:436–445
-541. Ryan CM, Geckle MO, Orchard TJ. Cognitive
-efﬁciency declines over time in adults with type 1
-diabetes: effects of micro- and macrovascular
-complications. Diabetologia 2003;46:940–948
-542. Chaytor NS, Riddlesworth TD, Bzdick S,
-et al.; T1D Exchange Severe Hypoglycemia in
-Older Adults with Type 1 Diabetes Study Group.
-The relationship between neuropsychological
-assessment, numeracy, and functional status in
-older adults with type 1 diabetes. Neuropsychol
-Rehabil 2017;27:507–521
-543. Chow YY, Verdonschot M, McEvoy CT,
-Peeters G. Associations between depression and
-cognition,
-mild
-cognitive
-impairment
-and
-dementia in persons with diabetes mellitus: a
-systematic review and meta-analysis. Diabetes
-Res Clin Pract 2022;185:109227
-544. Matsunaga M, Tanihara S, He Y, Yatsuya H,
-Ota A. Impact of diabetes on mortality and
-hospitalization after dementia diagnosis: health
-insurance claims data analysis. Geriatr Gerontol
-Int 2024;24:773–781
-545. Fisher L, Mullan JT, Arean P, Glasgow RE,
-Hessler D, Masharani U. Diabetes distress but not
-clinical depression or depressive symptoms is
-associated with glycemic control in both cross-
-sectional and longitudinal analyses. Diabetes
-Care 2010;33:23–28
-546. Khashayar
-P,
-Shirzad
-N,
-Zarbini
-A,
-Esteghamati A, Hemmatabadi M, SharaﬁE.
-Diabetes-related distress and its association with
-the complications of diabetes in Iran. J Diabetes
-Metab Disord 2022;21:1569–1575
-547. Park H-S, Cho Y, Seo DH, et al. Impact of
-diabetes distress on glycemic control and diabetic
-complications in type 2 diabetes mellitus. Sci Rep
-2024;14:5568
-548. Young CF, Mullin R, Moverley JA, Shubrook
-JH. Associations between diabetes-related distress
-and predicted cardiovascular complication risks in
-patients with type 2 diabetes. J Osteopath Med
-2022;122:319–326
-549. Hayashino Y, Okamura S, Tsujii S, Ishii H,
-Care Registry at Tenri Study G. Diabetes distress
-is associated with future risk of progression of
-diabetic nephropathy in adults with type 2
-diabetes: a prospective cohort study (Diabetes
-Distress and Care Registry at Tenri [DDCRT23]).
-Can J Diabetes 2023;47:519–524
-550. Bruno BA, Choi D, Thorpe KE, Yu CH.
-Relationship among diabetes distress, decisional
-conﬂict, quality of life, and patient perception of
-chronic illness care in a cohort of patients with
-type 2 diabetes and other comorbidities. Diabetes
-Care 2019;42:1170–1177
-551. Hayashino Y, Okamura S, Tsujii S, Ishii H,
-Care Registry at Tenri Study G. Association
-between diabetes distress and all-cause mortality
-in Japanese individuals with type 2 diabetes: a
-prospective cohort study (Diabetes Distress and
-Care Registry in Tenri [DDCRT 18]). Diabetologia
-2018;61:1978–1984
-552. Lustman PJ, Anderson RJ, Freedland KE, de
-Groot M, Carney RM, Clouse RE. Depression and
-poor glycemic control: a meta-analytic review of
-the literature. Diabetes Care 2000;23:934–942
-553. Khuwaja AK, Lalani S, Dhanani R, Azam IS,
-Raﬁque G, White F. Anxiety and depression
-among outpatients with type 2 diabetes: a multi-
-centre study of prevalence and associated
-factors. Diabetol Metab Syndr 2010;2:72
-554. Chourpiliadis C, Zeng Y, Lovik A, et al.
-Metabolic proﬁle and long-term risk of depression,
-anxiety, and stress-related disorders. JAMA Netw
-Open 2024;7:e244525
-555. Lin EHB, Rutter CM, Katon W, et al.
-Depression
-and
-advanced
-complications
-of
-diabetes: a prospective cohort study. Diabetes
-Care 2010;33:264–269
-556. Gonzalez JS, Peyrot M, McCarl LA, et al.
-Depression and diabetes treatment nonadherence:
-a meta-analysis. Diabetes Care 2008;31:2398–2403
-557. Fisher L, Glasgow RE, Strycker LA. The
-relationship
-between
-diabetes
-distress
-and
-clinical depression with glycemic control among
-S126
-Facilitating Positive Health Behaviors and Well-being
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-patients with type 2 diabetes. Diabetes Care
-2010;33:1034–1036
-558. Ali S, Stone M, Skinner TC, Robertson N,
-Davies M, Khunti K. The association between
-depression and health-related quality of life in
-people with type 2 diabetes: a systematic
-literature review. Diabetes Metab Res Rev 2010;
-26:75–89
-559. Park M, Katon WJ, Wolf FM. Depression
-and risk of mortality in individuals with diabetes:
-a meta-analysis and systematic review. Gen Hosp
-Psychiatry 2013;35:217–225
-560. Lee LO, Grimm KJ, SA, 3rd, Kubzansky LD.
-Neuroticism, worry, and cardiometabolic risk
-trajectories: ﬁndings from a 40-year study of
-men. J Am Heart Assoc 2022;11:e022006
-561. Desch^enes
-SS,
-Burns
-RJ,
-Schmitz
-N.
-Trajectories of anxiety symptoms and asso-
-ciations with incident cardiovascular disease in
-adults with type 2 diabetes. J Psychosom Res
-2018;104:95–100
-562. Karpha K, Biswas J, Nath S, Dhali A, Sarkhel
-S, Dhali GK. Factors affecting depression and
-anxiety in diabetic patients: a cross sectional
-study from a tertiary care hospital in Eastern
-India. Ann Med Surg (Lond) 2022;84:104945
-563. Desch^enes
-SS,
-Burns
-RJ,
-Schmitz
-N.
-Associations between diabetes, major depressive
-disorder and generalized anxiety disorder comor-
-bidity, and disability: ﬁndings from the 2012
-Canadian Community Health Survey–Mental Health
-(CCHS-MH). J Psychosom Res 2015;78:137–142
-564. Abbott S, Dindol N, Tahrani AA, Piya MK.
-Binge eating disorder and night eating syndrome
-in adults with type 2 diabetes: a systematic
-review. J Eat Disord 2018;6:36
-565. Papelbaum M, de Oliveira Moreira R,
-Coutinho WF, et al. Does binge-eating matter for
-glycemic control in type 2 diabetes patients? J
-Eat Disord 2019;7:30
-566. Pekin C, McHale M, Seymour M, et al.
-Psychopathology and eating behaviour in people
-with type 2 diabetes referred for bariatric surgery.
-Eat Weight Disord 2022;27:3627–3635
-567. TODAY Study Group. Longitudinal association
-of depressive symptoms, binge eating, and quality
-of life with cardiovascular risk factors in young
-adults with youth-onset type 2 diabetes: the
-TODAY2 study. Diabetes Care 2022;45:1073–1081
-568. Wykes TL, Lee AA, McKibbin CL, Laurent
-SM. Self-efﬁcacy and hemoglobin A1C among
-adults with serious mental illness and type 2
-diabetes: the roles of cognitive functioning and
-psychiatric symptom severity. Psychosom Med
-2016;78:263–270
-569. Dixon LB, Kreyenbuhl JA, Dickerson FB,
-et al. A comparison of type 2 diabetes outcomes
-among persons with and without severe mental
-illnesses. Psychiatr Serv 2004;55:892–900
-570. McEvoy JP, Meyer JM, Goff DC, et al.
-Prevalence
-of
-the
-metabolic
-syndrome
-in
-patients with schizophrenia: baseline results
-from the Clinical Antipsychotic Trials of Inter-
-vention Effectiveness (CATIE) schizophrenia trial
-and comparison with national estimates from
-NHANES III. Schizophr Res 2005;80:19–32
-571. Kim H, Lee K-N, Shin DW, Han K, Jeon HJ.
-Association of comorbid mental disorders with
-cardiovascular disease risk in patients with type 2
-diabetes: a nationwide cohort study. Gen Hosp
-Psychiatry 2022;79:33–41
-572. Scheuer SH, Kosjerina V, Lindekilde N, et al.
-Severe mental illness and the risk of diabetes com-
-plications: a nationwide, register-based cohort study. J
-Clin Endocrinol Metab 2022;107:e3504–e3514
-573. Tzeng W-C, Tai Y-M, Feng H-P, Lin C-H,
-Chang Y-C. Diabetes self-care behaviours among
-people diagnosed with serious mental illness: a
-cross-sectional correlational study. J Psychiatr
-Ment Health Nurs 2024;31:364–375
-574. Bajor LA, Gunzler D, Einstadter D, et al.
-Associations between comorbid anxiety, diabetes
-control, and overall medical burden in patients
-with serious mental illness and diabetes. Int J
-Psychiatry Med 2015;49:309–320
-575. Dickerson F, Brown CH, Fang L, et al.
-Quality of life in individuals with serious mental
-illness and type 2 diabetes. Psychosomatics 2008;
-49:109–114
-576. Munshi M, Grande L, Hayes M, et al.
-Cognitive dysfunction is associated with poor
-diabetes control in older adults. Diabetes Care
-2006;29:1794–1799
-577. Lee S-H, Han K, Cho H, et al. Variability in
-metabolic parameters and risk of dementia: a
-nationwide population-based study. Alzheimers
-Res Ther 2018;10:110
-578. Olesen KKW, Thrane PG, Gyldenkerne C,
-et al. Diabetes and coronary artery disease as risk
-factors for dementia. Eur J Prev Cardiol 2024;
-579. Cheng D, Zhao X, Yang S, Wang G, Ning G.
-Association between diabetic retinopathy and
-cognitive impairment: a systematic review and
-meta-analysis. Front Aging Neurosci 2021;13:
-692911
-580. Sinclair AJ, Girling AJ, Bayer AJ. Cognitive
-dysfunction in older subjects with diabetes
-mellitus: impact on diabetes self-management
-and use of care services. All Wales Research into
-Elderly (AWARE) study. Diabetes Res Clin Pract
-2000;50:203–212
-581. Katon W, Lyles CR, Parker MM, Karter AJ,
-Huang ES,Whitmer RA. Association of depression
-with increased risk of dementia in patients with
-type 2 diabetes: the Diabetes and Aging Study.
-Arch Gen Psychiatry 2012;69:410–417
-582. Janssen J, Koekkoek PS, Biessels G-J,
-Kappelle JL, Rutten GEHM, Cog-ID study group.
-Depressive symptoms and quality of life after
-screening for cognitive impairment in patients
-with type 2 diabetes: observations from the Cog-
-ID cohort study. BMJ Open 2019;9:e024696
-583. Titcomb TJ, Richey P, Casanova R, et al.
-Association of type 2 diabetes mellitus with
-dementia-related and non-dementia-related mor-
-tality among postmenopausal women: a secondary
-competing risks analysis of the women’s health
-initiative. Alzheimers Dement 2024;20:234–242
+diabetes type 1: a systematic review and meta-
+analysis. Exp Clin Endocrinol Diabetes 2022;130:
+61–72
+82. Brown SA, Forlenza GP, Bode BW, et al.;
+Omnipod 5 Research Group. Multicenter trial of a
+tubeless, on-body automated insulin delivery
+system with customizable glycemic targets in
+pediatric and adult participants with type 1
+diabetes. Diabetes Care 2021;44:1630–1640
+83. Carlson AL, Sherr JL, Shulman DI, et al.;
+MiniMed AHCL Study Group. Safety and glycemic
+outcomes during the MiniMed advanced hybrid
+closed-loop system pivotal trial in adolescents
+and adults with type 1 diabetes. Diabetes
+Technol Ther 2022;24:178–189
+84. Prahalad P, Ding VY, Zaharieva DP, et al.
+Teamwork, targets, technology, and tight control
+in newly diagnosed type 1 diabetes: the Pilot 4T
+study.
+J
+Clin
+Endocrinol
+Metab
+2022;107:
+998–1008
+85. Champakanath A, Akturk HK, Alonso GT,
+Snell-Bergeon JK, Shah VN. Continuous glucose
+monitoring initiation within ﬁrst year of type 1
+diabetes diagnosis is associated with improved
+glycemic outcomes: 7-year follow-up study. Dia-
+betes Care 2022;45:750–753
+86. Johnson SR, Holmes-Walker DJ, Chee M,
+et al. Universal subsidized continuous glucose
+monitoring funding for young people with type 1
+diabetes: uptake and outcomes over 2 years, a
+population-based study. Diabetes Care 2022;45:
+391–397
+87. Rose S, Styles SE, Wiltshire EJ, et al. Use of
+intermittently
+scanned
+continuous
+glucose
+monitoring in young people with high-risk type 1
+diabetes-extension phase outcomes following a
+6-month randomized control trial. Diabet Med
+2022;39:e14756
+88. Beato-Vıbora PI, Gallego-Gamero F, Ambrojo-
+Lopez A, Gil-Poch E, Martın-Romo I, Arroyo-Dıez
+FJ. Rapid improvement in time in range after the
+implementation of an advanced hybrid closed-loop
+system in adolescents and adults with type 1
+diabetes. Diabetes Technol Ther 2021;23:609–615
+89. Breton MD, Kovatchev BP. One year real-
+world use of the Control-IQ advanced hybrid
+closed-loop technology. Diabetes Technol Ther
+2021;23:601–608
+90. Forlenza GP, Ekhlaspour L, DiMeglio LA, et al.
+Glycemic outcomes of children 2-6years of age
+with type 1 diabetes during the pediatric Mini-
+Med 670G system trial. Pediatr Diabetes 2022;
+23:324–329
+91. Messer LH, Berget C, Pyle L, et al. Real-world
+use of a new hybrid closed loop improves
+glycemic control in youth with type 1 diabetes.
+Diabetes Technol Ther 2021;23:837–843
+92. Varimo T, Pulkkinen M, Hakonen E, Hero M,
+Miettinen PJ,Tuomaala A. First year on commercial
+hybrid closed-loop system—experience on 111
+children and adolescents with type 1 diabetes.
+Pediatr Diabetes 2021;22:909–915
+93. Ware J, Allen JM, Boughton CK, et al.; KidsAP
+Consortium. Randomized trial of closed-loop
+control in very young children with type 1
+diabetes. N Engl J Med 2022;386:209–219
+94. Isganaitis E, Raghinaru D, Ambler-Osborn L,
+et al.; iDCL Trial Research Group. Closed-loop
+insulin therapy improves glycemic control in
 diabetesjournals.org/care
-Facilitating Positive Health Behaviors and Well-being
-S127
+Children and Adolescents
+S301
 ©AmericanDiabetesAssociation
-6. Glycemic Goals and
-Hypoglycemia: Standards of Care
-in Diabetes—2025
-Diabetes Care 2025;48(Suppl. 1):S128–S145 | https://doi.org/10.2337/dc25-S006
-American Diabetes Association
-Professional Practice Committee*
-The American Diabetes Association (ADA) “Standards of Care in Diabetes” in-
-cludes the ADA’s current clinical practice recommendations and is intended to
-provide the components of diabetes care, general treatment goals and guide-
-lines, and tools to evaluate quality of care. Members of the ADA Professional
-Practice Committee, an interprofessional expert committee, are responsible for
-updating the Standards of Care annually, or more frequently as warranted. For a
-detailed description of ADA standards, statements, and reports, as well as the
-evidence-grading system for ADA’s clinical practice recommendations and a full
-list of Professional Practice Committee members, please refer to Introduction
-and Methodology. Readers who wish to comment on the Standards of Care are
-invited to do so at professional.diabetes.org/SOC.
-ASSESSMENT OF GLYCEMIC STATUS
-Glycemic status is assessed by A1C measurement, blood glucose monitoring (BGM)
-by capillary (ﬁnger-stick) devices, and continuous glucose monitoring (CGM) using
-time in range (TIR) or mean CGM glucose. Clinical trials of interventions that lower
-A1C have demonstrated the beneﬁts of improved glycemia. Glucose monitoring via
-CGM or BGM (discussed in detail in Section 7, “Diabetes Technology”) is useful for
-diabetes self-management, can provide nuanced information on glucose responses
-to meals, physical activity, and medication changes, and may be particularly useful
-in individuals taking insulin. CGM serves an increasingly important role in optimiz-
-ing the effectiveness and safety of treatment in many people with type 1 diabetes,
-type 2 diabetes, or other forms of diabetes (e.g., cystic ﬁbrosis–related diabetes).
-Individuals on a variety of insulin treatment plans can beneﬁt from CGM with im-
-proved glucose levels, decreased hypoglycemia, and enhanced self-efﬁcacy (Section 7,
-“Diabetes Technology”) (1).
-Glycemic Assessment
-Recommendations
-6.1 Assess glycemic status by A1C A and/or continuous glucose monitoring
-(CGM) metrics such as time in range, time above range, and time below range.
-B Fructosamine or CGM can be used for glycemic monitoring when an alterna-
-tive to A1C is required. B
-6.2 Assess glycemic status at least two times a year, and more frequently (e.g.,
-every 3 months) for individuals not meeting glycemic goals or with recent treat-
-ment changes, frequent or severe hypoglycemia or hyperglycemia, or changes in
-health status, or during periods of rapid growth and development in youth. E
-*A complete list of members of the American
-Diabetes Association Professional Practice Committee
-can be found at https://doi.org/10.2337/dc25-
-SINT.
-Duality of interest information for each author is
-available at https://doi.org/10.2337/dc25-SDIS.
-Suggested citation: American Diabetes Association
-Professional Practice Committee. 6. Glycemic
-goals and hypoglycemia: Standards of Care in
-Diabetes—2025. Diabetes Care 2025;48(Suppl. 1):
-S128–S145
-© 2024 by the American Diabetes Association.
-Readers may use this article as long as the
-work is properly cited, the use is educational
-and not for proﬁt, and the work is not altered.
-More information is available at https://www
-.diabetesjournals.org/journals/pages/license.
-6. GLYCEMIC GOALS AND HYPOGLYCEMIA
-S128
-Diabetes Care Volume 48, Supplement 1, January 2025
-©AmericanDiabetesAssociation
-Glycemic Assessment by A1C
-The A1C test is the primary tool for assess-
-ing glycemic status in both clinical practice
-and clinical trials, and it is strongly linked
-to diabetes complications (2–4). A1C
-reﬂects average glycemia over approxi-
-mately 2–3 months. The performance
-of laboratory tests for A1C is generally
-excellent for National Glycohemoglobin
-Standardization Program (NGSP)–certiﬁed
-assays (ngsp.org).Thus, A1C testing should
-be performed routinely in all people with
-diabetes at initial assessment and as part
-of continuing care. Measurement ap-
-proximately every 3 months determines
-whether glycemic goals have been
-reached and maintained. Adults with
-type 1 or type 2 diabetes who have
-achieved and are maintaining glucose
-levels within their target range may
-only need A1C testing or other glucose
-assessments twice a year. Individuals
-with less stable glucose levels, those
-with intensive care plans, or those not meet-
-ing their treatment goals may require more
-frequent testing, typically every 3 months,
-with additional assessments as needed. Poin-
-t-of-care A1C testing can offer timely oppor-
-tunities for treatment adjustments during
-appointments with health care professionals.
-The A1C test is an indirect measure of
-average glycemia. Factors that affect he-
-moglobin or red blood cells may affect
-A1C. For example, conditions that affect
-red blood cell turnover (hemolytic anemia
-and other anemias, glucose-6-phosphate
-dehydrogenase deﬁciency, recent blood
-transfusion, use of drugs that stimulate
-erythropoiesis, end-stage kidney disease,
-and pregnancy) can interfere with the ac-
-curacy of A1C (5). Some hemoglobin var-
-iants can interfere with some A1C assays;
-however, most assays in use in the U.S.
-are accurate in individuals who are het-
-erozygous for the most common variants
-(6). A1C cannot be measured in individu-
-als with sickle cell disease (HbSS) or other
-homozygous hemoglobin variants (e.g.,
-HbEE), since these individuals lack HbA
-(7). In individuals with conditions that
-interfere with the interpretation of A1C,
-alternative approaches to monitoring gly-
-cemic status should be used, including
-self-monitoring of blood glucose, CGM,
-and/or the use of glycated serum protein
-assays (discussed below). A1C does not
-provide a measure of glycemic variability
-or hypoglycemia. For individuals prone to
-glycemic variability, especially people with
-type 1 diabetes or type 2 diabetes with
-insulin deﬁciency and/or treatment with
-intensive insulin therapy, glycemic status
-is best evaluated by the combination of
-results from BGM or CGM and A1C. Dis-
-cordant results between A1C and BGM or
-CGM can occur due to high glycemic vari-
-ability, inaccurate BGM or CGM measure-
-ment, or inaccurate A1C due to the factors
-discussed above.
-As discussed in Section 2, “Diagnosis
-and Classiﬁcation of Diabetes,” there is
-controversy regarding the clinical sig-
-niﬁcance of differences in A1C by self-
-reported race and ethnicity (8–11). There
-is an emerging understanding of genetic
-determinants that may modify the associ-
-ation between A1C and glucose levels
-(12). However, race and ethnicity are not
-good proxies for these genetic differences
-that are likely present in a small minority
-of individuals of all racial groups. There-
-fore, race and ethnicity should not be con-
-siderations for how A1C is used clinically for
-glycemic monitoring. Limitations of labora-
-tory tests and within-person variability in
-glucose and A1C underscore the importance
-of using multiple approaches to glycemic
-monitoring and further evaluation of discor-
-dant results in all racial or ethnic groups.
-Serum Glycated Protein Assays as
-Alternatives to A1C
-Fructosamine and glycated albumin are
-alternative measures of glycemia that
-are approved for clinical use for monitor-
-ing glycemic status in people with diabe-
-tes. Fructosamine reﬂects total glycated
-serum proteins (mostly albumin). Gly-
-cated albumin assays reﬂect the propor-
-tion of total albumin that is glycated. Due
-to the turnover rate of serum protein,
-fructosamine and glycated albumin re-
-ﬂect glycemia over the past 2–4 weeks, a
-shorter-term time frame than that of
-A1C. Fructosamine and glycated albumin
-are highly correlated in people with dia-
-betes, and the performance of modern
-assays is typically excellent. Fructosamine
-and glycated albumin have been linked
-to long-term complications in epidemio-
-logic cohort studies (13–17). However,
-there have been few clinical trials, and
-the evidence base supporting the use of
-these biomarkers to monitor glycemic
-status is much weaker than that for A1C.
-In people with diabetes who have condi-
-tions where the interpretation of A1C
-may be problematic or when A1C cannot
-be measured (e.g., homozygous hemo-
-globin variants), fructosamine or glycated
-albumin may be useful alternatives to
-monitor glycemic status (7).
-Correlation Between A1C and Blood
-Glucose Monitoring and Continuous
-Glucose Monitoring
-Table 6.1 provides rough equivalents of
-A1C and mean glucose levels based on
-data from the international A1C-Derived
-Average Glucose (ADAG) study.The ADAG
-study assessed the correlation between
-A1C and frequent BGM and CGM in 507
-adults (83% non-Hispanic White) with
-type 1, type 2, and no diabetes (18,19).
-The American Diabetes Association (ADA)
-and the American Association for Clinical
-Chemistry have determined that the cor-
-relation (r = 0.92) in the ADAG trial is
-strong enough to justify reporting both
-the A1C result and the estimated average
-glucose (eAG) result when a clinician or-
-ders the A1C test. Clinicians should note
-that the mean plasma glucose numbers
-in Table 6.1 are based on 2,700 read-
-ings per A1C measurement in the ADAG
+
+adolescents and young adults: outcomes from
+the international
+diabetes closed-loop
 trial.
-Caveats in interpretation of Table 6.1
-include that these data are from a single
-study published in 2008. Mean glucose in
-the ADAG study was calculated from a
-combination of measurements from an
-early CGM system and capillary glucose,
-intermittently, during a 3-month period.
-This older system required calibration sev-
-eral times a day using a self-monitoring
-Table 6.1—Equivalent A1C levels and
-estimated average glucose (eAG)
-A1C (%)
-mg/dL*
-mmol/L
-5
-97 (76–120)
-5.4 (4.2–6.7)
-6
-126 (100–152)
-7.0 (5.5–8.5)
-7
-154 (123–185)
-8.6 (6.8–10.3)
-8
-183 (147–217)
-10.2 (8.1–12.1)
-9
-212 (170–249)
-11.8 (9.4–13.9)
-10
-240 (193–282)
-13.4 (10.7–15.7)
-11
-269 (217–314)
-14.9 (12.0–17.5)
-12
-298 (240–347)
-16.5 (13.3–19.3)
-Data in parentheses are 95% CI. A calcula-
-tor for converting A1C results into eAG, in
-either mg/dL or mmol/L, is available at
-professional.diabetes.org/eAG. *These esti-
-mates are based on ADAG data of 2,700
-glucose measurements over 3 months per
-A1C measurement in 507 adults with type 1,
-type 2, or no diabetes. The correlation be-
-tween A1C and average glucose was 0.92
-(18,19). Adapted from Nathan et al. (18).
-diabetesjournals.org/care
-Glycemic Goals and Hypoglycemia
-S129
-©AmericanDiabetesAssociation
-glucose meter. It is unclear how gener-
-alizable these estimates are to mean
-glucose measurements obtained using
-modern CGM systems.The comparability
-of A1C and mean glucose from CGM sys-
-tems will depend on the number of days
-of CGM wear, timing of the A1C mea-
-surement relative to the CGM wear pe-
-riod, calibration and accuracy of the CGM
-system, lag time between interstitial glu-
-cose and venous glucose, and any factors
-that affect A1C or red cell turnover (see
-Section 2, “Diagnosis and Classiﬁcation of
-Diabetes”).
-Glycemic Assessment by Blood
-Glucose Monitoring
-For many people with diabetes, glucose
-monitoring, either using BGM by capillary
-(ﬁnger-stick) devices or CGM in addition
-to regular A1C testing, is key for achieving
-glycemic goals. Major clinical trials of
-insulin-treated individuals have included
-BGM as part of multifactorial interven-
-tions to demonstrate the beneﬁt of inten-
-sive glycemic management on diabetes
-complications (20). BGM is thus an inte-
-gral component of effective therapy for
-individuals taking insulin. In recent years,
-CGM has become a standard method for
-glucose monitoring for most people with
-type 1 diabetes. Both approaches to glu-
-cose monitoring allow people with diabe-
-tes to evaluate individual responses to
-therapy and assess whether glycemic goals
-are being safely achieved. The speciﬁc
-needs and goals of individuals with dia-
-betes should dictate BGM frequency and
-timing. Please refer to Section 7, “Diabetes
-Technology,” for a more complete discus-
-sion of the use of BGM and CGM.
-Glycemic Assessment by Continuous
-Glucose Monitoring
-CGM is particularly useful in people with
-diabetes who are at risk for hypoglycemia
-and is commonly used in people with
-type 1 diabetes (20). Use of CGM in type 2
-diabetes (as well as in several other forms
-of diabetes) is growing, especially in peo-
-ple who are taking insulin. TIR is a useful
-metric of glycemic status. A 10- to 14-day
-CGM assessment of TIR, with CGM wear
-of 70% or higher, and other CGM metrics
-can be used to assess glycemic status and
-are useful in clinical management (21–25).
-TIR, and especially mean CGM glucose,
-correlates with A1C (26–30). Time below
-range (<70 and <54 mg/dL [<3.9 and
-<3.0 mmol/L]) and time above range
-(>180 mg/dL [>10.0 mmol/L]) are useful
-parameters for insulin dose adjustments
-and reevaluation of the treatment plan.
-The international consensus on CGM
-provides guidance on CGM metrics (Table
-6.2) and their clinical interpretation (31).
-To make these metrics actionable, stan-
-dardized reports with visual summaries,
-such as the ambulatory glucose proﬁle
-(Fig. 6.1), are recommended (31) and can
-help individuals with diabetes and health
-care professionals interpret the data to
-guide treatment decisions (26,29). BGM
-and CGM can be useful to guide medical
-nutrition therapy and physical activity, de-
-tect and prevent hypoglycemia, and aid
-medication management. CGM metrics,
-including TIR (with time below range and
-time above range), can provide helpful in-
-sights to inform a personalized diabetes
-management plan. Remote access to glu-
-cose data is growing and may help im-
-prove diabetes management (32–34).
-CGM systems have evolved rapidly
-in both accuracy and affordability. As
-such, many individuals with diabetes
-have these data available to assist with
-self-management and their health care
-professionals’ assessment of glycemic sta-
-tus. Reports generated from CGM will al-
-low the health care professional and
-person with diabetes to view TIR and a
-calculated glucose management indicator
-and assess hypoglycemia, hyperglycemia,
-and glycemic variability. As discussed in a
-2019 consensus report, a report format-
-ted as shown in Fig. 6.1 can be generated
-(31). Published data from two retrospec-
-tive studies suggest a strong correlation
-between TIR and A1C, with a goal of
-70% TIR aligning with an A1C of 7%
-(53 mmol/mol) (24,27). Note that the
-goals of therapy next to each metric in
-Fig. 6.1 (e.g., low, <4%; very low, <1%)
-serve as values to guide changes in
-therapy. For older adults using CGM,
-the recommended percent time spent
-in target range of 70–180 mg/dL is 50%
-(or 12 h per day) and the recommended
-time spent in hypoglycemia of less than
-70 mg/dL should not be more than 1%,
-or 15 min per day, to minimize hypogly-
-cemia risk (35–38). In this population,
-more permissive hyperglycemia is al-
-lowed (up to 50% of the time in 24 h).
-GLYCEMIC GOALS
-Recommendations
-6.3a An A1C goal of <7% (<53 mmol/
-mol) is appropriate for many nonpreg-
-nant adults without severe hypoglyce-
-mia or frequent hypoglycemia affecting
-health or quality of life. A
-6.3b A goal time in range of >70% in
-people using CGM is appropriate for
-many nonpregnant adults. B
-6.3c A goal percent time <70 mg/dL
-(<3.9 mmol/L) of <4% (or <1% for
-older adults) and a goal percent time
-<54 mg/dL (<3.0 mmol/L) of <1%
-are recommended in people using
-CGM to prevent hypoglycemia. Dein-
-tensify or modify therapy if these
-goals are not met. B
-6.4 Based on health care professional
-judgment and the preference of the
-person with diabetes, achievement of
-lower A1C levels than the goal of 7%
-(53 mmol/mol) may be acceptable and
-even beneﬁcial if it can be achieved
-safely without frequent or severe hypo-
-glycemia or other adverse effects of
-treatment. B
-6.5 Less stringent glycemic goals may
-be appropriate for individuals with
-limited life expectancy or where the
-harms of treatment are greater than
-the beneﬁts. B
-6.6 Deintensify hypoglycemia-causing
-medications (insulin, sulfonylureas, or
-meglitinides), or switch to a medica-
-tion class with lower hypoglycemia
-risk, for individuals who are at high risk
-for hypoglycemia, within individual-
-ized glycemic goals. B
-6.7 Deintensify diabetes medications for
-individuals for whom the harms and/or
-burdens of treatment may be greater
-than the beneﬁts, within individualized
-glycemic goals. B
-6.8 Reassess glycemic goals based on
-the individualized criteria shown in
-Fig. 6.2. E
-6.9 Set a glycemic goal during consul-
-tations to improve outcomes. A
-For all populations, it is critical that the
-glycemic goals be woven into an indi-
-vidualized,
-person-centered
-strategy
-(39). The glycemic goals for many non-
-pregnant adults are shown in Table 6.3,
-and Fig. 6.2 summarizes how A1C goals
-should be individualized by an individual’s
-health, function, and other modifying
-S130
-Glycemic Goals and Hypoglycemia
+Diabetes Technol Ther 2021;23:342–349
+95. Sherr JL, Bode BW, Forlenza GP, et al.;
+Omnipod 5 in Preschoolers Study Group. Safety
+and glycemic outcomes with a tubeless automated
+insulin delivery system in very young children with
+type 1 diabetes: a single-arm multicenter clinical
+trial. Diabetes Care 2022;45:1907–1910
+96. Marigliano M, Eckert AJ, Guness PK, et al.;
+SWEET Study Group. Association of the use of
+diabetes technology with HbA1c and BMI-SDS in
+an international cohort of children and adolescents
+with type 1 diabetes: the SWEET project ex-
+perience. Pediatr Diabetes 2021;22:1120–1128
+97. Bergenstal RM, Garg S, Weinzimer SA, et al.
+Safety of a hybrid closed-loop insulin delivery
+system in patients with type 1 diabetes. JAMA
+2016;316:1407–1408
+98. Thabit H, Tauschmann M, Allen JM, et al.
+Home use of an artiﬁcial beta cell in type 1
+diabetes. N Engl J Med 2015;373:2129–2140
+99. Kovatchev B, Cheng P, Anderson SM, et al.;
+Control to Range Study Group. Feasibility of
+Long-term closed-loop control: a multicenter
+6-month trial of 24/7 automated insulin delivery.
+Diabetes Technol Ther 2017;19:18–24
+100. Cooper MN, O’Connell SM, Davis EA, Jones
+TW. A population-based study of risk factors for
+severe hypoglycaemia in a contemporary cohort
+of childhood-onset type 1 diabetes. Diabetologia
+2013;56:2164–2170
+101. Haynes A, Hermann JM, Miller KM, et al.;
+T1D Exchange. Severe hypoglycemia rates are not
+associated with HbA1c: a cross-sectional analysis
+of 3 contemporary pediatric diabetes registry
+databases. Pediatr Diabetes 2017;18:643–650
+102. Haynes A, Hermann JM, Clapin H, et al.
+Decreasing trends in mean HbA1c are not associated
+with increasing rates of severe hypoglycemia in
+children: a longitudinal analysis of two contem-
+porary population-based pediatric type 1 diabetes
+registries from Australia and Germany/Austria
+between 1995 and 2016. Dia-betes Care 2019;42:
+1630–1636
+103. Fredheim S, Johansen A, Thorsen SU, et al.;
+Danish Society for Diabetes in Childhood and
+Adolescence. Nationwide reduction in the frequency
+of severe hypoglycemia by half. Acta Diabetol
+2015;52:591–599
+104. Birkebaek NH, Drivvoll AK, Aakeson K, et al.
+Incidence of severe hypoglycemia in children with
+type 1 diabetes in the Nordic countries in the
+period 2008-2012: association with hemoglobin
+A 1c and treatment modality. BMJ Open Diabetes
+Res Care 2017;5:e000377
+105. Ly TT, Nicholas JA, Retterath A, Lim EM, Davis
+EA, Jones TW. Effect of sensor-augmented insulin
+pump therapy and automated insulin suspension vs
+standard insulin pump therapy on hypoglycemia in
+patients with type 1 diabetes: a randomized clinical
+trial. JAMA 2013;310:1240–1247
+106. Karges B, Kapellen T, Wagner VM, et al.;
+DPV Initiative. Glycated hemoglobin A1c as a risk
+factor for severe hypoglycemia in pediatric type 1
+diabetes. Pediatr Diabetes 2017;18:51–58
+107. Karges B, Rosenbauer J, Kapellen T, et al.
+Hemoglobin A1c levels and risk of severe
+hypoglycemia in children and young adults with
+type 1 diabetes from Germany and Austria: a
+trend analysis in a cohort of 37,539 patients
+between 1995 and 2012. PLoS Med 2014;11:
+e1001742
+108. Johnson SR, Cooper MN, Jones TW, Davis
+EA. Long-term outcome of insulin pump therapy
+in children with type 1 diabetes assessed in a
+large population-based case-control study. Dia-
+betologia 2013;56:2392–2400
+109. Swift PGF, Skinner TC, De Beaufort CE, et al.;
+Hvidoere Study Group on Childhood Diabetes.
+Target setting in intensive insulin management is
+associated with metabolic control: the Hvidoere
+childhood diabetes study group centre differences
+study 2005. Pediatr Diabetes 2010 2009;11:
+271–278
+110. Laffel LM, Kanapka LG, Beck RW, et al.; CGM
+Intervention in Teens and Young Adults with T1D
+(CITY) Study Group. Effect of continuous glucose
+monitoring on glycemic control in adolescents and
+young adults with type 1 diabetes: a randomized
+clinical trial. JAMA 2020;323:2388–2396
+111. Levine BS, Anderson BJ, Butler DA, Antisdel
+JE, Brackett J, Laffel LM. Predictors of glycemic
+control and short-term adverse outcomes in youth
+with type 1 diabetes. J Pediatr 2001;139:197–203
+112. Miller KM, Beck RW, Bergenstal RM, et al.;
+T1D Exchange Clinic Network. Evidence of a
+strong association between frequency of self-
+monitoring of blood glucose and hemoglobin A1c
+levels in T1D exchange clinic registry participants.
+Diabetes Care 2013;36:2009–2014
+113. Patton SR, Noser AE, Youngkin EM, Majidi S,
+Clements MA. Early initiation of diabetes devices
+relates to improved glycemic control in children
+with recent-onset type 1 diabetes mellitus. Dia-
+betes Technol Ther 2019;21:379–384
+114. Strategies to Enhance New CGM Use in
+Early
+Childhood
+(SENCE)
+Study
+Group.
+A
+randomized clinical trial assessing continuous
+glucose monitoring (CGM) use with standardized
+education with or without a family behavioral
+intervention compared with ﬁngerstick blood
+glucose monitoring in very young children with
+type 1 diabetes. Diabetes Care 2021;44:464–472
+115. Battelino T, Danne T, Bergenstal RM, et al.
+Clinical targets for continuous glucose monitoring
+data interpretation: recommendations from the
+international consensus on time in range. Dia-
+betes Care 2019;42:1593–1603
+116. Vigersky RA, McMahon C.The relationship of
+hemoglobin A1C to time-in-range in patients with
+diabetes. Diabetes Technol Ther 2019;21:81–85
+117. Petersson J, Åkesson K, Sundberg F, S€arnblad
+S. Translating glycated hemoglobin A1c into time
+spent in glucose target range: a multicenter study.
+Pediatr Diabetes 2019;20:339–344
+118. Warncke K, Fr€ohlich-Reiterer EE, Thon A,
+Hofer SE, Wiemann D, Holl RW; DPV Initiative of
+the German Working Group for Pediatric Dia-
+betology; German BMBF Competence Network for
+Diabetes Mellitus. Polyendocrinopathy in children,
+adolescents, and young adults with type 1
+diabetes: a multicenter analysis of 28,671 patients
+from the German/Austrian DPV. Diabetes Care
+2010;33:2010–2012
+119. Nederstigt C, Uitbeijerse BS, Janssen LGM,
+Corssmit EPM, de Koning EJP, Dekkers OM.
+Associated auto-immune disease in type 1
+diabetes patients: a systematic review and meta-
+analysis. Eur J Endocrinol 2019;180:135–144
+120. Kozhakhmetova A, Wyatt RC, Caygill C,
+et al. A quarter of patients with type 1 diabetes
+have co-existing non-islet autoimmunity: the
+ﬁndings of a UK population-based family study.
+Clin Exp Immunol 2018;192:251–258
+121. Hughes JW, Riddlesworth TD, DiMeglio LA,
+Miller KM, Rickels MR, McGill JB; T1D Exchange
+Clinic Network. Autoimmune diseases in children
+and adults with type 1 diabetes from the T1D
+Exchange clinic registry. J Clin Endocrinol Metab
+2016;101:4931–4937
+122. Kahaly GJ, Hansen MP. Type 1 diabetes
+associated autoimmunity. Autoimmun Rev 2016;15:
+644–648
+123. Roldan MB, Alonso M, Barrio R. Thyroid
+autoimmunity in children and adolescents with
+type 1 diabetes mellitus. Diabetes Nutr Metab 1999;
+12:27–31
+124. Shun CB, Donaghue KC, Phelan H, Twigg
+SM, Craig ME. Thyroid autoimmunity in type 1
+diabetes: systematic review and meta-analysis.
+Diabet Med 2014;31:126–135
+125. Triolo TM, Armstrong TK, McFann K, et al.
+Additional autoimmune disease found in 33% of
+patients at type 1 diabetes onset. Diabetes Care
+2011;34:1211–1213
+126. Kordonouri O, Deiss D, Danne T, Dorow A,
+Bassir C, Gr€uters-Kieslich A. Predictivity of thyroid
+autoantibodies for the development of thyroid
+disorders in children and adolescents with type 1
+diabetes. Diabet Med 2002;19:518–521
+127. Dost A, Rohrer TR, Fr€ohlich-Reiterer E, et al.;
+DPV Initiative and the German Competence
+Network Diabetes Mellitus. Hyperthyroidism in
+276 children and adolescents with type 1 diabetes
+from Germany and Austria. Horm Res Paediatr
+2015;84:190–198
+128. Jonsdottir B, Larsson C, Carlsson A, et al.;
+Better Diabetes Diagnosis Study Group. Thyroid
+and islet autoantibodies predict autoimmune
+thyroid disease at type 1 diabetes diagnosis. J
+Clin Endocrinol Metab 2017;102:1277–1285
+129. Mohn A, Di Michele S, Di Luzio R, Tumini S,
+Chiarelli F. The effect of subclinical hypothyroidism
+on metabolic control in children and adolescents
+with type 1 diabetes mellitus. Diabet Med 2002;
+19:70–73
+130. Denzer C, Karges B, N€ake A, et al.; DPV
+Initiative and the BMBF-Competence Network
+Diabetes Mellitus. Subclinical hypothyroidism
+and dyslipidemia in children and adolescents
+with type 1 diabetes mellitus. Eur J Endocrinol
+2013;168:601–608
+131. Holmes GKT. Screening for coeliac disease
+in type 1 diabetes. Arch Dis Child 2002;87:
+495–498
+132. Pham-Short A, Donaghue KC, Ambler G,
+Phelan H, Twigg S, Craig ME. Screening for celiac
+disease in type 1 diabetes: a systematic review.
+Pediatrics 2015;136:e170–e176
+133. Cerutti F, Bruno G, Chiarelli F, Lorini R,
+Meschi F, Sacchetti C; Diabetes Study Group of
+Italian Society of Pediatric Endocrinology and
+Diabetology. Younger age at onset and sex
+predict celiac disease in children and adolescents
+with type 1 diabetes: an Italian multicenter study.
+Diabetes Care 2004;27:1294–1298
+134. Taczanowska A, Schwandt A, Amed S, et al.
+Celiac disease in children with type 1 diabetes
+varies around the world: an international, cross-
+sectional study of 57375 patients from the
+SWEETregistry. J Diabetes 2021;13:448–457
+135. Simmons JH, Foster NC, Riddlesworth TD,
+et al.; T1D Exchange Clinic Network. Sex- and
+age-dependent effects of celiac disease on
+S302
+Children and Adolescents
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
-factors. For example, less stringent A1C
-goals are appropriate for individuals
-with signiﬁcant functional and cognitive
-impairments. For more details regarding
-glycemic goals in older adults, please refer
-to Section 13, “Older Adults.” For glycemic
-goals in children, please refer to Section
-14, “Children and Adolescents.” For gly-
-cemic goals during pregnancy, please
-refer to Section 15, “
+
+growth and weight gain in children with type 1
+diabetes: analysis of the Type 1 Diabetes
+Exchange Clinic Registry. Pediatr Diabetes 2018;
+19:741–748
+136. Margoni D, Chouliaras G, Duscas G, et al.
+Bone health in children with celiac disease
+assessed by dual x-ray absorptiometry: effect of
+gluten-free diet and predictive value of serum
+biochemical indices. J Pediatr Gastroenterol Nutr
+2012;54:680–684
+137. Mollazadegan K, Kugelberg M, Montgomery
+SM, Sanders DS, Ludvigsson J, Ludvigsson JF. A
+population-based study of the risk of diabetic
+retinopathy in patients with type 1 diabetes and
+celiac disease. Diabetes Care 2013;36:316–321
+138. Rubio-Tapia A, Hill ID, Kelly CP, Calderwood
+AH, Murray JA. ACG clinical guidelines: diagnosis and
+management of celiac disease. Am J Gastroenterol
+2013;108:656–676
+139. Paul SP, Sandhu BK, Spray CH, Basude D,
+Ramani P. Evidence supporting serology-based
+pathway for diagnosing celiac disease in
+asymptomatic children from high-risk groups. J
+Pediatr Gastroenterol Nutr 2018;66:641–644
+140. Abid N, McGlone O, Cardwell C, McCallion
+W, Carson D. Clinical and metabolic effects of
+gluten free diet in children with type 1 diabetes
+and coeliac disease. Pediatr Diabetes 2011;12:
+322–325
+141. Flynn JT, Kaelber DC, Baker-Smith CM,
+et al.; Subcommittee on Screening and Manage-
+ment of High Blood Pressure in Children. Clinical
+practice guideline for screening and management
+of high blood pressure in children and adolescents.
+Pediatrics 2017;140:e20171904
+142. Marcovecchio ML, Chiesa ST, Bond S, et al.;
+AdDIT Study Group. ACE inhibitors and statins in
+adolescents with type 1 diabetes. N Engl J Med
+2017;377:1733–1745
+143. de Ferranti SD, de Boer IH, Fonseca V, et al.
+Type 1 diabetes mellitus and cardiovascular
+disease: a scientiﬁc statement from the American
+Heart
+Association
+and
+American
+Diabetes
+Association. Diabetes Care 2014;37:2843–2863
+144. Rodriguez BL, Fujimoto WY, Mayer-Davis EJ,
+et al.; SEARCH for Diabetes in Youth Study.
+Prevalence of cardiovascular disease risk factors
+in U.S. children and adolescents with diabetes:
+the SEARCH for diabetes in youth study. Diabetes
+Care 2006;29:1891–1896
+145. Margeirsdottir HD, Larsen JR, Brunborg C,
+Overby NC, Dahl-Jørgensen K; Norwegian Study
+Group for Childhood Diabetes. High prevalence
+of cardiovascular risk factors in children and
+adolescents with type 1 diabetes: a population-
+based study. Diabetologia 2008;51:554–561
+146. Schwab KO, Doerfer J, Hecker W, et al.; DPV
+Initiative of the German Working Group for
+Pediatric Diabetology. Spectrum and prevalence
+of atherogenic risk factors in 27,358 children,
+adolescents, and young adults with type 1
+diabetes. Diabetes Care 2006;29:218–225.
+147. Singh TP, Groehn H, Kazmers A. Vascular
+function and carotid intimal-medial thickness in
+children with insulin-dependent diabetes mellitus.
+J Am Coll Cardiol 2003;41:661–665
+148. Haller MJ, Stein J, Shuster J, et al. Peripheral
+artery tonometry demonstrates altered endothelial
+function in children with type 1 diabetes. Pediatr
+Diabetes 2007;8:193–198
+149. Urbina EM, Wadwa RP, Davis C, et al.
+Prevalence of increased arterial stiffness in
+children with type 1 diabetes mellitus differs by
+measurement site and sex: the SEARCH for
+Diabetes in Youth Study. J Pediatr 2010;156:
+731–737.e1
+150. Expert Panel on Integrated Guidelines for
+Cardiovascular Health and Risk Reduction in
+Children and Adolescents; National Heart, Lung,
+and Blood Institute. Expert panel on integrated
+guidelines for cardiovascular health and risk
+reduction in children and adolescents: summary
+report. Pediatrics 2011;128:S213–256
+151. Kershnar AK, Daniels SR, Imperatore G,
+et al. Lipid abnormalities are prevalent in youth
+with type 1 and type 2 diabetes: the SEARCH for
+Diabetes in Youth Study. J Pediatr 2006;149:
+314–319
+152. Blaha MJ, Blumenthal RS, Brinton EA,
+Jacobson TA; National Lipid Association Taskforce
+on Non-HDL Cholesterol. The importance of non-
+HDL cholesterol reporting in lipid management. J
+Clin Lipidol 2008;2:267–273
+153. Maahs DM, Hermann JM, DuBose SN,
+et al.; T1D Exchange Clinic Network. Contrasting
+the clinical care and outcomes of 2,622 children
+with type 1 diabetes less than 6 years of age in
+the United States T1D Exchange and German/
+Austrian DPV registries. Diabetologia 2014;57:
+1578–1585
+154. Daniels
+SR,
+Greer
+FR;
+Committee
+on
+Nutrition. Lipid screening and cardiovascular health
+in childhood. Pediatrics 2008;122:198–208
+155. de Ferranti SD, Steinberger J, Ameduri R,
+et al. Cardiovascular risk reduction in high-risk
+pediatric patients: a scientiﬁc statement from the
+American Heart Association. Circulation 2019;139:
+e603–e634
+156. Cadario F, Prodam F, Pasqualicchio S, et al.
+Lipid proﬁle and nutritional intake in children and
+adolescents with type 1 diabetes improve after a
+structured dietician training to a Mediterranean-
+style diet. J Endocrinol Invest 2012;35:160–168
+157. Salem MA, AboElAsrar MA, Elbarbary NS,
+ElHilaly RA, Refaat YM. Is exercise a therapeutic
+tool for improvement of cardiovascular risk
+factors in adolescents with type 1 diabetes
+mellitus? A randomised controlled trial. Diabetol
+Metab Syndr 2010;2:47
+158. Maahs DM, Dabelea D, D’Agostino RB, Jr,
+et al. Glucose control predicts 2-year change in
+lipid proﬁle in youth with type 1 diabetes. J
+Pediatr 2013;162:101–107.e1
+159. Kavey R-EW, Allada V, Daniels SR, et al.
+Cardiovascular risk reduction in high-risk pediatric
+patients. Circulation 2006;114:2710–2738
+160. McCrindle BW, Urbina EM, Dennison BA,
+et al. Drug therapy of high-risk lipid abnormalities in
+children and adolescents: a scientiﬁc statement
+from the American Heart Association Athero-
+sclerosis, Hypertension, and Obesity in Youth
+Committee, Council of Cardiovascular Disease in the
+Young, with the Council on Cardiovascular Nursing.
+Circulation 2007;115:1948–1967
+161. Luirink IK, Wiegman A, Kusters DM, et al.
+20-Year follow-up of statins in children with
+familial hypercholesterolemia. N Engl J Med 2019;
+381:1547–1556
+162.
+AstraZeneca
+Canada
+Inc.
+Rosuvastatin
+product monograph. 2011. Accessed 31 August
+2024. Available from https://www.astrazeneca.ca/
+content/dam/az-ca/downloads/productinformation/
+crestor-product-monograph-en.pdf
+163. Daniels M, DuBose SN, Maahs DM, et al.; T1D
+Exchange Clinic Network. Factors associated with
+microalbuminuria in 7,549 children and adolescents
+with type 1 diabetes in the T1D Exchange clinic
+registry. Diabetes Care 2013;36:2639–2645
+164. Schwartz GJ, Work DF. Measurement and
+estimation of GFR in children and adolescents.
+Clin J Am Soc Nephrol 2009;4:1832–1843
+165. Inker LA, Schmid CH, Tighiouart H, et al.;
+CKD-EPI
+Investigators.
+Estimating
+glomerular
+ﬁltration rate from serum creatinine and cystatin
+C. N Engl J Med 2012;367:20–29
+166. Cho YH, Craig ME, Hing S, et al. Microvascular
+complications assessment in adolescents with 2- to
+5-yr duration of type 1 diabetes from 1990 to 2006.
+Pediatr Diabetes 2011;12:682–689
+167. Scanlon PH, Stratton IM, Bachmann MO,
+Jones C, Leese GP; Four Nations Diabetic
+Retinopathy Screening Study Group. Risk of
+diabetic retinopathy at ﬁrst screen in children at
+12 and 13 years of age. Diabet Med 2016;33:
+1655–1658
+168. Beauchamp G, Boyle CT, Tamborlane WV,
+et al. Treatable diabetic retinopathy is extremely
+rare among pediatric T1D Exchange clinic registry
+participants. Diabetes Care 2016;39:e218–e219
+169. Nathan DM, Bebu I, Hainsworth D, et al.;
+DCCT/EDIC Research Group. Frequency of evidence-
+based screening for retinopathy in type 1 diabetes.
+N Engl J Med 2017;376:1507–1516
+170. Gubitosi-Klug RA, Bebu I, White NH, et al.;
+Diabetes Control and Complications Trial (DCCT)/
+Epidemiology of Diabetes Interventions and
+Complications (EDIC) Research Group. Screening
+eye exams in youth with type 1 diabetes under
+18 years of age: once may be enough? Pediatr
+Diabetes 2019;20:743–749
+171. Wolf RM, Channa R, Liu TYA, et al.
+Autonomous
+artiﬁcial
+intelligence
+increases
+screening and follow-up for diabetic retinopathy
+in youth: the ACCESS randomized control trial.
+Nat Commun 2024;15:421
+172. Jaiswal M, Divers J, Dabelea D, et al.
+Prevalence of and risk factors for diabetic
+peripheral neuropathy in youth with type 1 and
+type 2 diabetes: SEARCH for Diabetes in Youth
+Study. Diabetes Care 2017;40:1226–1232
+173. Pop-Busui R, Boulton AJM, Feldman EL,
+et al. Diabetic neuropathy: a position statement
+by the American Diabetes Association. Diabetes
+Care 2017;40:136–154
+174. Imperatore G, Boyle JP,Thompson TJ, et al.;
+SEARCH for Diabetes in Youth Study Group.
+Projections of type 1 and type 2 diabetes burden
+in the U.S. population aged <20 years through
+2050. Diabetes Care 2012;35:2515–2520
+175. Pettitt DJ, Talton J, Dabelea D, et al.;
+SEARCH for Diabetes in Youth Study Group.
+Prevalence of diabetes in U.S. youth in 2009: the
+SEARCH for diabetes in youth study. Diabetes
+Care 2014;37:402–408
+176. Copeland KC, Zeitler P, Geffner M, et al.
+Characteristics of adolescents and youth with
+recent-onset type 2 diabetes: the TODAY cohort
+at baseline. J Clin Endocrinol Metab 2011;96:
+159–167
+177. Bjornstad P, Drews KL, Caprio S, et al.;
+TODAY Study Group. Long-term complications in
+youth-onset type 2 diabetes. N Engl J Med 2021;
+385:416–426
+178. Arslanian SA. Metabolic differences between
+Caucasian and African-American children and the
+diabetesjournals.org/care
+Children and Adolescents
+S303
+©AmericanDiabetesAssociation
+
+relationship to type 2 diabetes mellitus. J Pediatr
+Endocrinol Metab 2002;15(Suppl 1):509–517
+179. Naughton MJ. Health-related quality of life
+of children and adolescents with type 1 or type 2
+diabetes mellitus: SEARCH for Diabetes in Youth
+Study. Arch Pediatr Adolesc Med 2008;162:
+649–657
+180. Wadden TA, Webb VL, Moran CH, Bailer BA.
+Lifestyle
+modiﬁcation for obesity:
+new
+dev-
+elopments in diet, physical activity, and behavior
+therapy. Circulation 2012;125:1157–1170
+181. Whalen DJ, Belden AC, Tillman R, Barch
+DM, Luby JL. Early adversity, psychopathology,
+and latent class proﬁles of global physical health
+from
+preschool
+through
+early
+adolescence.
+Psychosom Med 2016;78:1008–1018
+182. Cioana M, Deng J, Nadarajah A, et al. The
+Prevalence of obesity among children with type 2
+diabetes: a systematic review and meta-analysis.
+JAMA Netw Open 2022;5:e2247186
+183. Srinivasan S, Chen L, Todd J, et al. The ﬁrst
+genome-wide association study for type 2
+diabetes in youth: the Progress in Diabetes
+Genetics in Youth (ProDiGY) Consortium. Dia-
+betes 2021;70:996–1005
+184. Perng W, Oken E, Dabelea D. Developmental
+overnutrition and obesity and type 2 diabetes in
+offspring. Diabetologia 2019;62:1779–1788
+185. T€onnies
+T,
+Brinks
+R,
+Isom
+S,
+et
+al.
+Projections of type 1 and type 2 diabetes burden
+in the U.S. population aged <20 years through
+2060: the SEARCH for Diabetes in Youth Study.
+Diabetes Care 2023;46:313–320
+186. Buse JB, Kaufman FR, Linder B, Hirst K, El
+Ghormli L, Willi S; HEALTHY Study Group.
+Diabetes screening with hemoglobin A1c versus
+fasting plasma glucose in a multiethnic middle-
+school cohort. Diabetes Care 2013;36:429–435
+187. Klingensmith GJ, Pyle L, Arslanian S, et al.;
+TODAY Study. The presence of GAD and IA-2
+antibodies in youth with a type 2 diabetes
+phenotype. Diabetes Care 2010;33:1970–1975
+188. Hannon TS, Arslanian SA.The changing face
+of diabetes in youth: lessons learned from
+studies of type 2 diabetes. Ann N Y Acad Sci
+2015;1353:113–137
+189. Kapadia C, Zeitler P; Drugs and Therapeutics
+Committee of the Pediatric Endocrine Society.
+Hemoglobin A1c measurement for the diagnosis of
+type 2 diabetes in children. Int J Pediatr Endocrinol
+2012;2012:31
+190. Wallace AS, Wang D, Shin J-I, Selvin E.
+Screening and diagnosis of prediabetes and
+diabetes in US children and adolescents. Pediatrics
+2020;146:e20200265
+191. Dabelea D, Rewers A, Stafford JM, et al.;
+SEARCH for Diabetes in Youth Study Group.
+Trends in the prevalence of ketoacidosis at
+diabetes diagnosis: the SEARCH for diabetes in
+youth study. Pediatrics 2014;133:e938–e945
+192. Hutchins J, Barajas RA, Hale D, Escaname E,
+Lynch J.Type 2 diabetes in a 5-year-old and single
+center experience of type 2 diabetes in youth
+under 10. Pediatr Diabetes 2017;18:674–677
+193. Ferrara CT, Geyer SM, Liu Y-F, et al.; Type 1
+Diabetes TrialNet Study Group. Excess BMI in
+childhood: a modiﬁable risk factor for type 1
+diabetes development? Diabetes Care 2017;40:
+698–701
+194. Kubota-Mishra E, Huang X, Minard CG,
+et al.; RADIANT Study Group. High prevalence of
+A-b1 ketosis-prone diabetes in children with
+type 2 diabetes and diabetic ketoacidosis at
+diagnosis: evidence from the Rare and Atypical
+Diabetes Network (RADIANT). Pediatr Diabetes
+2024;2024
+195. TODAY Study Group. Safety and tolerability
+of the treatment of youth-onset type 2 diabetes:
+the TODAY experience. Diabetes Care 2013;36:
+1765–1771
+196. TODAY Study Group. Retinopathy in youth
+with type 2 diabetes participating in the TODAY
+clinical trial. Diabetes Care 2013;36:1772–1774
+197. TODAY Study Group. Lipid and inﬂammatory
+cardiovascular risk worsens over 3 years in youth
+with type 2 diabetes: the TODAY clinical trial.
+Diabetes Care 2013;36:1758–1764
+198. TODAY Study Group. Rapid rise in hyper-
+tension and nephropathy in youth with type 2
+diabetes: the TODAY clinical trial. Diabetes Care
+2013;36:1735–1741
+199. Zeitler P, Hirst K, Copeland KC, et al.; TODAY
+Study Group. HbA1c after a short period of
+monotherapy with metformin identiﬁes durable
+glycemic control among adolescents with type 2
+diabetes. Diabetes Care 2015;38:2285–2292
+200. Grey M, Schreiner B, Pyle L. Development
+of a diabetes education program for youth with
+type 2 diabetes. Diabetes Educ 2009;35:108–116
+201. American Diabetes Association. Be healthy
+today; be healthy for life. Accessed 31 August
+2024. Available from http://main.diabetes.org/
+dorg/PDFs/Type-2-Diabetes-in-Youth/Type-2-
+Diabetes-in-Youth.pdf
+202. Atkinson A, Radjenovic D. Meeting quality
+standards for self-management education in
+pediatric type 2 diabetes. Diabetes Spectrum
+2007;20:40–46
+203. Copeland KC, Silverstein J, Moore KR, et al.;
+American Academy of Pediatrics. Management
+of newly diagnosed type 2 diabetes mellitus
+(T2DM) in children and adolescents. Pediatrics
+2013;131:364–382
+204. Zeitler P, Hirst K, Pyle L, et al. A clinical trial
+to maintain glycemic control in youth with type 2
+diabetes. N Engl J Med 2012;366:2247–2256
+205. RISE Consortium. Impact of insulin and
+metformin versus metformin alone on b-cell
+function in youth with impaired glucose tolerance
+or recently diagnosed type 2 diabetes. Diabetes
+Care 2018;41:1717–1725
+206. Tamborlane WV, Barrientos-Perez M,
+Fainberg U, et al.; Ellipse Trial Investigators.
+Liraglutide in children and adolescents with
+type 2 diabetes. N Engl J Med 2019;381:637–646
+207. U.S. Food and Drug Administration. FDA
+approves treatment for pediatric patients with
+type 2 diabetes. 2021. Accessed 31 August 2024.
+Available from https://content.govdelivery.com/
+accounts/USFDA/bulletins/2e98d66
+208. U.S. Food and Drug Administration. FDA
+approves new treatment for pediatric patients
+with type 2 diabetes. 2019. Accessed 31 August
+2024. Available from https://www.fda.gov/news-
+events/press-announcements/fda-approves-new-
+treatment-pediatric-patients-type-2-diabetes
+209. Tamborlane WV, Bishai R, Geller D, et al.
+Once-weekly exenatide in youth with type 2
+diabetes. Diabetes Care 2022;45:1833–1840
+210. Arslanian SA, Hannon T, Zeitler P, et al.;
+AWARD-PEDS Investigators. Once-weekly dulag-
+lutide for the treatment of youths with type 2
+diabetes. N Engl J Med 2022;387:433–443
+211. Kelly AS, Auerbach P, Barrientos-Perez M,
+et
+al.;
+NN8022-4180
+Trial
+Investigators.
+A
+randomized, controlled trial of liraglutide for
+adolescents with obesity. N Engl J Med 2020;
+382:2117–2128
+212. Laffel LM, Danne T, Klingensmith GJ, et al.
+Efﬁcacy and safety of the SGLT2 inhibitor
+empagliﬂozin versus placebo and the DPP-4
+inhibitor linagliptin versus placebo in young
+people with type 2 diabetes (DINAMO): a
+multicentre, randomised, double-blind, parallel
+group, phase 3 trial. Lancet Diabetes Endocrinol
+2023;11:169–181
+213. Chan
+CL.
+Use
+of
+continuous
+glucose
+monitoring in youth-onset type 2 diabetes. Curr
+Diab Rep 2017;17:66
+214. Chesser
+H,
+Srinivasan
+S,
+Puckett
+C,
+Gitelman SE, Wong JC. Real-time continuous
+glucose monitoring in adolescents and young
+adults with type 2 diabetes can improve quality
+of life. J Diabetes Sci Technol 2024;18:911–919
+215. Weghuber D, Kelly AS, Arslanian S. Once-
+weekly semaglutide in adolescents with obesity.
+reply. N Engl J Med 2023;388:1146
+216. U.S. Food and Drug Administration. FDA
+approves weight management drug for patients
+aged 12 and older. 2021. Accessed 31 Aug 2024.
+Available from https://www.fda.gov/drugs/drug-
+safety-and-availability/fda-approves-weight-
+management-drug-patients-aged-12-and-older
+217. U.S. Food and Drug Administration. FDA
+approves treatment for chronic weight management
+in pediatric patients aged 12 years and older. 2022.
+Accessed 27 Aug 2024. Available from https://www.
+fda.gov/drugs/news-events-human-drugs/fda-
+approves-treatment-chronic-weight-management-
+pediatric-patients-aged-12-years-and-older
+218. Beamish AJ, Ryan Harper E, J€arvholm K,
+Janson A, Olbers T. Long-term outcomes following
+adolescent metabolic and bariatric surgery. J Clin
+Endocrinol Metab 2023;108:2184–2192
+219. Inge TH, Zeller M, Harmon C, et al. Teen-
+Longitudinal Assessment of Bariatric Surgery:
+methodological features of the ﬁrst prospective
+multicenter study of adolescent bariatric surgery.
+J Pediatr Surg 2007;42:1969–1971
+220. Rubino F, Nathan DM, Eckel RH, et al.;
+Delegates of the 2nd Diabetes Surgery Summit.
+Metabolic surgery in the treatment algorithm for
+type 2 diabetes: a joint statement by international
+diabetes organizations. Diabetes Care 2016;39:
+861–877
+221. Torbahn G, Brauchmann J, Axon E, et al.
+Surgery for the treatment of obesity in children
+and adolescents. Cochrane Database Syst Rev
+2022;9:Cd011740
+222. Michalsky MP, Inge TH, Simmons M, et al.;
+Teen-LABS Consortium. Cardiovascular risk factors
+in severely obese adolescents: the Teen Longi-
+tudinal Assessment of Bariatric Surgery (Teen-
+LABS) study. JAMA Pediatr 2015;169:438–444
+223. Zeinoddini A, Heidari R, Talebpour M.
+Laparoscopic gastric plication in morbidly obese
+adolescents: a prospective study. Surg Obes Relat
+Dis 2014;10:1135–1139
+224. G€othberg G, Gronowitz E, Flodmark C-E,
+et al. Laparoscopic Roux-en-Y gastric bypass in
+adolescents with morbid obesity–surgical aspects
+and clinical outcome. Semin Pediatr Surg 2014;
+23:11–16
+225. Inge TH, Prigeon RL, Elder DA, et al. Insulin
+sensitivity and b-cell function improve after
+S304
+Children and Adolescents
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+gastric bypass in severely obese adolescents. J
+Pediatr 2015;167:1042–1048.e1
+226. Styne DM, Arslanian SA, Connor EL, et al.
+Pediatric obesity-assessment, treatment, and
+prevention: an Endocrine Society clinical practice
+guideline. J Clin Endocrinol Metab 2017;102:
+709–757
+227. Hampl SE, Hassink SG, Skinner AC, et al.
+Executive summary: clinical practice guideline
+for the evaluation and treatment of children and
+adolescents with obesity. Pediatrics 2023;151:
+e2022060641
+228. Dabelea D, Stafford JM, Mayer-Davis EJ,
+et al.; SEARCH for Diabetes in Youth Research
+Group. Association of type 1 diabetes vs type 2
+diabetes
+diagnosed
+during childhood
+and
+adolescence with complications during teenage
+years and young adulthood. JAMA 2017;317:
+825–835
+229. Song SH, Hardisty CA. Early onset type 2
+diabetes mellitus: a harbinger for complications
+in later years-clinical observation from a secondary
+care cohort. QJM 2009;102:799–806
+230. Shah AS, Zeitler PS, Wong J, et al. ISPAD
+clinical practice consensus guidelines 2022: type 2
+diabetes in children and adolescents. Pediatr
+Diabetes 2022;23:872–902
+231. Bacha F, Cheng P, Gal RL, et al. Racial and
+ethnic disparities in comorbidities in youth with
+type 2 diabetes in the Pediatric Diabetes Con-
+sortium (PDC). Diabetes Care 2021;44:2245–2251
+232. Odugbesan O, Wright T, Jones N-HY, et al.;
+T1D Exchange Quality Improvement Collaborative.
+Increasing social determinants of health screening
+rates among six endocrinology centers across the
+United States: results from the T1D Exchange
+quality improvement collaborative. Clin Diabetes
+2024;42:49–55
+233. Lawrence JM, Standiford DA, Loots B, et al.;
+SEARCH for Diabetes in Youth Study. Prevalence
+and correlates of depressed mood among youth
+with diabetes: the SEARCH for Diabetes in Youth
+Study. Pediatrics 2006;117:1348–1358
+234. Levitt Katz LE, Swami S, Abraham M, et al.
+Neuropsychiatric disorders at the presentation of
+type 2 diabetes mellitus in children. Pediatr
+Diabetes 2005;6:84–89
+235. Lewis-Fernandez R, Rotheram-Borus MJ,
+Betts VT, et al. Rethinking funding priorities in
+mental health research. Br J Psychiatry 2016;208:
+507–509
+236. Reinehr T. Type 2 diabetes mellitus in
+children and adolescents. World J Diabetes 2013;
+4:270–281
+237. Pinhas-Hamiel O, Hamiel U, Levy-Shraga Y.
+Eating disorders in adolescents with type 1
+diabetes: challenges in diagnosis and treatment.
+World J Diabetes 2015;6:517–526
+238. McVoy M, Hardin H, Fulchiero E, et al.
+Mental health comorbidity and youth onset type 2
+diabetes: a systematic review of the literature. Int J
+Psychiatry Med 2023;58:37–55
+239. Shelton RC. Depression, antidepressants,
+and weight gain in children. Obesity (Silver
+Spring) 2016;24:2450
+240. Baeza I, Vigo L, de la Serna E, et al. The
+effects of antipsychotics on weight gain, weight-
+related hormones and homocysteine in children
+and adolescents: a 1-year follow-up study. Eur
+Child Adolesc Psychiatry 2017;26:35–46
+241. TODAY Study Group. Pregnancy outcomes
+in young women with youth-onset type 2
+diabetes followed in the TODAY study. Diabetes
+Care 2021;45:1038–1045
+242. Kim G, Divers J, Fino NF, et al. Trends in
+prevalence of cardiovascular risk factors from
+2002 to 2012 among youth early in the course of
+type 1 and type 2 diabetes. The SEARCH for
+Diabetes in Youth Study. Pediatr Diabetes 2019;
+20:693–701
+243. Foxon F, Selya AS. Electronic cigarettes,
+nicotine use trends and use initiation ages
+among US adolescents from 1999 to 2018.
+Addiction 2020;115:2369–2378
+244. Veliz PT, McCabe SE, Evans-Polce RJ, Boyd CJ.
+Assessing how the history of e-cigarette and
+cigarette use are associated with the de-
+velopmental course of marijuana use in a sample
+of United States adolescents. Drug Alcohol Depend
+2020;216:108308
+245. Weitzman ER, Wisk LE, Minegishi M, et al.
+Effects of a patient-centered intervention to reduce
+alcohol use among youth with chronic medical
+conditions. J Adolesc Health 2022;71:S24–s33
+246. Institute for Social Research. Monitoring the
+future national survey results on drug use,
+1975–2022: secondary school students. Monitoring
+the Future Monograph Series. Ann Arbor, MI,
+Institute for Social Research, University of Michigan.
+2023. Accessed 31 August 2024. Available from
+https://monitoringthefuture.org/wp-content/
+uploads/2022/12/mtf2022.pdf
+247. Akturk HK, Snell-Bergeon J, Kinney GL,
+Champakanath
+A,
+Monte
+A,
+Shah
+VN.
+Differentiating diabetic ketoacidosis and hyper-
+glycemic ketosis due to cannabis hyperemesis
+syndrome in adults with type 1 diabetes. Diabetes
+Care 2022;45:481–483
+248. Arnett JJ. Emerging adulthood. A theory of
+development from the late teens through the
+twenties. Am Psychol 2000;55:469–480
+249. Peters A, Laffel L; American Diabetes
+Association Transitions Working Group. Diabetes
+care for emerging adults: recommendations for
+transition from pediatric to adult diabetes care
+systems. Diabetes Care 2011;34:2477–2485
+250. Agarwal S, Raymond JK, Isom S, et al.
+Transfer from paediatric to adult care for young
+adults with type 2 diabetes: the SEARCH for
+Diabetes in Youth Study. Diabet Med 2018;35:
+504–512
+251. Mays JA, Jackson KL, Derby TA, et al. An
+evaluation of recurrent diabetic ketoacidosis,
+fragmentation of care, and mortality across
+Chicago, Illinois. Diabetes Care 2016;39:1671–1676
+252. Lotstein DS, Seid M, Klingensmith G, et al.;
+SEARCH for Diabetes in Youth Study Group.
+Transition from pediatric to adult care for youth
+diagnosed with type 1 diabetes in adolescence.
+Pediatrics 2013;131:e1062–e1070
+253. Lyons SK, Becker DJ, Helgeson VS. Transfer
+from pediatric to adult health care: effects on
+diabetes outcomes. Pediatr Diabetes 2014;15:10–17
+254. Endocrine
+Society.
+Transitions
+of
+care.
+Accessed 21 August 2024. Available from https://
+www.endocrine.org/improving-practice/transitions
+#t1d
+255. D’Amico
+RP,
+Pian
+TM,
+Buschur
+EO.
+Transition from pediatric to adult care for
+individuals with type 1 diabetes: opportunities
+and challenges. Endocr Pract 2023;29:279–285
+256. Lal RA, Maahs DM, Dosiou C, Aye T, Basina
+M. The guided transfer of care improves adult
+clinic show rate. Endocr Pract 2020;26:508–513
+257. Xie LF, Housni
+A, Nakhla M, et al.
+Adaptation of an adult web application for type 1
+diabetes self-management to youth using the
+behavior change wheel to tailor the needs of
+health
+care
+transition:
+qualitative
+interview
+study. JMIR Diabetes 2023;8:e42564
+258. Butalia S, Crawford SG, McGuire KA, Dyjur
+DK, Mercer JR, Pacaud D. Improved transition to
+adult care in youth with type 1 diabetes: a
+pragmatic clinical trial. Diabetologia 2021;64:
+758–766
+259. Spaic T, Robinson T, Goldbloom E, et al.; JDRF
+Canadian Clinical Trial CCTN1102 Study Group.
+Closing the gap: results of the multicenter canadian
+randomized controlled trial of structured transition
+in young adults with type 1 diabetes. Diabetes Care
+2019;42:1018–1026
+260. White M, O’Connell MA, Cameron FJ. Clinic
+attendance and disengagement of young adults
+with type 1 diabetes after transition of care from
+paediatric to adult services (TrACeD): a rando-
+mised, open-label, controlled trial. Lancet Child
+Adolesc Health 2017;1:274–283
+261. Sequeira PA, Pyatak EA, Weigensberg MJ,
+et al. Let’s Empower and Prepare (LEAP):
+evaluation of a structured transition program for
+young adults with type 1 diabetes. Diabetes Care
+2015;38:1412–1419
+262. Monaghan M, Baumann K.Type 1 diabetes:
+addressing the transition from pediatric to adult-
+oriented health care. Res Rep Endocr Disord
+2016;6:31–40
+263. Carreon SA, Duran B, Tang TS, et al. Here
+for you: a review of social support research in
+young adults with diabetes. Diabetes Spectr 2021;
+34:363–370
+diabetesjournals.org/care
+Children and Adolescents
+S305
+©AmericanDiabetesAssociation

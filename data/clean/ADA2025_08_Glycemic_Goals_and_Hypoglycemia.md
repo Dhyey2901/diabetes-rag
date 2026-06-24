@@ -60,6 +60,7 @@ More information is available at https://www
 S128
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 Glycemic Assessment by A1C
 The A1C test is the primary tool for assess-
 ing glycemic status in both clinical practice
@@ -256,6 +257,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S129
 ©AmericanDiabetesAssociation
+
 glucose meter. It is unclear how gener-
 alizable these estimates are to mean
 glucose measurements obtained using
@@ -432,6 +434,7 @@ S130
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 factors. For example, less stringent A1C
 goals are appropriate for individuals
 with signiﬁcant functional and cognitive
@@ -592,6 +595,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S131
 ©AmericanDiabetesAssociation
+
 Cardiovascular Risk in Diabetes [ACCORD],
 Action in Diabetes and Vascular Disease:
 Preterax and Diamicron MR Controlled
@@ -616,10 +620,10 @@ Glucose Management Indicator (GMI
 Goal: <7%
 Glucose Variability
 45.5%
-Defined as percent coefficient of variation
+Defined as percent coefficient of variation 
 Goal: 36%
 250
-High
+High 
 24%
 44%
 Goal: <25%
@@ -646,14 +650,14 @@ Saturday
 12pm
 12pm
 Goal <5%
-Very High
+Very High 
 20%
 Goal
 Goal
 Range
-Low
+Low 
 5%
-Very Low
+Very Low 
 5%
 Goal: <1%
 180
@@ -710,6 +714,7 @@ S132
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 intervention arm (50–54). Importantly,
 these landmark studies were conducted
 prior to the approval of glucagon-like
@@ -790,6 +795,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S133
 ©AmericanDiabetesAssociation
+
 ACCORD included the rapid escalation of
 therapies, the early use of large doses of
 insulin, substantial weight gain, and
@@ -973,6 +979,7 @@ S134
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 Diabetes is a chronic disease that pro-
 gresses over decades. Thus, a goal that
 might be appropriate for an individual
@@ -1156,6 +1163,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S135
 ©AmericanDiabetesAssociation
+
 hypoglycemia awareness (discussed
 further in HYPOGLYCEMIA RISK ASSESSMENT,
 below). This clinical scenario warrants
@@ -1302,6 +1310,7 @@ S136
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 risk factor or have multiple other risk fac-
 tors (determined by the health care pro-
 fessional incorporating clinical judgment)
@@ -1486,6 +1495,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S137
 ©AmericanDiabetesAssociation
+
 Glucagon
 The use of glucagon is indicated for the
 treatment of hypoglycemia in people un-
@@ -1666,6 +1676,7 @@ S138
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 conditions that require immediate medi-
 cal care. Any individuals with diabetes
 experiencing illness or other stressful
@@ -1823,6 +1834,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S139
 ©AmericanDiabetesAssociation
+
 plateaued
 in
 the
@@ -1981,6 +1993,7 @@ S140
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 support, individual coaching, and behav-
 ioral family systems therapy (177,178). In-
 dividuals who have experienced DKA or
@@ -2180,6 +2193,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S141
 ©AmericanDiabetesAssociation
+
 33. Salabelle C, Ly Sall K, Eroukhmanoff J, et al.
 COVID-19 pandemic lockdown in young people
 with type 1 diabetes: positive results of an
@@ -2410,6 +2424,7 @@ S142
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 perspectives of older adults on deintensifying
 diabetes medications. J Gen Intern Med 2023;
 38:1008–1015
@@ -2673,6 +2688,7 @@ diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S143
 ©AmericanDiabetesAssociation
+
 assessment of awareness of hypoglycaemia in type
 1 diabetes. Dan Med J 2022;69
 113. Gold AE, MacLeod KM, Frier BM. Frequency
@@ -2922,6 +2938,7 @@ S144
 Glycemic Goals and Hypoglycemia
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 hospitalizations and in-hospital mortality - United
 States, 2000-2014. MMWR Morb Mortal Wkly
 Rep 2018;67:362–365
@@ -3111,3 +3128,4 @@ study. J Clin Endocrinol Metab 2020;105:dgz003
 diabetesjournals.org/care
 Glycemic Goals and Hypoglycemia
 S145
+©AmericanDiabetesAssociation

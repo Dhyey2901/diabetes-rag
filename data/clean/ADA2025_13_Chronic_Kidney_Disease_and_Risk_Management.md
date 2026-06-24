@@ -1,6 +1,329 @@
+11. Chronic Kidney Disease and
+Risk Management: Standards of
+Care in Diabetes—2025
+Diabetes Care 2025;48(Suppl. 1):S239–S251 | https://doi.org/10.2337/dc25-S011
+American Diabetes Association
+Professional Practice Committee*
+The American Diabetes Association (ADA) “Standards of Care in Diabetes” in-
+cludes the ADA’s current clinical practice recommendations and is intended to
+provide the components of diabetes care, general treatment goals and guide-
+lines, and tools to evaluate quality of care. Members of the ADA Professional
+Practice Committee, an interprofessional expert committee, are responsible for
+updating the Standards of Care annually, or more frequently as warranted. For a
+detailed description of ADA standards, statements, and reports, as well as the
+evidence-grading system for ADA’s clinical practice recommendations and a full
+list of Professional Practice Committee members, please refer to Introduction
+and Methodology. Readers who wish to comment on the Standards of Care are
+invited to do so at professional.diabetes.org/SOC.
+For prevention and management of diabetes complications in children and adoles-
+cents, please refer to Section 14, “Children and Adolescents.”
+CHRONIC KIDNEY DISEASE
+Screening
+Recommendations
+11.1a Assess kidney function (i.e., spot urine albumin-to-creatinine ratio [UACR])
+and estimated glomerular ﬁltration rate [eGFR] in people with type 1 diabetes
+with duration of $5 years and in all people with type 2 diabetes regardless of
+treatment. B
+11.1b In people with established chronic kidney disease (CKD), monitor uri-
+nary albumin (e.g., spot UACR) and eGFR 1–4 times per year depending on
+the stage of the kidney disease (Fig. 11.1). B
+Treatment
+Recommendations
+11.2 Optimize glucose management to reduce the risk or slow the progression
+of CKD (Fig. 9.3). A
+11.3 Optimize blood pressure management (aim for <130/80 mmHg [Fig.
+10.2]) and reduce blood pressure variability to reduce the risk or slow the
+progression of CKD and reduce cardiovascular risk. A
+11.4a In nonpregnant people with diabetes and hypertension, either an ACE in-
+hibitor or an angiotensin receptor blocker (ARB) is recommended for those with
+moderately increased albuminuria (UACR 30–299 mg/g creatinine) B and is
+strongly recommended for those with severely increased albuminuria (UACR
+*A complete list of members of the American
+Diabetes Association Professional Practice Committee
+can be found at https://doi.org/10.2337/dc25-SINT.
+Duality of interest information for each author is
+available at https://doi.org/10.2337/dc25-SDIS.
+Suggested citation: American Diabetes Association
+Professional Practice
+Committee.
+11.
+Chronic
+kidney disease and risk management: Standards
+of Care in Diabetes—2025. Diabetes Care 2025;
+48(Suppl. 1):S239–S251
+© 2024 by the American Diabetes Association.
+Readers may use this article as long as the
+work is properly cited, the use is educational
+and not for proﬁt, and the work is not altered.
+More information is available at https://www
+.diabetesjournals.org/journals/pages/license.
+11. CHRONIC KIDNEY DISEASE AND RISK MANAGEMENT
+Diabetes Care Volume 48, Supplement 1, January 2025
+S239
+©AmericanDiabetesAssociation
+
+$300 mg/g creatinine) and/or eGFR
+<60 mL/min/1.73 m2 to maximally tol-
+erated dose to prevent the progression
+of kidney disease and reduce cardiovas-
+cular events. A
+11.4b Monitor for increased serum
+creatinine and for increased serum
+potassium levels when ACE inhibi-
+tors, ARBs, and mineralocorticoid re-
+ceptor antagonists (MRAs) are used,
+or for hypokalemia when diuretics are
+used at routine visits and 7–14 days af-
+ter initiation or after a dose change. B
+11.4c An ACE inhibitor or an ARB is
+not recommended for the primary
+prevention of CKD in people with
+diabetes who have normal blood
+pressure, normal UACR (<30 mg/g
+creatinine), and normal eGFR. A
+11.4d Continue renin-angiotensin sys-
+tem blockade for mild to moderate
+increases in serum creatinine (#30%)
+in individuals who have no signs of
+extracellular ﬂuid volume deple-
+tion. A
+11.5a For people with type 2 diabetes
+and CKD, use of a sodium–glucose co-
+transporter 2 (SGLT2) inhibitor with
+demonstrated beneﬁt is recommended
+to reduce CKD progression and car-
+diovascular events in individuals with
+eGFR $20 mL/min/1.73 m2. A
+11.5b To reduce cardiovascular risk
+and kidney disease progression in
+people with type 2 diabetes and
+CKD, a glucagon-like peptide 1 ago-
+nist with demonstrated beneﬁt in
+this population is recommended. A
+11.5c To reduce cardiovascular events
+and CKD progression in people with
+CKD and albuminuria, a nonsteroidal
+MRA that has been shown to be effec-
+tive in clinical trials is recommended
+(if eGFR is $25 mL/min/1.73 m2). Po-
+tassium levels should be monitored. A
+11.6 Potentially harmful antihyperten-
+sive medications in pregnancy should
+be avoided in sexually active individu-
+als of childbearing potential who are
+not using reliable contraception and,
+if used, should be switched prior
+to conception to antihypertensive
+medications considered safer dur-
+ing pregnancy. B
+11.7 Aim to reduce urinary albumin
+by $30% in people with CKD and al-
+buminuria $300 mg/g to slow CKD
+progression. B
+11.8 For people with non–dialysis-
+dependent stage G3 or higher CKD,
+protein intake should be 0.8 g/kg
+body weight per day, as for the gen-
+eral population. A For individuals on
+dialysis, protein intake of 1.0–1.2
+g/kg/day should be considered since
+protein energy wasting is a major
+problem for some individuals on dial-
+ysis. B
+11.9 Individuals should be referred for
+evaluation by a nephrologist if they
+have continuously increasing urinary
+albumin levels and/or continuously
+decreasing eGFR and/or if the eGFR is
+<30 mL/min/1.73 m2. A
+Figure 11.1—Risk of CKD progression, cardiovascular disease risk, and mortality; frequency of visits; and referral to nephrology according to GFR
+and albuminuria. The numbers in the boxes are a guide to the frequency of screening or monitoring (number of times per year). Green reﬂects no
+evidence of CKD by estimated GFR or albuminuria, with screening indicated once per year. For monitoring of prevalent CKD, suggested monitoring
+varies from once per year (yellow) to four times or more per year (i.e., every 1–3 months [deep red]) according to risks of CKD progression and
+CKD complications (e.g., cardiovascular disease, anemia, and hyperparathyroidism). These are general parameters based only on expert opinion
+and underlying comorbid conditions, and disease state must be taken into account, as should the likelihood of impacting a change in management
+for any individual. CKD, chronic kidney disease; GFR, glomerular ﬁltration rate. Adapted from de Boer et al. (1).
+S240
+Chronic Kidney Disease and Risk Management
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+11.10 Refer to a nephrologist for
+uncertainty about the etiology of
+kidney disease, difﬁcult management
+issues, and rapidly progressing kidney
+disease. B
+EPIDEMIOLOGY OF DIABETES AND
+CHRONIC KIDNEY DISEASE
+Chronic kidney disease (CKD) is diag-
+nosed by the persistent elevation of uri-
+nary albumin excretion (albuminuria),
+low estimated glomerular ﬁltration rate
+(eGFR), or other manifestations of kid-
+ney damage (1). In this section, the fo-
+cus is on CKD attributed to diabetes in
+adults, which occurs in 20–40% of peo-
+ple with diabetes (1–4). CKD in people
+with diabetes typically develops after a
+duration of 10 years in type 1 diabetes
+(the most common presentation is 5–15
+years after the diagnosis of type 1 dia-
+betes) but may be present at diagnosis
+of type 2 diabetes. CKD can progress to
+kidney failure requiring dialysis or kid-
+ney transplantation and is the leading
+cause of end-stage kidney disease
+(ESKD) in the U.S. (5). In addition,
+among people with type 1 or type 2 di-
+abetes, the presence of CKD markedly
+increases cardiovascular risk and health
+care costs (6). For details on the man-
+agement of CKD in children with diabe-
+tes, please see Section 14, “Children
+and Adolescents.”
+ASSESSMENT OF ALBUMINURIA
+AND ESTIMATED GLOMERULAR
+FILTRATION RATE
+Screening for albuminuria can be most
+easily performed by urine albumin-to-
+creatinine ratio (UACR) in a random spot
+urine collection (1).Timed or 24-h collec-
+tions are more burdensome and add little
+to prediction or accuracy. Measurement
+of a spot urine sample for albumin alone
+(whether by immunoassay or by using a
+sensitive dipstick test speciﬁc for albu-
+minuria) without simultaneously mea-
+suring urine creatinine is less expensive
+but susceptible to false-negative and false-
+positive determinations as a result of vari-
+ation in urine concentration due to hydra-
+tion (7). Thus, semiquantitative or
+qualitative (dipstick) screening will need to
+be conﬁrmed by UACR values in an accred-
+ited laboratory (8,9). Hence, it is better to
+simply collect a spot urine sample for
+albumin-to-creatinine ratio because it will
+ultimately need to be done.
+Normal level of urine albumin excre-
+tion is deﬁned as <30 mg/g creatinine,
+moderately elevated albuminuria is de-
+ﬁned as $30–300 mg/g creatinine, and
+severely elevated albuminuria is deﬁned as
+$300 mg/g creatinine. However, UACR is a
+continuous measurement, and differences
+within the normal and abnormal ranges are
+associated with kidney and cardiovascular
+outcomes (6,10,11). Furthermore, because
+of high biological variability of >20% be-
+tween measurements in urinary albumin ex-
+cretion, two of three specimens of UACR
+collected within a 3-to 6-month period
+should be abnormal before considering
+an individual to have moderately or se-
+verely elevated albuminuria (1,12,13). Ex-
+ercise within 24 h, infection, fever, heart
+failure, marked hyperglycemia, menstrua-
+tion, and marked hypertension may ele-
+vate UACR independently of kidney
+damage (14). Moreover, a recent analysis
+showed variability in the measurement
+of UACR when measured weekly over a
+1-month period. Thus, repeated meas-
+urements and tracking of trending over
+time are needed to properly follow
+changes in UACR (12).
+Traditionally, eGFR is calculated from
+serum creatinine using a validated for-
+mula (15). eGFR is routinely reported by
+laboratories along with serum creati-
+nine, and eGFR calculators are available
+online at nkdep.nih.gov. An eGFR persis-
+tently <60 mL/min/1.73 m2 and/or an
+urinary albumin value of >30 mg/g creat-
+inine is considered abnormal, though op-
+timal thresholds for clinical diagnosis are
+debated in older adults over age 70 years
+(1,16). Historically, a correction factor for
+muscle mass was included in a modiﬁed
+equation for African American people;
+however, race is a social and not a bio-
+logic construct, making it problematic to
+apply race to clinical algorithms. Hence,
+the Chronic Kidney Disease Epidemiology
+Collaboration (CKD-EPI) creatinine equa-
+tion was reﬁt without the race variable
+and should be used for everyone (17,18).
+Additionally, increased use of cystatin
+C (another marker of eGFR) is suggested
+in combination with serum creatinine be-
+cause combining ﬁltration markers (creati-
+nine and cystatin C) is more accurate and
+would support better clinical decisions
+than either marker alone.
+DIAGNOSIS OF CHRONIC KIDNEY
+DISEASE IN PEOPLE WITH
+DIABETES
+CKD in people with diabetes is usually a
+clinical diagnosis made based on the pres-
+ence of albuminuria and/or reduced eGFR
+in the absence of signs or symptoms of
+other primary causes of kidney damage.
+The typical presentation of CKD in people
+with diabetes is considered to include
+long-standing duration of diabetes, reti-
+nopathy, albuminuria without gross he-
+maturia, and gradually progressive loss of
+eGFR. However, signs of CKD may be pre-
+sent at diagnosis or without retinopathy
+in type 2 diabetes. Reduced eGFR without
+albuminuria has been frequently reported
+in type 1 and type 2 diabetes and is be-
+coming more common over time as the
+prevalence of diabetes increases in the
+U.S. (2,3,16,19–21). An active urinary sedi-
+ment (containing red or white blood cells
+or cellular casts), rapidly increasing albu-
+minuria or total proteinuria, the presence
+of nephrotic syndrome, rapidly decreasing
+eGFR, or the absence of retinopathy (in
+type 1 diabetes) suggests alternative or
+additional causes of kidney disease. For in-
+dividuals with these features, referral to a
+nephrologist for further diagnosis, includ-
+ing the possibility of kidney biopsy, should
+be considered. It is rare for people with
+type 1 diabetes to develop kidney disease
+without retinopathy. In type 2 diabetes,
+retinopathy is only moderately sensitive
+and speciﬁc for CKD caused by diabetes,
+as conﬁrmed by kidney biopsy (22). It can-
+not be deﬁnitively stated that a person
+with diabetes and CKD has CKD related to
+diabetes unless the person has a kidney
+biopsy, as there may be another cause or
+multiple causes. Hence, without a biopsy, it
+is recommended to state that the individual
+has CKD in a person with diabetes. In most
+people, there is no need for a kidney bi-
+opsy, as the other possible diagnoses would
+not change treatment. Referral to a ne-
+phrologist should be done if there are any
+reasons to consider another cause of CKD
+in a person with diabetes (Table 11.1).
+STAGING OF CHRONIC KIDNEY
+DISEASE
+Stage G1 and stage G2 CKD are deﬁned
+by evidence of high albuminuria with
+eGFR $60 mL/min/1.73 m2, and stages
+G3-G5 CKD are deﬁned by progressively
+lower ranges of eGFR (23) (Fig. 11.1). At
+any eGFR, the degree of albuminuria is
+diabetesjournals.org/care
 Chronic Kidney Disease and Risk Management
 S241
 ©AmericanDiabetesAssociation
+
 associated with risk of cardiovascular dis-
 ease (CVD), CKD progression, and mortal-
 ity (6). Therefore, there is an additional
@@ -167,6 +490,7 @@ S242
 Chronic Kidney Disease and Risk Management
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 Comorbidities,” for further information on
 immunization).
 Prevention
@@ -318,6 +642,7 @@ diabetesjournals.org/care
 Chronic Kidney Disease and Risk Management
 S243
 ©AmericanDiabetesAssociation
+
 The presence of CKD affects the risks
 and beneﬁts of intensive lowering of
 blood glucose and a number of speciﬁc
@@ -500,6 +825,7 @@ S244
 Chronic Kidney Disease and Risk Management
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 activity (92–94). Glucagon-like peptide 1
 (GLP-1) receptor agonists (RAs) have
 also been shown to improve kidney out-
@@ -586,6 +912,7 @@ diabetesjournals.org/care
 Chronic Kidney Disease and Risk Management
 S245
 ©AmericanDiabetesAssociation
+
 at high risk for CVD or with existing CVD
 examined kidney effects as secondary out-
 comes. These trials include EMPA-REG
@@ -777,6 +1104,7 @@ S246
 Chronic Kidney Disease and Risk Management
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 comprised about 38% of the events.When
 the cardiovascular deaths are removed
 from the analysis, the HR for kidney spe-
@@ -958,6 +1286,7 @@ diabetesjournals.org/care
 Chronic Kidney Disease and Risk Management
 S247
 ©AmericanDiabetesAssociation
+
 The primary composite outcome was
 cardiovascular death, myocardial infarc-
 tion, stroke, and hospitalization for heart
@@ -1160,6 +1489,7 @@ S248
 Chronic Kidney Disease and Risk Management
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 Complications study. Diabetes Care 2010;33:
 1536–1543
 20. He F, Xia X,Wu XF,Yu XQ, Huang FX. Diabetic
@@ -1395,6 +1725,7 @@ diabetesjournals.org/care
 Chronic Kidney Disease and Risk Management
 S249
 ©AmericanDiabetesAssociation
+
 63. National Kidney Foundation. KDOQI clinical
 practice guideline for diabetes and CKD: 2012
 update. Am J Kidney Dis 2012;60:850–886
@@ -1644,6 +1975,7 @@ S250
 Chronic Kidney Disease and Risk Management
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 receptor agonists and sodium-glucose cotrans-
 porter 2 inhibitors for prevention of major adverse
 cardiovascular and renal outcomes in type 2
@@ -1767,4 +2099,3 @@ diabetesjournals.org/care
 Chronic Kidney Disease and Risk Management
 S251
 ©AmericanDiabetesAssociation
-12.

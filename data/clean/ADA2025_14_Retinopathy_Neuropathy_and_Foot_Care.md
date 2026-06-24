@@ -1,6 +1,245 @@
+12. Retinopathy, Neuropathy, and
+Foot Care: Standards of Care in
+Diabetes—2025
+Diabetes Care 2025;48(Suppl. 1):S252–S265 | https://doi.org/10.2337/dc25-S012
+American Diabetes Association
+Professional Practice Committee*
+The American Diabetes Association (ADA) “Standards of Care in Diabetes” in-
+cludes the ADA’s current clinical practice recommendations and is intended to
+provide the components of diabetes care, general treatment goals and guide-
+lines, and tools to evaluate quality of care. Members of the ADA Professional
+Practice Committee, an interprofessional expert committee, are responsible for
+updating the Standards of Care annually, or more frequently as warranted. For a
+detailed description of ADA standards, statements, and reports, as well as the
+evidence-grading system for ADA’s clinical practice recommendations and a full
+list of Professional Practice Committee members, please refer to Introduction
+and Methodology. Readers who wish to comment on the Standards of Care are
+invited to do so at professional.diabetes.org/SOC.
+For prevention and management of diabetes complications in children and adoles-
+cents, please refer to Section 14, “Children and Adolescents.”
+DIABETIC RETINOPATHY
+Recommendations
+12.1 Implement strategies to help people with diabetes reach glycemic goals
+to reduce the risk or slow the progression of diabetic retinopathy. A
+12.2 Implement strategies to help people with diabetes reach blood pressure and
+lipid goals to reduce the risk or slow the progression of diabetic retinopathy. A
+Diabetic retinopathy is a highly speciﬁc neurovascular complication of both type 1
+and type 2 diabetes, with prevalence strongly related to both the duration of diabe-
+tes and the level of glycemic management (1). Diabetic retinopathy is the most fre-
+quent cause of new cases of blindness among adults aged 20–74 years in developed
+countries. Glaucoma, cataracts, and other eye disorders occur earlier and more fre-
+quently in people with diabetes.
+In addition to diabetes duration, factors that increase the risk of, or are associated
+with, retinopathy include chronic hyperglycemia (2,3), nephropathy (4), hypertension
+(5), and dyslipidemia (6–8). Intensive diabetes management with the goal of achieving
+near-normoglycemia has been shown in large prospective randomized studies to pre-
+vent and/or delay the onset and progression of diabetic retinopathy, reduce the need
+for future ocular surgical procedures, and potentially improve self-reported visual func-
+tion (2,6,9–11). A meta-analysis of data from cardiovascular outcomes studies showed
+no association between glucagon-like peptide 1 receptor agonist (GLP-1 RA) treatment
+and retinopathy per se, except through the association between retinopathy and aver-
+age A1C reduction at the 3-month and 1-year follow-up. Long-term impact of im-
+proved glycemic management on retinopathy was not studied in these trials. However,
+GLP-1 RAs including liraglutide, semaglutide, and dulaglutide have been shown to be
+*A complete list of members of the American
+Diabetes Association Professional Practice Committee
+can be found at https://doi.org/10.2337/dc25-SINT.
+Duality of interest information for each author is
+available at https://doi.org/10.2337/dc25-SDIS.
+Suggested citation: American Diabetes Association
+Professional Practice Committee. 12. Retinopathy,
+neuropathy, and foot care: Standards of Care in
+Diabetes—2025. Diabetes Care 2025;48(Suppl. 1):
+S252–S265
+© 2024 by the American Diabetes Association.
+Readers may use this article as long as the
+work is properly cited, the use is educational
+and not for proﬁt, and the work is not altered.
+More information is available at https://www
+.diabetesjournals.org/journals/pages/license.
+12. RETINOPATHY, NEUROPATHY, AND FOOT CARE
+S252
+Diabetes Care Volume 48, Supplement 1, January 2025
+©AmericanDiabetesAssociation
+
+associated with a risk of mildly worsening
+diabetic retinopathy in randomized trials
+(12,13). Further data from clinical studies
+with longer follow-up purposefully de-
+signed for diabetic retinopathy risk assess-
+ment, particularly including individuals
+with established diabetic retinopathy, are
+needed. Retinopathy status should be as-
+sessed when glucose-lowering therapies
+are intensiﬁed, such as those using GLP-1
+RAs, since rapid reductions in A1C can
+be associated with initial worsening of
+retinopathy (14).
+Screening
+Recommendations
+12.3 Adults with type 1 diabetes should
+have an initial dilated and comprehen-
+sive eye examination by an ophthal-
+mologist or optometrist within 5 years
+after the onset of diabetes. B
+12.4 People with type 2 diabetes should
+have an initial dilated and comprehen-
+sive eye examination by an ophthal-
+mologist or optometrist at the time of
+the diabetes diagnosis. B
+12.5 If there is no evidence of retinop-
+athy from one or more annual eye ex-
+ams and glycemic indicators are within
+the goal range, then screening every
+1–2 years may be considered. If any
+level of diabetic retinopathy is present,
+subsequent dilated retinal examinations
+should be repeated at least annually by
+an ophthalmologist or optometrist. If
+retinopathy is progressing or sight-
+threatening, then examinations by an
+ophthalmologist will be required more
+frequently. B
+12.6 Programs that use retinal photog-
+raphy with remote reading or the use
+of U.S. Food and Drug Administration–
+approved artiﬁcial intelligence algo-
+rithms to improve access to diabetic
+retinopathy screening are appropri-
+ate screening strategies for diabetic
+retinopathy. Such programs need to
+provide pathways for timely referral
+for a comprehensive eye examination
+when indicated. B
+12.7 Counsel individuals of childbear-
+ing potential with preexisting type 1 or
+type 2 diabetes who are planning preg-
+nancy or who are pregnant on the risk
+of development and/or progression of
+diabetic retinopathy. B
+12.8 Individuals with preexisting type 1
+or type 2 diabetes should receive an
+eye exam before pregnancy as well as
+in the ﬁrst trimester and may need to
+be monitored every trimester and for
+1 year postpartum as indicated by the
+degree of retinopathy. B
+Identifying individuals with diabetes-
+related eye disease is important because
+people with vision-threatening retinopa-
+thy may be asymptomatic. Additionally,
+current therapies can not only prevent
+vision loss but also help improve vision
+for many individuals. Prompt diagnosis
+allows triage of people with diabetes and
+timely intervention that may prevent vi-
+sion loss in individuals who are asymp-
+tomatic despite advanced diabetes-related
+eye disease.
+Diabetic retinopathy screening should
+be performed using validated approaches
+and methodologies. Youth with type 1 or
+type 2 diabetes are also at risk for compli-
+cations and need to be screened for dia-
+betic retinopathy (15–17) (see Section 14,
+“Children and Adolescents”). If diabetic ret-
+inopathy is evident on screening, prompt
+referral to an ophthalmologist is recom-
+mended. Subsequent examinations for in-
+dividuals with type 1 or type 2 diabetes are
+generally repeated annually for individuals
+without or with mild retinopathy. Exams
+every 1–2 years may be cost-effective af-
+ter one or more normal eye exams. In a
+population with well-managed type 2 dia-
+betes, there was little risk of development
+of signiﬁcant retinopathy within a 3-year
+interval after a normal examination (18),
+and less frequent intervals have been
+found in simulated modeling to be poten-
+tially effective in screening for diabetic ret-
+inopathy in individuals without diabetic
+retinopathy (19). However, it is important
+to adjust screening intervals based on the
+presence of speciﬁc risk factors for reti-
+nopathy onset and worsening retinopathy.
+More frequent examinations by the oph-
+thalmologist will be required if retinopathy
+is progressing or risk factors such as not
+meeting glycemic goals, advanced retinopa-
+thy, or diabetic macular edema are present.
+Retinal photography with remote read-
+ing by experts has great potential to pro-
+vide screening services in areas where
+qualiﬁed eye care professionals are not
+readily available (20–22). High-quality
+fundus photographs can detect most clin-
+ically signiﬁcant diabetic retinopathy. In-
+terpretation of the images should be
+performed by a trained eye care profes-
+sional or reading center technician or by
+artiﬁcial intelligence (AI) programs that
+are U.S. Food and Drug Administration
+(FDA) approved for this purpose. Retinal
+photography may also enhance efﬁciency
+and reduce costs when the expertise of
+ophthalmologists can be used for more
+complex examinations and for treatment
+(20,23,24). In-person exams are still nec-
+essary when the retinal photos are of un-
+acceptable quality and for follow-up if
+abnormalities are detected. Retinal photos
+are not a substitute for dilated compre-
+hensive eye exams, which should be per-
+formed at least initially and at yearly
+intervals thereafter or more frequently as
+recommended by an eye care profes-
+sional. AI systems that detect more than
+mild diabetic retinopathy and diabetic
+macular edema that have been autho-
+rized for use by the FDA represent an
+alternative to traditional screening ap-
+proaches (25). Three AI platforms have
+been approved by the FDA for diabetic
+retinopathy screening and examination:
+AEYE diagnostic screening technology,
+or AEYE-DS (AEYE Health); EyeArt AI
+screening system (Eyenuk); and Lumi-
+neticsCore, formerly IDx-DR (Digital Di-
+agnostics). These services are covered
+by most insurance plans. Prospective
+multicenter clinical trials on diagnostic
+accuracy have been published for each
+platform (26). However, the beneﬁts
+and optimal utilization of this type of
+screening have yet to be fully determined.
+Results of all screening eye examinations
+should be documented and transmitted
+to the referring health care professional.
+Type 1 Diabetes
+Because retinopathy is estimated to take
+at least 5 years to develop after the on-
+set of hyperglycemia, people with type 1
+diabetes should have an initial dilated
+and comprehensive eye examination
+within 5 years after the diagnosis of di-
+abetes (19).
+Type 2 Diabetes
+People with type 2 diabetes who may
+have had undiagnosed diabetes for years
+and have a signiﬁcant risk of prevalent
+diabetic retinopathy at the time of diag-
+nosis should have an initial dilated and
+comprehensive eye examination at the
+time of diagnosis.
+Pregnancy
+Individuals who develop gestational diabe-
+tes mellitus do not require eye examinations
+diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S253
 ©AmericanDiabetesAssociation
+
 during pregnancy, since they do not appear
 to be at increased riskofdeveloping diabetic
 retinopathy during pregnancy (27). How-
@@ -181,6 +420,7 @@ S254
 Retinopathy, Neuropathy, and Foot Care
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 but has not been shown to improve visual
 outcomes over 2 years of therapy and
 therefore has not been widely adopted for
@@ -357,6 +597,7 @@ diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S255
 ©AmericanDiabetesAssociation
+
 reverse neuronal loss. Treatments of other
 modiﬁable risk factors (including obesity,
 lipids, and blood pressure) can aid in pre-
@@ -529,6 +770,7 @@ S256
 Retinopathy, Neuropathy, and Foot Care
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 12.22
 Gabapentinoids,
 serotonin-
@@ -706,6 +948,7 @@ diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S257
 ©AmericanDiabetesAssociation
+
 studies supporting the effectiveness of
 amitryiptylinein in the treatment of pain-
 ful DPN (80,82). Anticholinergic side ef-
@@ -887,6 +1130,7 @@ S258
 Retinopathy, Neuropathy, and Foot Care
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 smoking, retinopathy, and renal dis-
 ease and assess current symptoms of
 neuropathy (pain, burning, numbness)
@@ -1063,6 +1307,7 @@ diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S259
 ©AmericanDiabetesAssociation
+
 with diabetes due to noncompressible
 vessels. Toe systolic blood pressure tends
 to be more accurate. Toe systolic blood
@@ -1223,6 +1468,7 @@ S260
 Retinopathy, Neuropathy, and Foot Care
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 recurrent ulcerations not amenable to
 conservative footwear therapy alone, ap-
 propriate surgical reconstruction by an ex-
@@ -1406,6 +1652,7 @@ diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S261
 ©AmericanDiabetesAssociation
+
 advanced therapies should be instituted
 and are best managed in an interprofes-
 sional manner. Once healed, all individuals
@@ -1568,6 +1815,7 @@ S262
 Retinopathy, Neuropathy, and Foot Care
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 vascular lesions in type 2 diabetic subjects without
 retinopathy. Diabetes Care 2011;34:1318–1319
 19. Nathan DM, Bebu I, Hainsworth D, et al.;
@@ -1805,6 +2053,7 @@ diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S263
 ©AmericanDiabetesAssociation
+
 61. Pontiroli AE, Cortelazzi D, Morabito A.
 Female sexual dysfunction and diabetes: a
 systematic review and meta-analysis. J Sex Med
@@ -2065,6 +2314,7 @@ S264
 Retinopathy, Neuropathy, and Foot Care
 Diabetes Care Volume 48, Supplement 1, January 2025
 ©AmericanDiabetesAssociation
+
 103. Conte MS, Bradbury AW, Kolh P, et al.; GVG
 Writing Group for the Joint Guidelines of the
 Society for Vascular Surgery (SVS), European
@@ -2287,4 +2537,3 @@ diabetesjournals.org/care
 Retinopathy, Neuropathy, and Foot Care
 S265
 ©AmericanDiabetesAssociation
-13.
