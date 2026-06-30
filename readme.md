@@ -157,7 +157,7 @@ python src/embed_index.py   # fastembed dense index  →  embeddings.npy
 | Variable | Default | Description |
 | --- | --- | --- |
 | `OPENROUTER_API_KEY` | — | Required for cloud LLM. Get one free at openrouter.ai |
-| `OPENROUTER_MODEL` | `google/gemma-3-27b-it:free` | OpenRouter model slug |
+| `OPENROUTER_MODEL` | `google/gemma-4-26b-a4b-it:free` | OpenRouter model slug |
 | `OLLAMA_MODEL` | `gemma:2b` | Local fallback model (when no API key is set) |
 | `GEN_TOPK` | `4` | Chunks passed to the LLM as context |
 | `CONF_ABSTAIN` | `0.35` | Retrieval confidence below which the system abstains |
